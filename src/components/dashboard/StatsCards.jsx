@@ -13,13 +13,13 @@ export default function StatsCards({ globalSummary, year }) {
     {
       label: "Crossref: voluntary fields",
       value: `${(globalSummary.avgVoluntaryCrossref * 100).toFixed(1)}%`,
-      description: `Mean share of the ${globalSummary.voluntaryFields} voluntary fields present in a publisher's Crossref records. All ${globalSummary.comparableFields} compared fields: ${(globalSummary.avgCrossrefScore * 100).toFixed(1)}%`,
+      description: `Score of the Crossref records over the ${globalSummary.voluntaryFields} voluntary fields, mean of the publishers. All ${globalSummary.comparableFields} compared fields: ${(globalSummary.avgCrossrefScore * 100).toFixed(1)}%`,
       color: "var(--color-crossref)",
     },
     {
       label: "OpenAlex: voluntary fields",
       value: `${(globalSummary.avgVoluntaryOpenAlex * 100).toFixed(1)}%`,
-      description: `The same share in the OpenAlex records of the same articles. All ${globalSummary.comparableFields} compared fields: ${(globalSummary.avgOpenAlexScore * 100).toFixed(1)}%`,
+      description: `The same score for the OpenAlex records of the same articles. All ${globalSummary.comparableFields} compared fields: ${(globalSummary.avgOpenAlexScore * 100).toFixed(1)}%`,
       color: "var(--color-openalex)",
     },
   ];

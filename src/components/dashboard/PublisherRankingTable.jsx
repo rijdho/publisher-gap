@@ -46,13 +46,13 @@ export default function PublisherRankingTable({ publishers }) {
   const columns = [
     { key: "label", label: "Publisher", sortable: false },
     { key: "category", label: "Type", sortable: false },
-    { key: "crossrefScore", label: "Crossref" },
-    { key: "openalexScore", label: "OpenAlex" },
-    { key: "gap", label: "Gap" },
+    { key: "crossrefScore", label: "Crossref score" },
+    { key: "openalexScore", label: "OpenAlex score" },
+    { key: "gap", label: "Difference" },
     ...(hasVoluntary
-      ? [{ key: "voluntaryCrossref", label: "Voluntary (CR)" }]
+      ? [{ key: "voluntaryCrossref", label: "Voluntary (Crossref)" }]
       : []),
-    { key: "totalWorksSampled", label: "Works" },
+    { key: "totalWorksSampled", label: "Articles read" },
   ];
 
   return (
@@ -180,6 +180,11 @@ export default function PublisherRankingTable({ publishers }) {
           </tbody>
         </table>
       </div>
+      <p className="text-xs mt-3" style={{ color: "var(--color-text-muted)" }}>
+        Scores of the articles read, at most 8,000 per publisher and year; they are not a random sample. Against
+        Crossref's own counts the Crossref figures of Elsevier and Springer Nature are lower on this page (About, "Control
+        with Crossref's own counts").
+      </p>
     </div>
   );
 }

@@ -46,7 +46,7 @@ export default function AboutPage() {
           sets them beside the OpenAlex records of the same articles. The
           question behind it:
           <strong style={{ color: "var(--color-text)" }}>
-            {" "}how much of the metadata of an article does its publisher deposit?
+            {" "}how much of the metadata of an article is in its Crossref record?
           </strong>
         </p>
       </div>
@@ -63,24 +63,27 @@ export default function AboutPage() {
         <div className="space-y-2 text-sm" style={{ color: "var(--color-text-muted)" }}>
           <p>
             Across <strong style={{ color: "var(--color-text)" }}>835,000+
-            journal articles</strong> from 14 active publishers (2015-2025),
-            filtered to <code>type:journal-article</code> to ensure fair
-            comparison, the mean score of the publishers over the 26 compared
-            fields is 59.6% for Crossref and 77.7% for OpenAlex. By publisher,
-            the difference runs from 8.1 to 30.6 percentage points. Over the 10
-            voluntary fields alone, those a publisher has to collect and deposit,
-            the mean score is 30.7% for Crossref and 56.5% for OpenAlex.
+            journal articles</strong> from 14 publishers (2015-2025), the mean
+            score of the publishers over the 26 compared fields is 59.6% for
+            Crossref and 77.7% for OpenAlex. By publisher, the difference runs
+            from 8.1 to 30.6 percentage points. Over the 10 fields this page
+            classifies as voluntary, the mean score is 30.7% for Crossref and
+            56.5% for OpenAlex. A score weights the fields by group (see
+            Methodology). With every field counting the same, the figures are
+            65.4% and 79.0% over the 26 fields, and 30.0% and 57.9% over the 10.
           </p>
           <p>
             The largest differences are in Affiliation IDs (ROR), Author
             Affiliation, Author ORCID and Language: for these the OpenAlex
-            record has a value far more often than the Crossref record.
+            record has a value far more often than the Crossref record. OpenAlex
+            detects the language of a work itself and maps every institution to
+            a ROR record, so for Language and Affiliation IDs (ROR) the
+            difference also measures what OpenAlex adds.
           </p>
           <p>
-            Two fields relevant to research assessment, CRediT roles and data
-            availability statements, were found in none of the 8,026 Crossref
-            records of a sample read in March 2026. They are not among the
-            compared fields, because OpenAlex has no field for them.
+            CRediT roles and data availability statements were found in none of
+            the 8,026 Crossref records of a sample read in March 2026. They are
+            not among the compared fields.
           </p>
         </div>
       </div>
@@ -93,20 +96,19 @@ export default function AboutPage() {
           border: "1px solid var(--color-border)",
         }}
       >
-        <h3 className="text-lg font-semibold mb-2">The Thesis</h3>
+        <h3 className="text-lg font-semibold mb-2">The Author's Reading</h3>
         <p
           className="text-sm leading-relaxed"
           style={{ color: "var(--color-text-muted)" }}
         >
-          A common account is that publishers are improving the metadata they
-          deposit. The reading behind this page is that the improvements follow
-          <strong style={{ color: "var(--color-text)" }}> requirements</strong>
-          {" "}placed on publishers (the ORCID open letter, Plan S, the
-          Participation Reports of Crossref) more than they come from the
-          publishers themselves. This is the author's reading: the page shows
-          the share of records with each field by year, and the timeline below
-          gives the dates of those requirements, but the page does not test
-          what caused a change.
+          The reading behind this page is that changes in these fields follow
+          <strong style={{ color: "var(--color-text)" }}> outside events and joint commitments</strong>
+          {" "}(open access policies of funders such as Plan S, the
+          Participation Reports of Crossref, the ORCID open letter that
+          publishers signed) more than the initiative of a single publisher.
+          This is the author's reading: the page shows the share of records
+          with each field by year, and the timeline below gives the dates of
+          those events, but the page does not test what caused a change.
         </p>
         <p
           className="text-sm leading-relaxed mt-2"
@@ -114,10 +116,9 @@ export default function AboutPage() {
         >
           This matters for initiatives like
           <strong style={{ color: "var(--color-text)" }}> CoARA</strong>
-          {" "}(Coalition for Advancing Research Assessment): assessing
-          contributions beyond publications needs metadata that describes those
-          contributions, and for a journal article that metadata is deposited
-          by its publisher.
+          {" "}(Coalition for Advancing Research Assessment): research
+          assessment that looks at who contributed what needs that information
+          in the record of the article.
         </p>
       </div>
 
@@ -142,12 +143,34 @@ export default function AboutPage() {
             <strong style={{ color: "var(--color-accent)" }}>
               {" "}8,000 journal articles per publisher and year
             </strong>
-            {" "}from Crossref using cursor-based pagination, filtered to
-            <code>type:journal-article</code> to exclude preprints, book
-            chapters, and other content types that have structurally different
-            metadata. Seven publishers have 8,000 articles in every year. The
-            other seven have fewer in some or all years; the table below gives
-            the articles read for each publisher.
+            {" "}from Crossref, filtered to{" "}
+            <code>type:journal-article</code>. Within a year the articles were
+            asked by quarter and taken in the order Crossref returned them: they
+            are not a random sample of the publisher's articles. Seven
+            publishers have 8,000 articles in every year. The other seven have
+            fewer in some or all years; the table below gives the articles read
+            for each publisher. For Elsevier (every year), SciELO (2021-2025)
+            and Hindawi (2015-2016) fewer articles were read than the limit
+            although Crossref holds more; the reason was not examined.
+          </p>
+          <p>
+            <strong style={{ color: "var(--color-text)" }}>
+              Control with Crossref's own counts:
+            </strong>
+            {" "}On 25 November 2026 Crossref was asked, for each publisher and
+            year, how many of its journal articles pass eight of its own filters
+            (has-abstract, has-affiliation, has-orcid, has-funder, has-award,
+            has-references, has-license, has-ror-id). Of 1,216 cases (publisher,
+            year, field), the share on this page lies within 5 percentage points
+            of Crossref's count in 1,102, below it in 108 and above it in 6. The
+            cases below are mostly of Elsevier and Springer Nature. As means of
+            the eleven years: Elsevier references 54.9% on this page and 78.4%
+            by Crossref's count, funder name 25.1% and 43.2%, ORCID iDs 17.9%
+            and 28.0%; Springer Nature licence 46.9% and 95.0%. The two are not
+            the same measurement: Crossref counts every journal article of the
+            publisher on the day asked, with its own definition of each filter.
+            For these two publishers the Crossref figures of this page are
+            lower than Crossref's own.
           </p>
           <p>
             <strong style={{ color: "var(--color-text)" }}>Why only journal articles?</strong>
@@ -162,19 +185,19 @@ export default function AboutPage() {
           <p>
             <strong style={{ color: "var(--color-text)" }}>Matching:</strong>
             {" "}The same DOIs are then queried in OpenAlex using batch DOI
-            filters (50 DOIs per request), enabling a direct field-by-field
-            comparison of the same works across both sources. OpenAlex returned a
+            filters (50 DOIs per request), so each field is compared on the same
+            articles in both sources. OpenAlex returned a
             record for 833,448 of the 835,664 articles, and for more than 99% of
             the articles of each publisher.
           </p>
           <p>
             <strong style={{ color: "var(--color-text)" }}>Evaluation:</strong>
-            {" "}Each work is evaluated against
-            <strong style={{ color: "var(--color-text)" }}> 26 metadata fields</strong>
-            {" "}organized in 5 categories (from an initial set of 48; see the
-            revision of 25 November 2026 below). Each field has source-specific check
-            functions that account for the different data models of Crossref and
-            OpenAlex. For example, Crossref stores authors in{" "}
+            {" "}Each article is checked for 48 metadata fields in 5 groups;
+            <strong style={{ color: "var(--color-text)" }}> 26 of them</strong>
+            {" "}are compared (see the revision of 25 November 2026 below).
+            Each field has one check for each source, because the two sources
+            do not hold the data in the same form.
+                        For example, Crossref stores authors in{" "}
             <code>author[]</code> while OpenAlex uses{" "}
             <code>authorships[]</code>; Crossref stores abstracts as XML strings
             while OpenAlex uses an inverted index; OpenAlex distributes licenses
@@ -184,11 +207,23 @@ export default function AboutPage() {
             <strong style={{ color: "var(--color-text)" }}>
               Comparable vs non-comparable fields:
             </strong>
-            {" "}Of the 48 fields evaluated, <strong style={{ color: "var(--color-accent)" }}>38 are comparable</strong>
-            {" "}(both Crossref and OpenAlex can provide them). The remaining
-            10 are structural (e.g., JATS Abstract and Assertions only exist in
-            Crossref; CRediT roles and data availability don't exist in either).
+            {" "}Of the 48 fields, <strong style={{ color: "var(--color-accent)" }}>38 are comparable</strong>
+            {" "}(the page has a check for both Crossref and OpenAlex). The
+            remaining 10 have a check for one source only or for none (for
+            example JATS Abstract and Assertions, which only Crossref has).
             Fields marked with * below are non-comparable and excluded from all charts.
+          </p>
+          <p>
+            <strong style={{ color: "var(--color-text)" }}>The score:</strong>
+            {" "}The score of a set of records is computed in two steps: the
+            mean, in each group, of the percentage of records with each compared
+            field of the group, and then the weighted mean of the groups
+            (Findable Essential 30%, Findable Support 15%, Accessible Essential
+            25%, Accessible Support 10%, Evaluation / CoARA 20%). The groups,
+            their names and the weights are the author's and follow no standard;
+            "Essential" does not mean required by Crossref. Accessible Support
+            holds one compared field, Affiliation IDs (ROR), which so carries
+            10% of the score over the 26 fields.
           </p>
           <p>
             <strong style={{ color: "var(--color-text)" }}>
@@ -199,12 +234,17 @@ export default function AboutPage() {
             same thing: Subject / Keywords, Published Print Date, Published Online
             Date, Relations, Preprint / Version Link, Funder DOI, Is Referenced By
             and Full-text Links. Four were left out because they have exactly as
-            many records as another field and so counted the same thing twice:
+            many records as another field in both sources:
             License URL, References Count, Affiliation with ROR and Author
-            Sequence. These twelve are marked with † below. A value that is only a
+            Sequence. These twelve are marked with † below. Three pairs of the
+            26 fields are still equal, or nearly, in one source: Open Access
+            License and Open Access Status in Crossref, Award Number and
+            Complete Funding Info in OpenAlex, and Author Affiliation and
+            Affiliation IDs (ROR) in OpenAlex. A field that holds only a
             placeholder (such as "0", "None" or "N/A") is no longer counted as
-            present: 3,894 values in the Crossref records and 41 in the OpenAlex
-            records. With all 38 fields and every value counted, as shown here
+            present: 3,894 cases in the Crossref records and 41 in the OpenAlex
+            records. In 3,661 of the Crossref cases the placeholder is an issue
+            or a volume given as "0". With all 38 fields and every value counted, as shown here
             until that day, the mean score was 56.7% for Crossref and 78.3% for
             OpenAlex; it is now 59.6% and 77.7%.
           </p>
@@ -212,30 +252,32 @@ export default function AboutPage() {
             <strong style={{ color: "var(--color-text)" }}>
               TDM license filtering:
             </strong>
-            {" "}Some publishers (notably Elsevier and Springer) deposit
-            text-mining (TDM) licenses in Crossref that are not real open
-            access licenses. We exclude TDM license URLs from the license
-            check to avoid inflating Crossref scores artificially.
+            {" "}Licence URLs under elsevier.com/tdm and springer.com/tdm, which are
+            licences for text and data mining (TDM), are not counted in Open Access License. The field License
+            counts any licence URL.
           </p>
           <p>
             <strong style={{ color: "var(--color-text)" }}>
               Voluntary vs automatic fields:
             </strong>
-            {" "}Each field is classified as either{" "}
-            <strong style={{ color: "var(--color-voluntary)" }}>voluntary</strong> (requires
-            deliberate publisher effort to collect and deposit, e.g., abstract,
-            affiliations, ORCID, funding, references) or{" "}
-            <strong style={{ color: "var(--color-enrichment)" }}>automatic</strong> (generated
-            by the publishing system without effort, e.g., title, DOI,
-            publisher, ISSN, volume, page). The heatmap and the timeline open on the
+            {" "}The page classifies 10 of the compared fields as{" "}
+            <strong style={{ color: "var(--color-voluntary)" }}>voluntary</strong> (Abstract,
+            Author Affiliation, Affiliation IDs (ROR), Author ORCID, All Authors
+            ORCID, Funder Name, Award Number, Complete Funding Info, References,
+            Open Access License) and the other 16 as{" "}
+            <strong style={{ color: "var(--color-enrichment)" }}>automatic</strong> (for
+            example title, DOI, publisher, ISSN, volume, page). The
+            classification is the author's and follows no standard; it is not
+            Crossref's division between required and optional elements. A field
+            classified as automatic is not in every record: Language is in 59.2%
+            of the Crossref records. The heatmap and the timeline open on the
             voluntary fields only. Toggle "Voluntary only" to see all compared fields.
           </p>
           <p>
             <strong style={{ color: "var(--color-text)" }}>
               Temporal analysis:
             </strong>
-            {" "}All metrics are computed per year, enabling trend analysis
-            across the eleven years.
+            {" "}Every figure is also computed by year of publication.
           </p>
         </div>
       </div>
@@ -349,8 +391,8 @@ export default function AboutPage() {
       >
         <h3 className="text-lg font-semibold mb-3">Timeline of Policies and Infrastructure</h3>
         <p className="text-xs mb-3" style={{ color: "var(--color-text-muted)" }}>
-          Events that bear on the compared fields, each with the page its date
-          was read on (25 November 2026). Vertical lines in the timeline charts
+          Events related to the compared fields, each with a source, read on
+          25 November 2026. Vertical lines in the timeline charts
           mark these years. The page does not test whether an event caused a change.
         </p>
         <div className="space-y-3">
@@ -389,20 +431,19 @@ export default function AboutPage() {
         >
           <p>
             <strong style={{ color: "var(--color-crossref)" }}>Crossref</strong>
-            {" "}is the registry where publishers deposit metadata when they
-            register a DOI. Most of a Crossref record is what the publisher
-            deposited. Crossref adds some values itself: the count of citing
-            works, DOIs it matches in reference lists and, in its own words,
-            identifiers "where they are missing in the original deposit".
+            {" "}is a DOI registration agency. By its documentation, the
+            metadata is deposited by its members, and Crossref adds ORCID and
+            ROR identifiers in some cases, in its own words "where they are
+            missing in the original deposit". So a value in a Crossref record
+            is not always what the publisher deposited.
           </p>
           <p>
             <strong style={{ color: "var(--color-openalex)" }}>OpenAlex</strong>
             {" "}is an open catalogue of scholarly works, over 320 million by
             its documentation in November 2026. It builds its records from
             several sources, Crossref among them, and adds to them: every
-            institution is mapped to a ROR record, topics are assigned by a
-            machine-learning model, MeSH terms are present for works that come
-            from PubMed, and open access locations come from Unpaywall, which
+            institution is mapped to a ROR record, the language of a work is
+            detected by OpenAlex, and open access locations come from Unpaywall, which
             the same team runs on the same database. OpenAlex stores licences,
             PDFs and version information across multiple <code>locations[]</code>
             {" "}(journals, repositories, preprint servers), not just the primary
@@ -446,12 +487,9 @@ export default function AboutPage() {
             {" "}Records include <code>abstract_inverted_index</code> (checked
             for &gt;10 words to exclude fragments),{" "}
             <code>authorships[].institutions[].ror</code> for affiliations,{" "}
-            <code>keywords[]</code> and <code>mesh[]</code> for subject
-            classification, <code>funders[]</code> and <code>awards[]</code>{" "}
+            <code>funders[]</code> and <code>awards[]</code>{" "}
             for funding, and all <code>locations[]</code> for licenses and
-            PDFs (not just <code>primary_location</code>). This is critical
-            because OpenAlex distributes open access information across
-            multiple repository locations.
+            PDFs (not just <code>primary_location</code>).
           </p>
         </div>
       </div>
@@ -467,8 +505,10 @@ export default function AboutPage() {
         <h3 className="text-lg font-semibold mb-2">Data</h3>
         <p className="text-sm" style={{ color: "var(--color-text-muted)" }}>
           All data is fetched from public APIs
-          (Crossref, OpenAlex) with no proprietary sources. Data was last collected
-          in March 2026.
+          (Crossref, OpenAlex) with no proprietary sources. The articles were read in March
+          2026; the control counts and the shares of other record types were
+          asked on 25 November 2026. The dataset on Zenodo is that of March
+          2026, with 48 fields, before the revision of 25 November 2026.
         </p>
         <div className="mt-4 flex flex-wrap gap-3">
           <a

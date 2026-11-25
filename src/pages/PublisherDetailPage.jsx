@@ -90,8 +90,7 @@ export default function PublisherDetailPage() {
         <h2 className="text-2xl font-bold">{data.label}</h2>
         <p className="text-sm" style={{ color: "var(--color-text-muted)" }}>
           {data.categoryLabel} &middot;{" "}
-          {data.totalWorksSampled.toLocaleString()} works sampled (of{" "}
-          {data.totalWorksUniverse.toLocaleString()} total)
+          {data.totalWorksSampled.toLocaleString()} journal articles read, not a random sample of the publisher's articles; About compares these figures with Crossref's own counts
         </p>
       </div>
 
@@ -102,14 +101,14 @@ export default function PublisherDetailPage() {
           <div className="text-xl font-bold" style={{ color: "var(--color-crossref)" }}>
             {(crScore * 100).toFixed(1)}%
           </div>
-          <div style={{ color: "var(--color-text-muted)", fontSize: 10 }}>comparable fields</div>
+          <div style={{ color: "var(--color-text-muted)", fontSize: 10 }}>26 compared fields</div>
         </div>
         <div className="rounded-lg px-3 py-2" style={{ background: "var(--color-surface)", border: "1px solid var(--color-border)" }}>
           <div style={{ color: "var(--color-text-muted)", fontSize: 10 }} className="uppercase">OpenAlex Score</div>
           <div className="text-xl font-bold" style={{ color: "var(--color-openalex)" }}>
             {(oaScore * 100).toFixed(1)}%
           </div>
-          <div style={{ color: "var(--color-text-muted)", fontSize: 10 }}>comparable fields</div>
+          <div style={{ color: "var(--color-text-muted)", fontSize: 10 }}>26 compared fields</div>
         </div>
         <div className="rounded-lg px-3 py-2" style={{ background: "var(--color-surface)", border: "1px solid var(--color-border)" }}>
           <div style={{ color: "var(--color-text-muted)", fontSize: 10 }} className="uppercase">Gap</div>
@@ -156,7 +155,7 @@ export default function PublisherDetailPage() {
       {/* Yearly trend: with voluntary toggle */}
       <div className="rounded-lg p-4" style={{ background: "var(--color-surface)", border: "1px solid var(--color-border)" }}>
         <div className="flex items-center justify-between mb-3">
-          <h3 className="text-lg font-semibold">Yearly Trend</h3>
+          <h3 className="text-lg font-semibold">Score by Year of Publication</h3>
           <button
             onClick={() => setFieldsMode(fieldsMode === "voluntary" ? "all" : "voluntary")}
             className="px-2 py-0.5 rounded-full font-medium"
@@ -189,7 +188,7 @@ export default function PublisherDetailPage() {
       {/* Field detail table: only comparable */}
       <div className="rounded-lg p-4 overflow-x-auto" style={{ background: "var(--color-surface)", border: "1px solid var(--color-border)" }}>
         <div className="flex items-center justify-between mb-3">
-          <h3 className="text-lg font-semibold">Field-by-Field Detail</h3>
+          <h3 className="text-lg font-semibold">Percentage of Articles with Each Field</h3>
           <button
             onClick={() => setFieldsMode(fieldsMode === "voluntary" ? "all" : "voluntary")}
             className="px-2 py-0.5 rounded-full font-medium"
@@ -267,7 +266,7 @@ export default function PublisherDetailPage() {
       {/* Sample works */}
       {data.sampleWorks && data.sampleWorks.length > 0 && (
         <div className="rounded-lg p-4" style={{ background: "var(--color-surface)", border: "1px solid var(--color-border)" }}>
-          <h3 className="text-lg font-semibold mb-3">Sample Works with Largest Gaps</h3>
+          <h3 className="text-lg font-semibold mb-3">Example Articles</h3>
           <p className="text-xs mb-3" style={{ color: "var(--color-text-muted)" }}>
             For each article: the share of the 26 compared fields present in its Crossref record (CR) and in its OpenAlex record (OA), and how many fields only the OpenAlex record has.
           </p>

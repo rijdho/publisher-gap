@@ -279,7 +279,7 @@ export default function GapHeatmap({ heatmap, year }) {
         </div>
         <span>{mode === "delta" ? "OA > CR" : "High"}</span>
         <span style={{ color: "var(--color-border)" }}>|</span>
-        <span>Click any cell to see sample articles</span>
+        <span>Cells: % of the publisher's articles whose record has the field, in the source chosen (in Gap: OpenAlex less Crossref, in points). Click any cell to see example articles</span>
       </div>
 
       {/* Sample articles modal */}

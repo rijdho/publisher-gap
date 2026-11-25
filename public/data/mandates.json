@@ -2,7 +2,7 @@
   {
     "year": 2016,
     "label": "ORCID open letter",
-    "description": "From 1 January 2016 the first eight signatories of the publishers' open letter, among them PLOS, eLife and Hindawi, require ORCID iDs for corresponding authors. Wiley signed in November 2016 and Springer Nature in March 2017.",
+    "description": "On 1 January 2016 the first eight publishers sign the open letter and commit to requiring ORCID iDs for corresponding authors; the requirement took effect at eLife on 7 January 2016, at Hindawi on 1 July 2016 and at PLOS on 7 December 2016. Wiley signed in November 2016 and Springer Nature in March 2017.",
     "source": "https://info.orcid.org/requiring-orcid-in-publications/",
     "affectedFields": [
       "author_orcid",
@@ -63,7 +63,7 @@
   {
     "year": 2024,
     "label": "JATS 1.4 published",
-    "description": "JATS 1.4 (ANSI/NISO Z39.96-2024) is published on 31 October 2024. CRediT roles can be tagged in JATS since version 1.2.",
+    "description": "JATS 1.4 (ANSI/NISO Z39.96-2024) is published on 31 October 2024. JATS 1.2 can record CRediT roles.",
     "source": "https://www.niso.org/publications/z3996-2024-jats",
     "affectedFields": []
   }

@@ -145,21 +145,23 @@ export default function OverviewPage() {
           Key Finding
         </div>
         <p className="text-sm leading-relaxed" style={{ color: "var(--color-text)" }}>
-          Of the {globalSummary.voluntaryFields} fields a publisher has to collect and deposit
+          Over the {globalSummary.voluntaryFields} fields this page classifies as voluntary
           (abstract, author affiliations and their ROR IDs, ORCID iDs, funding, references
-          and an open licence), the Crossref records hold{" "}
+          and an open licence), the score of the Crossref records is{" "}
           <strong style={{ color: "var(--color-crossref)" }}>
             {(globalSummary.avgVoluntaryCrossref * 100).toFixed(0)}%
           </strong>{" "}
-          on average, and the OpenAlex records of the same articles{" "}
+          and that of the OpenAlex records of the same articles{" "}
           <strong style={{ color: "var(--color-openalex)" }}>
             {(globalSummary.avgVoluntaryOpenAlex * 100).toFixed(0)}%
           </strong>
           . Over all {globalSummary.comparableFields} compared fields, which include those
-          nearly every record has (DOI, title, publication date), the figures are{" "}
+          nearly every record has (DOI, title, publication date), the scores are{" "}
           {(globalSummary.avgCrossrefScore * 100).toFixed(0)}% and{" "}
-          {(globalSummary.avgOpenAlexScore * 100).toFixed(0)}%. Each figure is the mean of the{" "}
-          {globalSummary.totalPublishers} publishers, every publisher counting the same.
+          {(globalSummary.avgOpenAlexScore * 100).toFixed(0)}%. A score is the percentage of
+          the fields present in a record, weighted by group of fields (About gives the weights
+          and the figures without weights); each figure is the mean of the publishers, every
+          publisher counting the same. The articles are not a random sample of a publisher's output.
         </p>
       </div>
 

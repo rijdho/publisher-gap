@@ -143,11 +143,11 @@ export default function TimelineChart({
               <>
                 <span className="flex items-center gap-1.5">
                   <svg width="16" height="3"><line x1="0" y1="1.5" x2="16" y2="1.5" stroke="var(--color-chart-aggregate)" strokeWidth="3" /></svg>
-                  Aggregate (CR)
+                  Mean of publishers (Crossref)
                 </span>
                 <span className="flex items-center gap-1.5">
                   <svg width="16" height="3"><line x1="0" y1="1.5" x2="16" y2="1.5" stroke="var(--color-chart-aggregate)" strokeWidth="3" strokeDasharray="4 2" /></svg>
-                  Aggregate (OA)
+                  Mean of publishers (OpenAlex)
                 </span>
                 <span style={{ color: "var(--color-border)" }}>|</span>
                 <span className="flex items-center gap-1.5">
@@ -255,7 +255,7 @@ export default function TimelineChart({
           {(showSource === "crossref" || showSource === "both") && (
             <Line
               dataKey="aggregate_cr"
-              name="All Publishers (CR)"
+              name="Mean of publishers (Crossref)"
               stroke="var(--color-chart-aggregate)"
               strokeWidth={3}
               dot={false}
@@ -265,7 +265,7 @@ export default function TimelineChart({
           {(showSource === "openalex" || showSource === "both") && (
             <Line
               dataKey="aggregate_oa"
-              name="All Publishers (OA)"
+              name="Mean of publishers (OpenAlex)"
               stroke="var(--color-chart-aggregate)"
               strokeWidth={3}
               dot={false}
@@ -305,7 +305,9 @@ export default function TimelineChart({
         </LineChart>
       </ResponsiveContainer>
       <p className="text-xs mt-1" style={{ color: "var(--color-text-muted)" }}>
-        Share of the fields present in a publisher's records, mean of the publishers, by year of publication.
+        Score of a publisher's records (the percentage of the fields present, weighted by group of fields), mean of the
+        publishers with articles in the year, by year of publication. A publisher with few articles in a year counts as
+        much as one with 8,000.
         Dashed vertical lines: the events of the timeline on the About page, in the year of each.
       </p>
 

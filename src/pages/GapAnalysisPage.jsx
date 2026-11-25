@@ -174,7 +174,7 @@ export default function GapAnalysisPage() {
       >
         <h3 className="text-lg font-semibold">Category Scores Over Time</h3>
         <div className="flex items-center gap-4 mt-1 mb-4 text-xs" style={{ color: "var(--color-text-muted)" }}>
-          <span>Average completeness by FAIR category across all publishers.</span>
+          <span>Score by group of fields, mean of the publishers. The grouping is the author's.</span>
           <span className="flex items-center gap-1.5">
             <svg width="16" height="2"><line x1="0" y1="1" x2="16" y2="1" stroke="var(--color-text-muted)" strokeWidth="2" /></svg>
             Crossref (solid)
@@ -241,13 +241,13 @@ export default function GapAnalysisPage() {
                   border: selectedCategory === catId ? `1px solid ${CATEGORIES[catId].colorLight}` : "1px solid transparent",
                 }}
               >
-                {CATEGORIES[catId].label.split(" ").slice(0, 2).join(" ")}
+                {CATEGORIES[catId].label}
               </button>
             ))}
           </div>
         </div>
         <p className="text-xs mb-4" style={{ color: "var(--color-text-muted)" }}>
-          Crossref fill rate for each metadata field in the selected category. Select a category above to explore.
+          Percentage of Crossref records with each field of the selected group, mean of the publishers. Select a group above.
         </p>
 
         <ResponsiveContainer width="100%" height={350}>
@@ -284,7 +284,7 @@ export default function GapAnalysisPage() {
         style={{ background: "var(--color-surface)", border: "1px solid var(--color-border)" }}
       >
         <div className="flex items-center justify-between mb-1">
-          <h3 className="text-lg font-semibold">Field Gap: Automatic vs Voluntary</h3>
+          <h3 className="text-lg font-semibold">Difference by Field: OpenAlex less Crossref</h3>
           <button
             onClick={() => setEffortFilter(effortFilter === "voluntary" ? "all" : "voluntary")}
             className="px-2 py-1 rounded-full font-medium"
@@ -301,8 +301,8 @@ export default function GapAnalysisPage() {
         <p className="text-xs mb-3" style={{ color: "var(--color-text-muted)" }}>
           Per-field difference: OpenAlex minus Crossref. Green = more OpenAlex records have the field.
           Red = more Crossref records have it. Center line = no difference.
-          Fields marked <span style={{ color: "var(--color-voluntary)" }}>&#9679;</span> are those this page classifies as voluntary (a publisher has to collect and deposit them);
-          fields marked <span style={{ color: "var(--color-automatic-indicator)" }}>&#9679;</span> as automatic (the publishing system produces them).
+          Fields marked <span style={{ color: "var(--color-voluntary)" }}>&#9679;</span> are those this page classifies as voluntary;
+          fields marked <span style={{ color: "var(--color-automatic-indicator)" }}>&#9679;</span> as automatic. The classification is the author's (see About).
         </p>
         <YearSlider years={years} defaultAll={true} onYearChange={setSelectedYear} />
 
@@ -389,7 +389,7 @@ export default function GapAnalysisPage() {
         >
           <h3 className="text-lg font-semibold">Fields the OpenAlex Records Have More Often</h3>
           <p className="text-xs mb-1" style={{ color: "var(--color-text-muted)" }}>
-            Green badges: fields that the OpenAlex records have more often than the Crossref records, by more than 5 percentage points. Red badges: fields that fewer than 10% of the OpenAlex records have, with a difference of at most 2 points.
+            Green badges: fields that the OpenAlex records have more often than the Crossref records, by more than 5 percentage points.
           </p>
           <p className="text-xs mb-4" style={{ color: "var(--color-text-muted)", fontStyle: "italic" }}>
             The page does not tell where OpenAlex took a value from.
