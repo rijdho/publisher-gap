@@ -84,7 +84,7 @@ export default function AboutPage() {
           </p>
           <p>
             The largest gaps are in Author ORCID, Author Affiliation, Abstract,
-            and Preprint/Version Links &mdash; fields where OpenAlex
+            and Preprint/Version Links: fields where OpenAlex
             reconstructs from ORCID.org, ROR, PubMed, and repository metadata
             what publishers chose not to deposit.
           </p>
@@ -115,8 +115,8 @@ export default function AboutPage() {
           <strong style={{ color: "var(--color-text)" }}> mandates</strong>
           {" "}(ORCID requirements, Plan S, Crossref Participation Reports),
           not by genuine commitment to metadata quality. Fields that have never
-          been mandated &mdash; particularly those relevant to research evaluation
-          (CRediT roles, data availability, complete funding info) &mdash; remain
+          been mandated, particularly those relevant to research evaluation
+          (CRediT roles, data availability, complete funding info), remain
           near zero.
         </p>
         <p
@@ -194,7 +194,7 @@ export default function AboutPage() {
               Comparable vs non-comparable fields:
             </strong>
             {" "}Of the 48 fields evaluated, <strong style={{ color: "var(--color-accent)" }}>38 are comparable</strong>
-            {" "}&mdash; both Crossref and OpenAlex can provide them. The remaining
+            {" "}(both Crossref and OpenAlex can provide them). The remaining
             10 are structural (e.g., JATS Abstract and Assertions only exist in
             Crossref; CRediT roles and data availability don't exist in either).
             The dashboard uses only the 38 comparable fields. Fields marked
@@ -428,15 +428,15 @@ export default function AboutPage() {
         >
           <p>
             <strong style={{ color: "var(--color-crossref)" }}>Crossref</strong>
-            {" "}&mdash; The primary scholarly metadata registry. Publishers
+            {" "}is the primary scholarly metadata registry. Publishers
             deposit metadata when registering DOIs. What appears in Crossref is
             exactly what the publisher chose to provide. Crossref does not
-            enrich or add metadata &mdash; it is a deposit-only system. When a
+            enrich or add metadata: it is a deposit-only system. When a
             field is empty, the publisher simply did not include it.
           </p>
           <p>
             <strong style={{ color: "var(--color-openalex)" }}>OpenAlex</strong>
-            {" "}&mdash; An open catalog of 250M+ scholarly works that enriches
+            {" "}is an open catalog of 250M+ scholarly works that enriches
             metadata by harvesting from multiple sources: ORCID (author
             identifiers and ORCIDs), ROR (institutional affiliations with
             persistent IDs), Unpaywall (open access locations and licenses
@@ -474,7 +474,7 @@ export default function AboutPage() {
             fields are returned including <code>language</code>,{" "}
             <code>clinical-trial-number</code>, and nested sub-fields like
             author affiliation ROR IDs. When a field is absent from the JSON,
-            it means the publisher did not deposit it &mdash; Crossref does not
+            it means the publisher did not deposit it: Crossref does not
             return <code>null</code> or empty strings for missing fields, it
             simply omits them.
           </p>

@@ -147,3 +147,8 @@ input[type="range"]::-moz-range-thumb { width: 16px; height: 16px; border-radius
   color: var(--color-text-muted) !important;
   font-size: 12px !important;
 }
+
+/* A narrow screen: a card wider than the screen (a table, the grid of fields) scrolls inside
+   itself, so the page keeps the width of the screen. */
+.content, .content-inner { min-width: 0; max-width: 100%; }
+.content-inner .rounded-lg { max-width: 100%; overflow-x: auto; }
