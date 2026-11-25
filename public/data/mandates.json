@@ -1,0 +1,90 @@
+[
+  {
+    "year": 2016,
+    "label": "ORCID mandate begins (major publishers)",
+    "description": "Elsevier, Springer Nature, Wiley, and others begin requiring ORCID for corresponding authors.",
+    "affectedFields": [
+      "author_orcid",
+      "all_authors_orcid"
+    ]
+  },
+  {
+    "year": 2017,
+    "label": "Crossref Funder Registry integration",
+    "description": "Crossref promotes use of Open Funder Registry IDs alongside funder names in deposits.",
+    "affectedFields": [
+      "funder_name",
+      "funder_doi",
+      "award_number"
+    ]
+  },
+  {
+    "year": 2018,
+    "label": "Plan S announced",
+    "description": "cOAlition S announces Plan S requiring immediate open access with CC licenses.",
+    "affectedFields": [
+      "license",
+      "open_access_license",
+      "license_url"
+    ]
+  },
+  {
+    "year": 2019,
+    "label": "I4OC / Initiative for Open Citations",
+    "description": "Major publishers join I4OC, committing to open reference deposits in Crossref.",
+    "affectedFields": [
+      "references",
+      "references_count"
+    ]
+  },
+  {
+    "year": 2020,
+    "label": "ROR launch & adoption push",
+    "description": "Research Organization Registry (ROR) launches, pushing for machine-readable affiliations.",
+    "affectedFields": [
+      "affiliation_ror",
+      "author_affiliation"
+    ]
+  },
+  {
+    "year": 2021,
+    "label": "Plan S enforcement begins",
+    "description": "Plan S compliance requirements enforced. Journals must provide CC-BY licenses and full-text links.",
+    "affectedFields": [
+      "license",
+      "open_access_license",
+      "full_text_links",
+      "resource_url"
+    ]
+  },
+  {
+    "year": 2022,
+    "label": "CoARA agreement signed",
+    "description": "Coalition for Advancing Research Assessment signed by 600+ organizations, calling for richer contributor metadata.",
+    "affectedFields": [
+      "credit_roles",
+      "data_availability"
+    ]
+  },
+  {
+    "year": 2023,
+    "label": "Crossref metadata quality initiative",
+    "description": "Crossref launches Participation Reports, pushing members to improve abstract, reference, and funder deposits.",
+    "affectedFields": [
+      "abstract",
+      "references",
+      "funder_name",
+      "funder_doi"
+    ]
+  },
+  {
+    "year": 2024,
+    "label": "CRediT in JATS 1.4 & DORA/CoARA acceleration",
+    "description": "CRediT taxonomy formally part of JATS 1.4. CoARA reform actions accelerate, but adoption remains minimal.",
+    "affectedFields": [
+      "credit_roles",
+      "data_availability",
+      "author_given_family"
+    ]
+  }
+]

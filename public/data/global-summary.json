@@ -1,0 +1,64 @@
+{
+  "totalPublishers": 14,
+  "totalWorks": 835664,
+  "avgCrossrefScore": 0.5668844937889256,
+  "avgOpenAlexScore": 0.7825525163464732,
+  "avgGap": 0.21566802255754758,
+  "avgCrossrefScoreAll": 0.5275693907146786,
+  "avgOpenAlexScoreAll": 0.6404172406446174,
+  "avgGapAll": 0.11284784992993879,
+  "comparableFields": 38,
+  "totalFields": 48,
+  "voluntaryFields": 16,
+  "avgVoluntaryCrossref": 0.2687792513392352,
+  "avgVoluntaryOpenAlex": 0.6606518490796226,
+  "avgAutomaticCrossref": 0.8262422480521686,
+  "categoryAverages": {
+    "findable_essential": {
+      "crossref": 0.7222322397565469,
+      "openalex": 0.8975397446585707,
+      "gap": 0.17530750490202374
+    },
+    "findable_support": {
+      "crossref": 0.5180886527482232,
+      "openalex": 0.6555151361560829,
+      "gap": 0.13742648340785968
+    },
+    "accessible_essential": {
+      "crossref": 0.6777339155743709,
+      "openalex": 0.6424022773216878,
+      "gap": -0.03533163825268315
+    },
+    "accessible_support": {
+      "crossref": 0.31234446868404697,
+      "openalex": 0.4656472942453357,
+      "gap": 0.1533028255612887
+    },
+    "evaluation_coara": {
+      "crossref": 0.16259247556741813,
+      "openalex": 0.328313740343391,
+      "gap": 0.16572126477597288
+    }
+  },
+  "yearsRange": [
+    2015,
+    2025
+  ],
+  "publisherCategories": {
+    "global_commercial": {
+      "label": "Commercial Hybrid/Subscription",
+      "color": "#3b82f6",
+      "description": "Large for-profit publishers"
+    },
+    "global_oa": {
+      "label": "Commercial OA",
+      "color": "#10b981",
+      "description": "Open access publishers with global reach"
+    },
+    "regional_latam": {
+      "label": "Regional / Latin America",
+      "color": "#f59e0b",
+      "description": "Latin American regional publishers and university presses"
+    }
+  }
+}

@@ -1,0 +1,3773 @@
+{
+  "id": "mdpi",
+  "label": "MDPI",
+  "memberId": 1968,
+  "category": "global_oa",
+  "categoryLabel": "Commercial OA",
+  "totalWorksSampled": 88000,
+  "totalWorksMatched": 87397,
+  "totalWorksUniverse": 88000,
+  "crossref": {
+    "overall": 0.6768896309687786,
+    "categories": {
+      "findable_essential": 0.8739725378787879,
+      "findable_support": 0.6041942148760331,
+      "accessible_essential": 0.9803320707070706,
+      "accessible_support": 0.33375946969696973,
+      "evaluation_coara": 0.22804886363636362
+    },
+    "fields": {
+      "title": 1,
+      "abstract": 0.9898181818181818,
+      "author": 0.9945227272727273,
+      "author_affiliation": 0.9799204545454545,
+      "doi": 1,
+      "publication_date": 1,
+      "publisher": 1,
+      "resource_type": 1,
+      "subject_keywords": 0,
+      "funder_name": 0.5274090909090909,
+      "container_title": 1,
+      "language": 0.996,
+      "author_orcid": 0.7532613636363636,
+      "all_authors_orcid": 0.10922727272727273,
+      "funder_doi": 0.29213636363636364,
+      "award_number": 0.49210227272727275,
+      "issn": 1,
+      "volume": 0.998125,
+      "issue": 0.9981136363636364,
+      "page": 0.9967159090909091,
+      "published_print_date": 0.009886363636363636,
+      "published_online_date": 0.996465909090909,
+      "article_number": 0.00010227272727272727,
+      "license": 0.9900227272727272,
+      "license_url": 0.9900227272727272,
+      "open_access_license": 0.9890227272727272,
+      "full_text_links": 0.9969090909090909,
+      "resource_url": 1,
+      "references": 0.9791477272727273,
+      "references_count": 0.9791477272727273,
+      "is_referenced_by": 0.9185454545454546,
+      "update_policy": 0.9801704545454546,
+      "jats_abstract": 0.9898181818181818,
+      "author_sequence": 0.9945227272727273,
+      "affiliation_ids_ror": 0,
+      "relations": 0.017613636363636363,
+      "assertions": 0.00034090909090909094,
+      "archive": 0.00026136363636363634,
+      "credit_roles": 0,
+      "author_given_family": 0.9886704545454545,
+      "affiliation_ror": 0,
+      "funding_complete": 0.28713636363636363,
+      "data_availability": 0,
+      "preprint_version_link": 0.01465909090909091,
+      "peer_review_info": 0.00034090909090909094,
+      "clinical_trial": 0,
+      "abstract_structured": 0.0006590909090909091,
+      "open_access_status": 0.9890227272727272
+    }
+  },
+  "openalex": {
+    "overall": 0.7560330914208622,
+    "categories": {
+      "findable_essential": 0.9588763534980225,
+      "findable_support": 0.7561555576590419,
+      "accessible_essential": 0.8722038513907798,
+      "accessible_support": 0.49282584070391433,
+      "evaluation_coara": 0.43806652402256363
+    },
+    "fields": {
+      "title": 1,
+      "abstract": 0.9947481034818129,
+      "author": 0.9989130061672598,
+      "author_affiliation": 0.9879629735574448,
+      "doi": 1,
+      "publication_date": 1,
+      "publisher": 0.993306406398389,
+      "resource_type": 1,
+      "subject_keywords": 1,
+      "funder_name": 0.5315857523713629,
+      "container_title": 1,
+      "language": 1,
+      "author_orcid": 0.9732942778356236,
+      "all_authors_orcid": 0.3898417565820337,
+      "funder_doi": 0.5315857523713629,
+      "award_number": 0.4291451651658524,
+      "issn": 1,
+      "volume": 0.9985583029165761,
+      "issue": 0.9981578315045139,
+      "page": 0.9971280478734968,
+      "published_print_date": 1,
+      "published_online_date": 1,
+      "article_number": 0,
+      "license": 0.9944734945135416,
+      "license_url": 0.9944734945135416,
+      "open_access_license": 0.9944506104328524,
+      "full_text_links": 0.9687975559801824,
+      "resource_url": 1,
+      "references": 0.9857088916095518,
+      "references_count": 0.9857088916095518,
+      "is_referenced_by": 0.9262217238577983,
+      "update_policy": 0,
+      "jats_abstract": 0,
+      "author_sequence": 0.9989130061672598,
+      "affiliation_ids_ror": 0.9878714372346877,
+      "relations": 0.9701706008215385,
+      "assertions": 0,
+      "archive": 0,
+      "credit_roles": 0,
+      "author_given_family": 0.9986498392393331,
+      "affiliation_ror": 0.9878714372346877,
+      "funding_complete": 0.4291451651658524,
+      "data_availability": 0,
+      "preprint_version_link": 0.9673329748160692,
+      "peer_review_info": 0,
+      "clinical_trial": 0,
+      "abstract_structured": 0,
+      "open_access_status": 0.9976658237696946
+    }
+  },
+  "gap": 0.07914346045208354,
+  "comparable": {
+    "crossref": {
+      "categories": {
+        "findable_essential": 0.8739725378787879,
+        "findable_support": 0.6646034090909091,
+        "accessible_essential": 0.9803522727272728,
+        "accessible_support": 0.3373787878787879,
+        "evaluation_coara": 0.45589772727272726
+      },
+      "overall": 0.7318877651515152
+    },
+    "openalex": {
+      "categories": {
+        "findable_essential": 0.9588763534980225,
+        "findable_support": 0.831771113424946,
+        "accessible_essential": 0.9812293328146273,
+        "accessible_support": 0.9856516814078287,
+        "evaluation_coara": 0.8761330480451273
+      },
+      "overall": 0.9315276840166138
+    },
+    "gap": 0.19963991886509858,
+    "fieldCount": 38,
+    "totalFieldCount": 48
+  },
+  "voluntary": {
+    "crossref": {
+      "categories": {
+        "findable_essential": 0.6242869318181818,
+        "findable_support": 0.4116818181818182,
+        "accessible_essential": 0.9824393939393938,
+        "accessible_support": 0.008806818181818181,
+        "evaluation_coara": 0.10059848484848484
+      },
+      "overall": 0.5156485795454545
+    },
+    "openalex": {
+      "categories": {
+        "findable_essential": 0.8785742073526551,
+        "findable_support": 0.5809667379887181,
+        "accessible_essential": 0.9886227978839853,
+        "accessible_support": 0.9790210190281131,
+        "evaluation_coara": 0.7947831924055365
+      },
+      "overall": 0.8547317127590193
+    },
+    "gap": 0.33908313321356476,
+    "fieldCount": 16
+  },
+  "automatic": {
+    "crossref": {
+      "categories": {
+        "findable_essential": 0.998815340909091,
+        "findable_support": 0.833217803030303,
+        "accessible_essential": 0.9791000000000001,
+        "accessible_support": 0.9945227272727273,
+        "evaluation_coara": 0.9888465909090909
+      },
+      "overall": 0.9666238636363638
+    },
+    "openalex": {
+      "categories": {
+        "findable_essential": 0.9990274265707061,
+        "findable_support": 0.9989740303824312,
+        "accessible_essential": 0.9767932537730127,
+        "accessible_support": 0.9989130061672598,
+        "evaluation_coara": 0.9981578315045139
+      },
+      "overall": 0.9932755128894584
+    },
+    "gap": 0.0266516492530946,
+    "fieldCount": 22
+  },
+  "yearlyScores": [
+    {
+      "year": 2015,
+      "count": 8000,
+      "matched": 7952,
+      "universeSize": 18588,
+      "crossref": {
+        "overall": 0.6486187689393939,
+        "categories": {
+          "findable_essential": 0.8456354166666666,
+          "findable_support": 0.5219431818181818,
+          "accessible_essential": 0.9665416666666666,
+          "accessible_support": 0.3298125,
+          "evaluation_coara": 0.2101
+        },
+        "fields": {
+          "title": 1,
+          "abstract": 0.979375,
+          "author": 0.992375,
+          "author_affiliation": 0.947875,
+          "doi": 1,
+          "publication_date": 1,
+          "publisher": 1,
+          "resource_type": 1,
+          "subject_keywords": 0,
+          "funder_name": 0.24625,
+          "container_title": 1,
+          "language": 0.98175,
+          "author_orcid": 0.344,
+          "all_authors_orcid": 0.018625,
+          "funder_doi": 0.153625,
+          "award_number": 0.222,
+          "issn": 1,
+          "volume": 0.9985,
+          "issue": 0.9985,
+          "page": 0.996375,
+          "published_print_date": 0.0245,
+          "published_online_date": 0.985,
+          "article_number": 0.00025,
+          "license": 0.97725,
+          "license_url": 0.97725,
+          "open_access_license": 0.974375,
+          "full_text_links": 0.98675,
+          "resource_url": 1,
+          "references": 0.941875,
+          "references_count": 0.941875,
+          "is_referenced_by": 0.955875,
+          "update_policy": 0.943625,
+          "jats_abstract": 0.979375,
+          "author_sequence": 0.992375,
+          "affiliation_ids_ror": 0,
+          "relations": 0.004875,
+          "assertions": 0.0015,
+          "archive": 0.00075,
+          "credit_roles": 0,
+          "author_given_family": 0.982375,
+          "affiliation_ror": 0,
+          "funding_complete": 0.14,
+          "data_availability": 0,
+          "preprint_version_link": 0.0005,
+          "peer_review_info": 0.0015,
+          "clinical_trial": 0,
+          "abstract_structured": 0.00225,
+          "open_access_status": 0.974375
+        }
+      },
+      "openalex": {
+        "overall": 0.7544845080584517,
+        "categories": {
+          "findable_essential": 0.9623574782025486,
+          "findable_support": 0.7462159319553685,
+          "accessible_essential": 0.871283255086072,
+          "accessible_support": 0.49620640509725017,
+          "evaluation_coara": 0.43201710261569415
+        },
+        "fields": {
+          "title": 1,
+          "abstract": 0.994592555331992,
+          "author": 0.9978621730382293,
+          "author_affiliation": 0.9835261569416499,
+          "doi": 1,
+          "publication_date": 1,
+          "publisher": 0.9937122736418511,
+          "resource_type": 1,
+          "subject_keywords": 1,
+          "funder_name": 0.5785965794768612,
+          "container_title": 1,
+          "language": 1,
+          "author_orcid": 0.9408953722334004,
+          "all_authors_orcid": 0.3323692152917505,
+          "funder_doi": 0.5785965794768612,
+          "award_number": 0.3612927565392354,
+          "issn": 1,
+          "volume": 0.9991197183098591,
+          "issue": 0.9984909456740443,
+          "page": 0.9976106639839034,
+          "published_print_date": 1,
+          "published_online_date": 1,
+          "article_number": 0,
+          "license": 0.9852867203219315,
+          "license_url": 0.9852867203219315,
+          "open_access_license": 0.9852867203219315,
+          "full_text_links": 0.9654175050301811,
+          "resource_url": 1,
+          "references": 0.977112676056338,
+          "references_count": 0.977112676056338,
+          "is_referenced_by": 0.9660462776659959,
+          "update_policy": 0,
+          "jats_abstract": 0,
+          "author_sequence": 0.9978621730382293,
+          "affiliation_ids_ror": 0.983274647887324,
+          "relations": 0.9961016096579477,
+          "assertions": 0,
+          "archive": 0,
+          "credit_roles": 0,
+          "author_given_family": 0.9978621730382293,
+          "affiliation_ror": 0.983274647887324,
+          "funding_complete": 0.3612927565392354,
+          "data_availability": 0,
+          "preprint_version_link": 0.9866700201207244,
+          "peer_review_info": 0,
+          "clinical_trial": 0,
+          "abstract_structured": 0,
+          "open_access_status": 0.9910714285714286
+        }
+      },
+      "comparable": {
+        "crossref": {
+          "categories": {
+            "findable_essential": 0.8456354166666666,
+            "findable_support": 0.5741124999999999,
+            "accessible_essential": 0.9694062499999999,
+            "accessible_support": 0.33241666666666664,
+            "evaluation_coara": 0.41945
+          },
+          "overall": 0.6992907291666666
+        },
+        "openalex": {
+          "categories": {
+            "findable_essential": 0.9623574782025486,
+            "findable_support": 0.8208375251509054,
+            "accessible_essential": 0.980193661971831,
+            "accessible_support": 0.9924128101945003,
+            "evaluation_coara": 0.8640342052313883
+          },
+          "overall": 0.9289294097920858
+        },
+        "gap": 0.22963868062541926
+      },
+      "voluntary": {
+        "crossref": 0.438484375,
+        "openalex": 0.8490908995640509
+      }
+    },
+    {
+      "year": 2016,
+      "count": 8000,
+      "matched": 7950,
+      "universeSize": 25299,
+      "crossref": {
+        "overall": 0.6529701830808081,
+        "categories": {
+          "findable_essential": 0.84990625,
+          "findable_support": 0.5589090909090909,
+          "accessible_essential": 0.9556111111111112,
+          "accessible_support": 0.3249166666666667,
+          "evaluation_coara": 0.21383749999999999
+        },
+        "fields": {
+          "title": 1,
+          "abstract": 0.962375,
+          "author": 0.9705,
+          "author_affiliation": 0.928,
+          "doi": 1,
+          "publication_date": 1,
+          "publisher": 1,
+          "resource_type": 1,
+          "subject_keywords": 0,
+          "funder_name": 0.346625,
+          "container_title": 1,
+          "language": 0.991375,
+          "author_orcid": 0.536,
+          "all_authors_orcid": 0.046625,
+          "funder_doi": 0.22325,
+          "award_number": 0.322375,
+          "issn": 1,
+          "volume": 0.998625,
+          "issue": 0.998625,
+          "page": 0.991625,
+          "published_print_date": 0.040375,
+          "published_online_date": 0.990375,
+          "article_number": 0.000125,
+          "license": 0.95925,
+          "license_url": 0.95925,
+          "open_access_license": 0.957375,
+          "full_text_links": 0.98975,
+          "resource_url": 1,
+          "references": 0.93125,
+          "references_count": 0.93125,
+          "is_referenced_by": 0.94,
+          "update_policy": 0.932375,
+          "jats_abstract": 0.962375,
+          "author_sequence": 0.9705,
+          "affiliation_ids_ror": 0,
+          "relations": 0.015375,
+          "assertions": 0.00075,
+          "archive": 0.0005,
+          "credit_roles": 0,
+          "author_given_family": 0.960125,
+          "affiliation_ror": 0,
+          "funding_complete": 0.20925,
+          "data_availability": 0,
+          "preprint_version_link": 0.0105,
+          "peer_review_info": 0.00075,
+          "clinical_trial": 0,
+          "abstract_structured": 0.000375,
+          "open_access_status": 0.957375
+        }
+      },
+      "openalex": {
+        "overall": 0.7515149164601996,
+        "categories": {
+          "findable_essential": 0.9571383647798744,
+          "findable_support": 0.7511835334476845,
+          "accessible_essential": 0.8629629629629632,
+          "accessible_support": 0.4928092243186583,
+          "evaluation_coara": 0.43337106918238993
+        },
+        "fields": {
+          "title": 1,
+          "abstract": 0.9826415094339622,
+          "author": 0.9945911949685534,
+          "author_affiliation": 0.9670440251572328,
+          "doi": 1,
+          "publication_date": 1,
+          "publisher": 0.9934591194968554,
+          "resource_type": 1,
+          "subject_keywords": 1,
+          "funder_name": 0.5479245283018868,
+          "container_title": 1,
+          "language": 1,
+          "author_orcid": 0.9377358490566038,
+          "all_authors_orcid": 0.37056603773584906,
+          "funder_doi": 0.5479245283018868,
+          "award_number": 0.41421383647798743,
+          "issn": 1,
+          "volume": 0.999748427672956,
+          "issue": 0.9986163522012579,
+          "page": 0.9942138364779874,
+          "published_print_date": 1,
+          "published_online_date": 1,
+          "article_number": 0,
+          "license": 0.9745911949685535,
+          "license_url": 0.9745911949685535,
+          "open_access_license": 0.9743396226415094,
+          "full_text_links": 0.9744654088050314,
+          "resource_url": 1,
+          "references": 0.959874213836478,
+          "references_count": 0.959874213836478,
+          "is_referenced_by": 0.9489308176100629,
+          "update_policy": 0,
+          "jats_abstract": 0,
+          "author_sequence": 0.9945911949685534,
+          "affiliation_ids_ror": 0.9669182389937107,
+          "relations": 0.9953459119496856,
+          "assertions": 0,
+          "archive": 0,
+          "credit_roles": 0,
+          "author_given_family": 0.9940880503144655,
+          "affiliation_ror": 0.9669182389937107,
+          "funding_complete": 0.41421383647798743,
+          "data_availability": 0,
+          "preprint_version_link": 0.9649056603773585,
+          "peer_review_info": 0,
+          "clinical_trial": 0,
+          "abstract_structured": 0,
+          "open_access_status": 0.9935849056603774
+        }
+      },
+      "comparable": {
+        "crossref": {
+          "categories": {
+            "findable_essential": 0.84990625,
+            "findable_support": 0.6147875,
+            "accessible_essential": 0.958515625,
+            "accessible_support": 0.328625,
+            "evaluation_coara": 0.42745
+          },
+          "overall": 0.7051714062500001
+        },
+        "openalex": {
+          "categories": {
+            "findable_essential": 0.9571383647798744,
+            "findable_support": 0.826301886792453,
+            "accessible_essential": 0.9708333333333335,
+            "accessible_support": 0.9856184486373166,
+            "evaluation_coara": 0.8667421383647799
+          },
+          "overall": 0.9257053983228513
+        },
+        "gap": 0.22053399207285118
+      },
+      "voluntary": {
+        "crossref": 0.46049270833333333,
+        "openalex": 0.8431519916142558
+      }
+    },
+    {
+      "year": 2017,
+      "count": 8000,
+      "matched": 7947,
+      "universeSize": 38335,
+      "crossref": {
+        "overall": 0.6612725252525253,
+        "categories": {
+          "findable_essential": 0.8549166666666667,
+          "findable_support": 0.5640909090909092,
+          "accessible_essential": 0.974388888888889,
+          "accessible_support": 0.33104166666666673,
+          "evaluation_coara": 0.2174125
+        },
+        "fields": {
+          "title": 1,
+          "abstract": 0.976,
+          "author": 0.983125,
+          "author_affiliation": 0.958625,
+          "doi": 1,
+          "publication_date": 1,
+          "publisher": 1,
+          "resource_type": 1,
+          "subject_keywords": 0,
+          "funder_name": 0.3435,
+          "container_title": 1,
+          "language": 0.99775,
+          "author_orcid": 0.603125,
+          "all_authors_orcid": 0.055875,
+          "funder_doi": 0.21425,
+          "award_number": 0.315875,
+          "issn": 1,
+          "volume": 0.99925,
+          "issue": 0.99925,
+          "page": 0.998,
+          "published_print_date": 0.0255,
+          "published_online_date": 0.993875,
+          "article_number": 0,
+          "license": 0.976125,
+          "license_url": 0.976125,
+          "open_access_license": 0.974125,
+          "full_text_links": 0.995375,
+          "resource_url": 1,
+          "references": 0.963,
+          "references_count": 0.963,
+          "is_referenced_by": 0.9605,
+          "update_policy": 0.96125,
+          "jats_abstract": 0.976,
+          "author_sequence": 0.983125,
+          "affiliation_ids_ror": 0,
+          "relations": 0.02625,
+          "assertions": 0.000625,
+          "archive": 0.00025,
+          "credit_roles": 0,
+          "author_given_family": 0.975125,
+          "affiliation_ror": 0,
+          "funding_complete": 0.200375,
+          "data_availability": 0,
+          "preprint_version_link": 0.022625,
+          "peer_review_info": 0.000625,
+          "clinical_trial": 0,
+          "abstract_structured": 0.00125,
+          "open_access_status": 0.974125
+        }
+      },
+      "openalex": {
+        "overall": 0.7571926958016049,
+        "categories": {
+          "findable_essential": 0.9596388574304769,
+          "findable_support": 0.7566720431952596,
+          "accessible_essential": 0.8749772800357927,
+          "accessible_support": 0.49601526781594735,
+          "evaluation_coara": 0.4372719265131496
+        },
+        "fields": {
+          "title": 1,
+          "abstract": 0.9888008053353466,
+          "author": 0.9976091606895684,
+          "author_affiliation": 0.9823832892915566,
+          "doi": 1,
+          "publication_date": 1,
+          "publisher": 0.9964766578583113,
+          "resource_type": 1,
+          "subject_keywords": 1,
+          "funder_name": 0.5503963759909399,
+          "container_title": 1,
+          "language": 1,
+          "author_orcid": 0.9582232288914055,
+          "all_authors_orcid": 0.3941109852774632,
+          "funder_doi": 0.5503963759909399,
+          "award_number": 0.4233043915943123,
+          "issn": 1,
+          "volume": 0.9998741663520826,
+          "issue": 0.9992449981124952,
+          "page": 0.9982383289291556,
+          "published_print_date": 1,
+          "published_online_date": 1,
+          "article_number": 0,
+          "license": 0.9927016484207877,
+          "license_url": 0.9927016484207877,
+          "open_access_license": 0.9927016484207877,
+          "full_text_links": 0.9816282874040518,
+          "resource_url": 1,
+          "references": 0.9743299358248395,
+          "references_count": 0.9743299358248395,
+          "is_referenced_by": 0.96640241600604,
+          "update_policy": 0,
+          "jats_abstract": 0,
+          "author_sequence": 0.9976091606895684,
+          "affiliation_ids_ror": 0.9823832892915566,
+          "relations": 0.996099156914559,
+          "assertions": 0,
+          "archive": 0,
+          "credit_roles": 0,
+          "author_given_family": 0.9955958223228891,
+          "affiliation_ror": 0.9823832892915566,
+          "funding_complete": 0.4233043915943123,
+          "data_availability": 0,
+          "preprint_version_link": 0.9753366050081792,
+          "peer_review_info": 0,
+          "clinical_trial": 0,
+          "abstract_structured": 0,
+          "open_access_status": 0.996099156914559
+        }
+      },
+      "comparable": {
+        "crossref": {
+          "categories": {
+            "findable_essential": 0.8549166666666667,
+            "findable_support": 0.6205,
+            "accessible_essential": 0.97603125,
+            "accessible_support": 0.33645833333333336,
+            "evaluation_coara": 0.43445
+          },
+          "overall": 0.7140936458333335
+        },
+        "openalex": {
+          "categories": {
+            "findable_essential": 0.9596388574304769,
+            "findable_support": 0.8323392475147855,
+            "accessible_essential": 0.9843494400402668,
+            "accessible_support": 0.9920305356318947,
+            "evaluation_coara": 0.8745438530262992
+          },
+          "overall": 0.932941728534877
+        },
+        "gap": 0.21884808270154354
+      },
+      "voluntary": {
+        "crossref": 0.4733078125,
+        "openalex": 0.8541173818212323
+      }
+    },
+    {
+      "year": 2018,
+      "count": 8000,
+      "matched": 7926,
+      "universeSize": 67217,
+      "crossref": {
+        "overall": 0.6780889646464646,
+        "categories": {
+          "findable_essential": 0.8681666666666666,
+          "findable_support": 0.6006477272727273,
+          "accessible_essential": 0.9869305555555555,
+          "accessible_support": 0.33779166666666666,
+          "evaluation_coara": 0.23515000000000003
+        },
+        "fields": {
+          "title": 1,
+          "abstract": 0.989125,
+          "author": 0.9945,
+          "author_affiliation": 0.979875,
+          "doi": 1,
+          "publication_date": 1,
+          "publisher": 1,
+          "resource_type": 1,
+          "subject_keywords": 0,
+          "funder_name": 0.45725,
+          "container_title": 1,
+          "language": 0.99725,
+          "author_orcid": 0.73925,
+          "all_authors_orcid": 0.08775,
+          "funder_doi": 0.337375,
+          "award_number": 0.4485,
+          "issn": 1,
+          "volume": 0.99625,
+          "issue": 0.99625,
+          "page": 0.995375,
+          "published_print_date": 0.00875,
+          "published_online_date": 0.997625,
+          "article_number": 0,
+          "license": 0.991625,
+          "license_url": 0.991625,
+          "open_access_license": 0.990125,
+          "full_text_links": 0.998625,
+          "resource_url": 1,
+          "references": 0.97925,
+          "references_count": 0.97925,
+          "is_referenced_by": 0.97025,
+          "update_policy": 0.981625,
+          "jats_abstract": 0.989125,
+          "author_sequence": 0.9945,
+          "affiliation_ids_ror": 0,
+          "relations": 0.04275,
+          "assertions": 0.00025,
+          "archive": 0.000125,
+          "credit_roles": 0,
+          "author_given_family": 0.989375,
+          "affiliation_ror": 0,
+          "funding_complete": 0.332375,
+          "data_availability": 0,
+          "preprint_version_link": 0.038875,
+          "peer_review_info": 0.00025,
+          "clinical_trial": 0,
+          "abstract_structured": 0.0005,
+          "open_access_status": 0.990125
+        }
+      },
+      "openalex": {
+        "overall": 0.7632580472909769,
+        "categories": {
+          "findable_essential": 0.9636744049121035,
+          "findable_support": 0.7690913678801643,
+          "accessible_essential": 0.8799590658031234,
+          "accessible_support": 0.4968037681890823,
+          "evaluation_coara": 0.4456093868281605
+        },
+        "fields": {
+          "title": 1,
+          "abstract": 0.9919253091092607,
+          "author": 0.9984859954579863,
+          "author_affiliation": 0.987257128438052,
+          "doi": 1,
+          "publication_date": 1,
+          "publisher": 0.9976028261418117,
+          "resource_type": 1,
+          "subject_keywords": 1,
+          "funder_name": 0.5888215997981328,
+          "container_title": 1,
+          "language": 1,
+          "author_orcid": 0.9740095886954327,
+          "all_authors_orcid": 0.4239212717638153,
+          "funder_doi": 0.5888215997981328,
+          "award_number": 0.4841029523088569,
+          "issn": 1,
+          "volume": 0.9970981579611405,
+          "issue": 0.9962149886449659,
+          "page": 0.9958364875094625,
+          "published_print_date": 1,
+          "published_online_date": 1,
+          "article_number": 0,
+          "license": 0.9962149886449659,
+          "license_url": 0.9962149886449659,
+          "open_access_license": 0.9962149886449659,
+          "full_text_links": 0.9833459500378501,
+          "resource_url": 1,
+          "references": 0.9852384557153672,
+          "references_count": 0.9852384557153672,
+          "is_referenced_by": 0.9771637648246279,
+          "update_policy": 0,
+          "jats_abstract": 0,
+          "author_sequence": 0.9984859954579863,
+          "affiliation_ids_ror": 0.9870047943477164,
+          "relations": 0.9953318193287913,
+          "assertions": 0,
+          "archive": 0,
+          "credit_roles": 0,
+          "author_given_family": 0.9981074943224829,
+          "affiliation_ror": 0.9870047943477164,
+          "funding_complete": 0.4841029523088569,
+          "data_availability": 0,
+          "preprint_version_link": 0.9892758011607368,
+          "peer_review_info": 0,
+          "clinical_trial": 0,
+          "abstract_structured": 0,
+          "open_access_status": 0.9976028261418117
+        }
+      },
+      "comparable": {
+        "crossref": {
+          "categories": {
+            "findable_essential": 0.8681666666666666,
+            "findable_support": 0.6607125,
+            "accessible_essential": 0.98759375,
+            "accessible_support": 0.34575,
+            "evaluation_coara": 0.47015
+          },
+          "overall": 0.7350603124999999
+        },
+        "openalex": {
+          "categories": {
+            "findable_essential": 0.9636744049121035,
+            "findable_support": 0.8460005046681808,
+            "accessible_essential": 0.9899539490285139,
+            "accessible_support": 0.9936075363781646,
+            "evaluation_coara": 0.891218773656321
+          },
+          "overall": 0.9410953928000673
+        },
+        "gap": 0.20603508030006734
+      },
+      "voluntary": {
+        "crossref": 0.5150578125,
+        "openalex": 0.8706241063167633
+      }
+    },
+    {
+      "year": 2019,
+      "count": 8000,
+      "matched": 7944,
+      "universeSize": 109233,
+      "crossref": {
+        "overall": 0.687626654040404,
+        "categories": {
+          "findable_essential": 0.8789791666666665,
+          "findable_support": 0.6257045454545456,
+          "accessible_essential": 0.9914722222222222,
+          "accessible_support": 0.3349166666666666,
+          "evaluation_coara": 0.2435875
+        },
+        "fields": {
+          "title": 1,
+          "abstract": 0.993,
+          "author": 0.999625,
+          "author_affiliation": 0.988875,
+          "doi": 1,
+          "publication_date": 1,
+          "publisher": 1,
+          "resource_type": 1,
+          "subject_keywords": 0,
+          "funder_name": 0.5685,
+          "container_title": 1,
+          "language": 0.99775,
+          "author_orcid": 0.799125,
+          "all_authors_orcid": 0.0955,
+          "funder_doi": 0.431875,
+          "award_number": 0.568125,
+          "issn": 1,
+          "volume": 0.99525,
+          "issue": 0.99525,
+          "page": 0.995625,
+          "published_print_date": 0.00325,
+          "published_online_date": 0.99875,
+          "article_number": 0,
+          "license": 0.997375,
+          "license_url": 0.997375,
+          "open_access_license": 0.996125,
+          "full_text_links": 0.9985,
+          "resource_url": 1,
+          "references": 0.9875,
+          "references_count": 0.9875,
+          "is_referenced_by": 0.971625,
+          "update_policy": 0.98725,
+          "jats_abstract": 0.993,
+          "author_sequence": 0.999625,
+          "affiliation_ids_ror": 0,
+          "relations": 0.015625,
+          "assertions": 0.000625,
+          "archive": 0.000625,
+          "credit_roles": 0,
+          "author_given_family": 0.994125,
+          "affiliation_ror": 0,
+          "funding_complete": 0.43175,
+          "data_availability": 0,
+          "preprint_version_link": 0.012875,
+          "peer_review_info": 0.000625,
+          "clinical_trial": 0,
+          "abstract_structured": 0.000375,
+          "open_access_status": 0.996125
+        }
+      },
+      "openalex": {
+        "overall": 0.76657822560957,
+        "categories": {
+          "findable_essential": 0.9657078717690499,
+          "findable_support": 0.7745124965668773,
+          "accessible_essential": 0.8828046324269888,
+          "accessible_support": 0.4975872776099362,
+          "evaluation_coara": 0.4511455186304129
+        },
+        "fields": {
+          "title": 1,
+          "abstract": 0.9976082578046325,
+          "author": 0.9996223564954683,
+          "author_affiliation": 0.9899295065458208,
+          "doi": 1,
+          "publication_date": 1,
+          "publisher": 0.9988670694864048,
+          "resource_type": 1,
+          "subject_keywords": 1,
+          "funder_name": 0.6024672708962739,
+          "container_title": 1,
+          "language": 1,
+          "author_orcid": 0.9767119838872105,
+          "all_authors_orcid": 0.4230866062437059,
+          "funder_doi": 0.6024672708962739,
+          "award_number": 0.530337361530715,
+          "issn": 1,
+          "volume": 0.995845921450151,
+          "issue": 0.9954682779456193,
+          "page": 0.9957200402819738,
+          "published_print_date": 1,
+          "published_online_date": 1,
+          "article_number": 0,
+          "license": 0.9984894259818731,
+          "license_url": 0.9984894259818731,
+          "open_access_license": 0.9984894259818731,
+          "full_text_links": 0.9857754279959718,
+          "resource_url": 1,
+          "references": 0.9928247734138973,
+          "references_count": 0.9928247734138973,
+          "is_referenced_by": 0.9783484390735147,
+          "update_policy": 0,
+          "jats_abstract": 0,
+          "author_sequence": 0.9996223564954683,
+          "affiliation_ids_ror": 0.9898036253776435,
+          "relations": 0.9960976837865055,
+          "assertions": 0,
+          "archive": 0,
+          "credit_roles": 0,
+          "author_given_family": 0.9996223564954683,
+          "affiliation_ror": 0.9898036253776435,
+          "funding_complete": 0.530337361530715,
+          "data_availability": 0,
+          "preprint_version_link": 0.9921953675730111,
+          "peer_review_info": 0,
+          "clinical_trial": 0,
+          "abstract_structured": 0,
+          "open_access_status": 0.999496475327291
+        }
+      },
+      "comparable": {
+        "crossref": {
+          "categories": {
+            "findable_essential": 0.8789791666666665,
+            "findable_support": 0.6882750000000002,
+            "accessible_essential": 0.992,
+            "accessible_support": 0.33841666666666664,
+            "evaluation_coara": 0.486975
+          },
+          "overall": 0.7461716666666667
+        },
+        "openalex": {
+          "categories": {
+            "findable_essential": 0.9657078717690499,
+            "findable_support": 0.851963746223565,
+            "accessible_essential": 0.9931552114803625,
+            "accessible_support": 0.9951745552198724,
+            "evaluation_coara": 0.9022910372608258
+          },
+          "overall": 0.9457713893084927
+        },
+        "gap": 0.19959972264182602
+      },
+      "voluntary": {
+        "crossref": 0.5403432291666665,
+        "openalex": 0.8796854019805304
+      }
+    },
+    {
+      "year": 2020,
+      "count": 8000,
+      "matched": 7913,
+      "universeSize": 164913,
+      "crossref": {
+        "overall": 0.6895858964646465,
+        "categories": {
+          "findable_essential": 0.8791875,
+          "findable_support": 0.6338522727272727,
+          "accessible_essential": 0.9933055555555556,
+          "accessible_support": 0.3363541666666667,
+          "evaluation_coara": 0.24394999999999997
+        },
+        "fields": {
+          "title": 1,
+          "abstract": 0.995375,
+          "author": 1,
+          "author_affiliation": 0.991125,
+          "doi": 1,
+          "publication_date": 1,
+          "publisher": 1,
+          "resource_type": 1,
+          "subject_keywords": 0,
+          "funder_name": 0.56625,
+          "container_title": 1,
+          "language": 0.9975,
+          "author_orcid": 0.857625,
+          "all_authors_orcid": 0.1335,
+          "funder_doi": 0.425625,
+          "award_number": 0.566125,
+          "issn": 1,
+          "volume": 0.996375,
+          "issue": 0.99625,
+          "page": 0.99575,
+          "published_print_date": 0.002375,
+          "published_online_date": 0.9985,
+          "article_number": 0.00025,
+          "license": 0.997375,
+          "license_url": 0.997375,
+          "open_access_license": 0.996625,
+          "full_text_links": 0.999,
+          "resource_url": 1,
+          "references": 0.990875,
+          "references_count": 0.990875,
+          "is_referenced_by": 0.97725,
+          "update_policy": 0.990375,
+          "jats_abstract": 0.995375,
+          "author_sequence": 1,
+          "affiliation_ids_ror": 0,
+          "relations": 0.0225,
+          "assertions": 0,
+          "archive": 0.00025,
+          "credit_roles": 0,
+          "author_given_family": 0.99625,
+          "affiliation_ror": 0,
+          "funding_complete": 0.425375,
+          "data_availability": 0,
+          "preprint_version_link": 0.019875,
+          "peer_review_info": 0,
+          "clinical_trial": 0,
+          "abstract_structured": 0.001375,
+          "open_access_status": 0.996625
+        }
+      },
+      "openalex": {
+        "overall": 0.7655041569492473,
+        "categories": {
+          "findable_essential": 0.9631513543114706,
+          "findable_support": 0.7722504968808521,
+          "accessible_essential": 0.8837356249210161,
+          "accessible_support": 0.49806226041535023,
+          "evaluation_coara": 0.4499052192594465
+        },
+        "fields": {
+          "title": 1,
+          "abstract": 0.9982307595096677,
+          "author": 1,
+          "author_affiliation": 0.9927966637179325,
+          "doi": 1,
+          "publication_date": 1,
+          "publisher": 0.9983571338304057,
+          "resource_type": 1,
+          "subject_keywords": 1,
+          "funder_name": 0.568431694679641,
+          "container_title": 1,
+          "language": 1,
+          "author_orcid": 0.9849614558321749,
+          "all_authors_orcid": 0.44003538480980664,
+          "funder_doi": 0.568431694679641,
+          "award_number": 0.5119423733097435,
+          "issn": 1,
+          "volume": 0.9972197649437634,
+          "issue": 0.9964615190193352,
+          "page": 0.9957032730949071,
+          "published_print_date": 1,
+          "published_online_date": 1,
+          "article_number": 0,
+          "license": 0.9978516365474536,
+          "license_url": 0.9978516365474536,
+          "open_access_license": 0.9978516365474536,
+          "full_text_links": 0.9879944395298875,
+          "resource_url": 1,
+          "references": 0.995197775811955,
+          "references_count": 0.995197775811955,
+          "is_referenced_by": 0.9816757234929863,
+          "update_policy": 0,
+          "jats_abstract": 0,
+          "author_sequence": 1,
+          "affiliation_ids_ror": 0.9927966637179325,
+          "relations": 0.9955768987741691,
+          "assertions": 0,
+          "archive": 0,
+          "credit_roles": 0,
+          "author_given_family": 1,
+          "affiliation_ror": 0.9927966637179325,
+          "funding_complete": 0.5119423733097435,
+          "data_availability": 0,
+          "preprint_version_link": 0.995071401491217,
+          "peer_review_info": 0,
+          "clinical_trial": 0,
+          "abstract_structured": 0,
+          "open_access_status": 0.9992417540755718
+        }
+      },
+      "comparable": {
+        "crossref": {
+          "categories": {
+            "findable_essential": 0.8791875,
+            "findable_support": 0.6972125,
+            "accessible_essential": 0.993671875,
+            "accessible_support": 0.3408333333333333,
+            "evaluation_coara": 0.487625
+          },
+          "overall": 0.7483644270833333
+        },
+        "openalex": {
+          "categories": {
+            "findable_essential": 0.9631513543114706,
+            "findable_support": 0.8494755465689373,
+            "accessible_essential": 0.9942025780361431,
+            "accessible_support": 0.9961245208307005,
+            "evaluation_coara": 0.899810438518893
+          },
+          "overall": 0.9444919225746662
+        },
+        "gap": 0.1961274954913329
+      },
+      "voluntary": {
+        "crossref": 0.5448203125,
+        "openalex": 0.8760041492901975
+      }
+    },
+    {
+      "year": 2021,
+      "count": 8000,
+      "matched": 7907,
+      "universeSize": 240005,
+      "crossref": {
+        "overall": 0.6890312689393938,
+        "categories": {
+          "findable_essential": 0.8778645833333334,
+          "findable_support": 0.6326931818181818,
+          "accessible_essential": 0.9946666666666667,
+          "accessible_support": 0.33843749999999995,
+          "evaluation_coara": 0.24128749999999996
+        },
+        "fields": {
+          "title": 1,
+          "abstract": 0.9975,
+          "author": 0.999875,
+          "author_affiliation": 0.994125,
+          "doi": 1,
+          "publication_date": 1,
+          "publisher": 1,
+          "resource_type": 1,
+          "subject_keywords": 0,
+          "funder_name": 0.545875,
+          "container_title": 1,
+          "language": 0.997,
+          "author_orcid": 0.8885,
+          "all_authors_orcid": 0.140125,
+          "funder_doi": 0.391125,
+          "award_number": 0.5455,
+          "issn": 1,
+          "volume": 0.99825,
+          "issue": 0.99825,
+          "page": 0.997,
+          "published_print_date": 0.00175,
+          "published_online_date": 0.99875,
+          "article_number": 0.000375,
+          "license": 0.997125,
+          "license_url": 0.997125,
+          "open_access_license": 0.996875,
+          "full_text_links": 0.999375,
+          "resource_url": 1,
+          "references": 0.995125,
+          "references_count": 0.995125,
+          "is_referenced_by": 0.97725,
+          "update_policy": 0.994,
+          "jats_abstract": 0.9975,
+          "author_sequence": 0.999875,
+          "affiliation_ids_ror": 0,
+          "relations": 0.033,
+          "assertions": 0,
+          "archive": 0.00025,
+          "credit_roles": 0,
+          "author_given_family": 0.99375,
+          "affiliation_ror": 0,
+          "funding_complete": 0.391,
+          "data_availability": 0,
+          "preprint_version_link": 0.030375,
+          "peer_review_info": 0,
+          "clinical_trial": 0,
+          "abstract_structured": 0.000875,
+          "open_access_status": 0.996875
+        }
+      },
+      "openalex": {
+        "overall": 0.7616226767485146,
+        "categories": {
+          "findable_essential": 0.9582015935247249,
+          "findable_support": 0.7628453499200938,
+          "accessible_essential": 0.8838300802383261,
+          "accessible_support": 0.4983137304498124,
+          "evaluation_coara": 0.4447325154926015
+        },
+        "fields": {
+          "title": 1,
+          "abstract": 0.9984823574048312,
+          "author": 1,
+          "author_affiliation": 0.9924117870241558,
+          "doi": 1,
+          "publication_date": 1,
+          "publisher": 0.994688250916909,
+          "resource_type": 1,
+          "subject_keywords": 1,
+          "funder_name": 0.5128367269508031,
+          "container_title": 1,
+          "language": 1,
+          "author_orcid": 0.9887441507524978,
+          "all_authors_orcid": 0.43682812697609713,
+          "funder_doi": 0.5128367269508031,
+          "award_number": 0.4592133552548375,
+          "issn": 1,
+          "volume": 0.998355887188567,
+          "issue": 0.998355887188567,
+          "page": 0.9969647148096623,
+          "published_print_date": 1,
+          "published_online_date": 1,
+          "article_number": 0,
+          "license": 0.998229416972303,
+          "license_url": 0.998229416972303,
+          "open_access_license": 0.998229416972303,
+          "full_text_links": 0.9883647401037056,
+          "resource_url": 1,
+          "references": 0.9962058935120779,
+          "references_count": 0.9962058935120779,
+          "is_referenced_by": 0.9790059441001644,
+          "update_policy": 0,
+          "jats_abstract": 0,
+          "author_sequence": 1,
+          "affiliation_ids_ror": 0.9924117870241558,
+          "relations": 0.9974705956747186,
+          "assertions": 0,
+          "archive": 0,
+          "credit_roles": 0,
+          "author_given_family": 1,
+          "affiliation_ror": 0.9924117870241558,
+          "funding_complete": 0.4592133552548375,
+          "data_availability": 0,
+          "preprint_version_link": 0.9968382445933982,
+          "peer_review_info": 0,
+          "clinical_trial": 0,
+          "abstract_structured": 0,
+          "open_access_status": 0.9988617680536234
+        }
+      },
+      "comparable": {
+        "crossref": {
+          "categories": {
+            "findable_essential": 0.8778645833333334,
+            "findable_support": 0.695925,
+            "accessible_essential": 0.99475,
+            "accessible_support": 0.34429166666666666,
+            "evaluation_coara": 0.4824
+          },
+          "overall": 0.7473447916666667
+        },
+        "openalex": {
+          "categories": {
+            "findable_essential": 0.9582015935247249,
+            "findable_support": 0.8391298849121032,
+            "accessible_essential": 0.9943088402681168,
+            "accessible_support": 0.9966274608996248,
+            "evaluation_coara": 0.889465030985203
+          },
+          "overall": 0.9394629231482653
+        },
+        "gap": 0.19211813148159862
+      },
+      "voluntary": {
+        "crossref": 0.542678125,
+        "openalex": 0.8646357657771596
+      }
+    },
+    {
+      "year": 2022,
+      "count": 8000,
+      "matched": 7926,
+      "universeSize": 301146,
+      "crossref": {
+        "overall": 0.6884821527777779,
+        "categories": {
+          "findable_essential": 0.8879895833333333,
+          "findable_support": 0.6285,
+          "accessible_essential": 0.9921944444444447,
+          "accessible_support": 0.33591666666666664,
+          "evaluation_coara": 0.23085
+        },
+        "fields": {
+          "title": 1,
+          "abstract": 0.998875,
+          "author": 1,
+          "author_affiliation": 0.99675,
+          "doi": 1,
+          "publication_date": 1,
+          "publisher": 1,
+          "resource_type": 1,
+          "subject_keywords": 0,
+          "funder_name": 0.661375,
+          "container_title": 1,
+          "language": 0.998875,
+          "author_orcid": 0.8795,
+          "all_authors_orcid": 0.134125,
+          "funder_doi": 0.301125,
+          "award_number": 0.60175,
+          "issn": 1,
+          "volume": 0.999125,
+          "issue": 0.999125,
+          "page": 0.9985,
+          "published_print_date": 0.0005,
+          "published_online_date": 0.999625,
+          "article_number": 0.000125,
+          "license": 0.998875,
+          "license_url": 0.998875,
+          "open_access_license": 0.99875,
+          "full_text_links": 0.999875,
+          "resource_url": 1,
+          "references": 0.996375,
+          "references_count": 0.996375,
+          "is_referenced_by": 0.942875,
+          "update_policy": 0.99775,
+          "jats_abstract": 0.998875,
+          "author_sequence": 1,
+          "affiliation_ids_ror": 0,
+          "relations": 0.016625,
+          "assertions": 0,
+          "archive": 0,
+          "credit_roles": 0,
+          "author_given_family": 0.99475,
+          "affiliation_ror": 0,
+          "funding_complete": 0.300875,
+          "data_availability": 0,
+          "preprint_version_link": 0.014125,
+          "peer_review_info": 0,
+          "clinical_trial": 0,
+          "abstract_structured": 0,
+          "open_access_status": 0.99875
+        }
+      },
+      "openalex": {
+        "overall": 0.7566608234757364,
+        "categories": {
+          "findable_essential": 0.9529712339137019,
+          "findable_support": 0.7489619893102103,
+          "accessible_essential": 0.883309501780357,
+          "accessible_support": 0.4984859954579864,
+          "evaluation_coara": 0.438745899571032
+        },
+        "fields": {
+          "title": 1,
+          "abstract": 0.9981074943224829,
+          "author": 1,
+          "author_affiliation": 0.9923038102447641,
+          "doi": 1,
+          "publication_date": 1,
+          "publisher": 0.9915468079737573,
+          "resource_type": 1,
+          "subject_keywords": 1,
+          "funder_name": 0.4536966944234166,
+          "container_title": 1,
+          "language": 1,
+          "author_orcid": 0.9883926318445622,
+          "all_authors_orcid": 0.4013373706787787,
+          "funder_doi": 0.4536966944234166,
+          "award_number": 0.39843552863991927,
+          "issn": 1,
+          "volume": 0.9991168306838254,
+          "issue": 0.9991168306838254,
+          "page": 0.9984859954579863,
+          "published_print_date": 1,
+          "published_online_date": 1,
+          "article_number": 0,
+          "license": 0.9988644965934897,
+          "license_url": 0.9988644965934897,
+          "open_access_license": 0.9988644965934897,
+          "full_text_links": 0.9915468079737573,
+          "resource_url": 1,
+          "references": 0.9967196568256371,
+          "references_count": 0.9967196568256371,
+          "is_referenced_by": 0.9682059046177138,
+          "update_policy": 0,
+          "jats_abstract": 0,
+          "author_sequence": 1,
+          "affiliation_ids_ror": 0.9923038102447641,
+          "relations": 0.9986121625031542,
+          "assertions": 0,
+          "archive": 0,
+          "credit_roles": 0,
+          "author_given_family": 1,
+          "affiliation_ror": 0.9923038102447641,
+          "funding_complete": 0.39843552863991927,
+          "data_availability": 0,
+          "preprint_version_link": 0.9970981579611405,
+          "peer_review_info": 0,
+          "clinical_trial": 0,
+          "abstract_structured": 0,
+          "open_access_status": 0.9996214988644966
+        }
+      },
+      "comparable": {
+        "crossref": {
+          "categories": {
+            "findable_essential": 0.8879895833333333,
+            "findable_support": 0.6913375,
+            "accessible_essential": 0.9915000000000002,
+            "accessible_support": 0.338875,
+            "evaluation_coara": 0.4617
+          },
+          "overall": 0.7442
+        },
+        "openalex": {
+          "categories": {
+            "findable_essential": 0.9529712339137019,
+            "findable_support": 0.8238581882412314,
+            "accessible_essential": 0.9937231895029017,
+            "accessible_support": 0.9969719909159728,
+            "evaluation_coara": 0.877491799142064
+          },
+          "overall": 0.9330964547060306
+        },
+        "gap": 0.18889645470603067
+      },
+      "voluntary": {
+        "crossref": 0.5422666666666667,
+        "openalex": 0.8504715493313146
+      }
+    },
+    {
+      "year": 2023,
+      "count": 8000,
+      "matched": 7960,
+      "universeSize": 286163,
+      "crossref": {
+        "overall": 0.6875881818181818,
+        "categories": {
+          "findable_essential": 0.8913125000000001,
+          "findable_support": 0.6257045454545455,
+          "accessible_essential": 0.9908749999999998,
+          "accessible_support": 0.333875,
+          "evaluation_coara": 0.2261625
+        },
+        "fields": {
+          "title": 1,
+          "abstract": 0.998125,
+          "author": 0.999875,
+          "author_affiliation": 0.9965,
+          "doi": 1,
+          "publication_date": 1,
+          "publisher": 1,
+          "resource_type": 1,
+          "subject_keywords": 0,
+          "funder_name": 0.703,
+          "container_title": 1,
+          "language": 0.99825,
+          "author_orcid": 0.863625,
+          "all_authors_orcid": 0.132875,
+          "funder_doi": 0.2655,
+          "award_number": 0.62525,
+          "issn": 1,
+          "volume": 0.99875,
+          "issue": 0.99875,
+          "page": 0.997875,
+          "published_print_date": 0.000875,
+          "published_online_date": 0.99925,
+          "article_number": 0,
+          "license": 0.99775,
+          "license_url": 0.99775,
+          "open_access_license": 0.997625,
+          "full_text_links": 0.999375,
+          "resource_url": 1,
+          "references": 0.995875,
+          "references_count": 0.995875,
+          "is_referenced_by": 0.93675,
+          "update_policy": 0.996875,
+          "jats_abstract": 0.998125,
+          "author_sequence": 0.999875,
+          "affiliation_ids_ror": 0,
+          "relations": 0.00525,
+          "assertions": 0,
+          "archive": 0,
+          "credit_roles": 0,
+          "author_given_family": 0.995,
+          "affiliation_ror": 0,
+          "funding_complete": 0.265375,
+          "data_availability": 0,
+          "preprint_version_link": 0.003625,
+          "peer_review_info": 0,
+          "clinical_trial": 0,
+          "abstract_structured": 0,
+          "open_access_status": 0.997625
+        }
+      },
+      "openalex": {
+        "overall": 0.759719728693975,
+        "categories": {
+          "findable_essential": 0.9598513400335009,
+          "findable_support": 0.7572293284604843,
+          "accessible_essential": 0.8819374651032942,
+          "accessible_support": 0.49901591289782243,
+          "evaluation_coara": 0.43896984924623117
+        },
+        "fields": {
+          "title": 1,
+          "abstract": 0.9978643216080402,
+          "author": 1,
+          "author_affiliation": 0.9940954773869347,
+          "doi": 1,
+          "publication_date": 1,
+          "publisher": 0.9915829145728643,
+          "resource_type": 1,
+          "subject_keywords": 1,
+          "funder_name": 0.5346733668341709,
+          "container_title": 1,
+          "language": 1,
+          "author_orcid": 0.9876884422110552,
+          "all_authors_orcid": 0.38040201005025126,
+          "funder_doi": 0.5346733668341709,
+          "award_number": 0.4314070351758794,
+          "issn": 1,
+          "volume": 0.9987437185929648,
+          "issue": 0.9987437185929648,
+          "page": 0.9978643216080402,
+          "published_print_date": 1,
+          "published_online_date": 1,
+          "article_number": 0,
+          "license": 0.9983668341708543,
+          "license_url": 0.9983668341708543,
+          "open_access_license": 0.9983668341708543,
+          "full_text_links": 0.9984924623115577,
+          "resource_url": 1,
+          "references": 0.9971105527638191,
+          "references_count": 0.9971105527638191,
+          "is_referenced_by": 0.9496231155778895,
+          "update_policy": 0,
+          "jats_abstract": 0,
+          "author_sequence": 1,
+          "affiliation_ids_ror": 0.9940954773869347,
+          "relations": 1,
+          "assertions": 0,
+          "archive": 0,
+          "credit_roles": 0,
+          "author_given_family": 1,
+          "affiliation_ror": 0.9940954773869347,
+          "funding_complete": 0.4314070351758794,
+          "data_availability": 0,
+          "preprint_version_link": 0.9649497487437186,
+          "peer_review_info": 0,
+          "clinical_trial": 0,
+          "abstract_structured": 0,
+          "open_access_status": 0.9992462311557789
+        }
+      },
+      "comparable": {
+        "crossref": {
+          "categories": {
+            "findable_essential": 0.8913125000000001,
+            "findable_support": 0.688275,
+            "accessible_essential": 0.9901249999999999,
+            "accessible_support": 0.3350416666666667,
+            "evaluation_coara": 0.452325
+          },
+          "overall": 0.7421354166666667
+        },
+        "openalex": {
+          "categories": {
+            "findable_essential": 0.9598513400335009,
+            "findable_support": 0.8329522613065328,
+            "accessible_essential": 0.992179648241206,
+            "accessible_support": 0.9980318257956449,
+            "evaluation_coara": 0.8779396984924623
+          },
+          "overall": 0.9363342755443886
+        },
+        "gap": 0.19419885887772192
+      },
+      "voluntary": {
+        "crossref": 0.5404041666666667,
+        "openalex": 0.8604794807370184
+      }
+    },
+    {
+      "year": 2024,
+      "count": 8000,
+      "matched": 7985,
+      "universeSize": 242428,
+      "crossref": {
+        "overall": 0.6846118623737373,
+        "categories": {
+          "findable_essential": 0.8910729166666665,
+          "findable_support": 0.6245795454545454,
+          "accessible_essential": 0.9823888888888889,
+          "accessible_support": 0.33433333333333337,
+          "evaluation_coara": 0.22286250000000002
+        },
+        "fields": {
+          "title": 1,
+          "abstract": 0.99825,
+          "author": 0.999875,
+          "author_affiliation": 0.997375,
+          "doi": 1,
+          "publication_date": 1,
+          "publisher": 1,
+          "resource_type": 1,
+          "subject_keywords": 0,
+          "funder_name": 0.6985,
+          "container_title": 1,
+          "language": 0.998875,
+          "author_orcid": 0.874625,
+          "all_authors_orcid": 0.161,
+          "funder_doi": 0.22825,
+          "award_number": 0.610125,
+          "issn": 1,
+          "volume": 0.999,
+          "issue": 0.999,
+          "page": 0.998125,
+          "published_print_date": 0.0005,
+          "published_online_date": 0.99975,
+          "article_number": 0,
+          "license": 0.997875,
+          "license_url": 0.997875,
+          "open_access_license": 0.997625,
+          "full_text_links": 0.999375,
+          "resource_url": 1,
+          "references": 0.990625,
+          "references_count": 0.990625,
+          "is_referenced_by": 0.870375,
+          "update_policy": 0.997125,
+          "jats_abstract": 0.99825,
+          "author_sequence": 0.999875,
+          "affiliation_ids_ror": 0,
+          "relations": 0.00775,
+          "assertions": 0,
+          "archive": 0.000125,
+          "credit_roles": 0,
+          "author_given_family": 0.9975,
+          "affiliation_ror": 0,
+          "funding_complete": 0.228,
+          "data_availability": 0,
+          "preprint_version_link": 0.00525,
+          "peer_review_info": 0,
+          "clinical_trial": 0,
+          "abstract_structured": 0.00025,
+          "open_access_status": 0.997625
+        }
+      },
+      "openalex": {
+        "overall": 0.7501290804096064,
+        "categories": {
+          "findable_essential": 0.9541849300772282,
+          "findable_support": 0.743211703762737,
+          "accessible_essential": 0.8682390593473874,
+          "accessible_support": 0.49851805468586935,
+          "evaluation_coara": 0.42740137758296803
+        },
+        "fields": {
+          "title": 1,
+          "abstract": 0.9969943644333125,
+          "author": 0.9998747651847214,
+          "author_affiliation": 0.9912335629304947,
+          "doi": 1,
+          "publication_date": 1,
+          "publisher": 0.9872260488415779,
+          "resource_type": 1,
+          "subject_keywords": 1,
+          "funder_name": 0.4748904195366312,
+          "container_title": 1,
+          "language": 1,
+          "author_orcid": 0.9852222917971196,
+          "all_authors_orcid": 0.3416405760801503,
+          "funder_doi": 0.4748904195366312,
+          "award_number": 0.37745773324984344,
+          "issn": 1,
+          "volume": 0.9989981214777708,
+          "issue": 0.9989981214777708,
+          "page": 0.9981214777708203,
+          "published_print_date": 1,
+          "published_online_date": 1,
+          "article_number": 0,
+          "license": 0.9989981214777708,
+          "license_url": 0.9989981214777708,
+          "open_access_license": 0.9989981214777708,
+          "full_text_links": 0.9368816530995617,
+          "resource_url": 1,
+          "references": 0.9971195992485911,
+          "references_count": 0.9971195992485911,
+          "is_referenced_by": 0.8860363180964308,
+          "update_policy": 0,
+          "jats_abstract": 0,
+          "author_sequence": 0.9998747651847214,
+          "affiliation_ids_ror": 0.9912335629304947,
+          "relations": 1,
+          "assertions": 0,
+          "archive": 0,
+          "credit_roles": 0,
+          "author_given_family": 0.9998747651847214,
+          "affiliation_ror": 0.9912335629304947,
+          "funding_complete": 0.37745773324984344,
+          "data_availability": 0,
+          "preprint_version_link": 0.9056981840951784,
+          "peer_review_info": 0,
+          "clinical_trial": 0,
+          "abstract_structured": 0,
+          "open_access_status": 0.9997495303694427
+        }
+      },
+      "comparable": {
+        "crossref": {
+          "categories": {
+            "findable_essential": 0.8910729166666665,
+            "findable_support": 0.6870375,
+            "accessible_essential": 0.9805468749999999,
+            "accessible_support": 0.335875,
+            "evaluation_coara": 0.44567499999999993
+          },
+          "overall": 0.7382367187499999
+        },
+        "openalex": {
+          "categories": {
+            "findable_essential": 0.9541849300772282,
+            "findable_support": 0.8175328741390107,
+            "accessible_essential": 0.9767689417658109,
+            "accessible_support": 0.9970361093717387,
+            "evaluation_coara": 0.8548027551659361
+          },
+          "overall": 0.9237418075558338
+        },
+        "gap": 0.18550508880583394
+      },
+      "voluntary": {
+        "crossref": 0.5365114583333332,
+        "openalex": 0.8420783761218952
+      }
+    },
+    {
+      "year": 2025,
+      "count": 8000,
+      "matched": 7987,
+      "universeSize": 266310,
+      "crossref": {
+        "overall": 0.6779094823232322,
+        "categories": {
+          "findable_essential": 0.8886666666666666,
+          "findable_support": 0.6295113636363637,
+          "accessible_essential": 0.9552777777777778,
+          "accessible_support": 0.33395833333333336,
+          "evaluation_coara": 0.22333750000000002
+        },
+        "fields": {
+          "title": 1,
+          "abstract": 1,
+          "author": 1,
+          "author_affiliation": 1,
+          "doi": 1,
+          "publication_date": 1,
+          "publisher": 1,
+          "resource_type": 1,
+          "subject_keywords": 0,
+          "funder_name": 0.664375,
+          "container_title": 1,
+          "language": 0.999625,
+          "author_orcid": 0.9005,
+          "all_authors_orcid": 0.1955,
+          "funder_doi": 0.2415,
+          "award_number": 0.5875,
+          "issn": 1,
+          "volume": 1,
+          "issue": 1,
+          "page": 0.999625,
+          "published_print_date": 0.000375,
+          "published_online_date": 0.999625,
+          "article_number": 0,
+          "license": 0.999625,
+          "license_url": 0.999625,
+          "open_access_license": 0.999625,
+          "full_text_links": 1,
+          "resource_url": 1,
+          "references": 0.998875,
+          "references_count": 0.998875,
+          "is_referenced_by": 0.60125,
+          "update_policy": 0.999625,
+          "jats_abstract": 1,
+          "author_sequence": 1,
+          "affiliation_ids_ror": 0,
+          "relations": 0.00375,
+          "assertions": 0,
+          "archive": 0,
+          "credit_roles": 0,
+          "author_given_family": 0.997,
+          "affiliation_ror": 0,
+          "funding_complete": 0.234125,
+          "data_availability": 0,
+          "preprint_version_link": 0.002625,
+          "peer_review_info": 0,
+          "clinical_trial": 0,
+          "abstract_structured": 0,
+          "open_access_status": 0.999625
+        }
+      },
+      "openalex": {
+        "overall": 0.7299487045236388,
+        "categories": {
+          "findable_essential": 0.9508367764283626,
+          "findable_support": 0.7358320907838874,
+          "accessible_essential": 0.8216268102332958,
+          "accessible_support": 0.44952214014440134,
+          "evaluation_coara": 0.4198197070239139
+        },
+        "fields": {
+          "title": 1,
+          "abstract": 0.996995117065231,
+          "author": 1,
+          "author_affiliation": 0.9946162514085388,
+          "doi": 1,
+          "publication_date": 1,
+          "publisher": 0.982972330036309,
+          "resource_type": 1,
+          "subject_keywords": 1,
+          "funder_name": 0.4354576186302742,
+          "container_title": 1,
+          "language": 1,
+          "author_orcid": 0.9837235507700013,
+          "all_authors_orcid": 0.34506072367597346,
+          "funder_doi": 0.4354576186302742,
+          "award_number": 0.33028671591335923,
+          "issn": 1,
+          "volume": 1,
+          "issue": 1,
+          "page": 0.9996243896331539,
+          "published_print_date": 1,
+          "published_online_date": 1,
+          "article_number": 0,
+          "license": 0.9996243896331539,
+          "license_url": 0.9996243896331539,
+          "open_access_license": 0.9996243896331539,
+          "full_text_links": 0.863778640290472,
+          "resource_url": 1,
+          "references": 0.9712032052084637,
+          "references_count": 0.9712032052084637,
+          "is_referenced_by": 0.5895830724928008,
+          "update_policy": 0,
+          "jats_abstract": 0,
+          "author_sequence": 1,
+          "affiliation_ids_ror": 0.9943658444973081,
+          "relations": 0.7027669963690998,
+          "assertions": 0,
+          "archive": 0,
+          "credit_roles": 0,
+          "author_given_family": 1,
+          "affiliation_ror": 0.9943658444973081,
+          "funding_complete": 0.33028671591335923,
+          "data_availability": 0,
+          "preprint_version_link": 0.873794916739702,
+          "peer_review_info": 0,
+          "clinical_trial": 0,
+          "abstract_structured": 0,
+          "open_access_status": 0.9997495930887692
+        }
+      },
+      "comparable": {
+        "crossref": {
+          "categories": {
+            "findable_essential": 0.8886666666666666,
+            "findable_support": 0.6924625000000001,
+            "accessible_essential": 0.949734375,
+            "accessible_support": 0.3345833333333333,
+            "evaluation_coara": 0.44667500000000004
+          },
+          "overall": 0.7306963020833334
+        },
+        "openalex": {
+          "categories": {
+            "findable_essential": 0.9508367764283626,
+            "findable_support": 0.8094152998622762,
+            "accessible_essential": 0.9243301615124577,
+            "accessible_support": 0.8990442802888027,
+            "evaluation_coara": 0.8396394140478278
+          },
+          "overall": 0.8955781791244106
+        },
+        "gap": 0.16488187704107726
+      },
+      "voluntary": {
+        "crossref": 0.5377677083333333,
+        "openalex": 0.8121640373940988
+      }
+    }
+  ],
+  "fieldSamples": {
+    "title": [],
+    "abstract": [
+      {
+        "doi": "10.3797/scipharm.1406-19",
+        "title": "Enhancing Skin Permeation of Biphenylacetic Acid (BPA) Using Salt Formation with Organic and Alkali Metal Bases"
+      },
+      {
+        "doi": "10.3797/scipharm.1411-05",
+        "title": "Dosage Form Data Used for Estimating Pediatric Antibiotic Use"
+      },
+      {
+        "doi": "10.21775/cimb.017.037",
+        "title": "ADARs and the Balance Game between Virus Infection and Innate Immune Cell Response"
+      },
+      {
+        "doi": "10.1016/j.medici.2015.11.004",
+        "title": "Nutritional habits among high-performance endurance athletes"
+      },
+      {
+        "doi": "10.1016/j.medici.2015.06.005",
+        "title": "Prevalence and etiology of midfacial fractures: A study of 799 cases"
+      }
+    ],
+    "author": [
+      {
+        "doi": "10.21775/cimb.017.037",
+        "title": "ADARs and the Balance Game between Virus Infection and Innate Immune Cell Response"
+      },
+      {
+        "doi": "10.4414/cvm.2015.00283",
+        "title": "Update on cardiovascular risk factors as a critical issue of modern preventive cardiology"
+      },
+      {
+        "doi": "10.4414/cvm.2015.00329",
+        "title": "Announcement of the 4th European Live Summit on Retrograde CTO Revascularization"
+      },
+      {
+        "doi": "10.4414/cvm.2015.00300",
+        "title": "Outcome  after simultaneous PCI and left atrial appendage occlusion"
+      },
+      {
+        "doi": "10.21775/cimb.017.057",
+        "title": "Allele Mining Strategies: Principles and Utilisation for Blast Resistance Genes in Rice (<i>Oryza sativa</i>L.)"
+      }
+    ],
+    "author_affiliation": [
+      {
+        "doi": "10.5603/piap.2015.0013",
+        "title": "Lekarze Polskiego Pochodzenia na Ukrainie (XVIII–XX w.)"
+      },
+      {
+        "doi": "10.3797/scipharm.1406-19",
+        "title": "Enhancing Skin Permeation of Biphenylacetic Acid (BPA) Using Salt Formation with Organic and Alkali Metal Bases"
+      },
+      {
+        "doi": "10.3797/scipharm.1411-05",
+        "title": "Dosage Form Data Used for Estimating Pediatric Antibiotic Use"
+      },
+      {
+        "doi": "10.3747/co.22.2322",
+        "title": "Systemic Targeted Therapy for her2-Positive Early Female Breast Cancer: A Systematic Review of the Evidence for the 2014 Cancer Care Ontario Systemic Therapy Guideline"
+      },
+      {
+        "doi": "10.21775/cimb.017.037",
+        "title": "ADARs and the Balance Game between Virus Infection and Innate Immune Cell Response"
+      }
+    ],
+    "doi": [],
+    "publication_date": [],
+    "publisher": [],
+    "resource_type": [],
+    "subject_keywords": [
+      {
+        "doi": "10.5603/piap.2015.0013",
+        "title": "Lekarze Polskiego Pochodzenia na Ukrainie (XVIII–XX w.)"
+      },
+      {
+        "doi": "10.3797/scipharm.1406-19",
+        "title": "Enhancing Skin Permeation of Biphenylacetic Acid (BPA) Using Salt Formation with Organic and Alkali Metal Bases"
+      },
+      {
+        "doi": "10.3797/scipharm.1411-05",
+        "title": "Dosage Form Data Used for Estimating Pediatric Antibiotic Use"
+      },
+      {
+        "doi": "10.4081/thal.2015.4597",
+        "title": "Hemoglobin SE Disease in Hatay, in the Southern Part of Turkey"
+      },
+      {
+        "doi": "10.3390/molecules20010645",
+        "title": "Molecules after 20 Years—Looking Back and Looking Forward"
+      }
+    ],
+    "funder_name": [
+      {
+        "doi": "10.3797/scipharm.1406-19",
+        "title": "Enhancing Skin Permeation of Biphenylacetic Acid (BPA) Using Salt Formation with Organic and Alkali Metal Bases"
+      },
+      {
+        "doi": "10.3390/toxins7020553",
+        "title": "Sulfasalazine Attenuates Staphylococcal Enterotoxin B-Induced Immune Responses"
+      },
+      {
+        "doi": "10.3390/s150305649",
+        "title": "An Efficient Mosaic Algorithm Considering Seasonal Variation: Application to KOMPSAT-2 Satellite Images"
+      },
+      {
+        "doi": "10.3390/chemosensors3020036",
+        "title": "Synthesis and Properties of 2'-Deoxyuridine Analogues Bearing Various Azobenzene Derivatives at the C5 Position"
+      },
+      {
+        "doi": "10.3390/molecules20045423",
+        "title": "Dereplication of Known Nucleobase and Nucleoside Compounds in Natural Product Extracts by Capillary Electrophoresis-High Resolution Mass Spectrometry"
+      }
+    ],
+    "container_title": [],
+    "language": [
+      {
+        "doi": "10.3797/scipharm.1406-19",
+        "title": "Enhancing Skin Permeation of Biphenylacetic Acid (BPA) Using Salt Formation with Organic and Alkali Metal Bases"
+      },
+      {
+        "doi": "10.3797/scipharm.1411-05",
+        "title": "Dosage Form Data Used for Estimating Pediatric Antibiotic Use"
+      },
+      {
+        "doi": "10.3797/scipharm.1503-02",
+        "title": "A Novel, Rapid, and Validated Stability-Indicating UPLC Method for the Estimation of Drotaverine Hydrochloride and Ibuprofen Impurities in Oral Solid Dosage Form"
+      },
+      {
+        "doi": "10.3797/scipharm.1407-18",
+        "title": "Isolation, Identification, and Characterisation of Degradation Products and the Development and Validation of a Stability-Indicating Method for the Estimation of Impurities in the Tolterodine Tartrate Formulation"
+      },
+      {
+        "doi": "10.3797/scipharm.1406-09",
+        "title": "Synthesis and Antioxidant Activity of 7-Thio Derivatives of 6,7-Dihydro-1H-cyclopenta[d]pyrimidine-2,4(3H,5H)-dione"
+      }
+    ],
+    "author_orcid": [
+      {
+        "doi": "10.3797/scipharm.1406-19",
+        "title": "Enhancing Skin Permeation of Biphenylacetic Acid (BPA) Using Salt Formation with Organic and Alkali Metal Bases"
+      },
+      {
+        "doi": "10.3797/scipharm.1411-05",
+        "title": "Dosage Form Data Used for Estimating Pediatric Antibiotic Use"
+      },
+      {
+        "doi": "10.4081/thal.2015.4597",
+        "title": "Hemoglobin SE Disease in Hatay, in the Southern Part of Turkey"
+      },
+      {
+        "doi": "10.3390/molecules20010645",
+        "title": "Molecules after 20 Years—Looking Back and Looking Forward"
+      },
+      {
+        "doi": "10.3390/rs70201279",
+        "title": "Modeling and Mapping Soil Moisture of Plateau Pasture Using RADARSAT-2 Imagery"
+      }
+    ],
+    "all_authors_orcid": [
+      {
+        "doi": "10.3797/scipharm.1406-19",
+        "title": "Enhancing Skin Permeation of Biphenylacetic Acid (BPA) Using Salt Formation with Organic and Alkali Metal Bases"
+      },
+      {
+        "doi": "10.3797/scipharm.1411-05",
+        "title": "Dosage Form Data Used for Estimating Pediatric Antibiotic Use"
+      },
+      {
+        "doi": "10.3390/molecules20010645",
+        "title": "Molecules after 20 Years—Looking Back and Looking Forward"
+      },
+      {
+        "doi": "10.3390/toxins7020553",
+        "title": "Sulfasalazine Attenuates Staphylococcal Enterotoxin B-Induced Immune Responses"
+      },
+      {
+        "doi": "10.3390/s150305649",
+        "title": "An Efficient Mosaic Algorithm Considering Seasonal Variation: Application to KOMPSAT-2 Satellite Images"
+      }
+    ],
+    "funder_doi": [
+      {
+        "doi": "10.3797/scipharm.1406-19",
+        "title": "Enhancing Skin Permeation of Biphenylacetic Acid (BPA) Using Salt Formation with Organic and Alkali Metal Bases"
+      },
+      {
+        "doi": "10.3390/toxins7020553",
+        "title": "Sulfasalazine Attenuates Staphylococcal Enterotoxin B-Induced Immune Responses"
+      },
+      {
+        "doi": "10.3390/ph8010107",
+        "title": "A Retrospective Study of the Impact of 21-Gene Recurrence Score Assay on Treatment Choice in Node Positive Micrometastatic Breast Cancer"
+      },
+      {
+        "doi": "10.3390/s150203023",
+        "title": "Spatial and Temporal Characteristics of Insulator Contaminations Revealed by Daily Observations of  Equivalent Salt Deposit Density"
+      },
+      {
+        "doi": "10.3390/s150305649",
+        "title": "An Efficient Mosaic Algorithm Considering Seasonal Variation: Application to KOMPSAT-2 Satellite Images"
+      }
+    ],
+    "award_number": [
+      {
+        "doi": "10.3390/s150305649",
+        "title": "An Efficient Mosaic Algorithm Considering Seasonal Variation: Application to KOMPSAT-2 Satellite Images"
+      },
+      {
+        "doi": "10.3390/molecules20022707",
+        "title": "Diversity of Heparan Sulfate and HSV Entry:  Basic Understanding and Treatment Strategies"
+      },
+      {
+        "doi": "10.21775/cimb.017.037",
+        "title": "ADARs and the Balance Game between Virus Infection and Innate Immune Cell Response"
+      },
+      {
+        "doi": "10.3390/membranes5010001",
+        "title": "Characteristics of PVDF Membranes Irradiated  by Electron Beam"
+      },
+      {
+        "doi": "10.3390/molecules20034951",
+        "title": "Determination of Phenolic Compounds and Antioxidant Activity in Leaves from Wild Rubus L. Species"
+      }
+    ],
+    "issn": [],
+    "volume": [
+      {
+        "doi": "10.21775/cimb.017.037",
+        "title": "ADARs and the Balance Game between Virus Infection and Innate Immune Cell Response"
+      },
+      {
+        "doi": "10.21775/cimb.017.057",
+        "title": "Allele Mining Strategies: Principles and Utilisation for Blast Resistance Genes in Rice (<i>Oryza sativa</i>L.)"
+      },
+      {
+        "doi": "10.21775/cimb.017.053",
+        "title": "Inosine at Different Primer Positions to Study Structure and Diversity of Prokaryotic Populations"
+      },
+      {
+        "doi": "10.21775/cimb.017.023",
+        "title": "Regulation of Ion Channel and Transporter Function Through RNA Editing"
+      },
+      {
+        "doi": "10.21775/cimb.017.001",
+        "title": "SETDB1 in Early Embryos and Embryonic Stem Cells"
+      }
+    ],
+    "issue": [
+      {
+        "doi": "10.4081/xeno.2019.8147",
+        "title": "Detection of polystyrene nanoplastics in biological tissues with a fluorescent molecular rotor probe"
+      },
+      {
+        "doi": "10.1159/000503661",
+        "title": "A 39-Year-Old Male Congenital Tricuspid Atresia Patient Who Presented with a New Axillary Lesion after an Orthotopic Heart Transplant"
+      },
+      {
+        "doi": "10.1159/000506272",
+        "title": "Cutaneous Mucormycosis Resulting from Hematogenous Dissemination of &lt;b&gt;&lt;i&gt;Rhizomucor pusillus&lt;/i&gt;&lt;/b&gt; in an Immunocompromised Patient"
+      },
+      {
+        "doi": "10.1159/000505354",
+        "title": "Successful Treatment of Scalp Myxedema with Injected Hyaluronidase: A Case Report"
+      },
+      {
+        "doi": "10.7547/18-042",
+        "title": "Fungal Nails? DNA Facts Challenge Dystrophic Etiology"
+      }
+    ],
+    "page": [
+      {
+        "doi": "10.21775/cimb.017.037",
+        "title": "ADARs and the Balance Game between Virus Infection and Innate Immune Cell Response"
+      },
+      {
+        "doi": "10.21775/cimb.017.057",
+        "title": "Allele Mining Strategies: Principles and Utilisation for Blast Resistance Genes in Rice (<i>Oryza sativa</i>L.)"
+      },
+      {
+        "doi": "10.21775/cimb.017.053",
+        "title": "Inosine at Different Primer Positions to Study Structure and Diversity of Prokaryotic Populations"
+      },
+      {
+        "doi": "10.4081/ni.2015.5430",
+        "title": "Similar effects of two modified constraint-induced therapy protocols on motor impairment, motor function and quality of life in patients with chronic stroke"
+      },
+      {
+        "doi": "10.21775/cimb.017.023",
+        "title": "Regulation of Ion Channel and Transporter Function Through RNA Editing"
+      }
+    ],
+    "published_print_date": [
+      {
+        "doi": "10.5603/piap.2015.0013",
+        "title": "Lekarze Polskiego Pochodzenia na Ukrainie (XVIII–XX w.)"
+      },
+      {
+        "doi": "10.4081/thal.2015.4597",
+        "title": "Hemoglobin SE Disease in Hatay, in the Southern Part of Turkey"
+      },
+      {
+        "doi": "10.3390/molecules20010645",
+        "title": "Molecules after 20 Years—Looking Back and Looking Forward"
+      },
+      {
+        "doi": "10.3390/toxics3010018",
+        "title": "Acknowledgement to Reviewers of Toxics in 2014"
+      },
+      {
+        "doi": "10.3390/robotics4010023",
+        "title": "Acknowledgement to Reviewers of Robotics in 2014"
+      }
+    ],
+    "published_online_date": [
+      {
+        "doi": "10.3797/scipharm.1406-19",
+        "title": "Enhancing Skin Permeation of Biphenylacetic Acid (BPA) Using Salt Formation with Organic and Alkali Metal Bases"
+      },
+      {
+        "doi": "10.3797/scipharm.1411-05",
+        "title": "Dosage Form Data Used for Estimating Pediatric Antibiotic Use"
+      },
+      {
+        "doi": "10.21775/cimb.017.037",
+        "title": "ADARs and the Balance Game between Virus Infection and Innate Immune Cell Response"
+      },
+      {
+        "doi": "10.1016/j.medici.2015.11.004",
+        "title": "Nutritional habits among high-performance endurance athletes"
+      },
+      {
+        "doi": "10.1016/j.medici.2015.06.005",
+        "title": "Prevalence and etiology of midfacial fractures: A study of 799 cases"
+      }
+    ],
+    "license": [
+      {
+        "doi": "10.3797/scipharm.1406-19",
+        "title": "Enhancing Skin Permeation of Biphenylacetic Acid (BPA) Using Salt Formation with Organic and Alkali Metal Bases"
+      },
+      {
+        "doi": "10.3797/scipharm.1411-05",
+        "title": "Dosage Form Data Used for Estimating Pediatric Antibiotic Use"
+      },
+      {
+        "doi": "10.21775/cimb.017.037",
+        "title": "ADARs and the Balance Game between Virus Infection and Innate Immune Cell Response"
+      },
+      {
+        "doi": "10.3797/scipharm.1503-02",
+        "title": "A Novel, Rapid, and Validated Stability-Indicating UPLC Method for the Estimation of Drotaverine Hydrochloride and Ibuprofen Impurities in Oral Solid Dosage Form"
+      },
+      {
+        "doi": "10.3797/scipharm.1407-18",
+        "title": "Isolation, Identification, and Characterisation of Degradation Products and the Development and Validation of a Stability-Indicating Method for the Estimation of Impurities in the Tolterodine Tartrate Formulation"
+      }
+    ],
+    "license_url": [
+      {
+        "doi": "10.3797/scipharm.1406-19",
+        "title": "Enhancing Skin Permeation of Biphenylacetic Acid (BPA) Using Salt Formation with Organic and Alkali Metal Bases"
+      },
+      {
+        "doi": "10.3797/scipharm.1411-05",
+        "title": "Dosage Form Data Used for Estimating Pediatric Antibiotic Use"
+      },
+      {
+        "doi": "10.21775/cimb.017.037",
+        "title": "ADARs and the Balance Game between Virus Infection and Innate Immune Cell Response"
+      },
+      {
+        "doi": "10.3797/scipharm.1503-02",
+        "title": "A Novel, Rapid, and Validated Stability-Indicating UPLC Method for the Estimation of Drotaverine Hydrochloride and Ibuprofen Impurities in Oral Solid Dosage Form"
+      },
+      {
+        "doi": "10.3797/scipharm.1407-18",
+        "title": "Isolation, Identification, and Characterisation of Degradation Products and the Development and Validation of a Stability-Indicating Method for the Estimation of Impurities in the Tolterodine Tartrate Formulation"
+      }
+    ],
+    "open_access_license": [
+      {
+        "doi": "10.3797/scipharm.1406-19",
+        "title": "Enhancing Skin Permeation of Biphenylacetic Acid (BPA) Using Salt Formation with Organic and Alkali Metal Bases"
+      },
+      {
+        "doi": "10.3797/scipharm.1411-05",
+        "title": "Dosage Form Data Used for Estimating Pediatric Antibiotic Use"
+      },
+      {
+        "doi": "10.21775/cimb.017.037",
+        "title": "ADARs and the Balance Game between Virus Infection and Innate Immune Cell Response"
+      },
+      {
+        "doi": "10.3797/scipharm.1503-02",
+        "title": "A Novel, Rapid, and Validated Stability-Indicating UPLC Method for the Estimation of Drotaverine Hydrochloride and Ibuprofen Impurities in Oral Solid Dosage Form"
+      },
+      {
+        "doi": "10.3797/scipharm.1407-18",
+        "title": "Isolation, Identification, and Characterisation of Degradation Products and the Development and Validation of a Stability-Indicating Method for the Estimation of Impurities in the Tolterodine Tartrate Formulation"
+      }
+    ],
+    "full_text_links": [
+      {
+        "doi": "10.3797/scipharm.1406-19",
+        "title": "Enhancing Skin Permeation of Biphenylacetic Acid (BPA) Using Salt Formation with Organic and Alkali Metal Bases"
+      },
+      {
+        "doi": "10.3797/scipharm.1411-05",
+        "title": "Dosage Form Data Used for Estimating Pediatric Antibiotic Use"
+      },
+      {
+        "doi": "10.21775/cimb.017.037",
+        "title": "ADARs and the Balance Game between Virus Infection and Innate Immune Cell Response"
+      },
+      {
+        "doi": "10.3797/scipharm.1503-02",
+        "title": "A Novel, Rapid, and Validated Stability-Indicating UPLC Method for the Estimation of Drotaverine Hydrochloride and Ibuprofen Impurities in Oral Solid Dosage Form"
+      },
+      {
+        "doi": "10.3797/scipharm.1407-18",
+        "title": "Isolation, Identification, and Characterisation of Degradation Products and the Development and Validation of a Stability-Indicating Method for the Estimation of Impurities in the Tolterodine Tartrate Formulation"
+      }
+    ],
+    "resource_url": [],
+    "references": [
+      {
+        "doi": "10.5603/piap.2015.0013",
+        "title": "Lekarze Polskiego Pochodzenia na Ukrainie (XVIII–XX w.)"
+      },
+      {
+        "doi": "10.3797/scipharm.1406-19",
+        "title": "Enhancing Skin Permeation of Biphenylacetic Acid (BPA) Using Salt Formation with Organic and Alkali Metal Bases"
+      },
+      {
+        "doi": "10.3797/scipharm.1411-05",
+        "title": "Dosage Form Data Used for Estimating Pediatric Antibiotic Use"
+      },
+      {
+        "doi": "10.1515/limre-2015-0001",
+        "title": "Roosting Colony of Cormorants (Phalacrocorax Carbo Sinensis L.) as a Source of Nutrients for the Lake"
+      },
+      {
+        "doi": "10.3747/co.22.2322",
+        "title": "Systemic Targeted Therapy for her2-Positive Early Female Breast Cancer: A Systematic Review of the Evidence for the 2014 Cancer Care Ontario Systemic Therapy Guideline"
+      }
+    ],
+    "references_count": [
+      {
+        "doi": "10.5603/piap.2015.0013",
+        "title": "Lekarze Polskiego Pochodzenia na Ukrainie (XVIII–XX w.)"
+      },
+      {
+        "doi": "10.3797/scipharm.1406-19",
+        "title": "Enhancing Skin Permeation of Biphenylacetic Acid (BPA) Using Salt Formation with Organic and Alkali Metal Bases"
+      },
+      {
+        "doi": "10.3797/scipharm.1411-05",
+        "title": "Dosage Form Data Used for Estimating Pediatric Antibiotic Use"
+      },
+      {
+        "doi": "10.1515/limre-2015-0001",
+        "title": "Roosting Colony of Cormorants (Phalacrocorax Carbo Sinensis L.) as a Source of Nutrients for the Lake"
+      },
+      {
+        "doi": "10.3747/co.22.2322",
+        "title": "Systemic Targeted Therapy for her2-Positive Early Female Breast Cancer: A Systematic Review of the Evidence for the 2014 Cancer Care Ontario Systemic Therapy Guideline"
+      }
+    ],
+    "is_referenced_by": [
+      {
+        "doi": "10.3390/robotics4010023",
+        "title": "Acknowledgement to Reviewers of Robotics in 2014"
+      },
+      {
+        "doi": "10.7547/0003-0538-105.2.198",
+        "title": "The Role of Podiatric Medicine in the Health-Care Team"
+      },
+      {
+        "doi": "10.3390/rs70100684",
+        "title": "Correction: Yu, Q., et al. Narrowband Bio-Indicator Monitoring of Temperate Forest Carbon Fluxes in Northeastern China. Remote Sens. 2014, 6, 8986-9013"
+      },
+      {
+        "doi": "10.3390/cryst5010045",
+        "title": "Acknowledgement to Reviewers of Crystals in 2014"
+      },
+      {
+        "doi": "10.3390/computers4010002",
+        "title": "A Hybrid Autonomic Computing-Based Approach to Distributed Constraint Satisfaction Problems"
+      }
+    ],
+    "author_sequence": [
+      {
+        "doi": "10.21775/cimb.017.037",
+        "title": "ADARs and the Balance Game between Virus Infection and Innate Immune Cell Response"
+      },
+      {
+        "doi": "10.4414/cvm.2015.00283",
+        "title": "Update on cardiovascular risk factors as a critical issue of modern preventive cardiology"
+      },
+      {
+        "doi": "10.4414/cvm.2015.00329",
+        "title": "Announcement of the 4th European Live Summit on Retrograde CTO Revascularization"
+      },
+      {
+        "doi": "10.4414/cvm.2015.00300",
+        "title": "Outcome  after simultaneous PCI and left atrial appendage occlusion"
+      },
+      {
+        "doi": "10.21775/cimb.017.057",
+        "title": "Allele Mining Strategies: Principles and Utilisation for Blast Resistance Genes in Rice (<i>Oryza sativa</i>L.)"
+      }
+    ],
+    "affiliation_ids_ror": [
+      {
+        "doi": "10.5603/piap.2015.0013",
+        "title": "Lekarze Polskiego Pochodzenia na Ukrainie (XVIII–XX w.)"
+      },
+      {
+        "doi": "10.3797/scipharm.1406-19",
+        "title": "Enhancing Skin Permeation of Biphenylacetic Acid (BPA) Using Salt Formation with Organic and Alkali Metal Bases"
+      },
+      {
+        "doi": "10.3797/scipharm.1411-05",
+        "title": "Dosage Form Data Used for Estimating Pediatric Antibiotic Use"
+      },
+      {
+        "doi": "10.4081/thal.2015.4597",
+        "title": "Hemoglobin SE Disease in Hatay, in the Southern Part of Turkey"
+      },
+      {
+        "doi": "10.3390/molecules20010645",
+        "title": "Molecules after 20 Years—Looking Back and Looking Forward"
+      }
+    ],
+    "relations": [
+      {
+        "doi": "10.3797/scipharm.1406-19",
+        "title": "Enhancing Skin Permeation of Biphenylacetic Acid (BPA) Using Salt Formation with Organic and Alkali Metal Bases"
+      },
+      {
+        "doi": "10.3797/scipharm.1411-05",
+        "title": "Dosage Form Data Used for Estimating Pediatric Antibiotic Use"
+      },
+      {
+        "doi": "10.4081/thal.2015.4597",
+        "title": "Hemoglobin SE Disease in Hatay, in the Southern Part of Turkey"
+      },
+      {
+        "doi": "10.3390/molecules20010645",
+        "title": "Molecules after 20 Years—Looking Back and Looking Forward"
+      },
+      {
+        "doi": "10.3390/toxics3010018",
+        "title": "Acknowledgement to Reviewers of Toxics in 2014"
+      }
+    ],
+    "author_given_family": [
+      {
+        "doi": "10.3390/toxics3010018",
+        "title": "Acknowledgement to Reviewers of Toxics in 2014"
+      },
+      {
+        "doi": "10.3390/robotics4010023",
+        "title": "Acknowledgement to Reviewers of Robotics in 2014"
+      },
+      {
+        "doi": "10.3390/ijms16023213",
+        "title": "Genetic Variants in the Apoptosis Gene BCL2L1 Improve Response to Interferon-Based Treatment of Hepatitis C Virus Genotype 3 Infection"
+      },
+      {
+        "doi": "10.21775/cimb.017.037",
+        "title": "ADARs and the Balance Game between Virus Infection and Innate Immune Cell Response"
+      },
+      {
+        "doi": "10.4414/cvm.2015.00283",
+        "title": "Update on cardiovascular risk factors as a critical issue of modern preventive cardiology"
+      }
+    ],
+    "affiliation_ror": [
+      {
+        "doi": "10.5603/piap.2015.0013",
+        "title": "Lekarze Polskiego Pochodzenia na Ukrainie (XVIII–XX w.)"
+      },
+      {
+        "doi": "10.3797/scipharm.1406-19",
+        "title": "Enhancing Skin Permeation of Biphenylacetic Acid (BPA) Using Salt Formation with Organic and Alkali Metal Bases"
+      },
+      {
+        "doi": "10.3797/scipharm.1411-05",
+        "title": "Dosage Form Data Used for Estimating Pediatric Antibiotic Use"
+      },
+      {
+        "doi": "10.4081/thal.2015.4597",
+        "title": "Hemoglobin SE Disease in Hatay, in the Southern Part of Turkey"
+      },
+      {
+        "doi": "10.3390/molecules20010645",
+        "title": "Molecules after 20 Years—Looking Back and Looking Forward"
+      }
+    ],
+    "funding_complete": [
+      {
+        "doi": "10.3390/s150203023",
+        "title": "Spatial and Temporal Characteristics of Insulator Contaminations Revealed by Daily Observations of  Equivalent Salt Deposit Density"
+      },
+      {
+        "doi": "10.3390/s150305649",
+        "title": "An Efficient Mosaic Algorithm Considering Seasonal Variation: Application to KOMPSAT-2 Satellite Images"
+      },
+      {
+        "doi": "10.3390/ijerph120303381",
+        "title": "The Mediating Effect of Body Mass Index on the Relationship between Cigarette Smoking and Atopic Sensitization in  Chinese Adults"
+      },
+      {
+        "doi": "10.3390/molecules20022707",
+        "title": "Diversity of Heparan Sulfate and HSV Entry:  Basic Understanding and Treatment Strategies"
+      },
+      {
+        "doi": "10.21775/cimb.017.037",
+        "title": "ADARs and the Balance Game between Virus Infection and Innate Immune Cell Response"
+      }
+    ],
+    "preprint_version_link": [
+      {
+        "doi": "10.5603/piap.2015.0013",
+        "title": "Lekarze Polskiego Pochodzenia na Ukrainie (XVIII–XX w.)"
+      },
+      {
+        "doi": "10.3797/scipharm.1406-19",
+        "title": "Enhancing Skin Permeation of Biphenylacetic Acid (BPA) Using Salt Formation with Organic and Alkali Metal Bases"
+      },
+      {
+        "doi": "10.3797/scipharm.1411-05",
+        "title": "Dosage Form Data Used for Estimating Pediatric Antibiotic Use"
+      },
+      {
+        "doi": "10.4081/thal.2015.4597",
+        "title": "Hemoglobin SE Disease in Hatay, in the Southern Part of Turkey"
+      },
+      {
+        "doi": "10.3390/molecules20010645",
+        "title": "Molecules after 20 Years—Looking Back and Looking Forward"
+      }
+    ],
+    "open_access_status": [
+      {
+        "doi": "10.3797/scipharm.1406-19",
+        "title": "Enhancing Skin Permeation of Biphenylacetic Acid (BPA) Using Salt Formation with Organic and Alkali Metal Bases"
+      },
+      {
+        "doi": "10.3797/scipharm.1411-05",
+        "title": "Dosage Form Data Used for Estimating Pediatric Antibiotic Use"
+      },
+      {
+        "doi": "10.21775/cimb.017.037",
+        "title": "ADARs and the Balance Game between Virus Infection and Innate Immune Cell Response"
+      },
+      {
+        "doi": "10.3797/scipharm.1503-02",
+        "title": "A Novel, Rapid, and Validated Stability-Indicating UPLC Method for the Estimation of Drotaverine Hydrochloride and Ibuprofen Impurities in Oral Solid Dosage Form"
+      },
+      {
+        "doi": "10.3797/scipharm.1407-18",
+        "title": "Isolation, Identification, and Characterisation of Degradation Products and the Development and Validation of a Stability-Indicating Method for the Estimation of Impurities in the Tolterodine Tartrate Formulation"
+      }
+    ]
+  },
+  "sampleWorks": [
+    {
+      "doi": "10.5603/piap.2015.0013",
+      "title": "Lekarze Polskiego Pochodzenia na Ukrainie (XVIII–XX w.)",
+      "year": 2015,
+      "crossrefScore": 0.631578947368421,
+      "openalexScore": 0.7894736842105263,
+      "gap": 8,
+      "openalexAdds": [
+        "author_affiliation",
+        "subject_keywords",
+        "published_print_date",
+        "references",
+        "references_count",
+        "affiliation_ids_ror",
+        "affiliation_ror",
+        "preprint_version_link"
+      ]
+    },
+    {
+      "doi": "10.3797/scipharm.1406-19",
+      "title": "Enhancing Skin Permeation of Biphenylacetic Acid (BPA) Using Salt Formation with Organic and Alkali Metal Bases",
+      "year": 2015,
+      "crossrefScore": 0.42105263157894735,
+      "openalexScore": 0.9473684210526315,
+      "gap": 20,
+      "openalexAdds": [
+        "abstract",
+        "author_affiliation",
+        "subject_keywords",
+        "funder_name",
+        "language",
+        "author_orcid",
+        "all_authors_orcid",
+        "funder_doi",
+        "published_online_date",
+        "license",
+        "license_url",
+        "open_access_license",
+        "full_text_links",
+        "references",
+        "references_count",
+        "affiliation_ids_ror",
+        "relations",
+        "affiliation_ror",
+        "preprint_version_link",
+        "open_access_status"
+      ]
+    },
+    {
+      "doi": "10.3797/scipharm.1411-05",
+      "title": "Dosage Form Data Used for Estimating Pediatric Antibiotic Use",
+      "year": 2015,
+      "crossrefScore": 0.42105263157894735,
+      "openalexScore": 0.8947368421052632,
+      "gap": 18,
+      "openalexAdds": [
+        "abstract",
+        "author_affiliation",
+        "subject_keywords",
+        "language",
+        "author_orcid",
+        "all_authors_orcid",
+        "published_online_date",
+        "license",
+        "license_url",
+        "open_access_license",
+        "full_text_links",
+        "references",
+        "references_count",
+        "affiliation_ids_ror",
+        "relations",
+        "affiliation_ror",
+        "preprint_version_link",
+        "open_access_status"
+      ]
+    },
+    {
+      "doi": "10.4081/thal.2015.4597",
+      "title": "Hemoglobin SE Disease in Hatay, in the Southern Part of Turkey",
+      "year": 2015,
+      "crossrefScore": 0.7105263157894737,
+      "openalexScore": 0.868421052631579,
+      "gap": 7,
+      "openalexAdds": [
+        "subject_keywords",
+        "author_orcid",
+        "published_print_date",
+        "affiliation_ids_ror",
+        "relations",
+        "affiliation_ror",
+        "preprint_version_link"
+      ]
+    },
+    {
+      "doi": "10.3390/molecules20010645",
+      "title": "Molecules after 20 Years—Looking Back and Looking Forward",
+      "year": 2015,
+      "crossrefScore": 0.7368421052631579,
+      "openalexScore": 0.8947368421052632,
+      "gap": 8,
+      "openalexAdds": [
+        "subject_keywords",
+        "author_orcid",
+        "all_authors_orcid",
+        "published_print_date",
+        "affiliation_ids_ror",
+        "relations",
+        "affiliation_ror",
+        "preprint_version_link"
+      ]
+    },
+    {
+      "doi": "10.3390/toxics3010018",
+      "title": "Acknowledgement to Reviewers of Toxics in 2014",
+      "year": 2015,
+      "crossrefScore": 0.631578947368421,
+      "openalexScore": 0.7631578947368421,
+      "gap": 7,
+      "openalexAdds": [
+        "subject_keywords",
+        "published_print_date",
+        "affiliation_ids_ror",
+        "relations",
+        "author_given_family",
+        "affiliation_ror",
+        "preprint_version_link"
+      ]
+    },
+    {
+      "doi": "10.3390/robotics4010023",
+      "title": "Acknowledgement to Reviewers of Robotics in 2014",
+      "year": 2015,
+      "crossrefScore": 0.631578947368421,
+      "openalexScore": 0.7894736842105263,
+      "gap": 8,
+      "openalexAdds": [
+        "subject_keywords",
+        "published_print_date",
+        "is_referenced_by",
+        "affiliation_ids_ror",
+        "relations",
+        "author_given_family",
+        "affiliation_ror",
+        "preprint_version_link"
+      ]
+    },
+    {
+      "doi": "10.3390/rs70201279",
+      "title": "Modeling and Mapping Soil Moisture of Plateau Pasture Using RADARSAT-2 Imagery",
+      "year": 2015,
+      "crossrefScore": 0.7368421052631579,
+      "openalexScore": 0.868421052631579,
+      "gap": 7,
+      "openalexAdds": [
+        "subject_keywords",
+        "author_orcid",
+        "published_print_date",
+        "affiliation_ids_ror",
+        "relations",
+        "affiliation_ror",
+        "preprint_version_link"
+      ]
+    },
+    {
+      "doi": "10.3390/molecules20011452",
+      "title": "Glutathionylspermidine in the Modification of Protein SH Groups: The Enzymology and Its Application to Study  Protein Glutathionylation",
+      "year": 2015,
+      "crossrefScore": 0.8421052631578947,
+      "openalexScore": 0.9736842105263158,
+      "gap": 7,
+      "openalexAdds": [
+        "subject_keywords",
+        "author_orcid",
+        "published_print_date",
+        "affiliation_ids_ror",
+        "relations",
+        "affiliation_ror",
+        "preprint_version_link"
+      ]
+    },
+    {
+      "doi": "10.3390/toxins7020553",
+      "title": "Sulfasalazine Attenuates Staphylococcal Enterotoxin B-Induced Immune Responses",
+      "year": 2015,
+      "crossrefScore": 0.7368421052631579,
+      "openalexScore": 0.9473684210526315,
+      "gap": 10,
+      "openalexAdds": [
+        "subject_keywords",
+        "funder_name",
+        "author_orcid",
+        "all_authors_orcid",
+        "funder_doi",
+        "published_print_date",
+        "affiliation_ids_ror",
+        "relations",
+        "affiliation_ror",
+        "preprint_version_link"
+      ]
+    }
+  ],
+  "fieldDetails": [
+    {
+      "id": "title",
+      "label": "Title",
+      "category": "findable_essential",
+      "effort": "automatic",
+      "crossref": 1,
+      "openalex": 1,
+      "gap": 0,
+      "samples": []
+    },
+    {
+      "id": "abstract",
+      "label": "Abstract",
+      "category": "findable_essential",
+      "effort": "voluntary",
+      "crossref": 0.9898181818181818,
+      "openalex": 0.9947481034818129,
+      "gap": 0.004929921663631043,
+      "samples": [
+        {
+          "doi": "10.3797/scipharm.1406-19",
+          "title": "Enhancing Skin Permeation of Biphenylacetic Acid (BPA) Using Salt Formation with Organic and Alkali Metal Bases"
+        },
+        {
+          "doi": "10.3797/scipharm.1411-05",
+          "title": "Dosage Form Data Used for Estimating Pediatric Antibiotic Use"
+        },
+        {
+          "doi": "10.21775/cimb.017.037",
+          "title": "ADARs and the Balance Game between Virus Infection and Innate Immune Cell Response"
+        },
+        {
+          "doi": "10.1016/j.medici.2015.11.004",
+          "title": "Nutritional habits among high-performance endurance athletes"
+        },
+        {
+          "doi": "10.1016/j.medici.2015.06.005",
+          "title": "Prevalence and etiology of midfacial fractures: A study of 799 cases"
+        }
+      ]
+    },
+    {
+      "id": "author",
+      "label": "Author",
+      "category": "findable_essential",
+      "effort": "automatic",
+      "crossref": 0.9945227272727273,
+      "openalex": 0.9989130061672598,
+      "gap": 0.004390278894532473,
+      "samples": [
+        {
+          "doi": "10.21775/cimb.017.037",
+          "title": "ADARs and the Balance Game between Virus Infection and Innate Immune Cell Response"
+        },
+        {
+          "doi": "10.4414/cvm.2015.00283",
+          "title": "Update on cardiovascular risk factors as a critical issue of modern preventive cardiology"
+        },
+        {
+          "doi": "10.4414/cvm.2015.00329",
+          "title": "Announcement of the 4th European Live Summit on Retrograde CTO Revascularization"
+        },
+        {
+          "doi": "10.4414/cvm.2015.00300",
+          "title": "Outcome  after simultaneous PCI and left atrial appendage occlusion"
+        },
+        {
+          "doi": "10.21775/cimb.017.057",
+          "title": "Allele Mining Strategies: Principles and Utilisation for Blast Resistance Genes in Rice (<i>Oryza sativa</i>L.)"
+        }
+      ]
+    },
+    {
+      "id": "author_affiliation",
+      "label": "Author Affiliation",
+      "category": "findable_essential",
+      "effort": "voluntary",
+      "crossref": 0.9799204545454545,
+      "openalex": 0.9879629735574448,
+      "gap": 0.008042519011990268,
+      "samples": [
+        {
+          "doi": "10.5603/piap.2015.0013",
+          "title": "Lekarze Polskiego Pochodzenia na Ukrainie (XVIII–XX w.)"
+        },
+        {
+          "doi": "10.3797/scipharm.1406-19",
+          "title": "Enhancing Skin Permeation of Biphenylacetic Acid (BPA) Using Salt Formation with Organic and Alkali Metal Bases"
+        },
+        {
+          "doi": "10.3797/scipharm.1411-05",
+          "title": "Dosage Form Data Used for Estimating Pediatric Antibiotic Use"
+        },
+        {
+          "doi": "10.3747/co.22.2322",
+          "title": "Systemic Targeted Therapy for her2-Positive Early Female Breast Cancer: A Systematic Review of the Evidence for the 2014 Cancer Care Ontario Systemic Therapy Guideline"
+        },
+        {
+          "doi": "10.21775/cimb.017.037",
+          "title": "ADARs and the Balance Game between Virus Infection and Innate Immune Cell Response"
+        }
+      ]
+    },
+    {
+      "id": "doi",
+      "label": "DOI",
+      "category": "findable_essential",
+      "effort": "automatic",
+      "crossref": 1,
+      "openalex": 1,
+      "gap": 0,
+      "samples": []
+    },
+    {
+      "id": "publication_date",
+      "label": "Publication Date",
+      "category": "findable_essential",
+      "effort": "automatic",
+      "crossref": 1,
+      "openalex": 1,
+      "gap": 0,
+      "samples": []
+    },
+    {
+      "id": "publisher",
+      "label": "Publisher",
+      "category": "findable_essential",
+      "effort": "automatic",
+      "crossref": 1,
+      "openalex": 0.993306406398389,
+      "gap": -0.0066935936016110364,
+      "samples": []
+    },
+    {
+      "id": "resource_type",
+      "label": "Resource Type",
+      "category": "findable_essential",
+      "effort": "automatic",
+      "crossref": 1,
+      "openalex": 1,
+      "gap": 0,
+      "samples": []
+    },
+    {
+      "id": "subject_keywords",
+      "label": "Subject / Keywords",
+      "category": "findable_essential",
+      "effort": "voluntary",
+      "crossref": 0,
+      "openalex": 1,
+      "gap": 1,
+      "samples": [
+        {
+          "doi": "10.5603/piap.2015.0013",
+          "title": "Lekarze Polskiego Pochodzenia na Ukrainie (XVIII–XX w.)"
+        },
+        {
+          "doi": "10.3797/scipharm.1406-19",
+          "title": "Enhancing Skin Permeation of Biphenylacetic Acid (BPA) Using Salt Formation with Organic and Alkali Metal Bases"
+        },
+        {
+          "doi": "10.3797/scipharm.1411-05",
+          "title": "Dosage Form Data Used for Estimating Pediatric Antibiotic Use"
+        },
+        {
+          "doi": "10.4081/thal.2015.4597",
+          "title": "Hemoglobin SE Disease in Hatay, in the Southern Part of Turkey"
+        },
+        {
+          "doi": "10.3390/molecules20010645",
+          "title": "Molecules after 20 Years—Looking Back and Looking Forward"
+        }
+      ]
+    },
+    {
+      "id": "funder_name",
+      "label": "Funder Name",
+      "category": "findable_essential",
+      "effort": "voluntary",
+      "crossref": 0.5274090909090909,
+      "openalex": 0.5315857523713629,
+      "gap": 0.004176661462271913,
+      "samples": [
+        {
+          "doi": "10.3797/scipharm.1406-19",
+          "title": "Enhancing Skin Permeation of Biphenylacetic Acid (BPA) Using Salt Formation with Organic and Alkali Metal Bases"
+        },
+        {
+          "doi": "10.3390/toxins7020553",
+          "title": "Sulfasalazine Attenuates Staphylococcal Enterotoxin B-Induced Immune Responses"
+        },
+        {
+          "doi": "10.3390/s150305649",
+          "title": "An Efficient Mosaic Algorithm Considering Seasonal Variation: Application to KOMPSAT-2 Satellite Images"
+        },
+        {
+          "doi": "10.3390/chemosensors3020036",
+          "title": "Synthesis and Properties of 2'-Deoxyuridine Analogues Bearing Various Azobenzene Derivatives at the C5 Position"
+        },
+        {
+          "doi": "10.3390/molecules20045423",
+          "title": "Dereplication of Known Nucleobase and Nucleoside Compounds in Natural Product Extracts by Capillary Electrophoresis-High Resolution Mass Spectrometry"
+        }
+      ]
+    },
+    {
+      "id": "container_title",
+      "label": "Container Title",
+      "category": "findable_essential",
+      "effort": "automatic",
+      "crossref": 1,
+      "openalex": 1,
+      "gap": 0,
+      "samples": []
+    },
+    {
+      "id": "language",
+      "label": "Language",
+      "category": "findable_essential",
+      "effort": "automatic",
+      "crossref": 0.996,
+      "openalex": 1,
+      "gap": 0.0040000000000000036,
+      "samples": [
+        {
+          "doi": "10.3797/scipharm.1406-19",
+          "title": "Enhancing Skin Permeation of Biphenylacetic Acid (BPA) Using Salt Formation with Organic and Alkali Metal Bases"
+        },
+        {
+          "doi": "10.3797/scipharm.1411-05",
+          "title": "Dosage Form Data Used for Estimating Pediatric Antibiotic Use"
+        },
+        {
+          "doi": "10.3797/scipharm.1503-02",
+          "title": "A Novel, Rapid, and Validated Stability-Indicating UPLC Method for the Estimation of Drotaverine Hydrochloride and Ibuprofen Impurities in Oral Solid Dosage Form"
+        },
+        {
+          "doi": "10.3797/scipharm.1407-18",
+          "title": "Isolation, Identification, and Characterisation of Degradation Products and the Development and Validation of a Stability-Indicating Method for the Estimation of Impurities in the Tolterodine Tartrate Formulation"
+        },
+        {
+          "doi": "10.3797/scipharm.1406-09",
+          "title": "Synthesis and Antioxidant Activity of 7-Thio Derivatives of 6,7-Dihydro-1H-cyclopenta[d]pyrimidine-2,4(3H,5H)-dione"
+        }
+      ]
+    },
+    {
+      "id": "author_orcid",
+      "label": "Author ORCID",
+      "category": "findable_support",
+      "effort": "voluntary",
+      "crossref": 0.7532613636363636,
+      "openalex": 0.9732942778356236,
+      "gap": 0.22003291419925997,
+      "samples": [
+        {
+          "doi": "10.3797/scipharm.1406-19",
+          "title": "Enhancing Skin Permeation of Biphenylacetic Acid (BPA) Using Salt Formation with Organic and Alkali Metal Bases"
+        },
+        {
+          "doi": "10.3797/scipharm.1411-05",
+          "title": "Dosage Form Data Used for Estimating Pediatric Antibiotic Use"
+        },
+        {
+          "doi": "10.4081/thal.2015.4597",
+          "title": "Hemoglobin SE Disease in Hatay, in the Southern Part of Turkey"
+        },
+        {
+          "doi": "10.3390/molecules20010645",
+          "title": "Molecules after 20 Years—Looking Back and Looking Forward"
+        },
+        {
+          "doi": "10.3390/rs70201279",
+          "title": "Modeling and Mapping Soil Moisture of Plateau Pasture Using RADARSAT-2 Imagery"
+        }
+      ]
+    },
+    {
+      "id": "all_authors_orcid",
+      "label": "All Authors ORCID",
+      "category": "findable_support",
+      "effort": "voluntary",
+      "crossref": 0.10922727272727273,
+      "openalex": 0.3898417565820337,
+      "gap": 0.28061448385476095,
+      "samples": [
+        {
+          "doi": "10.3797/scipharm.1406-19",
+          "title": "Enhancing Skin Permeation of Biphenylacetic Acid (BPA) Using Salt Formation with Organic and Alkali Metal Bases"
+        },
+        {
+          "doi": "10.3797/scipharm.1411-05",
+          "title": "Dosage Form Data Used for Estimating Pediatric Antibiotic Use"
+        },
+        {
+          "doi": "10.3390/molecules20010645",
+          "title": "Molecules after 20 Years—Looking Back and Looking Forward"
+        },
+        {
+          "doi": "10.3390/toxins7020553",
+          "title": "Sulfasalazine Attenuates Staphylococcal Enterotoxin B-Induced Immune Responses"
+        },
+        {
+          "doi": "10.3390/s150305649",
+          "title": "An Efficient Mosaic Algorithm Considering Seasonal Variation: Application to KOMPSAT-2 Satellite Images"
+        }
+      ]
+    },
+    {
+      "id": "funder_doi",
+      "label": "Funder DOI",
+      "category": "findable_support",
+      "effort": "voluntary",
+      "crossref": 0.29213636363636364,
+      "openalex": 0.5315857523713629,
+      "gap": 0.2394493887349992,
+      "samples": [
+        {
+          "doi": "10.3797/scipharm.1406-19",
+          "title": "Enhancing Skin Permeation of Biphenylacetic Acid (BPA) Using Salt Formation with Organic and Alkali Metal Bases"
+        },
+        {
+          "doi": "10.3390/toxins7020553",
+          "title": "Sulfasalazine Attenuates Staphylococcal Enterotoxin B-Induced Immune Responses"
+        },
+        {
+          "doi": "10.3390/ph8010107",
+          "title": "A Retrospective Study of the Impact of 21-Gene Recurrence Score Assay on Treatment Choice in Node Positive Micrometastatic Breast Cancer"
+        },
+        {
+          "doi": "10.3390/s150203023",
+          "title": "Spatial and Temporal Characteristics of Insulator Contaminations Revealed by Daily Observations of  Equivalent Salt Deposit Density"
+        },
+        {
+          "doi": "10.3390/s150305649",
+          "title": "An Efficient Mosaic Algorithm Considering Seasonal Variation: Application to KOMPSAT-2 Satellite Images"
+        }
+      ]
+    },
+    {
+      "id": "award_number",
+      "label": "Award Number",
+      "category": "findable_support",
+      "effort": "voluntary",
+      "crossref": 0.49210227272727275,
+      "openalex": 0.4291451651658524,
+      "gap": -0.06295710756142037,
+      "samples": [
+        {
+          "doi": "10.3390/s150305649",
+          "title": "An Efficient Mosaic Algorithm Considering Seasonal Variation: Application to KOMPSAT-2 Satellite Images"
+        },
+        {
+          "doi": "10.3390/molecules20022707",
+          "title": "Diversity of Heparan Sulfate and HSV Entry:  Basic Understanding and Treatment Strategies"
+        },
+        {
+          "doi": "10.21775/cimb.017.037",
+          "title": "ADARs and the Balance Game between Virus Infection and Innate Immune Cell Response"
+        },
+        {
+          "doi": "10.3390/membranes5010001",
+          "title": "Characteristics of PVDF Membranes Irradiated  by Electron Beam"
+        },
+        {
+          "doi": "10.3390/molecules20034951",
+          "title": "Determination of Phenolic Compounds and Antioxidant Activity in Leaves from Wild Rubus L. Species"
+        }
+      ]
+    },
+    {
+      "id": "issn",
+      "label": "ISSN",
+      "category": "findable_support",
+      "effort": "automatic",
+      "crossref": 1,
+      "openalex": 1,
+      "gap": 0,
+      "samples": []
+    },
+    {
+      "id": "volume",
+      "label": "Volume",
+      "category": "findable_support",
+      "effort": "automatic",
+      "crossref": 0.998125,
+      "openalex": 0.9985583029165761,
+      "gap": 0.00043330291657606157,
+      "samples": [
+        {
+          "doi": "10.21775/cimb.017.037",
+          "title": "ADARs and the Balance Game between Virus Infection and Innate Immune Cell Response"
+        },
+        {
+          "doi": "10.21775/cimb.017.057",
+          "title": "Allele Mining Strategies: Principles and Utilisation for Blast Resistance Genes in Rice (<i>Oryza sativa</i>L.)"
+        },
+        {
+          "doi": "10.21775/cimb.017.053",
+          "title": "Inosine at Different Primer Positions to Study Structure and Diversity of Prokaryotic Populations"
+        },
+        {
+          "doi": "10.21775/cimb.017.023",
+          "title": "Regulation of Ion Channel and Transporter Function Through RNA Editing"
+        },
+        {
+          "doi": "10.21775/cimb.017.001",
+          "title": "SETDB1 in Early Embryos and Embryonic Stem Cells"
+        }
+      ]
+    },
+    {
+      "id": "issue",
+      "label": "Issue",
+      "category": "findable_support",
+      "effort": "automatic",
+      "crossref": 0.9981136363636364,
+      "openalex": 0.9981578315045139,
+      "gap": 0.00004419514087750098,
+      "samples": [
+        {
+          "doi": "10.4081/xeno.2019.8147",
+          "title": "Detection of polystyrene nanoplastics in biological tissues with a fluorescent molecular rotor probe"
+        },
+        {
+          "doi": "10.1159/000503661",
+          "title": "A 39-Year-Old Male Congenital Tricuspid Atresia Patient Who Presented with a New Axillary Lesion after an Orthotopic Heart Transplant"
+        },
+        {
+          "doi": "10.1159/000506272",
+          "title": "Cutaneous Mucormycosis Resulting from Hematogenous Dissemination of &lt;b&gt;&lt;i&gt;Rhizomucor pusillus&lt;/i&gt;&lt;/b&gt; in an Immunocompromised Patient"
+        },
+        {
+          "doi": "10.1159/000505354",
+          "title": "Successful Treatment of Scalp Myxedema with Injected Hyaluronidase: A Case Report"
+        },
+        {
+          "doi": "10.7547/18-042",
+          "title": "Fungal Nails? DNA Facts Challenge Dystrophic Etiology"
+        }
+      ]
+    },
+    {
+      "id": "page",
+      "label": "Page",
+      "category": "findable_support",
+      "effort": "automatic",
+      "crossref": 0.9967159090909091,
+      "openalex": 0.9971280478734968,
+      "gap": 0.0004121387825877232,
+      "samples": [
+        {
+          "doi": "10.21775/cimb.017.037",
+          "title": "ADARs and the Balance Game between Virus Infection and Innate Immune Cell Response"
+        },
+        {
+          "doi": "10.21775/cimb.017.057",
+          "title": "Allele Mining Strategies: Principles and Utilisation for Blast Resistance Genes in Rice (<i>Oryza sativa</i>L.)"
+        },
+        {
+          "doi": "10.21775/cimb.017.053",
+          "title": "Inosine at Different Primer Positions to Study Structure and Diversity of Prokaryotic Populations"
+        },
+        {
+          "doi": "10.4081/ni.2015.5430",
+          "title": "Similar effects of two modified constraint-induced therapy protocols on motor impairment, motor function and quality of life in patients with chronic stroke"
+        },
+        {
+          "doi": "10.21775/cimb.017.023",
+          "title": "Regulation of Ion Channel and Transporter Function Through RNA Editing"
+        }
+      ]
+    },
+    {
+      "id": "published_print_date",
+      "label": "Published Print Date",
+      "category": "findable_support",
+      "effort": "automatic",
+      "crossref": 0.009886363636363636,
+      "openalex": 1,
+      "gap": 0.9901136363636364,
+      "samples": [
+        {
+          "doi": "10.5603/piap.2015.0013",
+          "title": "Lekarze Polskiego Pochodzenia na Ukrainie (XVIII–XX w.)"
+        },
+        {
+          "doi": "10.4081/thal.2015.4597",
+          "title": "Hemoglobin SE Disease in Hatay, in the Southern Part of Turkey"
+        },
+        {
+          "doi": "10.3390/molecules20010645",
+          "title": "Molecules after 20 Years—Looking Back and Looking Forward"
+        },
+        {
+          "doi": "10.3390/toxics3010018",
+          "title": "Acknowledgement to Reviewers of Toxics in 2014"
+        },
+        {
+          "doi": "10.3390/robotics4010023",
+          "title": "Acknowledgement to Reviewers of Robotics in 2014"
+        }
+      ]
+    },
+    {
+      "id": "published_online_date",
+      "label": "Published Online Date",
+      "category": "findable_support",
+      "effort": "automatic",
+      "crossref": 0.996465909090909,
+      "openalex": 1,
+      "gap": 0.003534090909090959,
+      "samples": [
+        {
+          "doi": "10.3797/scipharm.1406-19",
+          "title": "Enhancing Skin Permeation of Biphenylacetic Acid (BPA) Using Salt Formation with Organic and Alkali Metal Bases"
+        },
+        {
+          "doi": "10.3797/scipharm.1411-05",
+          "title": "Dosage Form Data Used for Estimating Pediatric Antibiotic Use"
+        },
+        {
+          "doi": "10.21775/cimb.017.037",
+          "title": "ADARs and the Balance Game between Virus Infection and Innate Immune Cell Response"
+        },
+        {
+          "doi": "10.1016/j.medici.2015.11.004",
+          "title": "Nutritional habits among high-performance endurance athletes"
+        },
+        {
+          "doi": "10.1016/j.medici.2015.06.005",
+          "title": "Prevalence and etiology of midfacial fractures: A study of 799 cases"
+        }
+      ]
+    },
+    {
+      "id": "license",
+      "label": "License",
+      "category": "accessible_essential",
+      "effort": "automatic",
+      "crossref": 0.9900227272727272,
+      "openalex": 0.9944734945135416,
+      "gap": 0.004450767240814391,
+      "samples": [
+        {
+          "doi": "10.3797/scipharm.1406-19",
+          "title": "Enhancing Skin Permeation of Biphenylacetic Acid (BPA) Using Salt Formation with Organic and Alkali Metal Bases"
+        },
+        {
+          "doi": "10.3797/scipharm.1411-05",
+          "title": "Dosage Form Data Used for Estimating Pediatric Antibiotic Use"
+        },
+        {
+          "doi": "10.21775/cimb.017.037",
+          "title": "ADARs and the Balance Game between Virus Infection and Innate Immune Cell Response"
+        },
+        {
+          "doi": "10.3797/scipharm.1503-02",
+          "title": "A Novel, Rapid, and Validated Stability-Indicating UPLC Method for the Estimation of Drotaverine Hydrochloride and Ibuprofen Impurities in Oral Solid Dosage Form"
+        },
+        {
+          "doi": "10.3797/scipharm.1407-18",
+          "title": "Isolation, Identification, and Characterisation of Degradation Products and the Development and Validation of a Stability-Indicating Method for the Estimation of Impurities in the Tolterodine Tartrate Formulation"
+        }
+      ]
+    },
+    {
+      "id": "license_url",
+      "label": "License URL",
+      "category": "accessible_essential",
+      "effort": "automatic",
+      "crossref": 0.9900227272727272,
+      "openalex": 0.9944734945135416,
+      "gap": 0.004450767240814391,
+      "samples": [
+        {
+          "doi": "10.3797/scipharm.1406-19",
+          "title": "Enhancing Skin Permeation of Biphenylacetic Acid (BPA) Using Salt Formation with Organic and Alkali Metal Bases"
+        },
+        {
+          "doi": "10.3797/scipharm.1411-05",
+          "title": "Dosage Form Data Used for Estimating Pediatric Antibiotic Use"
+        },
+        {
+          "doi": "10.21775/cimb.017.037",
+          "title": "ADARs and the Balance Game between Virus Infection and Innate Immune Cell Response"
+        },
+        {
+          "doi": "10.3797/scipharm.1503-02",
+          "title": "A Novel, Rapid, and Validated Stability-Indicating UPLC Method for the Estimation of Drotaverine Hydrochloride and Ibuprofen Impurities in Oral Solid Dosage Form"
+        },
+        {
+          "doi": "10.3797/scipharm.1407-18",
+          "title": "Isolation, Identification, and Characterisation of Degradation Products and the Development and Validation of a Stability-Indicating Method for the Estimation of Impurities in the Tolterodine Tartrate Formulation"
+        }
+      ]
+    },
+    {
+      "id": "open_access_license",
+      "label": "Open Access License",
+      "category": "accessible_essential",
+      "effort": "voluntary",
+      "crossref": 0.9890227272727272,
+      "openalex": 0.9944506104328524,
+      "gap": 0.005427883160125213,
+      "samples": [
+        {
+          "doi": "10.3797/scipharm.1406-19",
+          "title": "Enhancing Skin Permeation of Biphenylacetic Acid (BPA) Using Salt Formation with Organic and Alkali Metal Bases"
+        },
+        {
+          "doi": "10.3797/scipharm.1411-05",
+          "title": "Dosage Form Data Used for Estimating Pediatric Antibiotic Use"
+        },
+        {
+          "doi": "10.21775/cimb.017.037",
+          "title": "ADARs and the Balance Game between Virus Infection and Innate Immune Cell Response"
+        },
+        {
+          "doi": "10.3797/scipharm.1503-02",
+          "title": "A Novel, Rapid, and Validated Stability-Indicating UPLC Method for the Estimation of Drotaverine Hydrochloride and Ibuprofen Impurities in Oral Solid Dosage Form"
+        },
+        {
+          "doi": "10.3797/scipharm.1407-18",
+          "title": "Isolation, Identification, and Characterisation of Degradation Products and the Development and Validation of a Stability-Indicating Method for the Estimation of Impurities in the Tolterodine Tartrate Formulation"
+        }
+      ]
+    },
+    {
+      "id": "full_text_links",
+      "label": "Full-text Links",
+      "category": "accessible_essential",
+      "effort": "automatic",
+      "crossref": 0.9969090909090909,
+      "openalex": 0.9687975559801824,
+      "gap": -0.0281115349289085,
+      "samples": [
+        {
+          "doi": "10.3797/scipharm.1406-19",
+          "title": "Enhancing Skin Permeation of Biphenylacetic Acid (BPA) Using Salt Formation with Organic and Alkali Metal Bases"
+        },
+        {
+          "doi": "10.3797/scipharm.1411-05",
+          "title": "Dosage Form Data Used for Estimating Pediatric Antibiotic Use"
+        },
+        {
+          "doi": "10.21775/cimb.017.037",
+          "title": "ADARs and the Balance Game between Virus Infection and Innate Immune Cell Response"
+        },
+        {
+          "doi": "10.3797/scipharm.1503-02",
+          "title": "A Novel, Rapid, and Validated Stability-Indicating UPLC Method for the Estimation of Drotaverine Hydrochloride and Ibuprofen Impurities in Oral Solid Dosage Form"
+        },
+        {
+          "doi": "10.3797/scipharm.1407-18",
+          "title": "Isolation, Identification, and Characterisation of Degradation Products and the Development and Validation of a Stability-Indicating Method for the Estimation of Impurities in the Tolterodine Tartrate Formulation"
+        }
+      ]
+    },
+    {
+      "id": "resource_url",
+      "label": "Resource URL",
+      "category": "accessible_essential",
+      "effort": "automatic",
+      "crossref": 1,
+      "openalex": 1,
+      "gap": 0,
+      "samples": []
+    },
+    {
+      "id": "references",
+      "label": "References",
+      "category": "accessible_essential",
+      "effort": "voluntary",
+      "crossref": 0.9791477272727273,
+      "openalex": 0.9857088916095518,
+      "gap": 0.006561164336824521,
+      "samples": [
+        {
+          "doi": "10.5603/piap.2015.0013",
+          "title": "Lekarze Polskiego Pochodzenia na Ukrainie (XVIII–XX w.)"
+        },
+        {
+          "doi": "10.3797/scipharm.1406-19",
+          "title": "Enhancing Skin Permeation of Biphenylacetic Acid (BPA) Using Salt Formation with Organic and Alkali Metal Bases"
+        },
+        {
+          "doi": "10.3797/scipharm.1411-05",
+          "title": "Dosage Form Data Used for Estimating Pediatric Antibiotic Use"
+        },
+        {
+          "doi": "10.1515/limre-2015-0001",
+          "title": "Roosting Colony of Cormorants (Phalacrocorax Carbo Sinensis L.) as a Source of Nutrients for the Lake"
+        },
+        {
+          "doi": "10.3747/co.22.2322",
+          "title": "Systemic Targeted Therapy for her2-Positive Early Female Breast Cancer: A Systematic Review of the Evidence for the 2014 Cancer Care Ontario Systemic Therapy Guideline"
+        }
+      ]
+    },
+    {
+      "id": "references_count",
+      "label": "References Count",
+      "category": "accessible_essential",
+      "effort": "voluntary",
+      "crossref": 0.9791477272727273,
+      "openalex": 0.9857088916095518,
+      "gap": 0.006561164336824521,
+      "samples": [
+        {
+          "doi": "10.5603/piap.2015.0013",
+          "title": "Lekarze Polskiego Pochodzenia na Ukrainie (XVIII–XX w.)"
+        },
+        {
+          "doi": "10.3797/scipharm.1406-19",
+          "title": "Enhancing Skin Permeation of Biphenylacetic Acid (BPA) Using Salt Formation with Organic and Alkali Metal Bases"
+        },
+        {
+          "doi": "10.3797/scipharm.1411-05",
+          "title": "Dosage Form Data Used for Estimating Pediatric Antibiotic Use"
+        },
+        {
+          "doi": "10.1515/limre-2015-0001",
+          "title": "Roosting Colony of Cormorants (Phalacrocorax Carbo Sinensis L.) as a Source of Nutrients for the Lake"
+        },
+        {
+          "doi": "10.3747/co.22.2322",
+          "title": "Systemic Targeted Therapy for her2-Positive Early Female Breast Cancer: A Systematic Review of the Evidence for the 2014 Cancer Care Ontario Systemic Therapy Guideline"
+        }
+      ]
+    },
+    {
+      "id": "is_referenced_by",
+      "label": "Is Referenced By",
+      "category": "accessible_essential",
+      "effort": "automatic",
+      "crossref": 0.9185454545454546,
+      "openalex": 0.9262217238577983,
+      "gap": 0.007676269312343775,
+      "samples": [
+        {
+          "doi": "10.3390/robotics4010023",
+          "title": "Acknowledgement to Reviewers of Robotics in 2014"
+        },
+        {
+          "doi": "10.7547/0003-0538-105.2.198",
+          "title": "The Role of Podiatric Medicine in the Health-Care Team"
+        },
+        {
+          "doi": "10.3390/rs70100684",
+          "title": "Correction: Yu, Q., et al. Narrowband Bio-Indicator Monitoring of Temperate Forest Carbon Fluxes in Northeastern China. Remote Sens. 2014, 6, 8986-9013"
+        },
+        {
+          "doi": "10.3390/cryst5010045",
+          "title": "Acknowledgement to Reviewers of Crystals in 2014"
+        },
+        {
+          "doi": "10.3390/computers4010002",
+          "title": "A Hybrid Autonomic Computing-Based Approach to Distributed Constraint Satisfaction Problems"
+        }
+      ]
+    },
+    {
+      "id": "author_sequence",
+      "label": "Author Sequence",
+      "category": "accessible_support",
+      "effort": "automatic",
+      "crossref": 0.9945227272727273,
+      "openalex": 0.9989130061672598,
+      "gap": 0.004390278894532473,
+      "samples": [
+        {
+          "doi": "10.21775/cimb.017.037",
+          "title": "ADARs and the Balance Game between Virus Infection and Innate Immune Cell Response"
+        },
+        {
+          "doi": "10.4414/cvm.2015.00283",
+          "title": "Update on cardiovascular risk factors as a critical issue of modern preventive cardiology"
+        },
+        {
+          "doi": "10.4414/cvm.2015.00329",
+          "title": "Announcement of the 4th European Live Summit on Retrograde CTO Revascularization"
+        },
+        {
+          "doi": "10.4414/cvm.2015.00300",
+          "title": "Outcome  after simultaneous PCI and left atrial appendage occlusion"
+        },
+        {
+          "doi": "10.21775/cimb.017.057",
+          "title": "Allele Mining Strategies: Principles and Utilisation for Blast Resistance Genes in Rice (<i>Oryza sativa</i>L.)"
+        }
+      ]
+    },
+    {
+      "id": "affiliation_ids_ror",
+      "label": "Affiliation IDs (ROR)",
+      "category": "accessible_support",
+      "effort": "voluntary",
+      "crossref": 0,
+      "openalex": 0.9878714372346877,
+      "gap": 0.9878714372346877,
+      "samples": [
+        {
+          "doi": "10.5603/piap.2015.0013",
+          "title": "Lekarze Polskiego Pochodzenia na Ukrainie (XVIII–XX w.)"
+        },
+        {
+          "doi": "10.3797/scipharm.1406-19",
+          "title": "Enhancing Skin Permeation of Biphenylacetic Acid (BPA) Using Salt Formation with Organic and Alkali Metal Bases"
+        },
+        {
+          "doi": "10.3797/scipharm.1411-05",
+          "title": "Dosage Form Data Used for Estimating Pediatric Antibiotic Use"
+        },
+        {
+          "doi": "10.4081/thal.2015.4597",
+          "title": "Hemoglobin SE Disease in Hatay, in the Southern Part of Turkey"
+        },
+        {
+          "doi": "10.3390/molecules20010645",
+          "title": "Molecules after 20 Years—Looking Back and Looking Forward"
+        }
+      ]
+    },
+    {
+      "id": "relations",
+      "label": "Relations",
+      "category": "accessible_support",
+      "effort": "voluntary",
+      "crossref": 0.017613636363636363,
+      "openalex": 0.9701706008215385,
+      "gap": 0.9525569644579022,
+      "samples": [
+        {
+          "doi": "10.3797/scipharm.1406-19",
+          "title": "Enhancing Skin Permeation of Biphenylacetic Acid (BPA) Using Salt Formation with Organic and Alkali Metal Bases"
+        },
+        {
+          "doi": "10.3797/scipharm.1411-05",
+          "title": "Dosage Form Data Used for Estimating Pediatric Antibiotic Use"
+        },
+        {
+          "doi": "10.4081/thal.2015.4597",
+          "title": "Hemoglobin SE Disease in Hatay, in the Southern Part of Turkey"
+        },
+        {
+          "doi": "10.3390/molecules20010645",
+          "title": "Molecules after 20 Years—Looking Back and Looking Forward"
+        },
+        {
+          "doi": "10.3390/toxics3010018",
+          "title": "Acknowledgement to Reviewers of Toxics in 2014"
+        }
+      ]
+    },
+    {
+      "id": "author_given_family",
+      "label": "Complete Author Names",
+      "category": "evaluation_coara",
+      "effort": "automatic",
+      "crossref": 0.9886704545454545,
+      "openalex": 0.9986498392393331,
+      "gap": 0.009979384693878601,
+      "samples": [
+        {
+          "doi": "10.3390/toxics3010018",
+          "title": "Acknowledgement to Reviewers of Toxics in 2014"
+        },
+        {
+          "doi": "10.3390/robotics4010023",
+          "title": "Acknowledgement to Reviewers of Robotics in 2014"
+        },
+        {
+          "doi": "10.3390/ijms16023213",
+          "title": "Genetic Variants in the Apoptosis Gene BCL2L1 Improve Response to Interferon-Based Treatment of Hepatitis C Virus Genotype 3 Infection"
+        },
+        {
+          "doi": "10.21775/cimb.017.037",
+          "title": "ADARs and the Balance Game between Virus Infection and Innate Immune Cell Response"
+        },
+        {
+          "doi": "10.4414/cvm.2015.00283",
+          "title": "Update on cardiovascular risk factors as a critical issue of modern preventive cardiology"
+        }
+      ]
+    },
+    {
+      "id": "affiliation_ror",
+      "label": "Affiliation with ROR",
+      "category": "evaluation_coara",
+      "effort": "voluntary",
+      "crossref": 0,
+      "openalex": 0.9878714372346877,
+      "gap": 0.9878714372346877,
+      "samples": [
+        {
+          "doi": "10.5603/piap.2015.0013",
+          "title": "Lekarze Polskiego Pochodzenia na Ukrainie (XVIII–XX w.)"
+        },
+        {
+          "doi": "10.3797/scipharm.1406-19",
+          "title": "Enhancing Skin Permeation of Biphenylacetic Acid (BPA) Using Salt Formation with Organic and Alkali Metal Bases"
+        },
+        {
+          "doi": "10.3797/scipharm.1411-05",
+          "title": "Dosage Form Data Used for Estimating Pediatric Antibiotic Use"
+        },
+        {
+          "doi": "10.4081/thal.2015.4597",
+          "title": "Hemoglobin SE Disease in Hatay, in the Southern Part of Turkey"
+        },
+        {
+          "doi": "10.3390/molecules20010645",
+          "title": "Molecules after 20 Years—Looking Back and Looking Forward"
+        }
+      ]
+    },
+    {
+      "id": "funding_complete",
+      "label": "Complete Funding Info",
+      "category": "evaluation_coara",
+      "effort": "voluntary",
+      "crossref": 0.28713636363636363,
+      "openalex": 0.4291451651658524,
+      "gap": 0.14200880152948875,
+      "samples": [
+        {
+          "doi": "10.3390/s150203023",
+          "title": "Spatial and Temporal Characteristics of Insulator Contaminations Revealed by Daily Observations of  Equivalent Salt Deposit Density"
+        },
+        {
+          "doi": "10.3390/s150305649",
+          "title": "An Efficient Mosaic Algorithm Considering Seasonal Variation: Application to KOMPSAT-2 Satellite Images"
+        },
+        {
+          "doi": "10.3390/ijerph120303381",
+          "title": "The Mediating Effect of Body Mass Index on the Relationship between Cigarette Smoking and Atopic Sensitization in  Chinese Adults"
+        },
+        {
+          "doi": "10.3390/molecules20022707",
+          "title": "Diversity of Heparan Sulfate and HSV Entry:  Basic Understanding and Treatment Strategies"
+        },
+        {
+          "doi": "10.21775/cimb.017.037",
+          "title": "ADARs and the Balance Game between Virus Infection and Innate Immune Cell Response"
+        }
+      ]
+    },
+    {
+      "id": "preprint_version_link",
+      "label": "Preprint / Version Link",
+      "category": "evaluation_coara",
+      "effort": "voluntary",
+      "crossref": 0.01465909090909091,
+      "openalex": 0.9673329748160692,
+      "gap": 0.9526738839069783,
+      "samples": [
+        {
+          "doi": "10.5603/piap.2015.0013",
+          "title": "Lekarze Polskiego Pochodzenia na Ukrainie (XVIII–XX w.)"
+        },
+        {
+          "doi": "10.3797/scipharm.1406-19",
+          "title": "Enhancing Skin Permeation of Biphenylacetic Acid (BPA) Using Salt Formation with Organic and Alkali Metal Bases"
+        },
+        {
+          "doi": "10.3797/scipharm.1411-05",
+          "title": "Dosage Form Data Used for Estimating Pediatric Antibiotic Use"
+        },
+        {
+          "doi": "10.4081/thal.2015.4597",
+          "title": "Hemoglobin SE Disease in Hatay, in the Southern Part of Turkey"
+        },
+        {
+          "doi": "10.3390/molecules20010645",
+          "title": "Molecules after 20 Years—Looking Back and Looking Forward"
+        }
+      ]
+    },
+    {
+      "id": "open_access_status",
+      "label": "Open Access Status",
+      "category": "evaluation_coara",
+      "effort": "automatic",
+      "crossref": 0.9890227272727272,
+      "openalex": 0.9976658237696946,
+      "gap": 0.008643096496967373,
+      "samples": [
+        {
+          "doi": "10.3797/scipharm.1406-19",
+          "title": "Enhancing Skin Permeation of Biphenylacetic Acid (BPA) Using Salt Formation with Organic and Alkali Metal Bases"
+        },
+        {
+          "doi": "10.3797/scipharm.1411-05",
+          "title": "Dosage Form Data Used for Estimating Pediatric Antibiotic Use"
+        },
+        {
+          "doi": "10.21775/cimb.017.037",
+          "title": "ADARs and the Balance Game between Virus Infection and Innate Immune Cell Response"
+        },
+        {
+          "doi": "10.3797/scipharm.1503-02",
+          "title": "A Novel, Rapid, and Validated Stability-Indicating UPLC Method for the Estimation of Drotaverine Hydrochloride and Ibuprofen Impurities in Oral Solid Dosage Form"
+        },
+        {
+          "doi": "10.3797/scipharm.1407-18",
+          "title": "Isolation, Identification, and Characterisation of Degradation Products and the Development and Validation of a Stability-Indicating Method for the Estimation of Impurities in the Tolterodine Tartrate Formulation"
+        }
+      ]
+    }
+  ]
+}

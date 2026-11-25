@@ -1,0 +1,3572 @@
+{
+  "id": "uaem",
+  "label": "UAEM",
+  "memberId": 11645,
+  "category": "regional_latam",
+  "categoryLabel": "Regional / Latin America",
+  "totalWorksSampled": 2873,
+  "totalWorksMatched": 2863,
+  "totalWorksUniverse": 2873,
+  "crossref": {
+    "overall": 0.47096775270983415,
+    "categories": {
+      "findable_essential": 0.6632730015082956,
+      "findable_support": 0.46476600322754175,
+      "accessible_essential": 0.5385002127083576,
+      "accessible_support": 0.32080287736396335,
+      "evaluation_coara": 0.1778280542986425
+    },
+    "fields": {
+      "title": 0.9909502262443439,
+      "abstract": 0.9244691959624086,
+      "author": 1,
+      "author_affiliation": 0.021928297946397494,
+      "doi": 1,
+      "publication_date": 1,
+      "publisher": 1,
+      "resource_type": 1,
+      "subject_keywords": 0,
+      "funder_name": 0,
+      "container_title": 1,
+      "language": 0.021928297946397494,
+      "author_orcid": 0.353637312913331,
+      "all_authors_orcid": 0.3010790114862513,
+      "funder_doi": 0,
+      "award_number": 0,
+      "issn": 1,
+      "volume": 0.679429168116951,
+      "issue": 0.8820048729550992,
+      "page": 0.8169161155586495,
+      "published_print_date": 0.07935955447267665,
+      "published_online_date": 1,
+      "article_number": 0,
+      "license": 0.857640097459102,
+      "license_url": 0.857640097459102,
+      "open_access_license": 0.857640097459102,
+      "full_text_links": 0.9028889662373826,
+      "resource_url": 1,
+      "references": 0.037243299686738604,
+      "references_count": 0.037243299686738604,
+      "is_referenced_by": 0.2962060563870519,
+      "update_policy": 0,
+      "jats_abstract": 0.9244691959624086,
+      "author_sequence": 1,
+      "affiliation_ids_ror": 0,
+      "relations": 0.0003480682213713888,
+      "assertions": 0,
+      "archive": 0,
+      "credit_roles": 0,
+      "author_given_family": 0.9202923773059519,
+      "affiliation_ror": 0,
+      "funding_complete": 0,
+      "data_availability": 0,
+      "preprint_version_link": 0.0003480682213713888,
+      "peer_review_info": 0,
+      "clinical_trial": 0,
+      "abstract_structured": 0,
+      "open_access_status": 0.857640097459102
+    }
+  },
+  "openalex": {
+    "overall": 0.6528740425561941,
+    "categories": {
+      "findable_essential": 0.8984165793456746,
+      "findable_support": 0.5955926713872924,
+      "accessible_essential": 0.7282958823301121,
+      "accessible_support": 0.4657119571544999,
+      "evaluation_coara": 0.3268250087320992
+    },
+    "fields": {
+      "title": 0.9909186168354872,
+      "abstract": 0.9786936779601816,
+      "author": 1,
+      "author_affiliation": 0.871463499825358,
+      "doi": 1,
+      "publication_date": 1,
+      "publisher": 0.9846315054139015,
+      "resource_type": 1,
+      "subject_keywords": 0.9996507160321342,
+      "funder_name": 0.01606706252183025,
+      "container_title": 1,
+      "language": 0.9395738735592036,
+      "author_orcid": 0.703807195249738,
+      "all_authors_orcid": 0.44708347886831995,
+      "funder_doi": 0.01606706252183025,
+      "award_number": 0.0041914076143905,
+      "issn": 1,
+      "volume": 0.6790080335312609,
+      "issue": 0.8833391547327978,
+      "page": 0.8180230527418791,
+      "published_print_date": 1,
+      "published_online_date": 1,
+      "article_number": 0,
+      "license": 0.9933636046105484,
+      "license_url": 0.9933636046105484,
+      "open_access_license": 0.9933636046105484,
+      "full_text_links": 0.9238560950052392,
+      "resource_url": 1,
+      "references": 0.6304575619979043,
+      "references_count": 0.6304575619979043,
+      "is_referenced_by": 0.38980090813831647,
+      "update_policy": 0,
+      "jats_abstract": 0,
+      "author_sequence": 1,
+      "affiliation_ids_ror": 0.8711142158574922,
+      "relations": 0.9231575270695075,
+      "assertions": 0,
+      "archive": 0,
+      "credit_roles": 0,
+      "author_given_family": 1,
+      "affiliation_ror": 0.8711142158574922,
+      "funding_complete": 0.0041914076143905,
+      "data_availability": 0,
+      "preprint_version_link": 0.39504016765630456,
+      "peer_review_info": 0,
+      "clinical_trial": 0,
+      "abstract_structured": 0,
+      "open_access_status": 0.9979042961928047
+    }
+  },
+  "gap": 0.18190628984635993,
+  "comparable": {
+    "crossref": {
+      "categories": {
+        "findable_essential": 0.6632730015082956,
+        "findable_support": 0.5112426035502959,
+        "accessible_essential": 0.6058127392969023,
+        "accessible_support": 0.3334493560737905,
+        "evaluation_coara": 0.355656108597285
+      },
+      "overall": 0.5315976331360946
+    },
+    "openalex": {
+      "categories": {
+        "findable_essential": 0.8984165793456746,
+        "findable_support": 0.6551519385260216,
+        "accessible_essential": 0.8193328676213761,
+        "accessible_support": 0.9314239143089998,
+        "evaluation_coara": 0.6536500174641984
+      },
+      "overall": 0.7965033764116893
+    },
+    "gap": 0.2649057432755947,
+    "fieldCount": 38,
+    "totalFieldCount": 48
+  },
+  "voluntary": {
+    "crossref": {
+      "categories": {
+        "findable_essential": 0.23659937347720153,
+        "findable_support": 0.1636790810998956,
+        "accessible_essential": 0.310708898944193,
+        "accessible_support": 0.0001740341106856944,
+        "evaluation_coara": 0.0001160227404571296
+      },
+      "overall": 0.17324950690335306
+    },
+    "openalex": {
+      "categories": {
+        "findable_essential": 0.716468739084876,
+        "findable_support": 0.2927872860635697,
+        "accessible_essential": 0.7514262428687856,
+        "accessible_support": 0.8971358714634998,
+        "evaluation_coara": 0.4234485970427291
+      },
+      "overall": 0.6211185819070905
+    },
+    "gap": 0.4478690750037374,
+    "fieldCount": 16
+  },
+  "automatic": {
+    "crossref": {
+      "categories": {
+        "findable_essential": 0.8766098155238427,
+        "findable_support": 0.7429516185172295,
+        "accessible_essential": 0.7828750435085278,
+        "accessible_support": 1,
+        "evaluation_coara": 0.8889662373825269
+      },
+      "overall": 0.8479376957883745
+    },
+    "openalex": {
+      "categories": {
+        "findable_essential": 0.989390499476074,
+        "findable_support": 0.8967283735009897,
+        "accessible_essential": 0.8600768424729305,
+        "accessible_support": 1,
+        "evaluation_coara": 0.9989521480964023
+      },
+      "overall": 0.9461360461054837
+    },
+    "gap": 0.09819835031710922,
+    "fieldCount": 22
+  },
+  "yearlyScores": [
+    {
+      "year": 2015,
+      "count": 26,
+      "matched": 26,
+      "universeSize": 26,
+      "crossref": {
+        "overall": 0.36902874902874905,
+        "categories": {
+          "findable_essential": 0.6666666666666666,
+          "findable_support": 0.2727272727272727,
+          "accessible_essential": 0.2991452991452992,
+          "accessible_support": 0.3333333333333333,
+          "evaluation_coara": 0.1
+        },
+        "fields": {
+          "title": 1,
+          "abstract": 1,
+          "author": 1,
+          "author_affiliation": 0,
+          "doi": 1,
+          "publication_date": 1,
+          "publisher": 1,
+          "resource_type": 1,
+          "subject_keywords": 0,
+          "funder_name": 0,
+          "container_title": 1,
+          "language": 0,
+          "author_orcid": 0,
+          "all_authors_orcid": 0,
+          "funder_doi": 0,
+          "award_number": 0,
+          "issn": 1,
+          "volume": 0,
+          "issue": 1,
+          "page": 0,
+          "published_print_date": 0,
+          "published_online_date": 1,
+          "article_number": 0,
+          "license": 0,
+          "license_url": 0,
+          "open_access_license": 0,
+          "full_text_links": 1,
+          "resource_url": 1,
+          "references": 0,
+          "references_count": 0,
+          "is_referenced_by": 0.6923076923076923,
+          "update_policy": 0,
+          "jats_abstract": 1,
+          "author_sequence": 1,
+          "affiliation_ids_ror": 0,
+          "relations": 0,
+          "assertions": 0,
+          "archive": 0,
+          "credit_roles": 0,
+          "author_given_family": 1,
+          "affiliation_ror": 0,
+          "funding_complete": 0,
+          "data_availability": 0,
+          "preprint_version_link": 0,
+          "peer_review_info": 0,
+          "clinical_trial": 0,
+          "abstract_structured": 0,
+          "open_access_status": 0
+        }
+      },
+      "openalex": {
+        "overall": 0.681517094017094,
+        "categories": {
+          "findable_essential": 0.9198717948717948,
+          "findable_support": 0.5,
+          "accessible_essential": 0.8760683760683761,
+          "accessible_support": 0.5,
+          "evaluation_coara": 0.3076923076923077
+        },
+        "fields": {
+          "title": 1,
+          "abstract": 1,
+          "author": 1,
+          "author_affiliation": 1,
+          "doi": 1,
+          "publication_date": 1,
+          "publisher": 1,
+          "resource_type": 1,
+          "subject_keywords": 1,
+          "funder_name": 0.038461538461538464,
+          "container_title": 1,
+          "language": 1,
+          "author_orcid": 0.8846153846153846,
+          "all_authors_orcid": 0.5769230769230769,
+          "funder_doi": 0.038461538461538464,
+          "award_number": 0,
+          "issn": 1,
+          "volume": 0,
+          "issue": 1,
+          "page": 0,
+          "published_print_date": 1,
+          "published_online_date": 1,
+          "article_number": 0,
+          "license": 1,
+          "license_url": 1,
+          "open_access_license": 1,
+          "full_text_links": 0.9615384615384616,
+          "resource_url": 1,
+          "references": 1,
+          "references_count": 1,
+          "is_referenced_by": 0.9230769230769231,
+          "update_policy": 0,
+          "jats_abstract": 0,
+          "author_sequence": 1,
+          "affiliation_ids_ror": 1,
+          "relations": 1,
+          "assertions": 0,
+          "archive": 0,
+          "credit_roles": 0,
+          "author_given_family": 1,
+          "affiliation_ror": 1,
+          "funding_complete": 0,
+          "data_availability": 0,
+          "preprint_version_link": 0.07692307692307693,
+          "peer_review_info": 0,
+          "clinical_trial": 0,
+          "abstract_structured": 0,
+          "open_access_status": 1
+        }
+      },
+      "comparable": {
+        "crossref": {
+          "categories": {
+            "findable_essential": 0.6666666666666666,
+            "findable_support": 0.3,
+            "accessible_essential": 0.33653846153846156,
+            "accessible_support": 0.3333333333333333,
+            "evaluation_coara": 0.2
+          },
+          "overall": 0.4024679487179488
+        },
+        "openalex": {
+          "categories": {
+            "findable_essential": 0.9198717948717948,
+            "findable_support": 0.55,
+            "accessible_essential": 0.9855769230769231,
+            "accessible_support": 1,
+            "evaluation_coara": 0.6153846153846154
+          },
+          "overall": 0.8279326923076923
+        },
+        "gap": 0.4254647435897435
+      },
+      "voluntary": {
+        "crossref": 0.075,
+        "openalex": 0.7059294871794871
+      }
+    },
+    {
+      "year": 2016,
+      "count": 63,
+      "matched": 63,
+      "universeSize": 63,
+      "crossref": {
+        "overall": 0.39898749398749395,
+        "categories": {
+          "findable_essential": 0.6415343915343915,
+          "findable_support": 0.3391053391053391,
+          "accessible_essential": 0.41798941798941797,
+          "accessible_support": 0.2830687830687831,
+          "evaluation_coara": 0.11428571428571428
+        },
+        "fields": {
+          "title": 1,
+          "abstract": 0.6984126984126984,
+          "author": 1,
+          "author_affiliation": 0,
+          "doi": 1,
+          "publication_date": 1,
+          "publisher": 1,
+          "resource_type": 1,
+          "subject_keywords": 0,
+          "funder_name": 0,
+          "container_title": 1,
+          "language": 0,
+          "author_orcid": 0,
+          "all_authors_orcid": 0,
+          "funder_doi": 0,
+          "award_number": 0,
+          "issn": 1,
+          "volume": 0.2857142857142857,
+          "issue": 1,
+          "page": 0.15873015873015872,
+          "published_print_date": 0.2857142857142857,
+          "published_online_date": 1,
+          "article_number": 0,
+          "license": 0.42857142857142855,
+          "license_url": 0.42857142857142855,
+          "open_access_license": 0.42857142857142855,
+          "full_text_links": 0.7142857142857143,
+          "resource_url": 1,
+          "references": 0,
+          "references_count": 0,
+          "is_referenced_by": 0.7619047619047619,
+          "update_policy": 0,
+          "jats_abstract": 0.6984126984126984,
+          "author_sequence": 1,
+          "affiliation_ids_ror": 0,
+          "relations": 0,
+          "assertions": 0,
+          "archive": 0,
+          "credit_roles": 0,
+          "author_given_family": 0.7142857142857143,
+          "affiliation_ror": 0,
+          "funding_complete": 0,
+          "data_availability": 0,
+          "preprint_version_link": 0,
+          "peer_review_info": 0,
+          "clinical_trial": 0,
+          "abstract_structured": 0,
+          "open_access_status": 0.42857142857142855
+        }
+      },
+      "openalex": {
+        "overall": 0.6232531665864998,
+        "categories": {
+          "findable_essential": 0.8915343915343915,
+          "findable_support": 0.5050505050505051,
+          "accessible_essential": 0.6860670194003526,
+          "accessible_support": 0.46296296296296297,
+          "evaluation_coara": 0.31111111111111106
+        },
+        "fields": {
+          "title": 1,
+          "abstract": 0.873015873015873,
+          "author": 1,
+          "author_affiliation": 0.7777777777777778,
+          "doi": 1,
+          "publication_date": 1,
+          "publisher": 1,
+          "resource_type": 1,
+          "subject_keywords": 1,
+          "funder_name": 0.047619047619047616,
+          "container_title": 1,
+          "language": 1,
+          "author_orcid": 0.6666666666666666,
+          "all_authors_orcid": 0.38095238095238093,
+          "funder_doi": 0.047619047619047616,
+          "award_number": 0.015873015873015872,
+          "issn": 1,
+          "volume": 0.2857142857142857,
+          "issue": 1,
+          "page": 0.15873015873015872,
+          "published_print_date": 1,
+          "published_online_date": 1,
+          "article_number": 0,
+          "license": 0.8253968253968254,
+          "license_url": 0.8253968253968254,
+          "open_access_license": 0.8253968253968254,
+          "full_text_links": 0.5396825396825397,
+          "resource_url": 1,
+          "references": 0.6349206349206349,
+          "references_count": 0.6349206349206349,
+          "is_referenced_by": 0.8888888888888888,
+          "update_policy": 0,
+          "jats_abstract": 0,
+          "author_sequence": 1,
+          "affiliation_ids_ror": 0.7777777777777778,
+          "relations": 1,
+          "assertions": 0,
+          "archive": 0,
+          "credit_roles": 0,
+          "author_given_family": 1,
+          "affiliation_ror": 0.7777777777777778,
+          "funding_complete": 0.015873015873015872,
+          "data_availability": 0,
+          "preprint_version_link": 0.31746031746031744,
+          "peer_review_info": 0,
+          "clinical_trial": 0,
+          "abstract_structured": 0,
+          "open_access_status": 1
+        }
+      },
+      "comparable": {
+        "crossref": {
+          "categories": {
+            "findable_essential": 0.6415343915343915,
+            "findable_support": 0.37301587301587297,
+            "accessible_essential": 0.47023809523809523,
+            "accessible_support": 0.3333333333333333,
+            "evaluation_coara": 0.22857142857142856
+          },
+          "overall": 0.44501984126984123
+        },
+        "openalex": {
+          "categories": {
+            "findable_essential": 0.8915343915343915,
+            "findable_support": 0.5555555555555556,
+            "accessible_essential": 0.7718253968253967,
+            "accessible_support": 0.9259259259259259,
+            "evaluation_coara": 0.6222222222222221
+          },
+          "overall": 0.760787037037037
+        },
+        "gap": 0.31576719576719575
+      },
+      "voluntary": {
+        "crossref": 0.08809523809523809,
+        "openalex": 0.5816137566137566
+      }
+    },
+    {
+      "year": 2017,
+      "count": 101,
+      "matched": 101,
+      "universeSize": 101,
+      "crossref": {
+        "overall": 0.3878077807780778,
+        "categories": {
+          "findable_essential": 0.6056105610561057,
+          "findable_support": 0.5139513951395139,
+          "accessible_essential": 0.38503850385038496,
+          "accessible_support": 0.21287128712871287,
+          "evaluation_coara": 0.05742574257425742
+        },
+        "fields": {
+          "title": 0.9900990099009901,
+          "abstract": 0.27722772277227725,
+          "author": 1,
+          "author_affiliation": 0,
+          "doi": 1,
+          "publication_date": 1,
+          "publisher": 1,
+          "resource_type": 1,
+          "subject_keywords": 0,
+          "funder_name": 0,
+          "container_title": 1,
+          "language": 0,
+          "author_orcid": 0.1782178217821782,
+          "all_authors_orcid": 0.1485148514851485,
+          "funder_doi": 0,
+          "award_number": 0,
+          "issn": 1,
+          "volume": 0.7128712871287128,
+          "issue": 1,
+          "page": 0.900990099009901,
+          "published_print_date": 0.7128712871287128,
+          "published_online_date": 1,
+          "article_number": 0,
+          "license": 0.2871287128712871,
+          "license_url": 0.2871287128712871,
+          "open_access_license": 0.2871287128712871,
+          "full_text_links": 0.2871287128712871,
+          "resource_url": 1,
+          "references": 0.297029702970297,
+          "references_count": 0.297029702970297,
+          "is_referenced_by": 0.7227722772277227,
+          "update_policy": 0,
+          "jats_abstract": 0.27722772277227725,
+          "author_sequence": 1,
+          "affiliation_ids_ror": 0,
+          "relations": 0,
+          "assertions": 0,
+          "archive": 0,
+          "credit_roles": 0,
+          "author_given_family": 0.2871287128712871,
+          "affiliation_ror": 0,
+          "funding_complete": 0,
+          "data_availability": 0,
+          "preprint_version_link": 0,
+          "peer_review_info": 0,
+          "clinical_trial": 0,
+          "abstract_structured": 0,
+          "open_access_status": 0.2871287128712871
+        }
+      },
+      "openalex": {
+        "overall": 0.6894509450945093,
+        "categories": {
+          "findable_essential": 0.9042904290429042,
+          "findable_support": 0.5976597659765976,
+          "accessible_essential": 0.8283828382838283,
+          "accessible_support": 0.48349834983498347,
+          "evaluation_coara": 0.36534653465346534
+        },
+        "fields": {
+          "title": 0.9900990099009901,
+          "abstract": 0.9504950495049505,
+          "author": 1,
+          "author_affiliation": 0.9108910891089109,
+          "doi": 1,
+          "publication_date": 1,
+          "publisher": 1,
+          "resource_type": 1,
+          "subject_keywords": 1,
+          "funder_name": 0.009900990099009901,
+          "container_title": 1,
+          "language": 0.9900990099009901,
+          "author_orcid": 0.7029702970297029,
+          "all_authors_orcid": 0.2376237623762376,
+          "funder_doi": 0.009900990099009901,
+          "award_number": 0.009900990099009901,
+          "issn": 1,
+          "volume": 0.7128712871287128,
+          "issue": 1,
+          "page": 0.900990099009901,
+          "published_print_date": 1,
+          "published_online_date": 1,
+          "article_number": 0,
+          "license": 1,
+          "license_url": 1,
+          "open_access_license": 1,
+          "full_text_links": 0.8415841584158416,
+          "resource_url": 1,
+          "references": 0.8910891089108911,
+          "references_count": 0.8910891089108911,
+          "is_referenced_by": 0.8316831683168316,
+          "update_policy": 0,
+          "jats_abstract": 0,
+          "author_sequence": 1,
+          "affiliation_ids_ror": 0.9108910891089109,
+          "relations": 0.9900990099009901,
+          "assertions": 0,
+          "archive": 0,
+          "credit_roles": 0,
+          "author_given_family": 1,
+          "affiliation_ror": 0.9108910891089109,
+          "funding_complete": 0.009900990099009901,
+          "data_availability": 0,
+          "preprint_version_link": 0.7326732673267327,
+          "peer_review_info": 0,
+          "clinical_trial": 0,
+          "abstract_structured": 0,
+          "open_access_status": 1
+        }
+      },
+      "comparable": {
+        "crossref": {
+          "categories": {
+            "findable_essential": 0.6056105610561057,
+            "findable_support": 0.5653465346534653,
+            "accessible_essential": 0.4331683168316831,
+            "accessible_support": 0.3333333333333333,
+            "evaluation_coara": 0.11485148514851484
+          },
+          "overall": 0.4310808580858086
+        },
+        "openalex": {
+          "categories": {
+            "findable_essential": 0.9042904290429042,
+            "findable_support": 0.6574257425742573,
+            "accessible_essential": 0.9319306930693069,
+            "accessible_support": 0.9669966996699669,
+            "evaluation_coara": 0.7306930693069307
+          },
+          "overall": 0.8457219471947194
+        },
+        "gap": 0.4146410891089108
+      },
+      "voluntary": {
+        "crossref": 0.10647689768976897,
+        "openalex": 0.688490099009901
+      }
+    },
+    {
+      "year": 2018,
+      "count": 183,
+      "matched": 183,
+      "universeSize": 183,
+      "crossref": {
+        "overall": 0.4181324170668433,
+        "categories": {
+          "findable_essential": 0.6370673952641165,
+          "findable_support": 0.39145553899652263,
+          "accessible_essential": 0.4632665452337583,
+          "accessible_support": 0.27231329690346084,
+          "evaluation_coara": 0.12622950819672132
+        },
+        "fields": {
+          "title": 0.9781420765027322,
+          "abstract": 0.6338797814207651,
+          "author": 1,
+          "author_affiliation": 0.01639344262295082,
+          "doi": 1,
+          "publication_date": 1,
+          "publisher": 1,
+          "resource_type": 1,
+          "subject_keywords": 0,
+          "funder_name": 0,
+          "container_title": 1,
+          "language": 0.01639344262295082,
+          "author_orcid": 0.07650273224043716,
+          "all_authors_orcid": 0.060109289617486336,
+          "funder_doi": 0,
+          "award_number": 0,
+          "issn": 1,
+          "volume": 0.3770491803278688,
+          "issue": 0.9508196721311475,
+          "page": 0.4808743169398907,
+          "published_print_date": 0.36065573770491804,
+          "published_online_date": 1,
+          "article_number": 0,
+          "license": 0.6229508196721312,
+          "license_url": 0.6229508196721312,
+          "open_access_license": 0.6229508196721312,
+          "full_text_links": 0.6120218579234973,
+          "resource_url": 1,
+          "references": 0.1366120218579235,
+          "references_count": 0.1366120218579235,
+          "is_referenced_by": 0.41530054644808745,
+          "update_policy": 0,
+          "jats_abstract": 0.6338797814207651,
+          "author_sequence": 1,
+          "affiliation_ids_ror": 0,
+          "relations": 0,
+          "assertions": 0,
+          "archive": 0,
+          "credit_roles": 0,
+          "author_given_family": 0.639344262295082,
+          "affiliation_ror": 0,
+          "funding_complete": 0,
+          "data_availability": 0,
+          "preprint_version_link": 0,
+          "peer_review_info": 0,
+          "clinical_trial": 0,
+          "abstract_structured": 0,
+          "open_access_status": 0.6229508196721312
+        }
+      },
+      "openalex": {
+        "overall": 0.654167908594138,
+        "categories": {
+          "findable_essential": 0.8998178506375227,
+          "findable_support": 0.5181321410829607,
+          "accessible_essential": 0.7668488160291439,
+          "accessible_support": 0.47358834244080145,
+          "evaluation_coara": 0.3371584699453552
+        },
+        "fields": {
+          "title": 0.9781420765027322,
+          "abstract": 0.9890710382513661,
+          "author": 1,
+          "author_affiliation": 0.8415300546448088,
+          "doi": 1,
+          "publication_date": 1,
+          "publisher": 1,
+          "resource_type": 1,
+          "subject_keywords": 1,
+          "funder_name": 0.01092896174863388,
+          "container_title": 1,
+          "language": 0.9781420765027322,
+          "author_orcid": 0.5573770491803278,
+          "all_authors_orcid": 0.31693989071038253,
+          "funder_doi": 0.01092896174863388,
+          "award_number": 0.00546448087431694,
+          "issn": 1,
+          "volume": 0.3770491803278688,
+          "issue": 0.9508196721311475,
+          "page": 0.4808743169398907,
+          "published_print_date": 1,
+          "published_online_date": 1,
+          "article_number": 0,
+          "license": 1,
+          "license_url": 1,
+          "open_access_license": 1,
+          "full_text_links": 0.9508196721311475,
+          "resource_url": 1,
+          "references": 0.7049180327868853,
+          "references_count": 0.7049180327868853,
+          "is_referenced_by": 0.5409836065573771,
+          "update_policy": 0,
+          "jats_abstract": 0,
+          "author_sequence": 1,
+          "affiliation_ids_ror": 0.8415300546448088,
+          "relations": 1,
+          "assertions": 0,
+          "archive": 0,
+          "credit_roles": 0,
+          "author_given_family": 1,
+          "affiliation_ror": 0.8415300546448088,
+          "funding_complete": 0.00546448087431694,
+          "data_availability": 0,
+          "preprint_version_link": 0.5245901639344263,
+          "peer_review_info": 0,
+          "clinical_trial": 0,
+          "abstract_structured": 0,
+          "open_access_status": 1
+        }
+      },
+      "comparable": {
+        "crossref": {
+          "categories": {
+            "findable_essential": 0.6370673952641165,
+            "findable_support": 0.4306010928961749,
+            "accessible_essential": 0.5211748633879781,
+            "accessible_support": 0.3333333333333333,
+            "evaluation_coara": 0.25245901639344265
+          },
+          "overall": 0.4698292349726776
+        },
+        "openalex": {
+          "categories": {
+            "findable_essential": 0.8998178506375227,
+            "findable_support": 0.5699453551912568,
+            "accessible_essential": 0.8627049180327869,
+            "accessible_support": 0.9471766848816029,
+            "evaluation_coara": 0.6743169398907104
+          },
+          "overall": 0.8006944444444445
+        },
+        "gap": 0.3308652094717669
+      },
+      "voluntary": {
+        "crossref": 0.12857468123861568,
+        "openalex": 0.630851548269581
+      }
+    },
+    {
+      "year": 2019,
+      "count": 254,
+      "matched": 254,
+      "universeSize": 254,
+      "crossref": {
+        "overall": 0.4733255786208542,
+        "categories": {
+          "findable_essential": 0.6715879265091864,
+          "findable_support": 0.4169649248389406,
+          "accessible_essential": 0.5577427821522309,
+          "accessible_support": 0.3293963254593176,
+          "evaluation_coara": 0.18464566929133858
+        },
+        "fields": {
+          "title": 1,
+          "abstract": 0.9724409448818898,
+          "author": 1,
+          "author_affiliation": 0.04330708661417323,
+          "doi": 1,
+          "publication_date": 1,
+          "publisher": 1,
+          "resource_type": 1,
+          "subject_keywords": 0,
+          "funder_name": 0,
+          "container_title": 1,
+          "language": 0.04330708661417323,
+          "author_orcid": 0.1062992125984252,
+          "all_authors_orcid": 0.051181102362204724,
+          "funder_doi": 0,
+          "award_number": 0,
+          "issn": 1,
+          "volume": 0.5118110236220472,
+          "issue": 0.8976377952755905,
+          "page": 0.9881889763779528,
+          "published_print_date": 0.031496062992125984,
+          "published_online_date": 1,
+          "article_number": 0,
+          "license": 0.8740157480314961,
+          "license_url": 0.8740157480314961,
+          "open_access_license": 0.8740157480314961,
+          "full_text_links": 0.937007874015748,
+          "resource_url": 1,
+          "references": 0.04330708661417323,
+          "references_count": 0.04330708661417323,
+          "is_referenced_by": 0.37401574803149606,
+          "update_policy": 0,
+          "jats_abstract": 0.9724409448818898,
+          "author_sequence": 1,
+          "affiliation_ids_ror": 0,
+          "relations": 0.003937007874015748,
+          "assertions": 0,
+          "archive": 0,
+          "credit_roles": 0,
+          "author_given_family": 0.968503937007874,
+          "affiliation_ror": 0,
+          "funding_complete": 0,
+          "data_availability": 0,
+          "preprint_version_link": 0.003937007874015748,
+          "peer_review_info": 0,
+          "clinical_trial": 0,
+          "abstract_structured": 0,
+          "open_access_status": 0.8740157480314961
+        }
+      },
+      "openalex": {
+        "overall": 0.670017696651555,
+        "categories": {
+          "findable_essential": 0.906496062992126,
+          "findable_support": 0.5873299928418039,
+          "accessible_essential": 0.7633420822397201,
+          "accessible_support": 0.4803149606299213,
+          "evaluation_coara": 0.35551181102362206
+        },
+        "fields": {
+          "title": 1,
+          "abstract": 0.9763779527559056,
+          "author": 1,
+          "author_affiliation": 0.889763779527559,
+          "doi": 1,
+          "publication_date": 1,
+          "publisher": 1,
+          "resource_type": 1,
+          "subject_keywords": 1,
+          "funder_name": 0.011811023622047244,
+          "container_title": 1,
+          "language": 1,
+          "author_orcid": 0.6771653543307087,
+          "all_authors_orcid": 0.37401574803149606,
+          "funder_doi": 0.011811023622047244,
+          "award_number": 0,
+          "issn": 1,
+          "volume": 0.5118110236220472,
+          "issue": 0.8976377952755905,
+          "page": 0.9881889763779528,
+          "published_print_date": 1,
+          "published_online_date": 1,
+          "article_number": 0,
+          "license": 0.9960629921259843,
+          "license_url": 0.9960629921259843,
+          "open_access_license": 0.9960629921259843,
+          "full_text_links": 0.9015748031496063,
+          "resource_url": 1,
+          "references": 0.7322834645669292,
+          "references_count": 0.7322834645669292,
+          "is_referenced_by": 0.515748031496063,
+          "update_policy": 0,
+          "jats_abstract": 0,
+          "author_sequence": 1,
+          "affiliation_ids_ror": 0.889763779527559,
+          "relations": 0.9921259842519685,
+          "assertions": 0,
+          "archive": 0,
+          "credit_roles": 0,
+          "author_given_family": 1,
+          "affiliation_ror": 0.889763779527559,
+          "funding_complete": 0,
+          "data_availability": 0,
+          "preprint_version_link": 0.6653543307086615,
+          "peer_review_info": 0,
+          "clinical_trial": 0,
+          "abstract_structured": 0,
+          "open_access_status": 1
+        }
+      },
+      "comparable": {
+        "crossref": {
+          "categories": {
+            "findable_essential": 0.6715879265091864,
+            "findable_support": 0.4586614173228346,
+            "accessible_essential": 0.6274606299212598,
+            "accessible_support": 0.3346456692913386,
+            "evaluation_coara": 0.36929133858267715
+          },
+          "overall": 0.5344635826771653
+        },
+        "openalex": {
+          "categories": {
+            "findable_essential": 0.906496062992126,
+            "findable_support": 0.6460629921259843,
+            "accessible_essential": 0.8587598425196852,
+            "accessible_support": 0.9606299212598426,
+            "evaluation_coara": 0.7110236220472441
+          },
+          "overall": 0.8218159448818898
+        },
+        "gap": 0.2873523622047245
+      },
+      "voluntary": {
+        "crossref": 0.16259842519685042,
+        "openalex": 0.6585301837270341
+      }
+    },
+    {
+      "year": 2020,
+      "count": 263,
+      "matched": 263,
+      "universeSize": 263,
+      "crossref": {
+        "overall": 0.47318834735184545,
+        "categories": {
+          "findable_essential": 0.6853612167300379,
+          "findable_support": 0.4666436225371587,
+          "accessible_essential": 0.5314744402196874,
+          "accessible_support": 0.32699619771863114,
+          "evaluation_coara": 0.16007604562737643
+        },
+        "fields": {
+          "title": 0.9885931558935361,
+          "abstract": 0.9619771863117871,
+          "author": 1,
+          "author_affiliation": 0.13688212927756654,
+          "doi": 1,
+          "publication_date": 1,
+          "publisher": 1,
+          "resource_type": 1,
+          "subject_keywords": 0,
+          "funder_name": 0,
+          "container_title": 1,
+          "language": 0.13688212927756654,
+          "author_orcid": 0.33460076045627374,
+          "all_authors_orcid": 0.24714828897338403,
+          "funder_doi": 0,
+          "award_number": 0,
+          "issn": 1,
+          "volume": 0.6692015209125475,
+          "issue": 0.8326996197718631,
+          "page": 0.908745247148289,
+          "published_print_date": 0.14068441064638784,
+          "published_online_date": 1,
+          "article_number": 0,
+          "license": 0.7414448669201521,
+          "license_url": 0.7414448669201521,
+          "open_access_license": 0.7414448669201521,
+          "full_text_links": 0.8593155893536122,
+          "resource_url": 1,
+          "references": 0.13688212927756654,
+          "references_count": 0.13688212927756654,
+          "is_referenced_by": 0.42585551330798477,
+          "update_policy": 0,
+          "jats_abstract": 0.9619771863117871,
+          "author_sequence": 1,
+          "affiliation_ids_ror": 0,
+          "relations": 0,
+          "assertions": 0,
+          "archive": 0,
+          "credit_roles": 0,
+          "author_given_family": 0.8593155893536122,
+          "affiliation_ror": 0,
+          "funding_complete": 0,
+          "data_availability": 0,
+          "preprint_version_link": 0,
+          "peer_review_info": 0,
+          "clinical_trial": 0,
+          "abstract_structured": 0,
+          "open_access_status": 0.7414448669201521
+        }
+      },
+      "openalex": {
+        "overall": 0.6788335829780695,
+        "categories": {
+          "findable_essential": 0.9081115335868186,
+          "findable_support": 0.6069823712409264,
+          "accessible_essential": 0.7887621461765948,
+          "accessible_support": 0.4835234474017744,
+          "evaluation_coara": 0.34904942965779473
+        },
+        "fields": {
+          "title": 0.9885931558935361,
+          "abstract": 1,
+          "author": 1,
+          "author_affiliation": 0.9011406844106464,
+          "doi": 1,
+          "publication_date": 1,
+          "publisher": 1,
+          "resource_type": 1,
+          "subject_keywords": 1,
+          "funder_name": 0.019011406844106463,
+          "container_title": 1,
+          "language": 0.9885931558935361,
+          "author_orcid": 0.752851711026616,
+          "all_authors_orcid": 0.49429657794676807,
+          "funder_doi": 0.019011406844106463,
+          "award_number": 0,
+          "issn": 1,
+          "volume": 0.6692015209125475,
+          "issue": 0.8326996197718631,
+          "page": 0.908745247148289,
+          "published_print_date": 1,
+          "published_online_date": 1,
+          "article_number": 0,
+          "license": 1,
+          "license_url": 1,
+          "open_access_license": 1,
+          "full_text_links": 0.9505703422053232,
+          "resource_url": 1,
+          "references": 0.7984790874524715,
+          "references_count": 0.7984790874524715,
+          "is_referenced_by": 0.5513307984790875,
+          "update_policy": 0,
+          "jats_abstract": 0,
+          "author_sequence": 1,
+          "affiliation_ids_ror": 0.9011406844106464,
+          "relations": 1,
+          "assertions": 0,
+          "archive": 0,
+          "credit_roles": 0,
+          "author_given_family": 1,
+          "affiliation_ror": 0.9011406844106464,
+          "funding_complete": 0,
+          "data_availability": 0,
+          "preprint_version_link": 0.5893536121673004,
+          "peer_review_info": 0,
+          "clinical_trial": 0,
+          "abstract_structured": 0,
+          "open_access_status": 1
+        }
+      },
+      "comparable": {
+        "crossref": {
+          "categories": {
+            "findable_essential": 0.6853612167300379,
+            "findable_support": 0.5133079847908746,
+            "accessible_essential": 0.5979087452471483,
+            "accessible_support": 0.3333333333333333,
+            "evaluation_coara": 0.32015209125475286
+          },
+          "overall": 0.5294455006337135
+        },
+        "openalex": {
+          "categories": {
+            "findable_essential": 0.9081115335868186,
+            "findable_support": 0.667680608365019,
+            "accessible_essential": 0.8873574144486691,
+            "accessible_support": 0.9670468948035488,
+            "evaluation_coara": 0.6980988593155895
+          },
+          "overall": 0.8307493662864386
+        },
+        "gap": 0.30130386565272504
+      },
+      "voluntary": {
+        "crossref": 0.18883079847908746,
+        "openalex": 0.6773288973384031
+      }
+    },
+    {
+      "year": 2021,
+      "count": 348,
+      "matched": 348,
+      "universeSize": 348,
+      "crossref": {
+        "overall": 0.476315163125508,
+        "categories": {
+          "findable_essential": 0.6661877394636015,
+          "findable_support": 0.4615987460815047,
+          "accessible_essential": 0.5552362707535122,
+          "accessible_support": 0.32375478927203066,
+          "evaluation_coara": 0.18017241379310345
+        },
+        "fields": {
+          "title": 0.9770114942528736,
+          "abstract": 0.9425287356321839,
+          "author": 1,
+          "author_affiliation": 0.03735632183908046,
+          "doi": 1,
+          "publication_date": 1,
+          "publisher": 1,
+          "resource_type": 1,
+          "subject_keywords": 0,
+          "funder_name": 0,
+          "container_title": 1,
+          "language": 0.03735632183908046,
+          "author_orcid": 0.33045977011494254,
+          "all_authors_orcid": 0.2413793103448276,
+          "funder_doi": 0,
+          "award_number": 0,
+          "issn": 1,
+          "volume": 0.6752873563218391,
+          "issue": 0.8362068965517241,
+          "page": 0.9166666666666666,
+          "published_print_date": 0.07758620689655173,
+          "published_online_date": 1,
+          "article_number": 0,
+          "license": 0.8793103448275862,
+          "license_url": 0.8793103448275862,
+          "open_access_license": 0.8793103448275862,
+          "full_text_links": 0.9195402298850575,
+          "resource_url": 1,
+          "references": 0.014367816091954023,
+          "references_count": 0.014367816091954023,
+          "is_referenced_by": 0.4109195402298851,
+          "update_policy": 0,
+          "jats_abstract": 0.9425287356321839,
+          "author_sequence": 1,
+          "affiliation_ids_ror": 0,
+          "relations": 0,
+          "assertions": 0,
+          "archive": 0,
+          "credit_roles": 0,
+          "author_given_family": 0.9224137931034483,
+          "affiliation_ror": 0,
+          "funding_complete": 0,
+          "data_availability": 0,
+          "preprint_version_link": 0,
+          "peer_review_info": 0,
+          "clinical_trial": 0,
+          "abstract_structured": 0,
+          "open_access_status": 0.8793103448275862
+        }
+      },
+      "openalex": {
+        "overall": 0.6716758098223616,
+        "categories": {
+          "findable_essential": 0.9039750957854408,
+          "findable_support": 0.6047544409613376,
+          "accessible_essential": 0.7729885057471265,
+          "accessible_support": 0.47844827586206895,
+          "evaluation_coara": 0.3433908045977011
+        },
+        "fields": {
+          "title": 0.9770114942528736,
+          "abstract": 0.9626436781609196,
+          "author": 1,
+          "author_affiliation": 0.8936781609195402,
+          "doi": 1,
+          "publication_date": 1,
+          "publisher": 1,
+          "resource_type": 1,
+          "subject_keywords": 1,
+          "funder_name": 0.03735632183908046,
+          "container_title": 1,
+          "language": 0.9770114942528736,
+          "author_orcid": 0.7126436781609196,
+          "all_authors_orcid": 0.45689655172413796,
+          "funder_doi": 0.03735632183908046,
+          "award_number": 0.017241379310344827,
+          "issn": 1,
+          "volume": 0.6752873563218391,
+          "issue": 0.8362068965517241,
+          "page": 0.9166666666666666,
+          "published_print_date": 1,
+          "published_online_date": 1,
+          "article_number": 0,
+          "license": 1,
+          "license_url": 1,
+          "open_access_license": 1,
+          "full_text_links": 0.9655172413793104,
+          "resource_url": 1,
+          "references": 0.7442528735632183,
+          "references_count": 0.7442528735632183,
+          "is_referenced_by": 0.5028735632183908,
+          "update_policy": 0,
+          "jats_abstract": 0,
+          "author_sequence": 1,
+          "affiliation_ids_ror": 0.8908045977011494,
+          "relations": 0.9798850574712644,
+          "assertions": 0,
+          "archive": 0,
+          "credit_roles": 0,
+          "author_given_family": 1,
+          "affiliation_ror": 0.8908045977011494,
+          "funding_complete": 0.017241379310344827,
+          "data_availability": 0,
+          "preprint_version_link": 0.5258620689655172,
+          "peer_review_info": 0,
+          "clinical_trial": 0,
+          "abstract_structured": 0,
+          "open_access_status": 1
+        }
+      },
+      "comparable": {
+        "crossref": {
+          "categories": {
+            "findable_essential": 0.6661877394636015,
+            "findable_support": 0.5077586206896552,
+            "accessible_essential": 0.6246408045977012,
+            "accessible_support": 0.3333333333333333,
+            "evaluation_coara": 0.3603448275862069
+          },
+          "overall": 0.5375826149425287
+        },
+        "openalex": {
+          "categories": {
+            "findable_essential": 0.9039750957854408,
+            "findable_support": 0.6652298850574713,
+            "accessible_essential": 0.8696120689655173,
+            "accessible_support": 0.9568965517241379,
+            "evaluation_coara": 0.6867816091954022
+          },
+          "overall": 0.8214260057471264
+        },
+        "gap": 0.28384339080459775
+      },
+      "voluntary": {
+        "crossref": 0.1706058429118774,
+        "openalex": 0.6594348659003831
+      }
+    },
+    {
+      "year": 2022,
+      "count": 416,
+      "matched": 416,
+      "universeSize": 416,
+      "crossref": {
+        "overall": 0.4831807255244756,
+        "categories": {
+          "findable_essential": 0.6656650641025641,
+          "findable_support": 0.46263111888111885,
+          "accessible_essential": 0.5681089743589745,
+          "accessible_support": 0.3321314102564103,
+          "evaluation_coara": 0.19423076923076923
+        },
+        "fields": {
+          "title": 0.9951923076923077,
+          "abstract": 0.9927884615384616,
+          "author": 1,
+          "author_affiliation": 0,
+          "doi": 1,
+          "publication_date": 1,
+          "publisher": 1,
+          "resource_type": 1,
+          "subject_keywords": 0,
+          "funder_name": 0,
+          "container_title": 1,
+          "language": 0,
+          "author_orcid": 0.3293269230769231,
+          "all_authors_orcid": 0.2980769230769231,
+          "funder_doi": 0,
+          "award_number": 0,
+          "issn": 1,
+          "volume": 0.75,
+          "issue": 0.9278846153846154,
+          "page": 0.7836538461538461,
+          "published_print_date": 0,
+          "published_online_date": 1,
+          "article_number": 0,
+          "license": 0.9447115384615384,
+          "license_url": 0.9447115384615384,
+          "open_access_license": 0.9447115384615384,
+          "full_text_links": 0.9879807692307693,
+          "resource_url": 1,
+          "references": 0,
+          "references_count": 0,
+          "is_referenced_by": 0.29086538461538464,
+          "update_policy": 0,
+          "jats_abstract": 0.9927884615384616,
+          "author_sequence": 1,
+          "affiliation_ids_ror": 0,
+          "relations": 0,
+          "assertions": 0,
+          "archive": 0,
+          "credit_roles": 0,
+          "author_given_family": 0.9975961538461539,
+          "affiliation_ror": 0,
+          "funding_complete": 0,
+          "data_availability": 0,
+          "preprint_version_link": 0,
+          "peer_review_info": 0,
+          "clinical_trial": 0,
+          "abstract_structured": 0,
+          "open_access_status": 0.9447115384615384
+        }
+      },
+      "openalex": {
+        "overall": 0.672642531080031,
+        "categories": {
+          "findable_essential": 0.9070512820512823,
+          "findable_support": 0.6140734265734266,
+          "accessible_essential": 0.7759081196581197,
+          "accessible_support": 0.484775641025641,
+          "evaluation_coara": 0.3298076923076923
+        },
+        "fields": {
+          "title": 0.9951923076923077,
+          "abstract": 0.9807692307692307,
+          "author": 1,
+          "author_affiliation": 0.9158653846153846,
+          "doi": 1,
+          "publication_date": 1,
+          "publisher": 0.9879807692307693,
+          "resource_type": 1,
+          "subject_keywords": 1,
+          "funder_name": 0.009615384615384616,
+          "container_title": 1,
+          "language": 0.9951923076923077,
+          "author_orcid": 0.78125,
+          "all_authors_orcid": 0.5024038461538461,
+          "funder_doi": 0.009615384615384616,
+          "award_number": 0,
+          "issn": 1,
+          "volume": 0.75,
+          "issue": 0.9278846153846154,
+          "page": 0.7836538461538461,
+          "published_print_date": 1,
+          "published_online_date": 1,
+          "article_number": 0,
+          "license": 1,
+          "license_url": 1,
+          "open_access_license": 1,
+          "full_text_links": 0.9711538461538461,
+          "resource_url": 1,
+          "references": 0.7932692307692307,
+          "references_count": 0.7932692307692307,
+          "is_referenced_by": 0.4254807692307692,
+          "update_policy": 0,
+          "jats_abstract": 0,
+          "author_sequence": 1,
+          "affiliation_ids_ror": 0.9158653846153846,
+          "relations": 0.9927884615384616,
+          "assertions": 0,
+          "archive": 0,
+          "credit_roles": 0,
+          "author_given_family": 1,
+          "affiliation_ror": 0.9158653846153846,
+          "funding_complete": 0,
+          "data_availability": 0,
+          "preprint_version_link": 0.38221153846153844,
+          "peer_review_info": 0,
+          "clinical_trial": 0,
+          "abstract_structured": 0,
+          "open_access_status": 1
+        }
+      },
+      "comparable": {
+        "crossref": {
+          "categories": {
+            "findable_essential": 0.6656650641025641,
+            "findable_support": 0.5088942307692308,
+            "accessible_essential": 0.6391225961538463,
+            "accessible_support": 0.3333333333333333,
+            "evaluation_coara": 0.38846153846153847
+          },
+          "overall": 0.5468399439102565
+        },
+        "openalex": {
+          "categories": {
+            "findable_essential": 0.9070512820512823,
+            "findable_support": 0.6754807692307693,
+            "accessible_essential": 0.8728966346153847,
+            "accessible_support": 0.969551282051282,
+            "evaluation_coara": 0.6596153846153846
+          },
+          "overall": 0.8205398637820513
+        },
+        "gap": 0.2736999198717949
+      },
+      "voluntary": {
+        "crossref": 0.17671274038461537,
+        "openalex": 0.6639823717948719
+      }
+    },
+    {
+      "year": 2023,
+      "count": 408,
+      "matched": 408,
+      "universeSize": 408,
+      "crossref": {
+        "overall": 0.4872894385026738,
+        "categories": {
+          "findable_essential": 0.6656454248366014,
+          "findable_support": 0.4772727272727273,
+          "accessible_essential": 0.5727124183006534,
+          "accessible_support": 0.33169934640522875,
+          "evaluation_coara": 0.1982843137254902
+        },
+        "fields": {
+          "title": 0.9975490196078431,
+          "abstract": 0.9901960784313726,
+          "author": 1,
+          "author_affiliation": 0,
+          "doi": 1,
+          "publication_date": 1,
+          "publisher": 1,
+          "resource_type": 1,
+          "subject_keywords": 0,
+          "funder_name": 0,
+          "container_title": 1,
+          "language": 0,
+          "author_orcid": 0.49019607843137253,
+          "all_authors_orcid": 0.4362745098039216,
+          "funder_doi": 0,
+          "award_number": 0,
+          "issn": 1,
+          "volume": 0.7058823529411765,
+          "issue": 0.8308823529411765,
+          "page": 0.7867647058823529,
+          "published_print_date": 0,
+          "published_online_date": 1,
+          "article_number": 0,
+          "license": 0.9828431372549019,
+          "license_url": 0.9828431372549019,
+          "open_access_license": 0.9828431372549019,
+          "full_text_links": 0.9877450980392157,
+          "resource_url": 1,
+          "references": 0,
+          "references_count": 0,
+          "is_referenced_by": 0.2181372549019608,
+          "update_policy": 0,
+          "jats_abstract": 0.9901960784313726,
+          "author_sequence": 1,
+          "affiliation_ids_ror": 0,
+          "relations": 0,
+          "assertions": 0,
+          "archive": 0,
+          "credit_roles": 0,
+          "author_given_family": 1,
+          "affiliation_ror": 0,
+          "funding_complete": 0,
+          "data_availability": 0,
+          "preprint_version_link": 0,
+          "peer_review_info": 0,
+          "clinical_trial": 0,
+          "abstract_structured": 0,
+          "open_access_status": 0.9828431372549019
+        }
+      },
+      "openalex": {
+        "overall": 0.6689193404634581,
+        "categories": {
+          "findable_essential": 0.9084967320261438,
+          "findable_support": 0.6071746880570411,
+          "accessible_essential": 0.7679738562091503,
+          "accessible_support": 0.48447712418300654,
+          "evaluation_coara": 0.32426470588235295
+        },
+        "fields": {
+          "title": 0.9975490196078431,
+          "abstract": 0.9803921568627451,
+          "author": 1,
+          "author_affiliation": 0.9191176470588235,
+          "doi": 1,
+          "publication_date": 1,
+          "publisher": 0.9901960784313726,
+          "resource_type": 1,
+          "subject_keywords": 1,
+          "funder_name": 0.014705882352941176,
+          "container_title": 1,
+          "language": 1,
+          "author_orcid": 0.7818627450980392,
+          "all_authors_orcid": 0.5563725490196079,
+          "funder_doi": 0.014705882352941176,
+          "award_number": 0.0024509803921568627,
+          "issn": 1,
+          "volume": 0.7058823529411765,
+          "issue": 0.8308823529411765,
+          "page": 0.7867647058823529,
+          "published_print_date": 1,
+          "published_online_date": 1,
+          "article_number": 0,
+          "license": 1,
+          "license_url": 1,
+          "open_access_license": 1,
+          "full_text_links": 0.9950980392156863,
+          "resource_url": 1,
+          "references": 0.803921568627451,
+          "references_count": 0.803921568627451,
+          "is_referenced_by": 0.3088235294117647,
+          "update_policy": 0,
+          "jats_abstract": 0,
+          "author_sequence": 1,
+          "affiliation_ids_ror": 0.9191176470588235,
+          "relations": 0.9877450980392157,
+          "assertions": 0,
+          "archive": 0,
+          "credit_roles": 0,
+          "author_given_family": 1,
+          "affiliation_ror": 0.9191176470588235,
+          "funding_complete": 0.0024509803921568627,
+          "data_availability": 0,
+          "preprint_version_link": 0.32107843137254904,
+          "peer_review_info": 0,
+          "clinical_trial": 0,
+          "abstract_structured": 0,
+          "open_access_status": 1
+        }
+      },
+      "comparable": {
+        "crossref": {
+          "categories": {
+            "findable_essential": 0.6656454248366014,
+            "findable_support": 0.525,
+            "accessible_essential": 0.6443014705882352,
+            "accessible_support": 0.3333333333333333,
+            "evaluation_coara": 0.3965686274509804
+          },
+          "overall": 0.5521660539215686
+        },
+        "openalex": {
+          "categories": {
+            "findable_essential": 0.9084967320261438,
+            "findable_support": 0.6678921568627452,
+            "accessible_essential": 0.863970588235294,
+            "accessible_support": 0.9689542483660131,
+            "evaluation_coara": 0.6485294117647059
+          },
+          "overall": 0.8153267973856209
+        },
+        "gap": 0.26316074346405227
+      },
+      "voluntary": {
+        "crossref": 0.1909109477124183,
+        "openalex": 0.6648999183006535
+      }
+    },
+    {
+      "year": 2024,
+      "count": 441,
+      "matched": 441,
+      "universeSize": 441,
+      "crossref": {
+        "overall": 0.48466181085228704,
+        "categories": {
+          "findable_essential": 0.6647770219198791,
+          "findable_support": 0.4877344877344877,
+          "accessible_essential": 0.5583270345175106,
+          "accessible_support": 0.3303099017384732,
+          "evaluation_coara": 0.19727891156462585
+        },
+        "fields": {
+          "title": 0.9954648526077098,
+          "abstract": 0.981859410430839,
+          "author": 1,
+          "author_affiliation": 0,
+          "doi": 1,
+          "publication_date": 1,
+          "publisher": 1,
+          "resource_type": 1,
+          "subject_keywords": 0,
+          "funder_name": 0,
+          "container_title": 1,
+          "language": 0,
+          "author_orcid": 0.47392290249433106,
+          "all_authors_orcid": 0.42403628117913833,
+          "funder_doi": 0,
+          "award_number": 0,
+          "issn": 1,
+          "volume": 0.7482993197278912,
+          "issue": 0.8503401360544217,
+          "page": 0.8684807256235828,
+          "published_print_date": 0,
+          "published_online_date": 1,
+          "article_number": 0,
+          "license": 0.9727891156462585,
+          "license_url": 0.9727891156462585,
+          "open_access_license": 0.9727891156462585,
+          "full_text_links": 0.981859410430839,
+          "resource_url": 1,
+          "references": 0,
+          "references_count": 0,
+          "is_referenced_by": 0.12471655328798185,
+          "update_policy": 0,
+          "jats_abstract": 0.981859410430839,
+          "author_sequence": 1,
+          "affiliation_ids_ror": 0,
+          "relations": 0,
+          "assertions": 0,
+          "archive": 0,
+          "credit_roles": 0,
+          "author_given_family": 1,
+          "affiliation_ror": 0,
+          "funding_complete": 0,
+          "data_availability": 0,
+          "preprint_version_link": 0,
+          "peer_review_info": 0,
+          "clinical_trial": 0,
+          "abstract_structured": 0,
+          "open_access_status": 0.9727891156462585
+        }
+      },
+      "openalex": {
+        "overall": 0.6269679791108362,
+        "categories": {
+          "findable_essential": 0.8962585034013606,
+          "findable_support": 0.5994640280354566,
+          "accessible_essential": 0.6455026455026455,
+          "accessible_support": 0.46296296296296297,
+          "evaluation_coara": 0.3024943310657596
+        },
+        "fields": {
+          "title": 0.9954648526077098,
+          "abstract": 0.981859410430839,
+          "author": 1,
+          "author_affiliation": 0.8639455782312925,
+          "doi": 1,
+          "publication_date": 1,
+          "publisher": 0.9727891156462585,
+          "resource_type": 1,
+          "subject_keywords": 1,
+          "funder_name": 0.0045351473922902496,
+          "container_title": 1,
+          "language": 0.9365079365079365,
+          "author_orcid": 0.6643990929705216,
+          "all_authors_orcid": 0.4557823129251701,
+          "funder_doi": 0.0045351473922902496,
+          "award_number": 0.0022675736961451248,
+          "issn": 1,
+          "volume": 0.7482993197278912,
+          "issue": 0.8503401360544217,
+          "page": 0.8684807256235828,
+          "published_print_date": 1,
+          "published_online_date": 1,
+          "article_number": 0,
+          "license": 1,
+          "license_url": 1,
+          "open_access_license": 1,
+          "full_text_links": 0.9387755102040817,
+          "resource_url": 1,
+          "references": 0.35147392290249435,
+          "references_count": 0.35147392290249435,
+          "is_referenced_by": 0.16780045351473924,
+          "update_policy": 0,
+          "jats_abstract": 0,
+          "author_sequence": 1,
+          "affiliation_ids_ror": 0.8639455782312925,
+          "relations": 0.9138321995464853,
+          "assertions": 0,
+          "archive": 0,
+          "credit_roles": 0,
+          "author_given_family": 1,
+          "affiliation_ror": 0.8639455782312925,
+          "funding_complete": 0.0022675736961451248,
+          "data_availability": 0,
+          "preprint_version_link": 0.15873015873015872,
+          "peer_review_info": 0,
+          "clinical_trial": 0,
+          "abstract_structured": 0,
+          "open_access_status": 1
+        }
+      },
+      "comparable": {
+        "crossref": {
+          "categories": {
+            "findable_essential": 0.6647770219198791,
+            "findable_support": 0.5365079365079365,
+            "accessible_essential": 0.6281179138321995,
+            "accessible_support": 0.3333333333333333,
+            "evaluation_coara": 0.3945578231292517
+          },
+          "overall": 0.5491836734693877
+        },
+        "openalex": {
+          "categories": {
+            "findable_essential": 0.8962585034013606,
+            "findable_support": 0.6594104308390023,
+            "accessible_essential": 0.7261904761904762,
+            "accessible_support": 0.9259259259259259,
+            "evaluation_coara": 0.6049886621315193
+          },
+          "overall": 0.762927059712774
+        },
+        "gap": 0.2137433862433863
+      },
+      "voluntary": {
+        "crossref": 0.18837868480725622,
+        "openalex": 0.5551681783824641
+      }
+    },
+    {
+      "year": 2025,
+      "count": 370,
+      "matched": 360,
+      "universeSize": 370,
+      "crossref": {
+        "overall": 0.48294198744198746,
+        "categories": {
+          "findable_essential": 0.6641891891891892,
+          "findable_support": 0.5181818181818182,
+          "accessible_essential": 0.5363363363363364,
+          "accessible_support": 0.33063063063063064,
+          "evaluation_coara": 0.19405405405405407
+        },
+        "fields": {
+          "title": 0.9864864864864865,
+          "abstract": 0.9837837837837838,
+          "author": 1,
+          "author_affiliation": 0,
+          "doi": 1,
+          "publication_date": 1,
+          "publisher": 1,
+          "resource_type": 1,
+          "subject_keywords": 0,
+          "funder_name": 0,
+          "container_title": 1,
+          "language": 0,
+          "author_orcid": 0.5621621621621622,
+          "all_authors_orcid": 0.5081081081081081,
+          "funder_doi": 0,
+          "award_number": 0,
+          "issn": 1,
+          "volume": 0.8702702702702703,
+          "issue": 0.8972972972972973,
+          "page": 0.8621621621621621,
+          "published_print_date": 0,
+          "published_online_date": 1,
+          "article_number": 0,
+          "license": 0.9405405405405406,
+          "license_url": 0.9405405405405406,
+          "open_access_license": 0.9405405405405406,
+          "full_text_links": 0.9486486486486486,
+          "resource_url": 1,
+          "references": 0,
+          "references_count": 0,
+          "is_referenced_by": 0.05675675675675676,
+          "update_policy": 0,
+          "jats_abstract": 0.9837837837837838,
+          "author_sequence": 1,
+          "affiliation_ids_ror": 0,
+          "relations": 0,
+          "assertions": 0,
+          "archive": 0,
+          "credit_roles": 0,
+          "author_given_family": 1,
+          "affiliation_ror": 0,
+          "funding_complete": 0,
+          "data_availability": 0,
+          "preprint_version_link": 0,
+          "peer_review_info": 0,
+          "clinical_trial": 0,
+          "abstract_structured": 0,
+          "open_access_status": 0.9405405405405406
+        }
+      },
+      "openalex": {
+        "overall": 0.5865404040404042,
+        "categories": {
+          "findable_essential": 0.8587962962962964,
+          "findable_support": 0.6065656565656566,
+          "accessible_essential": 0.5666666666666668,
+          "accessible_support": 0.37916666666666665,
+          "evaluation_coara": 0.29166666666666663
+        },
+        "fields": {
+          "title": 0.9861111111111112,
+          "abstract": 0.9916666666666667,
+          "author": 1,
+          "author_affiliation": 0.7305555555555555,
+          "doi": 1,
+          "publication_date": 1,
+          "publisher": 0.9361111111111111,
+          "resource_type": 1,
+          "subject_keywords": 0.9972222222222222,
+          "funder_name": 0.016666666666666666,
+          "container_title": 1,
+          "language": 0.6472222222222223,
+          "author_orcid": 0.6166666666666667,
+          "all_authors_orcid": 0.38333333333333336,
+          "funder_doi": 0.016666666666666666,
+          "award_number": 0.002777777777777778,
+          "issn": 1,
+          "volume": 0.8722222222222222,
+          "issue": 0.9083333333333333,
+          "page": 0.8722222222222222,
+          "published_print_date": 1,
+          "published_online_date": 1,
+          "article_number": 0,
+          "license": 0.9805555555555555,
+          "license_url": 0.9805555555555555,
+          "open_access_license": 0.9805555555555555,
+          "full_text_links": 0.8,
+          "resource_url": 1,
+          "references": 0.14444444444444443,
+          "references_count": 0.14444444444444443,
+          "is_referenced_by": 0.06944444444444445,
+          "update_policy": 0,
+          "jats_abstract": 0,
+          "author_sequence": 1,
+          "affiliation_ids_ror": 0.7305555555555555,
+          "relations": 0.5444444444444444,
+          "assertions": 0,
+          "archive": 0,
+          "credit_roles": 0,
+          "author_given_family": 1,
+          "affiliation_ror": 0.7305555555555555,
+          "funding_complete": 0.002777777777777778,
+          "data_availability": 0,
+          "preprint_version_link": 0.2,
+          "peer_review_info": 0,
+          "clinical_trial": 0,
+          "abstract_structured": 0,
+          "open_access_status": 0.9833333333333333
+        }
+      },
+      "comparable": {
+        "crossref": {
+          "categories": {
+            "findable_essential": 0.6641891891891892,
+            "findable_support": 0.5700000000000001,
+            "accessible_essential": 0.6033783783783784,
+            "accessible_support": 0.3333333333333333,
+            "evaluation_coara": 0.38810810810810814
+          },
+          "overall": 0.5465563063063064
+        },
+        "openalex": {
+          "categories": {
+            "findable_essential": 0.8587962962962964,
+            "findable_support": 0.6672222222222223,
+            "accessible_essential": 0.6375000000000001,
+            "accessible_support": 0.7583333333333333,
+            "evaluation_coara": 0.5833333333333333
+          },
+          "overall": 0.7095972222222223
+        },
+        "gap": 0.16304091591591596
+      },
+      "voluntary": {
+        "crossref": 0.1922972972972973,
+        "openalex": 0.47519675925925925
+      }
+    }
+  ],
+  "fieldSamples": {
+    "title": [],
+    "abstract": [
+      {
+        "doi": "10.21854/eps.v0i31.2226",
+        "title": "Turismo criativo e turismo de base comunitária: congruências e peculiaridades"
+      },
+      {
+        "doi": "10.22185/24487147.2016.90.040",
+        "title": "El divorcio, indicador de transformación social y familiar con impacto diferencial entre los sexos: estudio realizado en Nuevo León"
+      },
+      {
+        "doi": "10.22185/24487147.2016.90.039",
+        "title": "El trabajo femenino: del permiso a la obligación"
+      },
+      {
+        "doi": "10.22185/24487147.2016.90.036",
+        "title": "Modelando la migración interestatal de México: cadenas de Markov estáticas versus Cadenas de Markov dinámicas con medias móviles"
+      },
+      {
+        "doi": "10.22185/pp.22.90.2016/035",
+        "title": "Envejecimiento y vulnerabilidad social en el Estado de México"
+      }
+    ],
+    "author": [],
+    "author_affiliation": [
+      {
+        "doi": "10.29101/crcs.v0i67.2188",
+        "title": "Quantification of mobbing in the Mexican financial sector from a gender perspective"
+      },
+      {
+        "doi": "10.29101/crcs.v0i67.2187",
+        "title": "Percepción del profesorado sobre concepciones profesionales ante la diversidad cultural escolar"
+      },
+      {
+        "doi": "10.29101/crcs.v0i67.2185",
+        "title": "Precariedad laboral de jóvenes asalariados en la ciudad de Toluca, 2005-2010"
+      },
+      {
+        "doi": "10.29101/crcs.v0i67.2182",
+        "title": "Democracy in Latin America: status and prospects"
+      },
+      {
+        "doi": "10.29101/crcs.v0i67.2181",
+        "title": "De víctimas a sobrevivientes: la fuerza poiética y resiliente del cuidar"
+      }
+    ],
+    "doi": [],
+    "publication_date": [],
+    "publisher": [],
+    "resource_type": [],
+    "subject_keywords": [
+      {
+        "doi": "10.29101/crcs.v0i67.2188",
+        "title": "Quantification of mobbing in the Mexican financial sector from a gender perspective"
+      },
+      {
+        "doi": "10.29101/crcs.v0i67.2187",
+        "title": "Percepción del profesorado sobre concepciones profesionales ante la diversidad cultural escolar"
+      },
+      {
+        "doi": "10.29101/crcs.v0i67.2185",
+        "title": "Precariedad laboral de jóvenes asalariados en la ciudad de Toluca, 2005-2010"
+      },
+      {
+        "doi": "10.29101/crcs.v0i67.2182",
+        "title": "Democracy in Latin America: status and prospects"
+      },
+      {
+        "doi": "10.29101/crcs.v0i67.2181",
+        "title": "De víctimas a sobrevivientes: la fuerza poiética y resiliente del cuidar"
+      }
+    ],
+    "funder_name": [
+      {
+        "doi": "10.29101/crcs.v0i67.2182",
+        "title": "Democracy in Latin America: status and prospects"
+      },
+      {
+        "doi": "10.29101/crcs.v23i70.3805",
+        "title": "Visions of the Spanish Revolution: identities and conflicts in post-welfare societies"
+      },
+      {
+        "doi": "10.29101/crcs.v23i70.3808",
+        "title": "Los saberes cívicos en la innovación de la gestión pública"
+      },
+      {
+        "doi": "10.29101/crcs.v0i71.3995",
+        "title": "Lenguaje e ideología. A propósito de la nueva ley del aborto española"
+      },
+      {
+        "doi": "10.29101/crcs.v0i75.4656",
+        "title": "Representaciones de la sexualidad femenina en la  ficción televisiva española"
+      }
+    ],
+    "container_title": [],
+    "language": [
+      {
+        "doi": "10.29101/crcs.v0i67.2188",
+        "title": "Quantification of mobbing in the Mexican financial sector from a gender perspective"
+      },
+      {
+        "doi": "10.29101/crcs.v0i67.2187",
+        "title": "Percepción del profesorado sobre concepciones profesionales ante la diversidad cultural escolar"
+      },
+      {
+        "doi": "10.29101/crcs.v0i67.2185",
+        "title": "Precariedad laboral de jóvenes asalariados en la ciudad de Toluca, 2005-2010"
+      },
+      {
+        "doi": "10.29101/crcs.v0i67.2182",
+        "title": "Democracy in Latin America: status and prospects"
+      },
+      {
+        "doi": "10.29101/crcs.v0i67.2181",
+        "title": "De víctimas a sobrevivientes: la fuerza poiética y resiliente del cuidar"
+      }
+    ],
+    "author_orcid": [
+      {
+        "doi": "10.29101/crcs.v0i67.2188",
+        "title": "Quantification of mobbing in the Mexican financial sector from a gender perspective"
+      },
+      {
+        "doi": "10.29101/crcs.v0i67.2187",
+        "title": "Percepción del profesorado sobre concepciones profesionales ante la diversidad cultural escolar"
+      },
+      {
+        "doi": "10.29101/crcs.v0i67.2185",
+        "title": "Precariedad laboral de jóvenes asalariados en la ciudad de Toluca, 2005-2010"
+      },
+      {
+        "doi": "10.29101/crcs.v0i67.2182",
+        "title": "Democracy in Latin America: status and prospects"
+      },
+      {
+        "doi": "10.29101/crcs.v0i67.2181",
+        "title": "De víctimas a sobrevivientes: la fuerza poiética y resiliente del cuidar"
+      }
+    ],
+    "all_authors_orcid": [
+      {
+        "doi": "10.29101/crcs.v0i67.2181",
+        "title": "De víctimas a sobrevivientes: la fuerza poiética y resiliente del cuidar"
+      },
+      {
+        "doi": "10.29101/crcs.v0i67.2184",
+        "title": "Perspectivas teóricas de género: status questionis del impacto en el sistema educativo"
+      },
+      {
+        "doi": "10.29101/crcs.v0i67.2186",
+        "title": "Los usos sistémicos del romanticismo temprano y de la hermenéutica alemanes"
+      },
+      {
+        "doi": "10.29101/crcs.v0i67.2183",
+        "title": "Derecho a la educación y autonomía zapatista en Chiapas, México"
+      },
+      {
+        "doi": "10.29101/crcs.v0i68.2950",
+        "title": "Las dimensiones de la competencia en el sistema de partidos mexicano (1979-2012)"
+      }
+    ],
+    "funder_doi": [
+      {
+        "doi": "10.29101/crcs.v0i67.2182",
+        "title": "Democracy in Latin America: status and prospects"
+      },
+      {
+        "doi": "10.29101/crcs.v23i70.3805",
+        "title": "Visions of the Spanish Revolution: identities and conflicts in post-welfare societies"
+      },
+      {
+        "doi": "10.29101/crcs.v23i70.3808",
+        "title": "Los saberes cívicos en la innovación de la gestión pública"
+      },
+      {
+        "doi": "10.29101/crcs.v0i71.3995",
+        "title": "Lenguaje e ideología. A propósito de la nueva ley del aborto española"
+      },
+      {
+        "doi": "10.29101/crcs.v0i75.4656",
+        "title": "Representaciones de la sexualidad femenina en la  ficción televisiva española"
+      }
+    ],
+    "award_number": [
+      {
+        "doi": "10.29101/crcs.v23i70.3805",
+        "title": "Visions of the Spanish Revolution: identities and conflicts in post-welfare societies"
+      },
+      {
+        "doi": "10.29101/crcs.v0i75.4656",
+        "title": "Representaciones de la sexualidad femenina en la  ficción televisiva española"
+      },
+      {
+        "doi": "10.29101/crcs.v25i77.9303",
+        "title": "Historia española y personajes femeninos. Representaciones de mujer en la ficción histórica española"
+      },
+      {
+        "doi": "10.29101/crcs.v28i0.14438",
+        "title": "Mujeres en altos cargos en minería en Chile. Agencia y tensiones de género"
+      },
+      {
+        "doi": "10.29101/crcs.v28i0.15938",
+        "title": "Interseccionalidad raza-género en las noticias digitales mexicanas sobre Kamala Harris"
+      }
+    ],
+    "issn": [],
+    "volume": [],
+    "issue": [],
+    "page": [],
+    "published_print_date": [
+      {
+        "doi": "10.29101/crcs.v0i67.2188",
+        "title": "Quantification of mobbing in the Mexican financial sector from a gender perspective"
+      },
+      {
+        "doi": "10.29101/crcs.v0i67.2187",
+        "title": "Percepción del profesorado sobre concepciones profesionales ante la diversidad cultural escolar"
+      },
+      {
+        "doi": "10.29101/crcs.v0i67.2185",
+        "title": "Precariedad laboral de jóvenes asalariados en la ciudad de Toluca, 2005-2010"
+      },
+      {
+        "doi": "10.29101/crcs.v0i67.2182",
+        "title": "Democracy in Latin America: status and prospects"
+      },
+      {
+        "doi": "10.29101/crcs.v0i67.2181",
+        "title": "De víctimas a sobrevivientes: la fuerza poiética y resiliente del cuidar"
+      }
+    ],
+    "published_online_date": [],
+    "license": [
+      {
+        "doi": "10.29101/crcs.v0i67.2188",
+        "title": "Quantification of mobbing in the Mexican financial sector from a gender perspective"
+      },
+      {
+        "doi": "10.29101/crcs.v0i67.2187",
+        "title": "Percepción del profesorado sobre concepciones profesionales ante la diversidad cultural escolar"
+      },
+      {
+        "doi": "10.29101/crcs.v0i67.2185",
+        "title": "Precariedad laboral de jóvenes asalariados en la ciudad de Toluca, 2005-2010"
+      },
+      {
+        "doi": "10.29101/crcs.v0i67.2182",
+        "title": "Democracy in Latin America: status and prospects"
+      },
+      {
+        "doi": "10.29101/crcs.v0i67.2181",
+        "title": "De víctimas a sobrevivientes: la fuerza poiética y resiliente del cuidar"
+      }
+    ],
+    "license_url": [
+      {
+        "doi": "10.29101/crcs.v0i67.2188",
+        "title": "Quantification of mobbing in the Mexican financial sector from a gender perspective"
+      },
+      {
+        "doi": "10.29101/crcs.v0i67.2187",
+        "title": "Percepción del profesorado sobre concepciones profesionales ante la diversidad cultural escolar"
+      },
+      {
+        "doi": "10.29101/crcs.v0i67.2185",
+        "title": "Precariedad laboral de jóvenes asalariados en la ciudad de Toluca, 2005-2010"
+      },
+      {
+        "doi": "10.29101/crcs.v0i67.2182",
+        "title": "Democracy in Latin America: status and prospects"
+      },
+      {
+        "doi": "10.29101/crcs.v0i67.2181",
+        "title": "De víctimas a sobrevivientes: la fuerza poiética y resiliente del cuidar"
+      }
+    ],
+    "open_access_license": [
+      {
+        "doi": "10.29101/crcs.v0i67.2188",
+        "title": "Quantification of mobbing in the Mexican financial sector from a gender perspective"
+      },
+      {
+        "doi": "10.29101/crcs.v0i67.2187",
+        "title": "Percepción del profesorado sobre concepciones profesionales ante la diversidad cultural escolar"
+      },
+      {
+        "doi": "10.29101/crcs.v0i67.2185",
+        "title": "Precariedad laboral de jóvenes asalariados en la ciudad de Toluca, 2005-2010"
+      },
+      {
+        "doi": "10.29101/crcs.v0i67.2182",
+        "title": "Democracy in Latin America: status and prospects"
+      },
+      {
+        "doi": "10.29101/crcs.v0i67.2181",
+        "title": "De víctimas a sobrevivientes: la fuerza poiética y resiliente del cuidar"
+      }
+    ],
+    "full_text_links": [
+      {
+        "doi": "10.22185/24487147.2016.90.041",
+        "title": "Dispersión y fragmentación socioespacial en el crecimiento reciente de una ciudad petrolera de la Patagonia Argentina"
+      },
+      {
+        "doi": "10.30878/ces.v24n2a2",
+        "title": "Acoso escolar y habilidades sociales en alumnado de educación básica"
+      },
+      {
+        "doi": "10.30878/ces.v24n2a1",
+        "title": "Technology and Love for Everyone. Including the Elderly"
+      },
+      {
+        "doi": "10.30878/ces.v24n1a7",
+        "title": "Los agujeros negros y las ondas del Doctor Einstein"
+      },
+      {
+        "doi": "10.30878/ces.v24n3a4",
+        "title": "Effect-Size Reporting in Mexican Psychology Journals: What it Says about the Quality of Research within the Field"
+      }
+    ],
+    "resource_url": [],
+    "references": [
+      {
+        "doi": "10.29101/crcs.v0i67.2188",
+        "title": "Quantification of mobbing in the Mexican financial sector from a gender perspective"
+      },
+      {
+        "doi": "10.29101/crcs.v0i67.2187",
+        "title": "Percepción del profesorado sobre concepciones profesionales ante la diversidad cultural escolar"
+      },
+      {
+        "doi": "10.29101/crcs.v0i67.2185",
+        "title": "Precariedad laboral de jóvenes asalariados en la ciudad de Toluca, 2005-2010"
+      },
+      {
+        "doi": "10.29101/crcs.v0i67.2182",
+        "title": "Democracy in Latin America: status and prospects"
+      },
+      {
+        "doi": "10.29101/crcs.v0i67.2181",
+        "title": "De víctimas a sobrevivientes: la fuerza poiética y resiliente del cuidar"
+      }
+    ],
+    "references_count": [
+      {
+        "doi": "10.29101/crcs.v0i67.2188",
+        "title": "Quantification of mobbing in the Mexican financial sector from a gender perspective"
+      },
+      {
+        "doi": "10.29101/crcs.v0i67.2187",
+        "title": "Percepción del profesorado sobre concepciones profesionales ante la diversidad cultural escolar"
+      },
+      {
+        "doi": "10.29101/crcs.v0i67.2185",
+        "title": "Precariedad laboral de jóvenes asalariados en la ciudad de Toluca, 2005-2010"
+      },
+      {
+        "doi": "10.29101/crcs.v0i67.2182",
+        "title": "Democracy in Latin America: status and prospects"
+      },
+      {
+        "doi": "10.29101/crcs.v0i67.2181",
+        "title": "De víctimas a sobrevivientes: la fuerza poiética y resiliente del cuidar"
+      }
+    ],
+    "is_referenced_by": [
+      {
+        "doi": "10.29101/crcs.v0i67.2182",
+        "title": "Democracy in Latin America: status and prospects"
+      },
+      {
+        "doi": "10.29101/crcs.v0i67.2180",
+        "title": "Discursos sobre normas relativas a sexualidad en jóvenes del norte de Chile"
+      },
+      {
+        "doi": "10.29101/crcs.v0i67.2184",
+        "title": "Perspectivas teóricas de género: status questionis del impacto en el sistema educativo"
+      },
+      {
+        "doi": "10.29101/crcs.v0i67.2186",
+        "title": "Los usos sistémicos del romanticismo temprano y de la hermenéutica alemanes"
+      },
+      {
+        "doi": "10.29101/crcs.v0i68.2951",
+        "title": "Hacia una revalorización de la filosofía en diálogo con la indignación"
+      }
+    ],
+    "author_sequence": [],
+    "affiliation_ids_ror": [
+      {
+        "doi": "10.29101/crcs.v0i67.2188",
+        "title": "Quantification of mobbing in the Mexican financial sector from a gender perspective"
+      },
+      {
+        "doi": "10.29101/crcs.v0i67.2187",
+        "title": "Percepción del profesorado sobre concepciones profesionales ante la diversidad cultural escolar"
+      },
+      {
+        "doi": "10.29101/crcs.v0i67.2185",
+        "title": "Precariedad laboral de jóvenes asalariados en la ciudad de Toluca, 2005-2010"
+      },
+      {
+        "doi": "10.29101/crcs.v0i67.2182",
+        "title": "Democracy in Latin America: status and prospects"
+      },
+      {
+        "doi": "10.29101/crcs.v0i67.2181",
+        "title": "De víctimas a sobrevivientes: la fuerza poiética y resiliente del cuidar"
+      }
+    ],
+    "relations": [
+      {
+        "doi": "10.29101/crcs.v0i67.2188",
+        "title": "Quantification of mobbing in the Mexican financial sector from a gender perspective"
+      },
+      {
+        "doi": "10.29101/crcs.v0i67.2187",
+        "title": "Percepción del profesorado sobre concepciones profesionales ante la diversidad cultural escolar"
+      },
+      {
+        "doi": "10.29101/crcs.v0i67.2185",
+        "title": "Precariedad laboral de jóvenes asalariados en la ciudad de Toluca, 2005-2010"
+      },
+      {
+        "doi": "10.29101/crcs.v0i67.2182",
+        "title": "Democracy in Latin America: status and prospects"
+      },
+      {
+        "doi": "10.29101/crcs.v0i67.2181",
+        "title": "De víctimas a sobrevivientes: la fuerza poiética y resiliente del cuidar"
+      }
+    ],
+    "author_given_family": [
+      {
+        "doi": "10.22185/24487147.2016.90.040",
+        "title": "El divorcio, indicador de transformación social y familiar con impacto diferencial entre los sexos: estudio realizado en Nuevo León"
+      },
+      {
+        "doi": "10.22185/24487147.2016.90.039",
+        "title": "El trabajo femenino: del permiso a la obligación"
+      },
+      {
+        "doi": "10.22185/pp.22.90.2016/037",
+        "title": "Dispersión y fragmentación socioespacial en el crecimiento reciente de una ciudad\n            petrolera de la Patagonia argentina"
+      },
+      {
+        "doi": "10.22185/pp.22.90.2016/041",
+        "title": "El divorcio, indicador de transformación social y familiar con impacto diferencial\n            entre los sexos: Estudio realizado en Nuevo León"
+      },
+      {
+        "doi": "10.22185/pp.22.90.2016/038",
+        "title": "Trayectos peligrosos: el corredor migratorio Centroamérica-México-Estados\n            Unidos"
+      }
+    ],
+    "affiliation_ror": [
+      {
+        "doi": "10.29101/crcs.v0i67.2188",
+        "title": "Quantification of mobbing in the Mexican financial sector from a gender perspective"
+      },
+      {
+        "doi": "10.29101/crcs.v0i67.2187",
+        "title": "Percepción del profesorado sobre concepciones profesionales ante la diversidad cultural escolar"
+      },
+      {
+        "doi": "10.29101/crcs.v0i67.2185",
+        "title": "Precariedad laboral de jóvenes asalariados en la ciudad de Toluca, 2005-2010"
+      },
+      {
+        "doi": "10.29101/crcs.v0i67.2182",
+        "title": "Democracy in Latin America: status and prospects"
+      },
+      {
+        "doi": "10.29101/crcs.v0i67.2181",
+        "title": "De víctimas a sobrevivientes: la fuerza poiética y resiliente del cuidar"
+      }
+    ],
+    "funding_complete": [
+      {
+        "doi": "10.29101/crcs.v23i70.3805",
+        "title": "Visions of the Spanish Revolution: identities and conflicts in post-welfare societies"
+      },
+      {
+        "doi": "10.29101/crcs.v0i75.4656",
+        "title": "Representaciones de la sexualidad femenina en la  ficción televisiva española"
+      },
+      {
+        "doi": "10.29101/crcs.v25i77.9303",
+        "title": "Historia española y personajes femeninos. Representaciones de mujer en la ficción histórica española"
+      },
+      {
+        "doi": "10.29101/crcs.v28i0.14438",
+        "title": "Mujeres en altos cargos en minería en Chile. Agencia y tensiones de género"
+      },
+      {
+        "doi": "10.29101/crcs.v28i0.15938",
+        "title": "Interseccionalidad raza-género en las noticias digitales mexicanas sobre Kamala Harris"
+      }
+    ],
+    "preprint_version_link": [
+      {
+        "doi": "10.29101/crcs.v0i68.2952",
+        "title": "Media coverage of climate change in spanish-speaking online media"
+      },
+      {
+        "doi": "10.29101/crcs.v22i69.3643",
+        "title": "Del déficit a la norma: representaciones sociales sobre familias y participación escolar"
+      },
+      {
+        "doi": "10.29101/crcs.v23i70.3805",
+        "title": "Visions of the Spanish Revolution: identities and conflicts in post-welfare societies"
+      },
+      {
+        "doi": "10.29101/crcs.v23i70.3807",
+        "title": "Dispositivos móveis digitais e competências para a utilização na “sociedade do conhecimento”"
+      },
+      {
+        "doi": "10.29101/crcs.v23i70.3806",
+        "title": "Consumo informativo y competencias digitales de estudiantes de periodismo de Colombia, Perú y Venezuela"
+      }
+    ],
+    "open_access_status": [
+      {
+        "doi": "10.29101/crcs.v0i67.2188",
+        "title": "Quantification of mobbing in the Mexican financial sector from a gender perspective"
+      },
+      {
+        "doi": "10.29101/crcs.v0i67.2187",
+        "title": "Percepción del profesorado sobre concepciones profesionales ante la diversidad cultural escolar"
+      },
+      {
+        "doi": "10.29101/crcs.v0i67.2185",
+        "title": "Precariedad laboral de jóvenes asalariados en la ciudad de Toluca, 2005-2010"
+      },
+      {
+        "doi": "10.29101/crcs.v0i67.2182",
+        "title": "Democracy in Latin America: status and prospects"
+      },
+      {
+        "doi": "10.29101/crcs.v0i67.2181",
+        "title": "De víctimas a sobrevivientes: la fuerza poiética y resiliente del cuidar"
+      }
+    ]
+  },
+  "sampleWorks": [
+    {
+      "doi": "10.29101/crcs.v0i67.2188",
+      "title": "Quantification of mobbing in the Mexican financial sector from a gender perspective",
+      "year": 2015,
+      "crossrefScore": 0.4473684210526316,
+      "openalexScore": 0.7894736842105263,
+      "gap": 14,
+      "openalexAdds": [
+        "author_affiliation",
+        "subject_keywords",
+        "language",
+        "author_orcid",
+        "published_print_date",
+        "license",
+        "license_url",
+        "open_access_license",
+        "references",
+        "references_count",
+        "affiliation_ids_ror",
+        "relations",
+        "affiliation_ror",
+        "open_access_status"
+      ]
+    },
+    {
+      "doi": "10.29101/crcs.v0i67.2187",
+      "title": "Percepción del profesorado sobre concepciones profesionales ante la diversidad cultural escolar",
+      "year": 2015,
+      "crossrefScore": 0.4473684210526316,
+      "openalexScore": 0.7894736842105263,
+      "gap": 14,
+      "openalexAdds": [
+        "author_affiliation",
+        "subject_keywords",
+        "language",
+        "author_orcid",
+        "published_print_date",
+        "license",
+        "license_url",
+        "open_access_license",
+        "references",
+        "references_count",
+        "affiliation_ids_ror",
+        "relations",
+        "affiliation_ror",
+        "open_access_status"
+      ]
+    },
+    {
+      "doi": "10.29101/crcs.v0i67.2185",
+      "title": "Precariedad laboral de jóvenes asalariados en la ciudad de Toluca, 2005-2010",
+      "year": 2015,
+      "crossrefScore": 0.4473684210526316,
+      "openalexScore": 0.7894736842105263,
+      "gap": 14,
+      "openalexAdds": [
+        "author_affiliation",
+        "subject_keywords",
+        "language",
+        "author_orcid",
+        "published_print_date",
+        "license",
+        "license_url",
+        "open_access_license",
+        "references",
+        "references_count",
+        "affiliation_ids_ror",
+        "relations",
+        "affiliation_ror",
+        "open_access_status"
+      ]
+    },
+    {
+      "doi": "10.29101/crcs.v0i67.2182",
+      "title": "Democracy in Latin America: status and prospects",
+      "year": 2015,
+      "crossrefScore": 0.42105263157894735,
+      "openalexScore": 0.8421052631578947,
+      "gap": 17,
+      "openalexAdds": [
+        "author_affiliation",
+        "subject_keywords",
+        "funder_name",
+        "language",
+        "author_orcid",
+        "funder_doi",
+        "published_print_date",
+        "license",
+        "license_url",
+        "open_access_license",
+        "references",
+        "references_count",
+        "is_referenced_by",
+        "affiliation_ids_ror",
+        "relations",
+        "affiliation_ror",
+        "open_access_status"
+      ]
+    },
+    {
+      "doi": "10.29101/crcs.v0i67.2181",
+      "title": "De víctimas a sobrevivientes: la fuerza poiética y resiliente del cuidar",
+      "year": 2015,
+      "crossrefScore": 0.4473684210526316,
+      "openalexScore": 0.8157894736842105,
+      "gap": 15,
+      "openalexAdds": [
+        "author_affiliation",
+        "subject_keywords",
+        "language",
+        "author_orcid",
+        "all_authors_orcid",
+        "published_print_date",
+        "license",
+        "license_url",
+        "open_access_license",
+        "references",
+        "references_count",
+        "affiliation_ids_ror",
+        "relations",
+        "affiliation_ror",
+        "open_access_status"
+      ]
+    },
+    {
+      "doi": "10.29101/crcs.v0i67.2180",
+      "title": "Discursos sobre normas relativas a sexualidad en jóvenes del norte de Chile",
+      "year": 2015,
+      "crossrefScore": 0.42105263157894735,
+      "openalexScore": 0.7894736842105263,
+      "gap": 15,
+      "openalexAdds": [
+        "author_affiliation",
+        "subject_keywords",
+        "language",
+        "author_orcid",
+        "published_print_date",
+        "license",
+        "license_url",
+        "open_access_license",
+        "references",
+        "references_count",
+        "is_referenced_by",
+        "affiliation_ids_ror",
+        "relations",
+        "affiliation_ror",
+        "open_access_status"
+      ]
+    },
+    {
+      "doi": "10.29101/crcs.v0i67.2184",
+      "title": "Perspectivas teóricas de género: status questionis del impacto en el sistema educativo",
+      "year": 2015,
+      "crossrefScore": 0.42105263157894735,
+      "openalexScore": 0.8157894736842105,
+      "gap": 16,
+      "openalexAdds": [
+        "author_affiliation",
+        "subject_keywords",
+        "language",
+        "author_orcid",
+        "all_authors_orcid",
+        "published_print_date",
+        "license",
+        "license_url",
+        "open_access_license",
+        "references",
+        "references_count",
+        "is_referenced_by",
+        "affiliation_ids_ror",
+        "relations",
+        "affiliation_ror",
+        "open_access_status"
+      ]
+    },
+    {
+      "doi": "10.29101/crcs.v0i67.2186",
+      "title": "Los usos sistémicos del romanticismo temprano y de la hermenéutica alemanes",
+      "year": 2015,
+      "crossrefScore": 0.42105263157894735,
+      "openalexScore": 0.8157894736842105,
+      "gap": 16,
+      "openalexAdds": [
+        "author_affiliation",
+        "subject_keywords",
+        "language",
+        "author_orcid",
+        "all_authors_orcid",
+        "published_print_date",
+        "license",
+        "license_url",
+        "open_access_license",
+        "references",
+        "references_count",
+        "is_referenced_by",
+        "affiliation_ids_ror",
+        "relations",
+        "affiliation_ror",
+        "open_access_status"
+      ]
+    },
+    {
+      "doi": "10.29101/crcs.v0i67.2183",
+      "title": "Derecho a la educación y autonomía zapatista en Chiapas, México",
+      "year": 2015,
+      "crossrefScore": 0.4473684210526316,
+      "openalexScore": 0.8157894736842105,
+      "gap": 15,
+      "openalexAdds": [
+        "author_affiliation",
+        "subject_keywords",
+        "language",
+        "author_orcid",
+        "all_authors_orcid",
+        "published_print_date",
+        "license",
+        "license_url",
+        "open_access_license",
+        "references",
+        "references_count",
+        "affiliation_ids_ror",
+        "relations",
+        "affiliation_ror",
+        "open_access_status"
+      ]
+    },
+    {
+      "doi": "10.29101/crcs.v0i68.2952",
+      "title": "Media coverage of climate change in spanish-speaking online media",
+      "year": 2015,
+      "crossrefScore": 0.4473684210526316,
+      "openalexScore": 0.8157894736842105,
+      "gap": 15,
+      "openalexAdds": [
+        "author_affiliation",
+        "subject_keywords",
+        "language",
+        "author_orcid",
+        "published_print_date",
+        "license",
+        "license_url",
+        "open_access_license",
+        "references",
+        "references_count",
+        "affiliation_ids_ror",
+        "relations",
+        "affiliation_ror",
+        "preprint_version_link",
+        "open_access_status"
+      ]
+    }
+  ],
+  "fieldDetails": [
+    {
+      "id": "title",
+      "label": "Title",
+      "category": "findable_essential",
+      "effort": "automatic",
+      "crossref": 0.9909502262443439,
+      "openalex": 0.9909186168354872,
+      "gap": -0.00003160940885671426,
+      "samples": []
+    },
+    {
+      "id": "abstract",
+      "label": "Abstract",
+      "category": "findable_essential",
+      "effort": "voluntary",
+      "crossref": 0.9244691959624086,
+      "openalex": 0.9786936779601816,
+      "gap": 0.054224481997772966,
+      "samples": [
+        {
+          "doi": "10.21854/eps.v0i31.2226",
+          "title": "Turismo criativo e turismo de base comunitária: congruências e peculiaridades"
+        },
+        {
+          "doi": "10.22185/24487147.2016.90.040",
+          "title": "El divorcio, indicador de transformación social y familiar con impacto diferencial entre los sexos: estudio realizado en Nuevo León"
+        },
+        {
+          "doi": "10.22185/24487147.2016.90.039",
+          "title": "El trabajo femenino: del permiso a la obligación"
+        },
+        {
+          "doi": "10.22185/24487147.2016.90.036",
+          "title": "Modelando la migración interestatal de México: cadenas de Markov estáticas versus Cadenas de Markov dinámicas con medias móviles"
+        },
+        {
+          "doi": "10.22185/pp.22.90.2016/035",
+          "title": "Envejecimiento y vulnerabilidad social en el Estado de México"
+        }
+      ]
+    },
+    {
+      "id": "author",
+      "label": "Author",
+      "category": "findable_essential",
+      "effort": "automatic",
+      "crossref": 1,
+      "openalex": 1,
+      "gap": 0,
+      "samples": []
+    },
+    {
+      "id": "author_affiliation",
+      "label": "Author Affiliation",
+      "category": "findable_essential",
+      "effort": "voluntary",
+      "crossref": 0.021928297946397494,
+      "openalex": 0.871463499825358,
+      "gap": 0.8495352018789605,
+      "samples": [
+        {
+          "doi": "10.29101/crcs.v0i67.2188",
+          "title": "Quantification of mobbing in the Mexican financial sector from a gender perspective"
+        },
+        {
+          "doi": "10.29101/crcs.v0i67.2187",
+          "title": "Percepción del profesorado sobre concepciones profesionales ante la diversidad cultural escolar"
+        },
+        {
+          "doi": "10.29101/crcs.v0i67.2185",
+          "title": "Precariedad laboral de jóvenes asalariados en la ciudad de Toluca, 2005-2010"
+        },
+        {
+          "doi": "10.29101/crcs.v0i67.2182",
+          "title": "Democracy in Latin America: status and prospects"
+        },
+        {
+          "doi": "10.29101/crcs.v0i67.2181",
+          "title": "De víctimas a sobrevivientes: la fuerza poiética y resiliente del cuidar"
+        }
+      ]
+    },
+    {
+      "id": "doi",
+      "label": "DOI",
+      "category": "findable_essential",
+      "effort": "automatic",
+      "crossref": 1,
+      "openalex": 1,
+      "gap": 0,
+      "samples": []
+    },
+    {
+      "id": "publication_date",
+      "label": "Publication Date",
+      "category": "findable_essential",
+      "effort": "automatic",
+      "crossref": 1,
+      "openalex": 1,
+      "gap": 0,
+      "samples": []
+    },
+    {
+      "id": "publisher",
+      "label": "Publisher",
+      "category": "findable_essential",
+      "effort": "automatic",
+      "crossref": 1,
+      "openalex": 0.9846315054139015,
+      "gap": -0.015368494586098458,
+      "samples": []
+    },
+    {
+      "id": "resource_type",
+      "label": "Resource Type",
+      "category": "findable_essential",
+      "effort": "automatic",
+      "crossref": 1,
+      "openalex": 1,
+      "gap": 0,
+      "samples": []
+    },
+    {
+      "id": "subject_keywords",
+      "label": "Subject / Keywords",
+      "category": "findable_essential",
+      "effort": "voluntary",
+      "crossref": 0,
+      "openalex": 0.9996507160321342,
+      "gap": 0.9996507160321342,
+      "samples": [
+        {
+          "doi": "10.29101/crcs.v0i67.2188",
+          "title": "Quantification of mobbing in the Mexican financial sector from a gender perspective"
+        },
+        {
+          "doi": "10.29101/crcs.v0i67.2187",
+          "title": "Percepción del profesorado sobre concepciones profesionales ante la diversidad cultural escolar"
+        },
+        {
+          "doi": "10.29101/crcs.v0i67.2185",
+          "title": "Precariedad laboral de jóvenes asalariados en la ciudad de Toluca, 2005-2010"
+        },
+        {
+          "doi": "10.29101/crcs.v0i67.2182",
+          "title": "Democracy in Latin America: status and prospects"
+        },
+        {
+          "doi": "10.29101/crcs.v0i67.2181",
+          "title": "De víctimas a sobrevivientes: la fuerza poiética y resiliente del cuidar"
+        }
+      ]
+    },
+    {
+      "id": "funder_name",
+      "label": "Funder Name",
+      "category": "findable_essential",
+      "effort": "voluntary",
+      "crossref": 0,
+      "openalex": 0.01606706252183025,
+      "gap": 0.01606706252183025,
+      "samples": [
+        {
+          "doi": "10.29101/crcs.v0i67.2182",
+          "title": "Democracy in Latin America: status and prospects"
+        },
+        {
+          "doi": "10.29101/crcs.v23i70.3805",
+          "title": "Visions of the Spanish Revolution: identities and conflicts in post-welfare societies"
+        },
+        {
+          "doi": "10.29101/crcs.v23i70.3808",
+          "title": "Los saberes cívicos en la innovación de la gestión pública"
+        },
+        {
+          "doi": "10.29101/crcs.v0i71.3995",
+          "title": "Lenguaje e ideología. A propósito de la nueva ley del aborto española"
+        },
+        {
+          "doi": "10.29101/crcs.v0i75.4656",
+          "title": "Representaciones de la sexualidad femenina en la  ficción televisiva española"
+        }
+      ]
+    },
+    {
+      "id": "container_title",
+      "label": "Container Title",
+      "category": "findable_essential",
+      "effort": "automatic",
+      "crossref": 1,
+      "openalex": 1,
+      "gap": 0,
+      "samples": []
+    },
+    {
+      "id": "language",
+      "label": "Language",
+      "category": "findable_essential",
+      "effort": "automatic",
+      "crossref": 0.021928297946397494,
+      "openalex": 0.9395738735592036,
+      "gap": 0.9176455756128061,
+      "samples": [
+        {
+          "doi": "10.29101/crcs.v0i67.2188",
+          "title": "Quantification of mobbing in the Mexican financial sector from a gender perspective"
+        },
+        {
+          "doi": "10.29101/crcs.v0i67.2187",
+          "title": "Percepción del profesorado sobre concepciones profesionales ante la diversidad cultural escolar"
+        },
+        {
+          "doi": "10.29101/crcs.v0i67.2185",
+          "title": "Precariedad laboral de jóvenes asalariados en la ciudad de Toluca, 2005-2010"
+        },
+        {
+          "doi": "10.29101/crcs.v0i67.2182",
+          "title": "Democracy in Latin America: status and prospects"
+        },
+        {
+          "doi": "10.29101/crcs.v0i67.2181",
+          "title": "De víctimas a sobrevivientes: la fuerza poiética y resiliente del cuidar"
+        }
+      ]
+    },
+    {
+      "id": "author_orcid",
+      "label": "Author ORCID",
+      "category": "findable_support",
+      "effort": "voluntary",
+      "crossref": 0.353637312913331,
+      "openalex": 0.703807195249738,
+      "gap": 0.350169882336407,
+      "samples": [
+        {
+          "doi": "10.29101/crcs.v0i67.2188",
+          "title": "Quantification of mobbing in the Mexican financial sector from a gender perspective"
+        },
+        {
+          "doi": "10.29101/crcs.v0i67.2187",
+          "title": "Percepción del profesorado sobre concepciones profesionales ante la diversidad cultural escolar"
+        },
+        {
+          "doi": "10.29101/crcs.v0i67.2185",
+          "title": "Precariedad laboral de jóvenes asalariados en la ciudad de Toluca, 2005-2010"
+        },
+        {
+          "doi": "10.29101/crcs.v0i67.2182",
+          "title": "Democracy in Latin America: status and prospects"
+        },
+        {
+          "doi": "10.29101/crcs.v0i67.2181",
+          "title": "De víctimas a sobrevivientes: la fuerza poiética y resiliente del cuidar"
+        }
+      ]
+    },
+    {
+      "id": "all_authors_orcid",
+      "label": "All Authors ORCID",
+      "category": "findable_support",
+      "effort": "voluntary",
+      "crossref": 0.3010790114862513,
+      "openalex": 0.44708347886831995,
+      "gap": 0.14600446738206863,
+      "samples": [
+        {
+          "doi": "10.29101/crcs.v0i67.2181",
+          "title": "De víctimas a sobrevivientes: la fuerza poiética y resiliente del cuidar"
+        },
+        {
+          "doi": "10.29101/crcs.v0i67.2184",
+          "title": "Perspectivas teóricas de género: status questionis del impacto en el sistema educativo"
+        },
+        {
+          "doi": "10.29101/crcs.v0i67.2186",
+          "title": "Los usos sistémicos del romanticismo temprano y de la hermenéutica alemanes"
+        },
+        {
+          "doi": "10.29101/crcs.v0i67.2183",
+          "title": "Derecho a la educación y autonomía zapatista en Chiapas, México"
+        },
+        {
+          "doi": "10.29101/crcs.v0i68.2950",
+          "title": "Las dimensiones de la competencia en el sistema de partidos mexicano (1979-2012)"
+        }
+      ]
+    },
+    {
+      "id": "funder_doi",
+      "label": "Funder DOI",
+      "category": "findable_support",
+      "effort": "voluntary",
+      "crossref": 0,
+      "openalex": 0.01606706252183025,
+      "gap": 0.01606706252183025,
+      "samples": [
+        {
+          "doi": "10.29101/crcs.v0i67.2182",
+          "title": "Democracy in Latin America: status and prospects"
+        },
+        {
+          "doi": "10.29101/crcs.v23i70.3805",
+          "title": "Visions of the Spanish Revolution: identities and conflicts in post-welfare societies"
+        },
+        {
+          "doi": "10.29101/crcs.v23i70.3808",
+          "title": "Los saberes cívicos en la innovación de la gestión pública"
+        },
+        {
+          "doi": "10.29101/crcs.v0i71.3995",
+          "title": "Lenguaje e ideología. A propósito de la nueva ley del aborto española"
+        },
+        {
+          "doi": "10.29101/crcs.v0i75.4656",
+          "title": "Representaciones de la sexualidad femenina en la  ficción televisiva española"
+        }
+      ]
+    },
+    {
+      "id": "award_number",
+      "label": "Award Number",
+      "category": "findable_support",
+      "effort": "voluntary",
+      "crossref": 0,
+      "openalex": 0.0041914076143905,
+      "gap": 0.0041914076143905,
+      "samples": [
+        {
+          "doi": "10.29101/crcs.v23i70.3805",
+          "title": "Visions of the Spanish Revolution: identities and conflicts in post-welfare societies"
+        },
+        {
+          "doi": "10.29101/crcs.v0i75.4656",
+          "title": "Representaciones de la sexualidad femenina en la  ficción televisiva española"
+        },
+        {
+          "doi": "10.29101/crcs.v25i77.9303",
+          "title": "Historia española y personajes femeninos. Representaciones de mujer en la ficción histórica española"
+        },
+        {
+          "doi": "10.29101/crcs.v28i0.14438",
+          "title": "Mujeres en altos cargos en minería en Chile. Agencia y tensiones de género"
+        },
+        {
+          "doi": "10.29101/crcs.v28i0.15938",
+          "title": "Interseccionalidad raza-género en las noticias digitales mexicanas sobre Kamala Harris"
+        }
+      ]
+    },
+    {
+      "id": "issn",
+      "label": "ISSN",
+      "category": "findable_support",
+      "effort": "automatic",
+      "crossref": 1,
+      "openalex": 1,
+      "gap": 0,
+      "samples": []
+    },
+    {
+      "id": "volume",
+      "label": "Volume",
+      "category": "findable_support",
+      "effort": "automatic",
+      "crossref": 0.679429168116951,
+      "openalex": 0.6790080335312609,
+      "gap": -0.0004211345856900417,
+      "samples": []
+    },
+    {
+      "id": "issue",
+      "label": "Issue",
+      "category": "findable_support",
+      "effort": "automatic",
+      "crossref": 0.8820048729550992,
+      "openalex": 0.8833391547327978,
+      "gap": 0.001334281777698565,
+      "samples": []
+    },
+    {
+      "id": "page",
+      "label": "Page",
+      "category": "findable_support",
+      "effort": "automatic",
+      "crossref": 0.8169161155586495,
+      "openalex": 0.8180230527418791,
+      "gap": 0.0011069371832296282,
+      "samples": []
+    },
+    {
+      "id": "published_print_date",
+      "label": "Published Print Date",
+      "category": "findable_support",
+      "effort": "automatic",
+      "crossref": 0.07935955447267665,
+      "openalex": 1,
+      "gap": 0.9206404455273234,
+      "samples": [
+        {
+          "doi": "10.29101/crcs.v0i67.2188",
+          "title": "Quantification of mobbing in the Mexican financial sector from a gender perspective"
+        },
+        {
+          "doi": "10.29101/crcs.v0i67.2187",
+          "title": "Percepción del profesorado sobre concepciones profesionales ante la diversidad cultural escolar"
+        },
+        {
+          "doi": "10.29101/crcs.v0i67.2185",
+          "title": "Precariedad laboral de jóvenes asalariados en la ciudad de Toluca, 2005-2010"
+        },
+        {
+          "doi": "10.29101/crcs.v0i67.2182",
+          "title": "Democracy in Latin America: status and prospects"
+        },
+        {
+          "doi": "10.29101/crcs.v0i67.2181",
+          "title": "De víctimas a sobrevivientes: la fuerza poiética y resiliente del cuidar"
+        }
+      ]
+    },
+    {
+      "id": "published_online_date",
+      "label": "Published Online Date",
+      "category": "findable_support",
+      "effort": "automatic",
+      "crossref": 1,
+      "openalex": 1,
+      "gap": 0,
+      "samples": []
+    },
+    {
+      "id": "license",
+      "label": "License",
+      "category": "accessible_essential",
+      "effort": "automatic",
+      "crossref": 0.857640097459102,
+      "openalex": 0.9933636046105484,
+      "gap": 0.13572350715144643,
+      "samples": [
+        {
+          "doi": "10.29101/crcs.v0i67.2188",
+          "title": "Quantification of mobbing in the Mexican financial sector from a gender perspective"
+        },
+        {
+          "doi": "10.29101/crcs.v0i67.2187",
+          "title": "Percepción del profesorado sobre concepciones profesionales ante la diversidad cultural escolar"
+        },
+        {
+          "doi": "10.29101/crcs.v0i67.2185",
+          "title": "Precariedad laboral de jóvenes asalariados en la ciudad de Toluca, 2005-2010"
+        },
+        {
+          "doi": "10.29101/crcs.v0i67.2182",
+          "title": "Democracy in Latin America: status and prospects"
+        },
+        {
+          "doi": "10.29101/crcs.v0i67.2181",
+          "title": "De víctimas a sobrevivientes: la fuerza poiética y resiliente del cuidar"
+        }
+      ]
+    },
+    {
+      "id": "license_url",
+      "label": "License URL",
+      "category": "accessible_essential",
+      "effort": "automatic",
+      "crossref": 0.857640097459102,
+      "openalex": 0.9933636046105484,
+      "gap": 0.13572350715144643,
+      "samples": [
+        {
+          "doi": "10.29101/crcs.v0i67.2188",
+          "title": "Quantification of mobbing in the Mexican financial sector from a gender perspective"
+        },
+        {
+          "doi": "10.29101/crcs.v0i67.2187",
+          "title": "Percepción del profesorado sobre concepciones profesionales ante la diversidad cultural escolar"
+        },
+        {
+          "doi": "10.29101/crcs.v0i67.2185",
+          "title": "Precariedad laboral de jóvenes asalariados en la ciudad de Toluca, 2005-2010"
+        },
+        {
+          "doi": "10.29101/crcs.v0i67.2182",
+          "title": "Democracy in Latin America: status and prospects"
+        },
+        {
+          "doi": "10.29101/crcs.v0i67.2181",
+          "title": "De víctimas a sobrevivientes: la fuerza poiética y resiliente del cuidar"
+        }
+      ]
+    },
+    {
+      "id": "open_access_license",
+      "label": "Open Access License",
+      "category": "accessible_essential",
+      "effort": "voluntary",
+      "crossref": 0.857640097459102,
+      "openalex": 0.9933636046105484,
+      "gap": 0.13572350715144643,
+      "samples": [
+        {
+          "doi": "10.29101/crcs.v0i67.2188",
+          "title": "Quantification of mobbing in the Mexican financial sector from a gender perspective"
+        },
+        {
+          "doi": "10.29101/crcs.v0i67.2187",
+          "title": "Percepción del profesorado sobre concepciones profesionales ante la diversidad cultural escolar"
+        },
+        {
+          "doi": "10.29101/crcs.v0i67.2185",
+          "title": "Precariedad laboral de jóvenes asalariados en la ciudad de Toluca, 2005-2010"
+        },
+        {
+          "doi": "10.29101/crcs.v0i67.2182",
+          "title": "Democracy in Latin America: status and prospects"
+        },
+        {
+          "doi": "10.29101/crcs.v0i67.2181",
+          "title": "De víctimas a sobrevivientes: la fuerza poiética y resiliente del cuidar"
+        }
+      ]
+    },
+    {
+      "id": "full_text_links",
+      "label": "Full-text Links",
+      "category": "accessible_essential",
+      "effort": "automatic",
+      "crossref": 0.9028889662373826,
+      "openalex": 0.9238560950052392,
+      "gap": 0.02096712876785667,
+      "samples": [
+        {
+          "doi": "10.22185/24487147.2016.90.041",
+          "title": "Dispersión y fragmentación socioespacial en el crecimiento reciente de una ciudad petrolera de la Patagonia Argentina"
+        },
+        {
+          "doi": "10.30878/ces.v24n2a2",
+          "title": "Acoso escolar y habilidades sociales en alumnado de educación básica"
+        },
+        {
+          "doi": "10.30878/ces.v24n2a1",
+          "title": "Technology and Love for Everyone. Including the Elderly"
+        },
+        {
+          "doi": "10.30878/ces.v24n1a7",
+          "title": "Los agujeros negros y las ondas del Doctor Einstein"
+        },
+        {
+          "doi": "10.30878/ces.v24n3a4",
+          "title": "Effect-Size Reporting in Mexican Psychology Journals: What it Says about the Quality of Research within the Field"
+        }
+      ]
+    },
+    {
+      "id": "resource_url",
+      "label": "Resource URL",
+      "category": "accessible_essential",
+      "effort": "automatic",
+      "crossref": 1,
+      "openalex": 1,
+      "gap": 0,
+      "samples": []
+    },
+    {
+      "id": "references",
+      "label": "References",
+      "category": "accessible_essential",
+      "effort": "voluntary",
+      "crossref": 0.037243299686738604,
+      "openalex": 0.6304575619979043,
+      "gap": 0.5932142623111657,
+      "samples": [
+        {
+          "doi": "10.29101/crcs.v0i67.2188",
+          "title": "Quantification of mobbing in the Mexican financial sector from a gender perspective"
+        },
+        {
+          "doi": "10.29101/crcs.v0i67.2187",
+          "title": "Percepción del profesorado sobre concepciones profesionales ante la diversidad cultural escolar"
+        },
+        {
+          "doi": "10.29101/crcs.v0i67.2185",
+          "title": "Precariedad laboral de jóvenes asalariados en la ciudad de Toluca, 2005-2010"
+        },
+        {
+          "doi": "10.29101/crcs.v0i67.2182",
+          "title": "Democracy in Latin America: status and prospects"
+        },
+        {
+          "doi": "10.29101/crcs.v0i67.2181",
+          "title": "De víctimas a sobrevivientes: la fuerza poiética y resiliente del cuidar"
+        }
+      ]
+    },
+    {
+      "id": "references_count",
+      "label": "References Count",
+      "category": "accessible_essential",
+      "effort": "voluntary",
+      "crossref": 0.037243299686738604,
+      "openalex": 0.6304575619979043,
+      "gap": 0.5932142623111657,
+      "samples": [
+        {
+          "doi": "10.29101/crcs.v0i67.2188",
+          "title": "Quantification of mobbing in the Mexican financial sector from a gender perspective"
+        },
+        {
+          "doi": "10.29101/crcs.v0i67.2187",
+          "title": "Percepción del profesorado sobre concepciones profesionales ante la diversidad cultural escolar"
+        },
+        {
+          "doi": "10.29101/crcs.v0i67.2185",
+          "title": "Precariedad laboral de jóvenes asalariados en la ciudad de Toluca, 2005-2010"
+        },
+        {
+          "doi": "10.29101/crcs.v0i67.2182",
+          "title": "Democracy in Latin America: status and prospects"
+        },
+        {
+          "doi": "10.29101/crcs.v0i67.2181",
+          "title": "De víctimas a sobrevivientes: la fuerza poiética y resiliente del cuidar"
+        }
+      ]
+    },
+    {
+      "id": "is_referenced_by",
+      "label": "Is Referenced By",
+      "category": "accessible_essential",
+      "effort": "automatic",
+      "crossref": 0.2962060563870519,
+      "openalex": 0.38980090813831647,
+      "gap": 0.09359485175126459,
+      "samples": [
+        {
+          "doi": "10.29101/crcs.v0i67.2182",
+          "title": "Democracy in Latin America: status and prospects"
+        },
+        {
+          "doi": "10.29101/crcs.v0i67.2180",
+          "title": "Discursos sobre normas relativas a sexualidad en jóvenes del norte de Chile"
+        },
+        {
+          "doi": "10.29101/crcs.v0i67.2184",
+          "title": "Perspectivas teóricas de género: status questionis del impacto en el sistema educativo"
+        },
+        {
+          "doi": "10.29101/crcs.v0i67.2186",
+          "title": "Los usos sistémicos del romanticismo temprano y de la hermenéutica alemanes"
+        },
+        {
+          "doi": "10.29101/crcs.v0i68.2951",
+          "title": "Hacia una revalorización de la filosofía en diálogo con la indignación"
+        }
+      ]
+    },
+    {
+      "id": "author_sequence",
+      "label": "Author Sequence",
+      "category": "accessible_support",
+      "effort": "automatic",
+      "crossref": 1,
+      "openalex": 1,
+      "gap": 0,
+      "samples": []
+    },
+    {
+      "id": "affiliation_ids_ror",
+      "label": "Affiliation IDs (ROR)",
+      "category": "accessible_support",
+      "effort": "voluntary",
+      "crossref": 0,
+      "openalex": 0.8711142158574922,
+      "gap": 0.8711142158574922,
+      "samples": [
+        {
+          "doi": "10.29101/crcs.v0i67.2188",
+          "title": "Quantification of mobbing in the Mexican financial sector from a gender perspective"
+        },
+        {
+          "doi": "10.29101/crcs.v0i67.2187",
+          "title": "Percepción del profesorado sobre concepciones profesionales ante la diversidad cultural escolar"
+        },
+        {
+          "doi": "10.29101/crcs.v0i67.2185",
+          "title": "Precariedad laboral de jóvenes asalariados en la ciudad de Toluca, 2005-2010"
+        },
+        {
+          "doi": "10.29101/crcs.v0i67.2182",
+          "title": "Democracy in Latin America: status and prospects"
+        },
+        {
+          "doi": "10.29101/crcs.v0i67.2181",
+          "title": "De víctimas a sobrevivientes: la fuerza poiética y resiliente del cuidar"
+        }
+      ]
+    },
+    {
+      "id": "relations",
+      "label": "Relations",
+      "category": "accessible_support",
+      "effort": "voluntary",
+      "crossref": 0.0003480682213713888,
+      "openalex": 0.9231575270695075,
+      "gap": 0.9228094588481361,
+      "samples": [
+        {
+          "doi": "10.29101/crcs.v0i67.2188",
+          "title": "Quantification of mobbing in the Mexican financial sector from a gender perspective"
+        },
+        {
+          "doi": "10.29101/crcs.v0i67.2187",
+          "title": "Percepción del profesorado sobre concepciones profesionales ante la diversidad cultural escolar"
+        },
+        {
+          "doi": "10.29101/crcs.v0i67.2185",
+          "title": "Precariedad laboral de jóvenes asalariados en la ciudad de Toluca, 2005-2010"
+        },
+        {
+          "doi": "10.29101/crcs.v0i67.2182",
+          "title": "Democracy in Latin America: status and prospects"
+        },
+        {
+          "doi": "10.29101/crcs.v0i67.2181",
+          "title": "De víctimas a sobrevivientes: la fuerza poiética y resiliente del cuidar"
+        }
+      ]
+    },
+    {
+      "id": "author_given_family",
+      "label": "Complete Author Names",
+      "category": "evaluation_coara",
+      "effort": "automatic",
+      "crossref": 0.9202923773059519,
+      "openalex": 1,
+      "gap": 0.07970762269404807,
+      "samples": [
+        {
+          "doi": "10.22185/24487147.2016.90.040",
+          "title": "El divorcio, indicador de transformación social y familiar con impacto diferencial entre los sexos: estudio realizado en Nuevo León"
+        },
+        {
+          "doi": "10.22185/24487147.2016.90.039",
+          "title": "El trabajo femenino: del permiso a la obligación"
+        },
+        {
+          "doi": "10.22185/pp.22.90.2016/037",
+          "title": "Dispersión y fragmentación socioespacial en el crecimiento reciente de una ciudad\n            petrolera de la Patagonia argentina"
+        },
+        {
+          "doi": "10.22185/pp.22.90.2016/041",
+          "title": "El divorcio, indicador de transformación social y familiar con impacto diferencial\n            entre los sexos: Estudio realizado en Nuevo León"
+        },
+        {
+          "doi": "10.22185/pp.22.90.2016/038",
+          "title": "Trayectos peligrosos: el corredor migratorio Centroamérica-México-Estados\n            Unidos"
+        }
+      ]
+    },
+    {
+      "id": "affiliation_ror",
+      "label": "Affiliation with ROR",
+      "category": "evaluation_coara",
+      "effort": "voluntary",
+      "crossref": 0,
+      "openalex": 0.8711142158574922,
+      "gap": 0.8711142158574922,
+      "samples": [
+        {
+          "doi": "10.29101/crcs.v0i67.2188",
+          "title": "Quantification of mobbing in the Mexican financial sector from a gender perspective"
+        },
+        {
+          "doi": "10.29101/crcs.v0i67.2187",
+          "title": "Percepción del profesorado sobre concepciones profesionales ante la diversidad cultural escolar"
+        },
+        {
+          "doi": "10.29101/crcs.v0i67.2185",
+          "title": "Precariedad laboral de jóvenes asalariados en la ciudad de Toluca, 2005-2010"
+        },
+        {
+          "doi": "10.29101/crcs.v0i67.2182",
+          "title": "Democracy in Latin America: status and prospects"
+        },
+        {
+          "doi": "10.29101/crcs.v0i67.2181",
+          "title": "De víctimas a sobrevivientes: la fuerza poiética y resiliente del cuidar"
+        }
+      ]
+    },
+    {
+      "id": "funding_complete",
+      "label": "Complete Funding Info",
+      "category": "evaluation_coara",
+      "effort": "voluntary",
+      "crossref": 0,
+      "openalex": 0.0041914076143905,
+      "gap": 0.0041914076143905,
+      "samples": [
+        {
+          "doi": "10.29101/crcs.v23i70.3805",
+          "title": "Visions of the Spanish Revolution: identities and conflicts in post-welfare societies"
+        },
+        {
+          "doi": "10.29101/crcs.v0i75.4656",
+          "title": "Representaciones de la sexualidad femenina en la  ficción televisiva española"
+        },
+        {
+          "doi": "10.29101/crcs.v25i77.9303",
+          "title": "Historia española y personajes femeninos. Representaciones de mujer en la ficción histórica española"
+        },
+        {
+          "doi": "10.29101/crcs.v28i0.14438",
+          "title": "Mujeres en altos cargos en minería en Chile. Agencia y tensiones de género"
+        },
+        {
+          "doi": "10.29101/crcs.v28i0.15938",
+          "title": "Interseccionalidad raza-género en las noticias digitales mexicanas sobre Kamala Harris"
+        }
+      ]
+    },
+    {
+      "id": "preprint_version_link",
+      "label": "Preprint / Version Link",
+      "category": "evaluation_coara",
+      "effort": "voluntary",
+      "crossref": 0.0003480682213713888,
+      "openalex": 0.39504016765630456,
+      "gap": 0.39469209943493316,
+      "samples": [
+        {
+          "doi": "10.29101/crcs.v0i68.2952",
+          "title": "Media coverage of climate change in spanish-speaking online media"
+        },
+        {
+          "doi": "10.29101/crcs.v22i69.3643",
+          "title": "Del déficit a la norma: representaciones sociales sobre familias y participación escolar"
+        },
+        {
+          "doi": "10.29101/crcs.v23i70.3805",
+          "title": "Visions of the Spanish Revolution: identities and conflicts in post-welfare societies"
+        },
+        {
+          "doi": "10.29101/crcs.v23i70.3807",
+          "title": "Dispositivos móveis digitais e competências para a utilização na “sociedade do conhecimento”"
+        },
+        {
+          "doi": "10.29101/crcs.v23i70.3806",
+          "title": "Consumo informativo y competencias digitales de estudiantes de periodismo de Colombia, Perú y Venezuela"
+        }
+      ]
+    },
+    {
+      "id": "open_access_status",
+      "label": "Open Access Status",
+      "category": "evaluation_coara",
+      "effort": "automatic",
+      "crossref": 0.857640097459102,
+      "openalex": 0.9979042961928047,
+      "gap": 0.14026419873370277,
+      "samples": [
+        {
+          "doi": "10.29101/crcs.v0i67.2188",
+          "title": "Quantification of mobbing in the Mexican financial sector from a gender perspective"
+        },
+        {
+          "doi": "10.29101/crcs.v0i67.2187",
+          "title": "Percepción del profesorado sobre concepciones profesionales ante la diversidad cultural escolar"
+        },
+        {
+          "doi": "10.29101/crcs.v0i67.2185",
+          "title": "Precariedad laboral de jóvenes asalariados en la ciudad de Toluca, 2005-2010"
+        },
+        {
+          "doi": "10.29101/crcs.v0i67.2182",
+          "title": "Democracy in Latin America: status and prospects"
+        },
+        {
+          "doi": "10.29101/crcs.v0i67.2181",
+          "title": "De víctimas a sobrevivientes: la fuerza poiética y resiliente del cuidar"
+        }
+      ]
+    }
+  ]
+}

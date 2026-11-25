@@ -1,0 +1,1752 @@
+[
+  {
+    "id": "mdpi",
+    "label": "MDPI",
+    "memberId": 1968,
+    "category": "global_oa",
+    "categoryLabel": "Commercial OA",
+    "totalWorksSampled": 88000,
+    "totalWorksUniverse": 88000,
+    "crossrefScore": 0.7318877651515152,
+    "openalexScore": 0.9315276840166138,
+    "gap": 0.19963991886509858,
+    "crossrefScoreAll": 0.6768896309687786,
+    "openalexScoreAll": 0.7560330914208622,
+    "gapAll": 0.07914346045208354,
+    "voluntaryCrossref": 0.5156485795454545,
+    "voluntaryOpenAlex": 0.8547317127590193,
+    "voluntaryGap": 0.33908313321356476,
+    "automaticCrossref": 0.9666238636363638,
+    "categoryScores": {
+      "crossref": {
+        "findable_essential": 0.8739725378787879,
+        "findable_support": 0.6646034090909091,
+        "accessible_essential": 0.9803522727272728,
+        "accessible_support": 0.3373787878787879,
+        "evaluation_coara": 0.45589772727272726
+      },
+      "openalex": {
+        "findable_essential": 0.9588763534980225,
+        "findable_support": 0.831771113424946,
+        "accessible_essential": 0.9812293328146273,
+        "accessible_support": 0.9856516814078287,
+        "evaluation_coara": 0.8761330480451273
+      }
+    },
+    "yearlyScores": [
+      {
+        "year": 2015,
+        "crossref": 0.6992907291666666,
+        "openalex": 0.9289294097920858,
+        "crossrefAll": 0.6486187689393939,
+        "openalexAll": 0.7544845080584517,
+        "count": 8000
+      },
+      {
+        "year": 2016,
+        "crossref": 0.7051714062500001,
+        "openalex": 0.9257053983228513,
+        "crossrefAll": 0.6529701830808081,
+        "openalexAll": 0.7515149164601996,
+        "count": 8000
+      },
+      {
+        "year": 2017,
+        "crossref": 0.7140936458333335,
+        "openalex": 0.932941728534877,
+        "crossrefAll": 0.6612725252525253,
+        "openalexAll": 0.7571926958016049,
+        "count": 8000
+      },
+      {
+        "year": 2018,
+        "crossref": 0.7350603124999999,
+        "openalex": 0.9410953928000673,
+        "crossrefAll": 0.6780889646464646,
+        "openalexAll": 0.7632580472909769,
+        "count": 8000
+      },
+      {
+        "year": 2019,
+        "crossref": 0.7461716666666667,
+        "openalex": 0.9457713893084927,
+        "crossrefAll": 0.687626654040404,
+        "openalexAll": 0.76657822560957,
+        "count": 8000
+      },
+      {
+        "year": 2020,
+        "crossref": 0.7483644270833333,
+        "openalex": 0.9444919225746662,
+        "crossrefAll": 0.6895858964646465,
+        "openalexAll": 0.7655041569492473,
+        "count": 8000
+      },
+      {
+        "year": 2021,
+        "crossref": 0.7473447916666667,
+        "openalex": 0.9394629231482653,
+        "crossrefAll": 0.6890312689393938,
+        "openalexAll": 0.7616226767485146,
+        "count": 8000
+      },
+      {
+        "year": 2022,
+        "crossref": 0.7442,
+        "openalex": 0.9330964547060306,
+        "crossrefAll": 0.6884821527777779,
+        "openalexAll": 0.7566608234757364,
+        "count": 8000
+      },
+      {
+        "year": 2023,
+        "crossref": 0.7421354166666667,
+        "openalex": 0.9363342755443886,
+        "crossrefAll": 0.6875881818181818,
+        "openalexAll": 0.759719728693975,
+        "count": 8000
+      },
+      {
+        "year": 2024,
+        "crossref": 0.7382367187499999,
+        "openalex": 0.9237418075558338,
+        "crossrefAll": 0.6846118623737373,
+        "openalexAll": 0.7501290804096064,
+        "count": 8000
+      },
+      {
+        "year": 2025,
+        "crossref": 0.7306963020833334,
+        "openalex": 0.8955781791244106,
+        "crossrefAll": 0.6779094823232322,
+        "openalexAll": 0.7299487045236388,
+        "count": 8000
+      }
+    ]
+  },
+  {
+    "id": "plos",
+    "label": "PLOS",
+    "memberId": 340,
+    "category": "global_oa",
+    "categoryLabel": "Commercial OA",
+    "totalWorksSampled": 88000,
+    "totalWorksUniverse": 88000,
+    "crossrefScore": 0.7071126799242423,
+    "openalexScore": 0.9397236369906361,
+    "gap": 0.2326109570663938,
+    "crossrefScoreAll": 0.6411269266528926,
+    "openalexScoreAll": 0.7621769886769149,
+    "gapAll": 0.12105006202402224,
+    "voluntaryCrossref": 0.4270676609848485,
+    "voluntaryOpenAlex": 0.8810565193665374,
+    "voluntaryGap": 0.4539888583816889,
+    "automaticCrossref": 0.9654735795454547,
+    "categoryScores": {
+      "crossref": {
+        "findable_essential": 0.750902462121212,
+        "findable_support": 0.6747795454545454,
+        "accessible_essential": 0.9825994318181819,
+        "accessible_support": 0.3785606060606061,
+        "evaluation_coara": 0.4855954545454545
+      },
+      "openalex": {
+        "findable_essential": 0.9692894199323185,
+        "findable_support": 0.8542956537556418,
+        "accessible_essential": 0.9719904275758576,
+        "accessible_support": 0.9761409412504785,
+        "evaluation_coara": 0.90090380964291
+      }
+    },
+    "yearlyScores": [
+      {
+        "year": 2015,
+        "crossref": 0.6288125520833334,
+        "openalex": 0.9442758221833187,
+        "crossrefAll": 0.5668158775252526,
+        "openalexAll": 0.7664540364252758,
+        "count": 8000
+      },
+      {
+        "year": 2016,
+        "crossref": 0.6682014062500001,
+        "openalex": 0.9525253219957485,
+        "crossrefAll": 0.5983630429292929,
+        "openalexAll": 0.7724372965619684,
+        "count": 8000
+      },
+      {
+        "year": 2017,
+        "crossref": 0.7021861979166666,
+        "openalex": 0.9552194819538218,
+        "crossrefAll": 0.625838611111111,
+        "openalexAll": 0.7743499321800146,
+        "count": 8000
+      },
+      {
+        "year": 2018,
+        "crossref": 0.7046948958333333,
+        "openalex": 0.9503346362309777,
+        "crossrefAll": 0.6275450252525252,
+        "openalexAll": 0.7707645624474893,
+        "count": 8000
+      },
+      {
+        "year": 2019,
+        "crossref": 0.7074559375,
+        "openalex": 0.9457939907453727,
+        "crossrefAll": 0.6280816035353536,
+        "openalexAll": 0.7670065335698152,
+        "count": 8000
+      },
+      {
+        "year": 2020,
+        "crossref": 0.7146350520833333,
+        "openalex": 0.94725740045862,
+        "crossrefAll": 0.6375329671717171,
+        "openalexAll": 0.7677172285708871,
+        "count": 8000
+      },
+      {
+        "year": 2021,
+        "crossref": 0.7416560416666667,
+        "openalex": 0.9428577235772357,
+        "crossrefAll": 0.6825305555555556,
+        "openalexAll": 0.764005698005698,
+        "count": 8000
+      },
+      {
+        "year": 2022,
+        "crossref": 0.73858328125,
+        "openalex": 0.9396480253555194,
+        "crossrefAll": 0.6805106565656565,
+        "openalexAll": 0.7614378363896692,
+        "count": 8000
+      },
+      {
+        "year": 2023,
+        "crossref": 0.7336371875000001,
+        "openalex": 0.9469326185713096,
+        "crossrefAll": 0.6769765151515152,
+        "openalexAll": 0.7679898762569429,
+        "count": 8000
+      },
+      {
+        "year": 2024,
+        "crossref": 0.7262885416666668,
+        "openalex": 0.9363202083333333,
+        "crossrefAll": 0.6698282386363635,
+        "openalexAll": 0.7596859974747474,
+        "count": 8000
+      },
+      {
+        "year": 2025,
+        "crossref": 0.7120883854166667,
+        "openalex": 0.8757992580551041,
+        "crossrefAll": 0.6583730997474748,
+        "openalexAll": 0.7121007877954232,
+        "count": 8000
+      }
+    ]
+  },
+  {
+    "id": "wiley",
+    "label": "Wiley",
+    "memberId": 311,
+    "category": "global_commercial",
+    "categoryLabel": "Commercial Hybrid/Subscription",
+    "totalWorksSampled": 88000,
+    "totalWorksUniverse": 88000,
+    "crossrefScore": 0.6357758428030302,
+    "openalexScore": 0.737536520187772,
+    "gap": 0.10176067738474182,
+    "crossrefScoreAll": 0.6290175837924702,
+    "openalexScoreAll": 0.6084098590445567,
+    "gapAll": -0.020607724747913503,
+    "voluntaryCrossref": 0.3626124526515151,
+    "voluntaryOpenAlex": 0.644071311295142,
+    "voluntaryGap": 0.28145885864362685,
+    "automaticCrossref": 0.8677870738636364,
+    "categoryScores": {
+      "crossref": {
+        "findable_essential": 0.8156818181818183,
+        "findable_support": 0.6825670454545455,
+        "accessible_essential": 0.8085028409090909,
+        "accessible_support": 0.30145075757575757,
+        "evaluation_coara": 0.28207727272727273
+      },
+      "openalex": {
+        "findable_essential": 0.9132796029182023,
+        "findable_support": 0.7589934931974336,
+        "accessible_essential": 0.5767720230240706,
+        "accessible_support": 0.9003351989200832,
+        "evaluation_coara": 0.5773854484233516
+      }
+    },
+    "yearlyScores": [
+      {
+        "year": 2015,
+        "crossref": 0.5985455729166667,
+        "openalex": 0.6920104166666667,
+        "crossrefAll": 0.5767919444444445,
+        "openalexAll": 0.5732836047979799,
+        "count": 8000
+      },
+      {
+        "year": 2016,
+        "crossref": 0.5965076041666667,
+        "openalex": 0.6891465599866651,
+        "crossrefAll": 0.5760267297979796,
+        "openalexAll": 0.5711918156436221,
+        "count": 8000
+      },
+      {
+        "year": 2017,
+        "crossref": 0.6126088541666668,
+        "openalex": 0.7022159706593314,
+        "crossrefAll": 0.5906285542929294,
+        "openalexAll": 0.5812187327134815,
+        "count": 8000
+      },
+      {
+        "year": 2018,
+        "crossref": 0.6263894270833333,
+        "openalex": 0.7186149662415604,
+        "crossrefAll": 0.622702462121212,
+        "openalexAll": 0.594013402340484,
+        "count": 8000
+      },
+      {
+        "year": 2019,
+        "crossref": 0.6345016666666665,
+        "openalex": 0.7296362309776945,
+        "crossrefAll": 0.6344757133838383,
+        "openalexAll": 0.6020685403124427,
+        "count": 8000
+      },
+      {
+        "year": 2020,
+        "crossref": 0.648733125,
+        "openalex": 0.7484353252489896,
+        "crossrefAll": 0.6468543118686868,
+        "openalexAll": 0.6162559335068399,
+        "count": 8000
+      },
+      {
+        "year": 2021,
+        "crossref": 0.6526228125,
+        "openalex": 0.7528930670167542,
+        "crossrefAll": 0.649309898989899,
+        "openalexAll": 0.6201418852187794,
+        "count": 8000
+      },
+      {
+        "year": 2022,
+        "crossref": 0.6576819270833334,
+        "openalex": 0.7604102604166666,
+        "crossrefAll": 0.650645643939394,
+        "openalexAll": 0.6258784848484849,
+        "count": 8000
+      },
+      {
+        "year": 2023,
+        "crossref": 0.652544375,
+        "openalex": 0.7798809895833334,
+        "crossrefAll": 0.6512830618686868,
+        "openalexAll": 0.640704255050505,
+        "count": 8000
+      },
+      {
+        "year": 2024,
+        "crossref": 0.66116109375,
+        "openalex": 0.783400589730766,
+        "crossrefAll": 0.6629312247474747,
+        "openalexAll": 0.6436170153649523,
+        "count": 8000
+      },
+      {
+        "year": 2025,
+        "crossref": 0.6522378125000001,
+        "openalex": 0.7564313286213135,
+        "crossrefAll": 0.6575438762626264,
+        "openalexAll": 0.6242812448605708,
+        "count": 8000
+      }
+    ]
+  },
+  {
+    "id": "sage",
+    "label": "SAGE",
+    "memberId": 179,
+    "category": "global_commercial",
+    "categoryLabel": "Commercial Hybrid/Subscription",
+    "totalWorksSampled": 88000,
+    "totalWorksUniverse": 88000,
+    "crossrefScore": 0.6226762547348484,
+    "openalexScore": 0.7212841578260407,
+    "gap": 0.09860790309119227,
+    "crossrefScoreAll": 0.5933490719696969,
+    "openalexScoreAll": 0.5952913905480154,
+    "gapAll": 0.0019423185783185026,
+    "voluntaryCrossref": 0.3273430397727273,
+    "voluntaryOpenAlex": 0.6187076465722654,
+    "voluntaryGap": 0.29136460679953813,
+    "automaticCrossref": 0.8757099431818183,
+    "categoryScores": {
+      "crossref": {
+        "findable_essential": 0.8098589015151516,
+        "findable_support": 0.6449159090909091,
+        "accessible_essential": 0.8046235795454544,
+        "accessible_support": 0.32159848484848486,
+        "evaluation_coara": 0.24832727272727267
+      },
+      "openalex": {
+        "findable_essential": 0.9026819727116817,
+        "findable_support": 0.7419261940536357,
+        "accessible_essential": 0.5525457587761236,
+        "accessible_support": 0.9322648697051101,
+        "evaluation_coara": 0.5391385511997451
+      }
+    },
+    "yearlyScores": [
+      {
+        "year": 2015,
+        "crossref": 0.5806795312499999,
+        "openalex": 0.6865737440066708,
+        "crossrefAll": 0.554765587121212,
+        "openalexAll": 0.5684960549838598,
+        "count": 8000
+      },
+      {
+        "year": 2016,
+        "crossref": 0.5867453125000001,
+        "openalex": 0.6947782745539437,
+        "crossrefAll": 0.5600214772727273,
+        "openalexAll": 0.5750483006654843,
+        "count": 8000
+      },
+      {
+        "year": 2017,
+        "crossref": 0.5952379166666666,
+        "openalex": 0.7059582290362952,
+        "crossrefAll": 0.5681438383838383,
+        "openalexAll": 0.5836373370753846,
+        "count": 8000
+      },
+      {
+        "year": 2018,
+        "crossref": 0.6089444270833334,
+        "openalex": 0.715176402454295,
+        "crossrefAll": 0.5808561237373738,
+        "openalexAll": 0.5907847445150225,
+        "count": 8000
+      },
+      {
+        "year": 2019,
+        "crossref": 0.6189290104166667,
+        "openalex": 0.7256290134267367,
+        "crossrefAll": 0.590919172979798,
+        "openalexAll": 0.5985101389173193,
+        "count": 8000
+      },
+      {
+        "year": 2020,
+        "crossref": 0.6394339062500001,
+        "openalex": 0.735682178300392,
+        "crossrefAll": 0.6081116603535355,
+        "openalexAll": 0.6061919103469016,
+        "count": 8000
+      },
+      {
+        "year": 2021,
+        "crossref": 0.6423520833333332,
+        "openalex": 0.7375414687005086,
+        "crossrefAll": 0.6099554482323233,
+        "openalexAll": 0.6075145427771085,
+        "count": 8000
+      },
+      {
+        "year": 2022,
+        "crossref": 0.6442553645833333,
+        "openalex": 0.7347561051972448,
+        "crossrefAll": 0.6123696148989899,
+        "openalexAll": 0.6053749833968994,
+        "count": 8000
+      },
+      {
+        "year": 2023,
+        "crossref": 0.6449823958333334,
+        "openalex": 0.7459742539801617,
+        "crossrefAll": 0.6121961805555556,
+        "openalexAll": 0.614502703958818,
+        "count": 8000
+      },
+      {
+        "year": 2024,
+        "crossref": 0.6483641666666667,
+        "openalex": 0.7480351041666666,
+        "crossrefAll": 0.6164175946969698,
+        "openalexAll": 0.6157585353535353,
+        "count": 8000
+      },
+      {
+        "year": 2025,
+        "crossref": 0.6395146875000001,
+        "openalex": 0.7038223745157487,
+        "crossrefAll": 0.6130830934343435,
+        "openalexAll": 0.5822370049662875,
+        "count": 8000
+      }
+    ]
+  },
+  {
+    "id": "scielo",
+    "label": "SciELO / FapUNIFESP",
+    "memberId": 530,
+    "category": "regional_latam",
+    "categoryLabel": "Regional / Latin America",
+    "totalWorksSampled": 72414,
+    "totalWorksUniverse": 72414,
+    "crossrefScore": 0.5941540482503382,
+    "openalexScore": 0.8858580060910152,
+    "gap": 0.29170395784067693,
+    "crossrefScoreAll": 0.5306569401865201,
+    "openalexScoreAll": 0.7208701267586224,
+    "gapAll": 0.1902131865721023,
+    "voluntaryCrossref": 0.37034890813010374,
+    "voluntaryOpenAlex": 0.776598315525638,
+    "voluntaryGap": 0.4062494073955342,
+    "automaticCrossref": 0.8223213052724612,
+    "categoryScores": {
+      "crossref": {
+        "findable_essential": 0.7216686920577051,
+        "findable_support": 0.5630278675394261,
+        "accessible_essential": 0.7805137818653852,
+        "accessible_support": 0.35516612809677683,
+        "evaluation_coara": 0.3127710111304444
+      },
+      "openalex": {
+        "findable_essential": 0.926330739353394,
+        "findable_support": 0.759386014623965,
+        "accessible_essential": 0.9503262056477808,
+        "accessible_support": 0.9803124755230579,
+        "evaluation_coara": 0.7921904156357554
+      }
+    },
+    "yearlyScores": [
+      {
+        "year": 2015,
+        "crossref": 0.50877140625,
+        "openalex": 0.8902427604166666,
+        "crossrefAll": 0.4607496275252525,
+        "openalexAll": 0.7238065656565655,
+        "count": 8000
+      },
+      {
+        "year": 2016,
+        "crossref": 0.5029859375,
+        "openalex": 0.8918515507753878,
+        "crossrefAll": 0.4564065719696969,
+        "openalexAll": 0.7247558059332697,
+        "count": 8000
+      },
+      {
+        "year": 2017,
+        "crossref": 0.5080580729166666,
+        "openalex": 0.8950087000916895,
+        "crossrefAll": 0.4600088573232323,
+        "openalexAll": 0.7271715151009974,
+        "count": 8000
+      },
+      {
+        "year": 2018,
+        "crossref": 0.5299842187500001,
+        "openalex": 0.8960200520833335,
+        "crossrefAll": 0.4781925505050505,
+        "openalexAll": 0.7282763825757576,
+        "count": 8000
+      },
+      {
+        "year": 2019,
+        "crossref": 0.65966,
+        "openalex": 0.8985773958333334,
+        "crossrefAll": 0.5837865404040404,
+        "openalexAll": 0.7305217992424243,
+        "count": 8000
+      },
+      {
+        "year": 2020,
+        "crossref": 0.6607624479166667,
+        "openalex": 0.8943004333875068,
+        "crossrefAll": 0.5852027525252526,
+        "openalexAll": 0.7275509564958247,
+        "count": 8000
+      },
+      {
+        "year": 2021,
+        "crossref": 0.650794924736912,
+        "openalex": 0.8924307313174371,
+        "crossrefAll": 0.5757877630709654,
+        "openalexAll": 0.7260272298043713,
+        "count": 7507
+      },
+      {
+        "year": 2022,
+        "crossref": 0.6609442585588206,
+        "openalex": 0.8778998763456503,
+        "crossrefAll": 0.5835446110802527,
+        "openalexAll": 0.7173465378251528,
+        "count": 6874
+      },
+      {
+        "year": 2023,
+        "crossref": 0.6649136189857896,
+        "openalex": 0.872267546707062,
+        "crossrefAll": 0.5880943715449234,
+        "openalexAll": 0.7114990742744476,
+        "count": 4621
+      },
+      {
+        "year": 2024,
+        "crossref": 0.6499696121664404,
+        "openalex": 0.8355633763003166,
+        "crossrefAll": 0.5799306840453381,
+        "openalexAll": 0.6810875546509874,
+        "count": 2948
+      },
+      {
+        "year": 2025,
+        "crossref": 0.6679261363636364,
+        "openalex": 0.8066819190238491,
+        "crossrefAll": 0.5971072740390923,
+        "openalexAll": 0.6589841635993883,
+        "count": 2464
+      }
+    ]
+  },
+  {
+    "id": "hindawi",
+    "label": "Hindawi",
+    "memberId": 98,
+    "category": "global_oa",
+    "categoryLabel": "Commercial OA",
+    "totalWorksSampled": 13625,
+    "totalWorksUniverse": 13625,
+    "crossrefScore": 0.589242996941896,
+    "openalexScore": 0.7168425993883792,
+    "gap": 0.12759960244648327,
+    "crossrefScoreAll": 0.548398050227041,
+    "openalexScoreAll": 0.5933957112408489,
+    "gapAll": 0.044997661013807866,
+    "voluntaryCrossref": 0.25923119266055045,
+    "voluntaryOpenAlex": 0.5906929663608562,
+    "voluntaryGap": 0.3314617737003058,
+    "automaticCrossref": 0.8572825688073394,
+    "categoryScores": {
+      "crossref": {
+        "findable_essential": 0.7569785932721712,
+        "findable_support": 0.545702752293578,
+        "accessible_essential": 0.8215229357798165,
+        "accessible_support": 0.27327217125382264,
+        "evaluation_coara": 0.23793027522935778
+      },
+      "openalex": {
+        "findable_essential": 0.8856269113149847,
+        "findable_support": 0.693394495412844,
+        "accessible_essential": 0.6128348623853211,
+        "accessible_support": 0.8851865443425077,
+        "evaluation_coara": 0.5270899082568807
+      }
+    },
+    "yearlyScores": [
+      {
+        "year": 2015,
+        "crossref": 0.6385913654618474,
+        "openalex": 0.7978543172690764,
+        "crossrefAll": 0.5757044420104661,
+        "openalexAll": 0.6543537909212608,
+        "count": 4150
+      },
+      {
+        "year": 2016,
+        "crossref": 0.6229448795180723,
+        "openalex": 0.7668560240963855,
+        "crossrefAll": 0.5649704149933066,
+        "openalexAll": 0.6310830108312036,
+        "count": 4150
+      },
+      {
+        "year": 2017,
+        "crossref": 0.5523206795302014,
+        "openalex": 0.6414821029082775,
+        "crossrefAll": 0.5112669480035251,
+        "openalexAll": 0.5368337316114161,
+        "count": 1192
+      },
+      {
+        "year": 2018,
+        "crossref": 0.49180494905385735,
+        "openalex": 0.5971300339640951,
+        "crossrefAll": 0.4657916868833899,
+        "openalexAll": 0.5025687001014512,
+        "count": 687
+      },
+      {
+        "year": 2019,
+        "crossref": 0.4727425842131725,
+        "openalex": 0.5631881598793363,
+        "crossrefAll": 0.47492511845453017,
+        "openalexAll": 0.4770115940704176,
+        "count": 663
+      },
+      {
+        "year": 2020,
+        "crossref": 0.4713923235445647,
+        "openalex": 0.5528889747552808,
+        "crossrefAll": 0.4879309321967746,
+        "openalexAll": 0.46948292820008425,
+        "count": 647
+      },
+      {
+        "year": 2021,
+        "crossref": 0.521312728481223,
+        "openalex": 0.6016330176138253,
+        "crossrefAll": 0.5267928537619465,
+        "openalexAll": 0.5067966806650755,
+        "count": 1003
+      },
+      {
+        "year": 2022,
+        "crossref": 0.5784873268493956,
+        "openalex": 0.6741534040671971,
+        "crossrefAll": 0.5735049879877465,
+        "openalexAll": 0.562070081897668,
+        "count": 1131
+      },
+      {
+        "year": 2023,
+        "crossref": 0.6295833333333334,
+        "openalex": 0.7695833333333334,
+        "crossrefAll": 0.5598232323232324,
+        "openalexAll": 0.6254292929292928,
+        "count": 2
+      },
+      {
+        "year": 2024,
+        "crossref": 0,
+        "openalex": 0,
+        "crossrefAll": 0,
+        "openalexAll": 0,
+        "count": 0
+      },
+      {
+        "year": 2025,
+        "crossref": 0,
+        "openalex": 0,
+        "crossrefAll": 0,
+        "openalexAll": 0,
+        "count": 0
+      }
+    ]
+  },
+  {
+    "id": "taylor-francis",
+    "label": "Taylor & Francis",
+    "memberId": 301,
+    "category": "global_commercial",
+    "categoryLabel": "Commercial Hybrid/Subscription",
+    "totalWorksSampled": 88000,
+    "totalWorksUniverse": 88000,
+    "crossrefScore": 0.5702389393939393,
+    "openalexScore": 0.7328575741204125,
+    "gap": 0.1626186347264732,
+    "crossrefScoreAll": 0.5618551268365473,
+    "openalexScoreAll": 0.6044348207966839,
+    "gapAll": 0.04257969396013661,
+    "voluntaryCrossref": 0.2838467329545455,
+    "voluntaryOpenAlex": 0.6454992227782833,
+    "voluntaryGap": 0.3616524898237378,
+    "automaticCrossref": 0.8160332386363638,
+    "categoryScores": {
+      "crossref": {
+        "findable_essential": 0.7541619318181817,
+        "findable_support": 0.6684454545454546,
+        "accessible_essential": 0.6310738636363636,
+        "accessible_support": 0.3273825757575758,
+        "evaluation_coara": 0.26608409090909085
+      },
+      "openalex": {
+        "findable_essential": 0.9170694949954504,
+        "findable_support": 0.7585520928116469,
+        "accessible_essential": 0.5543804026387625,
+        "accessible_support": 0.9555353351531695,
+        "evaluation_coara": 0.5490263876251137
+      }
+    },
+    "yearlyScores": [
+      {
+        "year": 2015,
+        "crossref": 0.5137716666666667,
+        "openalex": 0.7034883527107555,
+        "crossrefAll": 0.5139513446969697,
+        "openalexAll": 0.5824806509904648,
+        "count": 8000
+      },
+      {
+        "year": 2016,
+        "crossref": 0.5338627083333334,
+        "openalex": 0.7149212824039344,
+        "crossrefAll": 0.5315101704545455,
+        "openalexAll": 0.5911378286490815,
+        "count": 8000
+      },
+      {
+        "year": 2017,
+        "crossref": 0.5570336979166666,
+        "openalex": 0.7285422656998791,
+        "crossrefAll": 0.5519541414141413,
+        "openalexAll": 0.6016564065457677,
+        "count": 8000
+      },
+      {
+        "year": 2018,
+        "crossref": 0.5631751562499999,
+        "openalex": 0.7371670417135474,
+        "crossrefAll": 0.556758529040404,
+        "openalexAll": 0.6082174160658971,
+        "count": 8000
+      },
+      {
+        "year": 2019,
+        "crossref": 0.5650895312499999,
+        "openalex": 0.7345968749999999,
+        "crossrefAll": 0.5588324305555554,
+        "openalexAll": 0.606221047979798,
+        "count": 8000
+      },
+      {
+        "year": 2020,
+        "crossref": 0.5768878125,
+        "openalex": 0.7427707291666666,
+        "crossrefAll": 0.567291957070707,
+        "openalexAll": 0.6123226199494949,
+        "count": 8000
+      },
+      {
+        "year": 2021,
+        "crossref": 0.5881841145833333,
+        "openalex": 0.7487406770833335,
+        "crossrefAll": 0.5764514835858586,
+        "openalexAll": 0.6168332765151514,
+        "count": 8000
+      },
+      {
+        "year": 2022,
+        "crossref": 0.5946771875,
+        "openalex": 0.7501446875000001,
+        "crossrefAll": 0.5824696401515151,
+        "openalexAll": 0.6180729103535354,
+        "count": 8000
+      },
+      {
+        "year": 2023,
+        "crossref": 0.5989689062499999,
+        "openalex": 0.7617310497145476,
+        "crossrefAll": 0.5864664457070707,
+        "openalexAll": 0.6270245270557809,
+        "count": 8000
+      },
+      {
+        "year": 2024,
+        "crossref": 0.6000728124999999,
+        "openalex": 0.748615835104831,
+        "crossrefAll": 0.5865299747474747,
+        "openalexAll": 0.6148555897855635,
+        "count": 8000
+      },
+      {
+        "year": 2025,
+        "crossref": 0.5809047395833333,
+        "openalex": 0.6903385252448816,
+        "crossrefAll": 0.5681902777777778,
+        "openalexAll": 0.5696528534175147,
+        "count": 8000
+      }
+    ]
+  },
+  {
+    "id": "frontiers",
+    "label": "Frontiers",
+    "memberId": 1965,
+    "category": "global_oa",
+    "categoryLabel": "Commercial OA",
+    "totalWorksSampled": 88000,
+    "totalWorksUniverse": 88000,
+    "crossrefScore": 0.5697553503787879,
+    "openalexScore": 0.91028921827318,
+    "gap": 0.3405338678943921,
+    "crossrefScoreAll": 0.532647074150597,
+    "openalexScoreAll": 0.7369166830640341,
+    "gapAll": 0.20426960891343715,
+    "voluntaryCrossref": 0.3073423295454546,
+    "voluntaryOpenAlex": 0.8582819945085624,
+    "voluntaryGap": 0.5509396649631078,
+    "automaticCrossref": 0.8184713068181819,
+    "categoryScores": {
+      "crossref": {
+        "findable_essential": 0.6490984848484849,
+        "findable_support": 0.35740113636363635,
+        "accessible_essential": 0.8433210227272727,
+        "accessible_support": 0.34002651515151516,
+        "evaluation_coara": 0.3829136363636364
+      },
+      "openalex": {
+        "findable_essential": 0.9659672349310512,
+        "findable_support": 0.727728701557947,
+        "accessible_essential": 0.9485579239611776,
+        "accessible_support": 0.9784204850515108,
+        "evaluation_coara": 0.8817910653236354
+      }
+    },
+    "yearlyScores": [
+      {
+        "year": 2015,
+        "crossref": 0.4207890625,
+        "openalex": 0.8980466158626191,
+        "crossrefAll": 0.37625675505050504,
+        "openalexAll": 0.7280313527007065,
+        "count": 8000
+      },
+      {
+        "year": 2016,
+        "crossref": 0.45476359375000003,
+        "openalex": 0.8866193146024947,
+        "crossrefAll": 0.4164815151515151,
+        "openalexAll": 0.7197546015783386,
+        "count": 8000
+      },
+      {
+        "year": 2017,
+        "crossref": 0.4938361979166666,
+        "openalex": 0.9273396383310176,
+        "crossrefAll": 0.46239214646464644,
+        "openalexAll": 0.7504380804380805,
+        "count": 8000
+      },
+      {
+        "year": 2018,
+        "crossref": 0.60446484375,
+        "openalex": 0.9183978620573213,
+        "crossrefAll": 0.5504018749999999,
+        "openalexAll": 0.7428925061684337,
+        "count": 8000
+      },
+      {
+        "year": 2019,
+        "crossref": 0.6011419791666667,
+        "openalex": 0.9179177746823688,
+        "crossrefAll": 0.5494406123737373,
+        "openalexAll": 0.7427129596586353,
+        "count": 8000
+      },
+      {
+        "year": 2020,
+        "crossref": 0.6123276041666668,
+        "openalex": 0.9250329184131421,
+        "crossrefAll": 0.5627377904040404,
+        "openalexAll": 0.7478169860679706,
+        "count": 8000
+      },
+      {
+        "year": 2021,
+        "crossref": 0.6303093750000001,
+        "openalex": 0.9253234502775306,
+        "crossrefAll": 0.595568226010101,
+        "openalexAll": 0.747789282169605,
+        "count": 8000
+      },
+      {
+        "year": 2022,
+        "crossref": 0.6271478645833333,
+        "openalex": 0.9192870300197886,
+        "crossrefAll": 0.5960165151515152,
+        "openalexAll": 0.7430407395924638,
+        "count": 8000
+      },
+      {
+        "year": 2023,
+        "crossref": 0.6151548437500001,
+        "openalex": 0.9183721733668342,
+        "crossrefAll": 0.5877520075757576,
+        "openalexAll": 0.7429556113902849,
+        "count": 8000
+      },
+      {
+        "year": 2024,
+        "crossref": 0.6091450520833332,
+        "openalex": 0.9045886089173039,
+        "crossrefAll": 0.5844103156565656,
+        "openalexAll": 0.7320247732432764,
+        "count": 8000
+      },
+      {
+        "year": 2025,
+        "crossref": 0.5982284375000001,
+        "openalex": 0.8728870277603842,
+        "crossrefAll": 0.5776600568181818,
+        "openalexAll": 0.7090968735571115,
+        "count": 8000
+      }
+    ]
+  },
+  {
+    "id": "springer-nature",
+    "label": "Springer Nature",
+    "memberId": 297,
+    "category": "global_commercial",
+    "categoryLabel": "Commercial Hybrid/Subscription",
+    "totalWorksSampled": 88000,
+    "totalWorksUniverse": 88000,
+    "crossrefScore": 0.5656275473484849,
+    "openalexScore": 0.7331859247002452,
+    "gap": 0.16755837735176038,
+    "crossrefScoreAll": 0.5382570471763085,
+    "openalexScoreAll": 0.6027458899779872,
+    "gapAll": 0.06448884280167866,
+    "voluntaryCrossref": 0.2528600378787879,
+    "voluntaryOpenAlex": 0.6198261270891853,
+    "voluntaryGap": 0.36696608921039736,
+    "automaticCrossref": 0.8192788352272727,
+    "categoryScores": {
+      "crossref": {
+        "findable_essential": 0.6993172348484848,
+        "findable_support": 0.6268159090909091,
+        "accessible_essential": 0.7062642045454545,
+        "accessible_support": 0.3112348484848485,
+        "evaluation_coara": 0.2706022727272727
+      },
+      "openalex": {
+        "findable_essential": 0.8683088260380063,
+        "findable_support": 0.7597488997304765,
+        "accessible_essential": 0.6097952418318492,
+        "accessible_support": 0.912509145220414,
+        "evaluation_coara": 0.5751560847463411
+      }
+    },
+    "yearlyScores": [
+      {
+        "year": 2015,
+        "crossref": 0.52649125,
+        "openalex": 0.7188284375,
+        "crossrefAll": 0.4954552904040404,
+        "openalexAll": 0.5917066287878788,
+        "count": 8000
+      },
+      {
+        "year": 2016,
+        "crossref": 0.5418952083333333,
+        "openalex": 0.7333528149352002,
+        "crossrefAll": 0.5089144318181817,
+        "openalexAll": 0.6027805117053773,
+        "count": 8000
+      },
+      {
+        "year": 2017,
+        "crossref": 0.5430539062499999,
+        "openalex": 0.7291680208333332,
+        "crossrefAll": 0.5101569696969697,
+        "openalexAll": 0.5999837626262626,
+        "count": 8000
+      },
+      {
+        "year": 2018,
+        "crossref": 0.55560296875,
+        "openalex": 0.7299753124999999,
+        "crossrefAll": 0.5298585353535353,
+        "openalexAll": 0.6002436679292931,
+        "count": 8000
+      },
+      {
+        "year": 2019,
+        "crossref": 0.5655914583333335,
+        "openalex": 0.7360009902022097,
+        "crossrefAll": 0.5403963320707071,
+        "openalexAll": 0.6047072286340579,
+        "count": 8000
+      },
+      {
+        "year": 2020,
+        "crossref": 0.5707724479166666,
+        "openalex": 0.7430179293244988,
+        "crossrefAll": 0.5478714204545454,
+        "openalexAll": 0.6093342223333471,
+        "count": 8000
+      },
+      {
+        "year": 2021,
+        "crossref": 0.57017109375,
+        "openalex": 0.7388794432637413,
+        "crossrefAll": 0.5471049747474748,
+        "openalexAll": 0.6063118432733385,
+        "count": 8000
+      },
+      {
+        "year": 2022,
+        "crossref": 0.572349375,
+        "openalex": 0.7308397916666666,
+        "crossrefAll": 0.5480646527777777,
+        "openalexAll": 0.6009134659090909,
+        "count": 8000
+      },
+      {
+        "year": 2023,
+        "crossref": 0.59748546875,
+        "openalex": 0.7371393299162395,
+        "crossrefAll": 0.5700153598484847,
+        "openalexAll": 0.6062403128673913,
+        "count": 8000
+      },
+      {
+        "year": 2024,
+        "crossref": 0.5897095833333335,
+        "openalex": 0.7349574479166667,
+        "crossrefAll": 0.561940662878788,
+        "openalexAll": 0.6041680808080808,
+        "count": 8000
+      },
+      {
+        "year": 2025,
+        "crossref": 0.5887802604166665,
+        "openalex": 0.7328877067069588,
+        "crossrefAll": 0.5610488888888889,
+        "openalexAll": 0.6038258307069689,
+        "count": 8000
+      }
+    ]
+  },
+  {
+    "id": "uaem",
+    "label": "UAEM",
+    "memberId": 11645,
+    "category": "regional_latam",
+    "categoryLabel": "Regional / Latin America",
+    "totalWorksSampled": 2873,
+    "totalWorksUniverse": 2873,
+    "crossrefScore": 0.5315976331360946,
+    "openalexScore": 0.7965033764116893,
+    "gap": 0.2649057432755947,
+    "crossrefScoreAll": 0.47096775270983415,
+    "openalexScoreAll": 0.6528740425561941,
+    "gapAll": 0.18190628984635993,
+    "voluntaryCrossref": 0.17324950690335306,
+    "voluntaryOpenAlex": 0.6211185819070905,
+    "voluntaryGap": 0.4478690750037374,
+    "automaticCrossref": 0.8479376957883745,
+    "categoryScores": {
+      "crossref": {
+        "findable_essential": 0.6632730015082956,
+        "findable_support": 0.5112426035502959,
+        "accessible_essential": 0.6058127392969023,
+        "accessible_support": 0.3334493560737905,
+        "evaluation_coara": 0.355656108597285
+      },
+      "openalex": {
+        "findable_essential": 0.8984165793456746,
+        "findable_support": 0.6551519385260216,
+        "accessible_essential": 0.8193328676213761,
+        "accessible_support": 0.9314239143089998,
+        "evaluation_coara": 0.6536500174641984
+      }
+    },
+    "yearlyScores": [
+      {
+        "year": 2015,
+        "crossref": 0.4024679487179488,
+        "openalex": 0.8279326923076923,
+        "crossrefAll": 0.36902874902874905,
+        "openalexAll": 0.681517094017094,
+        "count": 26
+      },
+      {
+        "year": 2016,
+        "crossref": 0.44501984126984123,
+        "openalex": 0.760787037037037,
+        "crossrefAll": 0.39898749398749395,
+        "openalexAll": 0.6232531665864998,
+        "count": 63
+      },
+      {
+        "year": 2017,
+        "crossref": 0.4310808580858086,
+        "openalex": 0.8457219471947194,
+        "crossrefAll": 0.3878077807780778,
+        "openalexAll": 0.6894509450945093,
+        "count": 101
+      },
+      {
+        "year": 2018,
+        "crossref": 0.4698292349726776,
+        "openalex": 0.8006944444444445,
+        "crossrefAll": 0.4181324170668433,
+        "openalexAll": 0.654167908594138,
+        "count": 183
+      },
+      {
+        "year": 2019,
+        "crossref": 0.5344635826771653,
+        "openalex": 0.8218159448818898,
+        "crossrefAll": 0.4733255786208542,
+        "openalexAll": 0.670017696651555,
+        "count": 254
+      },
+      {
+        "year": 2020,
+        "crossref": 0.5294455006337135,
+        "openalex": 0.8307493662864386,
+        "crossrefAll": 0.47318834735184545,
+        "openalexAll": 0.6788335829780695,
+        "count": 263
+      },
+      {
+        "year": 2021,
+        "crossref": 0.5375826149425287,
+        "openalex": 0.8214260057471264,
+        "crossrefAll": 0.476315163125508,
+        "openalexAll": 0.6716758098223616,
+        "count": 348
+      },
+      {
+        "year": 2022,
+        "crossref": 0.5468399439102565,
+        "openalex": 0.8205398637820513,
+        "crossrefAll": 0.4831807255244756,
+        "openalexAll": 0.672642531080031,
+        "count": 416
+      },
+      {
+        "year": 2023,
+        "crossref": 0.5521660539215686,
+        "openalex": 0.8153267973856209,
+        "crossrefAll": 0.4872894385026738,
+        "openalexAll": 0.6689193404634581,
+        "count": 408
+      },
+      {
+        "year": 2024,
+        "crossref": 0.5491836734693877,
+        "openalex": 0.762927059712774,
+        "crossrefAll": 0.48466181085228704,
+        "openalexAll": 0.6269679791108362,
+        "count": 441
+      },
+      {
+        "year": 2025,
+        "crossref": 0.5465563063063064,
+        "openalex": 0.7095972222222223,
+        "crossrefAll": 0.48294198744198746,
+        "openalexAll": 0.5865404040404042,
+        "count": 370
+      }
+    ]
+  },
+  {
+    "id": "unam",
+    "label": "UNAM",
+    "memberId": 9467,
+    "category": "regional_latam",
+    "categoryLabel": "Regional / Latin America",
+    "totalWorksSampled": 32625,
+    "totalWorksUniverse": 32625,
+    "crossrefScore": 0.4907598722860792,
+    "openalexScore": 0.7495097496463061,
+    "gap": 0.2587498773602269,
+    "crossrefScoreAll": 0.4401926483223034,
+    "openalexScoreAll": 0.6140065305201862,
+    "gapAll": 0.17381388219788274,
+    "voluntaryCrossref": 0.1759739463601533,
+    "voluntaryOpenAlex": 0.5713619517746202,
+    "voluntaryGap": 0.39538800541446695,
+    "automaticCrossref": 0.7655532567049808,
+    "categoryScores": {
+      "crossref": {
+        "findable_essential": 0.6598212005108557,
+        "findable_support": 0.4790252873563219,
+        "accessible_essential": 0.5308735632183907,
+        "accessible_support": 0.3323933588761175,
+        "evaluation_coara": 0.2750099616858238
+      },
+      "openalex": {
+        "findable_essential": 0.8628616390888028,
+        "findable_support": 0.6537614566033094,
+        "accessible_essential": 0.716968075290644,
+        "accessible_support": 0.8875868856492589,
+        "evaluation_coara": 0.6229316602079104
+      }
+    },
+    "yearlyScores": [
+      {
+        "year": 2015,
+        "crossref": 0.5067915487143194,
+        "openalex": 0.7445827435715973,
+        "crossrefAll": 0.44863916947250276,
+        "openalexAll": 0.6098842458555834,
+        "count": 2826
+      },
+      {
+        "year": 2016,
+        "crossref": 0.4958831296932671,
+        "openalex": 0.7306351858925388,
+        "crossrefAll": 0.444178998846811,
+        "openalexAll": 0.5984427930951994,
+        "count": 2619
+      },
+      {
+        "year": 2017,
+        "crossref": 0.4797814186384391,
+        "openalex": 0.7383858870549154,
+        "crossrefAll": 0.43538334779928795,
+        "openalexAll": 0.6037473300428766,
+        "count": 3212
+      },
+      {
+        "year": 2018,
+        "crossref": 0.4375823211875843,
+        "openalex": 0.7454563652721548,
+        "crossrefAll": 0.3950216333374228,
+        "openalexAll": 0.6071895336632178,
+        "count": 3705
+      },
+      {
+        "year": 2019,
+        "crossref": 0.4731802252096978,
+        "openalex": 0.7595527298850574,
+        "crossrefAll": 0.426466317779658,
+        "openalexAll": 0.6207272030651341,
+        "count": 2901
+      },
+      {
+        "year": 2020,
+        "crossref": 0.4898729946524064,
+        "openalex": 0.7584682964094729,
+        "crossrefAll": 0.4403080653749103,
+        "openalexAll": 0.6213785486646449,
+        "count": 2618
+      },
+      {
+        "year": 2021,
+        "crossref": 0.4723688271604939,
+        "openalex": 0.7353650576806314,
+        "crossrefAll": 0.4242554264504156,
+        "openalexAll": 0.6040730437342459,
+        "count": 2754
+      },
+      {
+        "year": 2022,
+        "crossref": 0.4720688540697073,
+        "openalex": 0.7543366739175471,
+        "crossrefAll": 0.42477256273564057,
+        "openalexAll": 0.6191963450540208,
+        "count": 3223
+      },
+      {
+        "year": 2023,
+        "crossref": 0.5062864283293799,
+        "openalex": 0.7804275942325158,
+        "crossrefAll": 0.4531746985271214,
+        "openalexAll": 0.6397871941485702,
+        "count": 2951
+      },
+      {
+        "year": 2024,
+        "crossref": 0.5327743055555555,
+        "openalex": 0.7639187374076561,
+        "crossrefAll": 0.47538395622895624,
+        "openalexAll": 0.6259762500763172,
+        "count": 3000
+      },
+      {
+        "year": 2025,
+        "crossref": 0.5496769945549242,
+        "openalex": 0.7317877854295034,
+        "crossrefAll": 0.48909889018021124,
+        "openalexAll": 0.6035076389117708,
+        "count": 2816
+      }
+    ]
+  },
+  {
+    "id": "elsevier",
+    "label": "Elsevier",
+    "memberId": 78,
+    "category": "global_commercial",
+    "categoryLabel": "Commercial Hybrid/Subscription",
+    "totalWorksSampled": 78004,
+    "totalWorksUniverse": 78004,
+    "crossrefScore": 0.4880171048920568,
+    "openalexScore": 0.6362980666341371,
+    "gap": 0.14828096174208033,
+    "crossrefScoreAll": 0.47005105993010454,
+    "openalexScoreAll": 0.525312385780297,
+    "gapAll": 0.0552613258501925,
+    "voluntaryCrossref": 0.15347909508914073,
+    "voluntaryOpenAlex": 0.480801916673087,
+    "voluntaryGap": 0.3273228215839463,
+    "automaticCrossref": 0.7489588674939747,
+    "categoryScores": {
+      "crossref": {
+        "findable_essential": 0.6782675674751721,
+        "findable_support": 0.5018909286703246,
+        "accessible_essential": 0.531660235372545,
+        "accessible_support": 0.29621557868827236,
+        "evaluation_coara": 0.2335828931849649
+      },
+      "openalex": {
+        "findable_essential": 0.8343627211792805,
+        "findable_support": 0.6875703022676494,
+        "accessible_essential": 0.40954762577364595,
+        "accessible_support": 0.882769631132455,
+        "evaluation_coara": 0.4609491769177431
+      }
+    },
+    "yearlyScores": [
+      {
+        "year": 2015,
+        "crossref": 0.45875186973075877,
+        "openalex": 0.6238187267700118,
+        "crossrefAll": 0.43219479950442696,
+        "openalexAll": 0.5163307469582966,
+        "count": 7354
+      },
+      {
+        "year": 2016,
+        "crossref": 0.45887992952974654,
+        "openalex": 0.6187716831548989,
+        "crossrefAll": 0.43482832115709197,
+        "openalexAll": 0.5118733547700887,
+        "count": 7379
+      },
+      {
+        "year": 2017,
+        "crossref": 0.4597827194889916,
+        "openalex": 0.6224233260849867,
+        "crossrefAll": 0.4371022401234415,
+        "openalexAll": 0.5145838378347212,
+        "count": 7358
+      },
+      {
+        "year": 2018,
+        "crossref": 0.4617960719530102,
+        "openalex": 0.6158341939777838,
+        "crossrefAll": 0.4389824734125395,
+        "openalexAll": 0.5094533186450013,
+        "count": 7264
+      },
+      {
+        "year": 2019,
+        "crossref": 0.4722371571362157,
+        "openalex": 0.6242032826521597,
+        "crossrefAll": 0.45124759449445645,
+        "openalexAll": 0.5157701227648221,
+        "count": 7170
+      },
+      {
+        "year": 2020,
+        "crossref": 0.5096632626058506,
+        "openalex": 0.6555116452528753,
+        "crossrefAll": 0.4975102059859565,
+        "openalexAll": 0.5396600114031902,
+        "count": 6928
+      },
+      {
+        "year": 2021,
+        "crossref": 0.5157082655626202,
+        "openalex": 0.6559916321601105,
+        "crossrefAll": 0.5024609917002347,
+        "openalexAll": 0.5403699222332763,
+        "count": 6763
+      },
+      {
+        "year": 2022,
+        "crossref": 0.50921291680514,
+        "openalex": 0.641111711262534,
+        "crossrefAll": 0.49607726483848114,
+        "openalexAll": 0.5287822549913292,
+        "count": 6018
+      },
+      {
+        "year": 2023,
+        "crossref": 0.5050095778686599,
+        "openalex": 0.6480355380059231,
+        "crossrefAll": 0.4921185910721942,
+        "openalexAll": 0.5338780343271953,
+        "count": 7091
+      },
+      {
+        "year": 2024,
+        "crossref": 0.49984735744089015,
+        "openalex": 0.6408238293926749,
+        "crossrefAll": 0.4880383740042989,
+        "openalexAll": 0.5286767606524213,
+        "count": 7190
+      },
+      {
+        "year": 2025,
+        "crossref": 0.5242343214492365,
+        "openalex": 0.6563159858868232,
+        "crossrefAll": 0.5086921761344247,
+        "openalexAll": 0.5416949519622881,
+        "count": 7489
+      }
+    ]
+  },
+  {
+    "id": "uchile",
+    "label": "Universidad de Chile",
+    "memberId": 3330,
+    "category": "regional_latam",
+    "categoryLabel": "Regional / Latin America",
+    "totalWorksSampled": 11715,
+    "totalWorksUniverse": 11715,
+    "crossrefScore": 0.433749928866126,
+    "openalexScore": 0.7456503291723666,
+    "gap": 0.3119004003062406,
+    "crossrefScoreAll": 0.38502117633871796,
+    "openalexScoreAll": 0.6084211083129517,
+    "gapAll": 0.22339993197423375,
+    "voluntaryCrossref": 0.08434876938398066,
+    "voluntaryOpenAlex": 0.5468504189466484,
+    "voluntaryGap": 0.46250164956266776,
+    "automaticCrossref": 0.7243971404182672,
+    "categoryScores": {
+      "crossref": {
+        "findable_essential": 0.6350618864703371,
+        "findable_support": 0.48075970977379434,
+        "accessible_essential": 0.34847417840375583,
+        "accessible_support": 0.3330487978375302,
+        "evaluation_coara": 0.25346991037131883
+      },
+      "openalex": {
+        "findable_essential": 0.8494285795713635,
+        "findable_support": 0.6280437756497947,
+        "accessible_essential": 0.7163239569083447,
+        "accessible_support": 0.9316005471956225,
+        "evaluation_coara": 0.6218707250341997
+      }
+    },
+    "yearlyScores": [
+      {
+        "year": 2015,
+        "crossref": 0.37751627947905664,
+        "openalex": 0.7477167019027484,
+        "crossrefAll": 0.33322944332448035,
+        "openalexAll": 0.6108409144297093,
+        "count": 947
+      },
+      {
+        "year": 2016,
+        "crossref": 0.36498642024377326,
+        "openalex": 0.6819984752055159,
+        "crossrefAll": 0.319795008912656,
+        "openalexAll": 0.5556994366898902,
+        "count": 2516
+      },
+      {
+        "year": 2017,
+        "crossref": 0.39382938551321667,
+        "openalex": 0.7548819945073807,
+        "crossrefAll": 0.35095845166391,
+        "openalexAll": 0.6134542125685277,
+        "count": 971
+      },
+      {
+        "year": 2018,
+        "crossref": 0.42348051673019904,
+        "openalex": 0.7685588733587463,
+        "crossrefAll": 0.3796399830580262,
+        "openalexAll": 0.6247324579980235,
+        "count": 787
+      },
+      {
+        "year": 2019,
+        "crossref": 0.4380733995584989,
+        "openalex": 0.7727414898320071,
+        "crossrefAll": 0.3902477088768479,
+        "openalexAll": 0.6303170966964069,
+        "count": 755
+      },
+      {
+        "year": 2020,
+        "crossref": 0.4391107884547694,
+        "openalex": 0.7868615520282185,
+        "crossrefAll": 0.3928529753714548,
+        "openalexAll": 0.6396205440649884,
+        "count": 947
+      },
+      {
+        "year": 2021,
+        "crossref": 0.4621592003853564,
+        "openalex": 0.7884305689488911,
+        "crossrefAll": 0.4115079990658025,
+        "openalexAll": 0.6450889804506005,
+        "count": 1038
+      },
+      {
+        "year": 2022,
+        "crossref": 0.48599823321554764,
+        "openalex": 0.793898879716981,
+        "crossrefAll": 0.43187100688867475,
+        "openalexAll": 0.647877358490566,
+        "count": 849
+      },
+      {
+        "year": 2023,
+        "crossref": 0.4909642741674749,
+        "openalex": 0.7778721682847896,
+        "crossrefAll": 0.4356711636246069,
+        "openalexAll": 0.6357660586446994,
+        "count": 1031
+      },
+      {
+        "year": 2024,
+        "crossref": 0.5025018539117538,
+        "openalex": 0.7516406540319582,
+        "crossrefAll": 0.4473019966067797,
+        "openalexAll": 0.6146399333355854,
+        "count": 899
+      },
+      {
+        "year": 2025,
+        "crossref": 0.5056705128205128,
+        "openalex": 0.6917330230954843,
+        "crossrefAll": 0.4502760942760943,
+        "openalexAll": 0.568409587080735,
+        "count": 975
+      }
+    ]
+  },
+  {
+    "id": "pontificia-uc",
+    "label": "Pontificia U. Católica de Chile",
+    "memberId": 4571,
+    "category": "regional_latam",
+    "categoryLabel": "Regional / Latin America",
+    "totalWorksSampled": 8408,
+    "totalWorksUniverse": 8408,
+    "crossrefScore": 0.4057869489375198,
+    "openalexScore": 0.7186683853918296,
+    "gap": 0.3128814364543098,
+    "crossrefScoreAll": 0.3675413807436881,
+    "openalexScoreAll": 0.5849527403264886,
+    "gapAll": 0.2174113595828005,
+    "voluntaryCrossref": 0.06955726688867746,
+    "voluntaryOpenAlex": 0.539527201557781,
+    "voluntaryGap": 0.46996993466910353,
+    "automaticCrossref": 0.6715627973358707,
+    "categoryScores": {
+      "crossref": {
+        "findable_essential": 0.6431870440849985,
+        "findable_support": 0.3824928639391056,
+        "accessible_essential": 0.3586465271170314,
+        "accessible_support": 0.33369013637805267,
+        "evaluation_coara": 0.1621313035204567
+      },
+      "openalex": {
+        "findable_essential": 0.8130563503417582,
+        "findable_support": 0.5846089651883644,
+        "accessible_essential": 0.6972311635670004,
+        "accessible_support": 0.8983865840089017,
+        "evaluation_coara": 0.6145684310920363
+      }
+    },
+    "yearlyScores": [
+      {
+        "year": 2015,
+        "crossref": 0.38933440399714486,
+        "openalex": 0.7467706093189964,
+        "crossrefAll": 0.35106774381934974,
+        "openalexAll": 0.6076555881394591,
+        "count": 467
+      },
+      {
+        "year": 2016,
+        "crossref": 0.3850383771929824,
+        "openalex": 0.7314669486215539,
+        "crossrefAll": 0.3461942735626946,
+        "openalexAll": 0.5957651705020126,
+        "count": 532
+      },
+      {
+        "year": 2017,
+        "crossref": 0.36977515458122545,
+        "openalex": 0.7196023046655424,
+        "crossrefAll": 0.3349339090738754,
+        "openalexAll": 0.5832565963173044,
+        "count": 593
+      },
+      {
+        "year": 2018,
+        "crossref": 0.36506669805398617,
+        "openalex": 0.7559166666666667,
+        "crossrefAll": 0.3303282352717381,
+        "openalexAll": 0.6119695063846007,
+        "count": 531
+      },
+      {
+        "year": 2019,
+        "crossref": 0.3674071618037136,
+        "openalex": 0.7392917220008853,
+        "crossrefAll": 0.33282848377675966,
+        "openalexAll": 0.5999864515003958,
+        "count": 754
+      },
+      {
+        "year": 2020,
+        "crossref": 0.3776490554899646,
+        "openalex": 0.7377687376725838,
+        "crossrefAll": 0.3400437074404017,
+        "openalexAll": 0.5984707429322813,
+        "count": 847
+      },
+      {
+        "year": 2021,
+        "crossref": 0.37468264248704664,
+        "openalex": 0.74694408462867,
+        "crossrefAll": 0.34886972052127496,
+        "openalexAll": 0.6050630004710316,
+        "count": 772
+      },
+      {
+        "year": 2022,
+        "crossref": 0.3695530696065715,
+        "openalex": 0.7655746753246753,
+        "crossrefAll": 0.346702170865595,
+        "openalexAll": 0.6184987537714811,
+        "count": 771
+      },
+      {
+        "year": 2023,
+        "crossref": 0.46021872525732377,
+        "openalex": 0.6681418650793651,
+        "crossrefAll": 0.41423302702400083,
+        "openalexAll": 0.5476992544492544,
+        "count": 1263
+      },
+      {
+        "year": 2024,
+        "crossref": 0.44486269841269843,
+        "openalex": 0.6753626984126984,
+        "crossrefAll": 0.39914227994227996,
+        "openalexAll": 0.5541837421837422,
+        "count": 1050
+      },
+      {
+        "year": 2025,
+        "crossref": 0.4741953502415459,
+        "openalex": 0.6934199266503668,
+        "crossrefAll": 0.42302371541501976,
+        "openalexAll": 0.5672584648440393,
+        "count": 828
+      }
+    ]
+  }
+]

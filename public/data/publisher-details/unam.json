@@ -1,0 +1,3809 @@
+{
+  "id": "unam",
+  "label": "UNAM",
+  "memberId": 9467,
+  "category": "regional_latam",
+  "categoryLabel": "Regional / Latin America",
+  "totalWorksSampled": 32625,
+  "totalWorksMatched": 32514,
+  "totalWorksUniverse": 32625,
+  "crossref": {
+    "overall": 0.4401926483223034,
+    "categories": {
+      "findable_essential": 0.6598212005108557,
+      "findable_support": 0.4355109717868339,
+      "accessible_essential": 0.4769144316730523,
+      "accessible_support": 0.30190038314176243,
+      "evaluation_coara": 0.1375049808429119
+    },
+    "fields": {
+      "title": 1,
+      "abstract": 0.7689501915708812,
+      "author": 0.9952490421455938,
+      "author_affiliation": 0.05983141762452107,
+      "doi": 1,
+      "publication_date": 1,
+      "publisher": 1,
+      "resource_type": 1,
+      "subject_keywords": 0,
+      "funder_name": 0.002421455938697318,
+      "container_title": 1,
+      "language": 0.09140229885057471,
+      "author_orcid": 0.23552490421455938,
+      "all_authors_orcid": 0.1845823754789272,
+      "funder_doi": 0.0011954022988505746,
+      "award_number": 0.0011954022988505746,
+      "issn": 0.9813639846743295,
+      "volume": 0.7987739463601533,
+      "issue": 0.829272030651341,
+      "page": 0.7288888888888889,
+      "published_print_date": 0.1189272030651341,
+      "published_online_date": 0.910528735632184,
+      "article_number": 0.000367816091954023,
+      "license": 0.4094712643678161,
+      "license_url": 0.4094712643678161,
+      "open_access_license": 0.4082452107279693,
+      "full_text_links": 0.8994022988505748,
+      "resource_url": 1,
+      "references": 0.3810268199233717,
+      "references_count": 0.3810268199233717,
+      "is_referenced_by": 0.3583448275862069,
+      "update_policy": 0.045241379310344824,
+      "jats_abstract": 0.7689501915708812,
+      "author_sequence": 0.9951877394636015,
+      "affiliation_ids_ror": 0.0017471264367816092,
+      "relations": 0.00024521072796934864,
+      "assertions": 0.045241379310344824,
+      "archive": 0.00003065134099616858,
+      "credit_roles": 0,
+      "author_given_family": 0.9643218390804598,
+      "affiliation_ror": 0.0017471264367816092,
+      "funding_complete": 0.0005823754789272031,
+      "data_availability": 0,
+      "preprint_version_link": 0.0001532567049808429,
+      "peer_review_info": 0,
+      "clinical_trial": 0,
+      "abstract_structured": 0,
+      "open_access_status": 0.4082452107279693
+    }
+  },
+  "openalex": {
+    "overall": 0.6140065305201862,
+    "categories": {
+      "findable_essential": 0.8628616390888028,
+      "findable_support": 0.5943285969120994,
+      "accessible_essential": 0.6373049558139058,
+      "accessible_support": 0.44379344282462946,
+      "evaluation_coara": 0.3114658301039552
+    },
+    "fields": {
+      "title": 1,
+      "abstract": 0.8927538906317278,
+      "author": 0.9986467367903057,
+      "author_affiliation": 0.7218736544257858,
+      "doi": 1,
+      "publication_date": 1,
+      "publisher": 0.71787537676078,
+      "resource_type": 1,
+      "subject_keywords": 0.999876976071846,
+      "funder_name": 0.05588361936396629,
+      "container_title": 0.9907424494064095,
+      "language": 0.976686965614812,
+      "author_orcid": 0.6813680260810727,
+      "all_authors_orcid": 0.4199114227717291,
+      "funder_doi": 0.05588361936396629,
+      "award_number": 0.021682967337147075,
+      "issn": 0.9907424494064095,
+      "volume": 0.7988558774681676,
+      "issue": 0.8302577351294826,
+      "page": 0.7389124684751184,
+      "published_print_date": 1,
+      "published_online_date": 1,
+      "article_number": 0,
+      "license": 0.7915051977609645,
+      "license_url": 0.7915051977609645,
+      "open_access_license": 0.7892600110721535,
+      "full_text_links": 0.663591068462816,
+      "resource_url": 1,
+      "references": 0.606569477763425,
+      "references_count": 0.606569477763425,
+      "is_referenced_by": 0.4867441717414037,
+      "update_policy": 0,
+      "jats_abstract": 0,
+      "author_sequence": 0.9986467367903057,
+      "affiliation_ids_ror": 0.7215353386233623,
+      "relations": 0.9425785815341083,
+      "assertions": 0,
+      "archive": 0,
+      "credit_roles": 0,
+      "author_given_family": 0.9986467367903057,
+      "affiliation_ror": 0.7215353386233623,
+      "funding_complete": 0.021682967337147075,
+      "data_availability": 0,
+      "preprint_version_link": 0.4088392692378668,
+      "peer_review_info": 0,
+      "clinical_trial": 0,
+      "abstract_structured": 0,
+      "open_access_status": 0.9639539890508704
+    }
+  },
+  "gap": 0.17381388219788274,
+  "comparable": {
+    "crossref": {
+      "categories": {
+        "findable_essential": 0.6598212005108557,
+        "findable_support": 0.4790252873563219,
+        "accessible_essential": 0.5308735632183907,
+        "accessible_support": 0.3323933588761175,
+        "evaluation_coara": 0.2750099616858238
+      },
+      "overall": 0.4907598722860792
+    },
+    "openalex": {
+      "categories": {
+        "findable_essential": 0.8628616390888028,
+        "findable_support": 0.6537614566033094,
+        "accessible_essential": 0.716968075290644,
+        "accessible_support": 0.8875868856492589,
+        "evaluation_coara": 0.6229316602079104
+      },
+      "overall": 0.7495097496463061
+    },
+    "gap": 0.2587498773602269,
+    "fieldCount": 38,
+    "totalFieldCount": 48
+  },
+  "voluntary": {
+    "crossref": {
+      "categories": {
+        "findable_essential": 0.2078007662835249,
+        "findable_support": 0.10562452107279693,
+        "accessible_essential": 0.3900996168582376,
+        "accessible_support": 0.000996168582375479,
+        "evaluation_coara": 0.0008275862068965518
+      },
+      "overall": 0.1759739463601533
+    },
+    "openalex": {
+      "categories": {
+        "findable_essential": 0.6675970351233315,
+        "findable_support": 0.2947115088884788,
+        "accessible_essential": 0.6674663221996678,
+        "accessible_support": 0.8320569600787353,
+        "evaluation_coara": 0.38401919173279203
+      },
+      "overall": 0.5713619517746202
+    },
+    "gap": 0.39538800541446695,
+    "fieldCount": 16
+  },
+  "automatic": {
+    "crossref": {
+      "categories": {
+        "findable_essential": 0.8858314176245211,
+        "findable_support": 0.7279591315453385,
+        "accessible_essential": 0.6153379310344828,
+        "accessible_support": 0.9951877394636015,
+        "evaluation_coara": 0.6862835249042145
+      },
+      "overall": 0.7655532567049808
+    },
+    "openalex": {
+      "categories": {
+        "findable_essential": 0.9604939410715384,
+        "findable_support": 0.8931280884131964,
+        "accessible_essential": 0.7466691271452297,
+        "accessible_support": 0.9986467367903057,
+        "evaluation_coara": 0.9813003629205881
+      },
+      "overall": 0.9049094236328966
+    },
+    "gap": 0.13935616692791586,
+    "fieldCount": 22
+  },
+  "yearlyScores": [
+    {
+      "year": 2015,
+      "count": 2826,
+      "matched": 2826,
+      "universeSize": 2826,
+      "crossref": {
+        "overall": 0.44863916947250276,
+        "categories": {
+          "findable_essential": 0.6484135409294645,
+          "findable_support": 0.4046194428360033,
+          "accessible_essential": 0.5546512542266258,
+          "accessible_support": 0.24504600141542818,
+          "evaluation_coara": 0.15127388535031847
+        },
+        "fields": {
+          "title": 1,
+          "abstract": 0.3740268931351734,
+          "author": 0.9794762915782024,
+          "author_affiliation": 0.004953998584571833,
+          "doi": 1,
+          "publication_date": 1,
+          "publisher": 1,
+          "resource_type": 1,
+          "subject_keywords": 0,
+          "funder_name": 0.006369426751592357,
+          "container_title": 1,
+          "language": 0.416135881104034,
+          "author_orcid": 0.01132342533616419,
+          "all_authors_orcid": 0.007077140835102618,
+          "funder_doi": 0.0024769992922859165,
+          "award_number": 0.00389242745930644,
+          "issn": 1,
+          "volume": 0.9444444444444444,
+          "issue": 0.8754423213021939,
+          "page": 0.5944798301486199,
+          "published_print_date": 0.42852087756546353,
+          "published_online_date": 0.5831564048124558,
+          "article_number": 0,
+          "license": 0.5516631280962491,
+          "license_url": 0.5516631280962491,
+          "open_access_license": 0.5516631280962491,
+          "full_text_links": 0.9720452937013446,
+          "resource_url": 1,
+          "references": 0.389242745930644,
+          "references_count": 0.389242745930644,
+          "is_referenced_by": 0.46956829440905873,
+          "update_policy": 0.11677282377919321,
+          "jats_abstract": 0.3740268931351734,
+          "author_sequence": 0.9794762915782024,
+          "affiliation_ids_ror": 0,
+          "relations": 0,
+          "assertions": 0.11677282377919321,
+          "archive": 0,
+          "credit_roles": 0,
+          "author_given_family": 0.9596602972399151,
+          "affiliation_ror": 0,
+          "funding_complete": 0.0014154281670205238,
+          "data_availability": 0,
+          "preprint_version_link": 0,
+          "peer_review_info": 0,
+          "clinical_trial": 0,
+          "abstract_structured": 0,
+          "open_access_status": 0.5516631280962491
+        }
+      },
+      "openalex": {
+        "overall": 0.6098842458555834,
+        "categories": {
+          "findable_essential": 0.8615534324133051,
+          "findable_support": 0.5797465096828155,
+          "accessible_essential": 0.6329322953526776,
+          "accessible_support": 0.4333569238027837,
+          "evaluation_coara": 0.3144373673036093
+        },
+        "fields": {
+          "title": 1,
+          "abstract": 0.7961783439490446,
+          "author": 0.9932767162066525,
+          "author_affiliation": 0.6578202406227884,
+          "doi": 1,
+          "publication_date": 1,
+          "publisher": 0.8400566171266808,
+          "resource_type": 1,
+          "subject_keywords": 0.9996461429582448,
+          "funder_name": 0.05307855626326964,
+          "container_title": 1,
+          "language": 0.9985845718329794,
+          "author_orcid": 0.5672328379334749,
+          "all_authors_orcid": 0.2997169143665959,
+          "funder_doi": 0.05307855626326964,
+          "award_number": 0.01910828025477707,
+          "issn": 1,
+          "volume": 0.9447983014861996,
+          "issue": 0.8757961783439491,
+          "page": 0.6174805378627035,
+          "published_print_date": 1,
+          "published_online_date": 1,
+          "article_number": 0,
+          "license": 0.8184713375796179,
+          "license_url": 0.8184713375796179,
+          "open_access_license": 0.8149327671620665,
+          "full_text_links": 0.5987261146496815,
+          "resource_url": 1,
+          "references": 0.5392781316348195,
+          "references_count": 0.5392781316348195,
+          "is_referenced_by": 0.5672328379334749,
+          "update_policy": 0,
+          "jats_abstract": 0,
+          "author_sequence": 0.9932767162066525,
+          "affiliation_ids_ror": 0.6574663835810333,
+          "relations": 0.9493984430290163,
+          "assertions": 0,
+          "archive": 0,
+          "credit_roles": 0,
+          "author_given_family": 0.9932767162066525,
+          "affiliation_ror": 0.6574663835810333,
+          "funding_complete": 0.01910828025477707,
+          "data_availability": 0,
+          "preprint_version_link": 0.4943382873319179,
+          "peer_review_info": 0,
+          "clinical_trial": 0,
+          "abstract_structured": 0,
+          "open_access_status": 0.9801840056617127
+        }
+      },
+      "comparable": {
+        "crossref": {
+          "categories": {
+            "findable_essential": 0.6484135409294645,
+            "findable_support": 0.44508138711960366,
+            "accessible_essential": 0.6093860580325547,
+            "accessible_support": 0.32649209719273414,
+            "evaluation_coara": 0.30254777070063693
+          },
+          "overall": 0.5067915487143194
+        },
+        "openalex": {
+          "categories": {
+            "findable_essential": 0.8615534324133051,
+            "findable_support": 0.6377211606510971,
+            "accessible_essential": 0.7120488322717623,
+            "accessible_support": 0.8667138476055674,
+            "evaluation_coara": 0.6288747346072187
+          },
+          "overall": 0.7445827435715973
+        },
+        "gap": 0.23779119485727784
+      },
+      "voluntary": {
+        "crossref": 0.1407702288275537,
+        "openalex": 0.5394167256428403
+      }
+    },
+    {
+      "year": 2016,
+      "count": 2619,
+      "matched": 2618,
+      "universeSize": 2619,
+      "crossref": {
+        "overall": 0.444178998846811,
+        "categories": {
+          "findable_essential": 0.6488163421153111,
+          "findable_support": 0.4182026450067688,
+          "accessible_essential": 0.5264944211106868,
+          "accessible_support": 0.2673412243858979,
+          "evaluation_coara": 0.1422298587247041
+        },
+        "fields": {
+          "title": 1,
+          "abstract": 0.43909889270714014,
+          "author": 0.9854906452844597,
+          "author_affiliation": 0.003436426116838488,
+          "doi": 1,
+          "publication_date": 1,
+          "publisher": 1,
+          "resource_type": 1,
+          "subject_keywords": 0,
+          "funder_name": 0.012982054219167621,
+          "container_title": 1,
+          "language": 0.3447880870561283,
+          "author_orcid": 0.009163802978235968,
+          "all_authors_orcid": 0.004581901489117984,
+          "funder_doi": 0.006491027109583811,
+          "award_number": 0.004963726613211149,
+          "issn": 0.9992363497518136,
+          "volume": 0.872852233676976,
+          "issue": 0.868270332187858,
+          "page": 0.815196639938908,
+          "published_print_date": 0.3642611683848797,
+          "published_online_date": 0.6552119129438717,
+          "article_number": 0,
+          "license": 0.4646811760213822,
+          "license_url": 0.4646811760213822,
+          "open_access_license": 0.4646811760213822,
+          "full_text_links": 0.9774723176785033,
+          "resource_url": 1,
+          "references": 0.3570064910271096,
+          "references_count": 0.3570064910271096,
+          "is_referenced_by": 0.4738449789996182,
+          "update_policy": 0.17907598319969453,
+          "jats_abstract": 0.43909889270714014,
+          "author_sequence": 0.9854906452844597,
+          "affiliation_ids_ror": 0,
+          "relations": 0.00038182512409316535,
+          "assertions": 0.17907598319969453,
+          "archive": 0,
+          "credit_roles": 0,
+          "author_given_family": 0.9549446353570065,
+          "affiliation_ror": 0,
+          "funding_complete": 0.002672775868652157,
+          "data_availability": 0,
+          "preprint_version_link": 0,
+          "peer_review_info": 0,
+          "clinical_trial": 0,
+          "abstract_structured": 0,
+          "open_access_status": 0.4646811760213822
+        }
+      },
+      "openalex": {
+        "overall": 0.5984427930951994,
+        "categories": {
+          "findable_essential": 0.859816653934301,
+          "findable_support": 0.5980276408083894,
+          "accessible_essential": 0.583184789067142,
+          "accessible_support": 0.4418767507002801,
+          "evaluation_coara": 0.30404889228418636
+        },
+        "fields": {
+          "title": 1,
+          "abstract": 0.8158899923605806,
+          "author": 0.9954163483575248,
+          "author_affiliation": 0.6818181818181818,
+          "doi": 1,
+          "publication_date": 1,
+          "publisher": 0.7838044308632544,
+          "resource_type": 1,
+          "subject_keywords": 0.9996180290297937,
+          "funder_name": 0.041634835752482814,
+          "container_title": 1,
+          "language": 0.9996180290297937,
+          "author_orcid": 0.5863254392666157,
+          "all_authors_orcid": 0.3651642475171887,
+          "funder_doi": 0.041634835752482814,
+          "award_number": 0.012987012987012988,
+          "issn": 1,
+          "volume": 0.872803666921314,
+          "issue": 0.8682200152788389,
+          "page": 0.8311688311688312,
+          "published_print_date": 1,
+          "published_online_date": 1,
+          "article_number": 0,
+          "license": 0.6386554621848739,
+          "license_url": 0.6386554621848739,
+          "open_access_license": 0.6359816653934302,
+          "full_text_links": 0.6130634071810542,
+          "resource_url": 1,
+          "references": 0.5660809778456837,
+          "references_count": 0.5660809778456837,
+          "is_referenced_by": 0.5901451489686784,
+          "update_policy": 0,
+          "jats_abstract": 0,
+          "author_sequence": 0.9954163483575248,
+          "affiliation_ids_ror": 0.6818181818181818,
+          "relations": 0.974025974025974,
+          "assertions": 0,
+          "archive": 0,
+          "credit_roles": 0,
+          "author_given_family": 0.9954163483575248,
+          "affiliation_ror": 0.6818181818181818,
+          "funding_complete": 0.012987012987012988,
+          "data_availability": 0,
+          "preprint_version_link": 0.3739495798319328,
+          "peer_review_info": 0,
+          "clinical_trial": 0,
+          "abstract_structured": 0,
+          "open_access_status": 0.9763177998472116
+        }
+      },
+      "comparable": {
+        "crossref": {
+          "categories": {
+            "findable_essential": 0.6488163421153111,
+            "findable_support": 0.4600229095074456,
+            "accessible_essential": 0.5699217258495609,
+            "accessible_support": 0.32862415680285095,
+            "evaluation_coara": 0.2844597174494082
+          },
+          "overall": 0.4958831296932671
+        },
+        "openalex": {
+          "categories": {
+            "findable_essential": 0.859816653934301,
+            "findable_support": 0.6578304048892284,
+            "accessible_essential": 0.6560828877005347,
+            "accessible_support": 0.8837535014005602,
+            "evaluation_coara": 0.6080977845683727
+          },
+          "overall": 0.7306351858925388
+        },
+        "gap": 0.23475205619927175
+      },
+      "voluntary": {
+        "crossref": 0.13353060964744815,
+        "openalex": 0.5295390883626178
+      }
+    },
+    {
+      "year": 2017,
+      "count": 3212,
+      "matched": 3211,
+      "universeSize": 3212,
+      "crossref": {
+        "overall": 0.43538334779928795,
+        "categories": {
+          "findable_essential": 0.6535907015359069,
+          "findable_support": 0.42208196535718323,
+          "accessible_essential": 0.4796250172962502,
+          "accessible_support": 0.29711498547114984,
+          "evaluation_coara": 0.13188044831880447
+        },
+        "fields": {
+          "title": 1,
+          "abstract": 0.5825031133250311,
+          "author": 0.9897260273972602,
+          "author_affiliation": 0.003424657534246575,
+          "doi": 1,
+          "publication_date": 1,
+          "publisher": 1,
+          "resource_type": 1,
+          "subject_keywords": 0,
+          "funder_name": 0.007783312577833126,
+          "container_title": 1,
+          "language": 0.25965130759651306,
+          "author_orcid": 0.021793275217932753,
+          "all_authors_orcid": 0.010896637608966376,
+          "funder_doi": 0.004669987546699875,
+          "award_number": 0.004669987546699875,
+          "issn": 0.9993773349937733,
+          "volume": 0.8714196762141968,
+          "issue": 0.8972602739726028,
+          "page": 0.7770859277708593,
+          "published_print_date": 0.31537982565379824,
+          "published_online_date": 0.7403486924034869,
+          "article_number": 0,
+          "license": 0.3844956413449564,
+          "license_url": 0.3844956413449564,
+          "open_access_license": 0.3844956413449564,
+          "full_text_links": 0.9635740971357409,
+          "resource_url": 1,
+          "references": 0.26650062266500624,
+          "references_count": 0.26650062266500624,
+          "is_referenced_by": 0.45610211706102116,
+          "update_policy": 0.21046077210460773,
+          "jats_abstract": 0.5825031133250311,
+          "author_sequence": 0.9897260273972602,
+          "affiliation_ids_ror": 0,
+          "relations": 0,
+          "assertions": 0.21046077210460773,
+          "archive": 0,
+          "credit_roles": 0,
+          "author_given_family": 0.9318181818181818,
+          "affiliation_ror": 0,
+          "funding_complete": 0.0024906600249066002,
+          "data_availability": 0,
+          "preprint_version_link": 0,
+          "peer_review_info": 0,
+          "clinical_trial": 0,
+          "abstract_structured": 0,
+          "open_access_status": 0.3844956413449564
+        }
+      },
+      "openalex": {
+        "overall": 0.6037473300428766,
+        "categories": {
+          "findable_essential": 0.8690179590989308,
+          "findable_support": 0.5944055944055944,
+          "accessible_essential": 0.5858680231149866,
+          "accessible_support": 0.45302605626492265,
+          "evaluation_coara": 0.31055745873559637
+        },
+        "fields": {
+          "title": 1,
+          "abstract": 0.8607910308315166,
+          "author": 0.9987542821550919,
+          "author_affiliation": 0.7321706633447524,
+          "doi": 1,
+          "publication_date": 1,
+          "publisher": 0.7991279975085643,
+          "resource_type": 1,
+          "subject_keywords": 1,
+          "funder_name": 0.03737153534724385,
+          "container_title": 1,
+          "language": 1,
+          "author_orcid": 0.5976331360946746,
+          "all_authors_orcid": 0.33073808782310804,
+          "funder_doi": 0.03737153534724385,
+          "award_number": 0.01339146683276238,
+          "issn": 1,
+          "volume": 0.8716910619744628,
+          "issue": 0.8975397072563065,
+          "page": 0.7900965431329804,
+          "published_print_date": 1,
+          "published_online_date": 1,
+          "article_number": 0,
+          "license": 0.7922765493615697,
+          "license_url": 0.7922765493615697,
+          "open_access_license": 0.7900965431329804,
+          "full_text_links": 0.41700404858299595,
+          "resource_url": 1,
+          "references": 0.45188414824042356,
+          "references_count": 0.45188414824042356,
+          "is_referenced_by": 0.5773902211149174,
+          "update_policy": 0,
+          "jats_abstract": 0,
+          "author_sequence": 0.9987542821550919,
+          "affiliation_ids_ror": 0.7315478044222984,
+          "relations": 0.9878542510121457,
+          "assertions": 0,
+          "archive": 0,
+          "credit_roles": 0,
+          "author_given_family": 0.9987542821550919,
+          "affiliation_ror": 0.7315478044222984,
+          "funding_complete": 0.01339146683276238,
+          "data_availability": 0,
+          "preprint_version_link": 0.37433821239489257,
+          "peer_review_info": 0,
+          "clinical_trial": 0,
+          "abstract_structured": 0,
+          "open_access_status": 0.9875428215509188
+        }
+      },
+      "comparable": {
+        "crossref": {
+          "categories": {
+            "findable_essential": 0.6535907015359069,
+            "findable_support": 0.46429016189290157,
+            "accessible_essential": 0.5132705479452054,
+            "accessible_support": 0.3299086757990867,
+            "evaluation_coara": 0.26376089663760893
+          },
+          "overall": 0.4797814186384391
+        },
+        "openalex": {
+          "categories": {
+            "findable_essential": 0.8690179590989308,
+            "findable_support": 0.6538461538461539,
+            "accessible_essential": 0.65910152600436,
+            "accessible_support": 0.9060521125298453,
+            "evaluation_coara": 0.6211149174711927
+          },
+          "overall": 0.7383858870549154
+        },
+        "gap": 0.2586044684164763
+      },
+      "voluntary": {
+        "crossref": 0.1227285699460357,
+        "openalex": 0.535736530675802
+      }
+    },
+    {
+      "year": 2018,
+      "count": 3705,
+      "matched": 3705,
+      "universeSize": 3705,
+      "crossref": {
+        "overall": 0.3950216333374228,
+        "categories": {
+          "findable_essential": 0.6490328385065227,
+          "findable_support": 0.4222794749110539,
+          "accessible_essential": 0.3409806567701304,
+          "accessible_support": 0.29743589743589743,
+          "evaluation_coara": 0.1099055330634278
+        },
+        "fields": {
+          "title": 1,
+          "abstract": 0.7846153846153846,
+          "author": 1,
+          "author_affiliation": 0.003778677462887989,
+          "doi": 1,
+          "publication_date": 1,
+          "publisher": 1,
+          "resource_type": 1,
+          "subject_keywords": 0,
+          "funder_name": 0,
+          "container_title": 1,
+          "language": 0,
+          "author_orcid": 0.05748987854251012,
+          "all_authors_orcid": 0.02186234817813765,
+          "funder_doi": 0,
+          "award_number": 0,
+          "issn": 0.9940620782726046,
+          "volume": 0.8666666666666667,
+          "issue": 0.9309041835357624,
+          "page": 0.7319838056680162,
+          "published_print_date": 0.042105263157894736,
+          "published_online_date": 1,
+          "article_number": 0,
+          "license": 0.17273954116059378,
+          "license_url": 0.17273954116059378,
+          "open_access_license": 0.1659919028340081,
+          "full_text_links": 0.9662618083670715,
+          "resource_url": 1,
+          "references": 0.09635627530364373,
+          "references_count": 0.09635627530364373,
+          "is_referenced_by": 0.39838056680161943,
+          "update_policy": 0,
+          "jats_abstract": 0.7846153846153846,
+          "author_sequence": 1,
+          "affiliation_ids_ror": 0,
+          "relations": 0,
+          "assertions": 0,
+          "archive": 0,
+          "credit_roles": 0,
+          "author_given_family": 0.9330634278002699,
+          "affiliation_ror": 0,
+          "funding_complete": 0,
+          "data_availability": 0,
+          "preprint_version_link": 0,
+          "peer_review_info": 0,
+          "clinical_trial": 0,
+          "abstract_structured": 0,
+          "open_access_status": 0.1659919028340081
+        }
+      },
+      "openalex": {
+        "overall": 0.6071895336632178,
+        "categories": {
+          "findable_essential": 0.8679487179487179,
+          "findable_support": 0.5859649122807018,
+          "accessible_essential": 0.5916929074823812,
+          "accessible_support": 0.4468735942420153,
+          "evaluation_coara": 0.33149797570850204
+        },
+        "fields": {
+          "title": 1,
+          "abstract": 0.8755735492577598,
+          "author": 1,
+          "author_affiliation": 0.69527665317139,
+          "doi": 1,
+          "publication_date": 1,
+          "publisher": 0.8134952766531713,
+          "resource_type": 1,
+          "subject_keywords": 1,
+          "funder_name": 0.0310391363022942,
+          "container_title": 1,
+          "language": 1,
+          "author_orcid": 0.5727395411605938,
+          "all_authors_orcid": 0.2931174089068826,
+          "funder_doi": 0.0310391363022942,
+          "award_number": 0.010256410256410256,
+          "issn": 1,
+          "volume": 0.8669365721997301,
+          "issue": 0.9311740890688259,
+          "page": 0.7403508771929824,
+          "published_print_date": 1,
+          "published_online_date": 1,
+          "article_number": 0,
+          "license": 0.8685560053981106,
+          "license_url": 0.8685560053981106,
+          "open_access_license": 0.8653171390013495,
+          "full_text_links": 0.4107962213225371,
+          "resource_url": 1,
+          "references": 0.37894736842105264,
+          "references_count": 0.37894736842105264,
+          "is_referenced_by": 0.5541160593792173,
+          "update_policy": 0,
+          "jats_abstract": 0,
+          "author_sequence": 1,
+          "affiliation_ids_ror": 0.6947368421052632,
+          "relations": 0.9865047233468286,
+          "assertions": 0,
+          "archive": 0,
+          "credit_roles": 0,
+          "author_given_family": 1,
+          "affiliation_ror": 0.6947368421052632,
+          "funding_complete": 0.010256410256410256,
+          "data_availability": 0,
+          "preprint_version_link": 0.6221322537112011,
+          "peer_review_info": 0,
+          "clinical_trial": 0,
+          "abstract_structured": 0,
+          "open_access_status": 0.9878542510121457
+        }
+      },
+      "comparable": {
+        "crossref": {
+          "categories": {
+            "findable_essential": 0.6490328385065227,
+            "findable_support": 0.46450742240215925,
+            "accessible_essential": 0.3836032388663967,
+            "accessible_support": 0.3333333333333333,
+            "evaluation_coara": 0.2198110661268556
+          },
+          "overall": 0.4375823211875843
+        },
+        "openalex": {
+          "categories": {
+            "findable_essential": 0.8679487179487179,
+            "findable_support": 0.6445614035087719,
+            "accessible_essential": 0.6656545209176788,
+            "accessible_support": 0.8937471884840306,
+            "evaluation_coara": 0.6629959514170041
+          },
+          "overall": 0.7454563652721548
+        },
+        "gap": 0.3078740440845705
+      },
+      "voluntary": {
+        "crossref": 0.09199730094466936,
+        "openalex": 0.5369646873594243
+      }
+    },
+    {
+      "year": 2019,
+      "count": 2901,
+      "matched": 2900,
+      "universeSize": 2901,
+      "crossref": {
+        "overall": 0.426466317779658,
+        "categories": {
+          "findable_essential": 0.6583362059060094,
+          "findable_support": 0.4200745824323901,
+          "accessible_essential": 0.4473170171205332,
+          "accessible_support": 0.30443525221188095,
+          "evaluation_coara": 0.11840744570837643
+        },
+        "fields": {
+          "title": 1,
+          "abstract": 0.8300586004825922,
+          "author": 0.9965529127886935,
+          "author_affiliation": 0.0734229576008273,
+          "doi": 1,
+          "publication_date": 1,
+          "publisher": 1,
+          "resource_type": 1,
+          "subject_keywords": 0,
+          "funder_name": 0,
+          "container_title": 1,
+          "language": 0,
+          "author_orcid": 0.13788348845225784,
+          "all_authors_orcid": 0.0896242674939676,
+          "funder_doi": 0,
+          "award_number": 0,
+          "issn": 1,
+          "volume": 0.7852464667356084,
+          "issue": 0.8279903481558083,
+          "page": 0.6745949672526715,
+          "published_print_date": 0.10548086866597725,
+          "published_online_date": 1,
+          "article_number": 0,
+          "license": 0.2557738710789383,
+          "license_url": 0.2557738710789383,
+          "open_access_license": 0.2557738710789383,
+          "full_text_links": 0.9251982075146501,
+          "resource_url": 1,
+          "references": 0.44260599793174765,
+          "references_count": 0.44260599793174765,
+          "is_referenced_by": 0.44777662874870733,
+          "update_policy": 0.0003447087211306446,
+          "jats_abstract": 0.8300586004825922,
+          "author_sequence": 0.9962082040675629,
+          "affiliation_ids_ror": 0,
+          "relations": 0,
+          "assertions": 0.0003447087211306446,
+          "archive": 0,
+          "credit_roles": 0,
+          "author_given_family": 0.9283005860048259,
+          "affiliation_ror": 0,
+          "funding_complete": 0,
+          "data_availability": 0,
+          "preprint_version_link": 0,
+          "peer_review_info": 0,
+          "clinical_trial": 0,
+          "abstract_structured": 0,
+          "open_access_status": 0.2557738710789383
+        }
+      },
+      "openalex": {
+        "overall": 0.6207272030651341,
+        "categories": {
+          "findable_essential": 0.8708045977011493,
+          "findable_support": 0.5934482758620689,
+          "accessible_essential": 0.6424904214559386,
+          "accessible_support": 0.45425287356321836,
+          "evaluation_coara": 0.3221034482758621
+        },
+        "fields": {
+          "title": 1,
+          "abstract": 0.8989655172413793,
+          "author": 1,
+          "author_affiliation": 0.7437931034482759,
+          "doi": 1,
+          "publication_date": 1,
+          "publisher": 0.7337931034482759,
+          "resource_type": 1,
+          "subject_keywords": 1,
+          "funder_name": 0.07344827586206897,
+          "container_title": 1,
+          "language": 0.9996551724137931,
+          "author_orcid": 0.696551724137931,
+          "all_authors_orcid": 0.4193103448275862,
+          "funder_doi": 0.07344827586206897,
+          "award_number": 0.029310344827586206,
+          "issn": 1,
+          "volume": 0.7858620689655172,
+          "issue": 0.8293103448275863,
+          "page": 0.6941379310344827,
+          "published_print_date": 1,
+          "published_online_date": 1,
+          "article_number": 0,
+          "license": 0.7586206896551724,
+          "license_url": 0.7586206896551724,
+          "open_access_license": 0.753448275862069,
+          "full_text_links": 0.6079310344827586,
+          "resource_url": 1,
+          "references": 0.6520689655172414,
+          "references_count": 0.6520689655172414,
+          "is_referenced_by": 0.5996551724137931,
+          "update_policy": 0,
+          "jats_abstract": 0,
+          "author_sequence": 1,
+          "affiliation_ids_ror": 0.7437931034482759,
+          "relations": 0.9817241379310345,
+          "assertions": 0,
+          "archive": 0,
+          "credit_roles": 0,
+          "author_given_family": 1,
+          "affiliation_ror": 0.7437931034482759,
+          "funding_complete": 0.029310344827586206,
+          "data_availability": 0,
+          "preprint_version_link": 0.5006896551724138,
+          "peer_review_info": 0,
+          "clinical_trial": 0,
+          "abstract_structured": 0,
+          "open_access_status": 0.9472413793103448
+        }
+      },
+      "comparable": {
+        "crossref": {
+          "categories": {
+            "findable_essential": 0.6583362059060094,
+            "findable_support": 0.4620820406756291,
+            "accessible_essential": 0.5031885556704585,
+            "accessible_support": 0.33206940135585433,
+            "evaluation_coara": 0.23681489141675285
+          },
+          "overall": 0.4731802252096978
+        },
+        "openalex": {
+          "categories": {
+            "findable_essential": 0.8708045977011493,
+            "findable_support": 0.6527931034482759,
+            "accessible_essential": 0.722801724137931,
+            "accessible_support": 0.9085057471264367,
+            "evaluation_coara": 0.6442068965517243
+          },
+          "overall": 0.7595527298850574
+        },
+        "gap": 0.2863725046753596
+      },
+      "voluntary": {
+        "crossref": 0.17137481328277604,
+        "openalex": 0.5920747126436783
+      }
+    },
+    {
+      "year": 2020,
+      "count": 2618,
+      "matched": 2618,
+      "universeSize": 2618,
+      "crossref": {
+        "overall": 0.4403080653749103,
+        "categories": {
+          "findable_essential": 0.6628151260504201,
+          "findable_support": 0.4356205292034169,
+          "accessible_essential": 0.47797300738477205,
+          "accessible_support": 0.309205500381971,
+          "evaluation_coara": 0.12853323147440796
+        },
+        "fields": {
+          "title": 1,
+          "abstract": 0.8559969442322384,
+          "author": 0.9988540870893812,
+          "author_affiliation": 0.09893048128342247,
+          "doi": 1,
+          "publication_date": 1,
+          "publisher": 1,
+          "resource_type": 1,
+          "subject_keywords": 0,
+          "funder_name": 0,
+          "container_title": 1,
+          "language": 0,
+          "author_orcid": 0.23949579831932774,
+          "all_authors_orcid": 0.18258212375859434,
+          "funder_doi": 0,
+          "award_number": 0,
+          "issn": 0.9961802902979373,
+          "volume": 0.7597402597402597,
+          "issue": 0.8384262796027502,
+          "page": 0.7245989304812834,
+          "published_print_date": 0.05118411000763942,
+          "published_online_date": 0.9996180290297937,
+          "article_number": 0,
+          "license": 0.3002291825821238,
+          "license_url": 0.3002291825821238,
+          "open_access_license": 0.29602750190985483,
+          "full_text_links": 0.7964094728800611,
+          "resource_url": 1,
+          "references": 0.5951107715813598,
+          "references_count": 0.5951107715813598,
+          "is_referenced_by": 0.4186401833460657,
+          "update_policy": 0,
+          "jats_abstract": 0.8559969442322384,
+          "author_sequence": 0.9988540870893812,
+          "affiliation_ids_ror": 0,
+          "relations": 0.0003819709702062643,
+          "assertions": 0,
+          "archive": 0,
+          "credit_roles": 0,
+          "author_given_family": 0.9889228418640184,
+          "affiliation_ror": 0,
+          "funding_complete": 0,
+          "data_availability": 0,
+          "preprint_version_link": 0.0003819709702062643,
+          "peer_review_info": 0,
+          "clinical_trial": 0,
+          "abstract_structured": 0,
+          "open_access_status": 0.29602750190985483
+        }
+      },
+      "openalex": {
+        "overall": 0.6213785486646449,
+        "categories": {
+          "findable_essential": 0.8644321364909601,
+          "findable_support": 0.6037224807278284,
+          "accessible_essential": 0.6558017146252442,
+          "accessible_support": 0.44728800611153546,
+          "evaluation_coara": 0.3140565317035905
+        },
+        "fields": {
+          "title": 1,
+          "abstract": 0.9163483575248281,
+          "author": 0.9992360580595875,
+          "author_affiliation": 0.700916730328495,
+          "doi": 1,
+          "publication_date": 1,
+          "publisher": 0.6932773109243697,
+          "resource_type": 1,
+          "subject_keywords": 1,
+          "funder_name": 0.06646294881588999,
+          "container_title": 0.9969442322383499,
+          "language": 1,
+          "author_orcid": 0.7394957983193278,
+          "all_authors_orcid": 0.4721161191749427,
+          "funder_doi": 0.06646294881588999,
+          "award_number": 0.02100840336134454,
+          "issn": 0.9969442322383499,
+          "volume": 0.760122230710466,
+          "issue": 0.8422459893048129,
+          "page": 0.7425515660809778,
+          "published_print_date": 1,
+          "published_online_date": 1,
+          "article_number": 0,
+          "license": 0.767379679144385,
+          "license_url": 0.767379679144385,
+          "open_access_license": 0.7643239113827349,
+          "full_text_links": 0.5805958747135218,
+          "resource_url": 1,
+          "references": 0.7291825821237586,
+          "references_count": 0.7291825821237586,
+          "is_referenced_by": 0.5641711229946524,
+          "update_policy": 0,
+          "jats_abstract": 0,
+          "author_sequence": 0.9992360580595875,
+          "affiliation_ids_ror": 0.700916730328495,
+          "relations": 0.9835752482811306,
+          "assertions": 0,
+          "archive": 0,
+          "credit_roles": 0,
+          "author_given_family": 0.9992360580595875,
+          "affiliation_ror": 0.700916730328495,
+          "funding_complete": 0.02100840336134454,
+          "data_availability": 0,
+          "preprint_version_link": 0.46944232238349887,
+          "peer_review_info": 0,
+          "clinical_trial": 0,
+          "abstract_structured": 0,
+          "open_access_status": 0.9499618029029794
+        }
+      },
+      "comparable": {
+        "crossref": {
+          "categories": {
+            "findable_essential": 0.6628151260504201,
+            "findable_support": 0.4791825821237586,
+            "accessible_essential": 0.5377196333078685,
+            "accessible_support": 0.3330786860198625,
+            "evaluation_coara": 0.2570664629488159
+          },
+          "overall": 0.4898729946524064
+        },
+        "openalex": {
+          "categories": {
+            "findable_essential": 0.8644321364909601,
+            "findable_support": 0.6640947288006112,
+            "accessible_essential": 0.7377769289533996,
+            "accessible_support": 0.8945760122230709,
+            "evaluation_coara": 0.628113063407181
+          },
+          "overall": 0.7584682964094729
+        },
+        "gap": 0.2685953017570665
+      },
+      "voluntary": {
+        "crossref": 0.21134612936083524,
+        "openalex": 0.598868411000764
+      }
+    },
+    {
+      "year": 2021,
+      "count": 2754,
+      "matched": 2745,
+      "universeSize": 2754,
+      "crossref": {
+        "overall": 0.4242554264504156,
+        "categories": {
+          "findable_essential": 0.6653655289276205,
+          "findable_support": 0.44843863471314455,
+          "accessible_essential": 0.3967965787137901,
+          "accessible_support": 0.3128177196804648,
+          "evaluation_coara": 0.1344952795933188
+        },
+        "fields": {
+          "title": 1,
+          "abstract": 0.8758169934640523,
+          "author": 0.9996368917937546,
+          "author_affiliation": 0.10893246187363835,
+          "doi": 1,
+          "publication_date": 1,
+          "publisher": 1,
+          "resource_type": 1,
+          "subject_keywords": 0,
+          "funder_name": 0,
+          "container_title": 1,
+          "language": 0,
+          "author_orcid": 0.3358750907770516,
+          "all_authors_orcid": 0.2668845315904139,
+          "funder_doi": 0,
+          "award_number": 0,
+          "issn": 0.9931009440813362,
+          "volume": 0.7628903413217138,
+          "issue": 0.8275236020334059,
+          "page": 0.7356572258533043,
+          "published_print_date": 0.010893246187363835,
+          "published_online_date": 1,
+          "article_number": 0,
+          "license": 0.3478576615831518,
+          "license_url": 0.3478576615831518,
+          "open_access_license": 0.3464052287581699,
+          "full_text_links": 0.7443718228031954,
+          "resource_url": 1,
+          "references": 0.20987654320987653,
+          "references_count": 0.20987654320987653,
+          "is_referenced_by": 0.36492374727668847,
+          "update_policy": 0,
+          "jats_abstract": 0.8758169934640523,
+          "author_sequence": 0.9996368917937546,
+          "affiliation_ids_ror": 0,
+          "relations": 0.0014524328249818446,
+          "assertions": 0,
+          "archive": 0,
+          "credit_roles": 0,
+          "author_given_family": 0.9978213507625272,
+          "affiliation_ror": 0,
+          "funding_complete": 0,
+          "data_availability": 0,
+          "preprint_version_link": 0.0007262164124909223,
+          "peer_review_info": 0,
+          "clinical_trial": 0,
+          "abstract_structured": 0,
+          "open_access_status": 0.3464052287581699
+        }
+      },
+      "openalex": {
+        "overall": 0.6040730437342459,
+        "categories": {
+          "findable_essential": 0.8523982999392836,
+          "findable_support": 0.6094055307170061,
+          "accessible_essential": 0.6161910544424205,
+          "accessible_support": 0.4333940497874924,
+          "evaluation_coara": 0.2977777777777778
+        },
+        "fields": {
+          "title": 1,
+          "abstract": 0.907103825136612,
+          "author": 0.9996357012750455,
+          "author_affiliation": 0.6145719489981785,
+          "doi": 1,
+          "publication_date": 1,
+          "publisher": 0.649544626593807,
+          "resource_type": 1,
+          "subject_keywords": 1,
+          "funder_name": 0.06448087431693988,
+          "container_title": 0.9934426229508196,
+          "language": 1,
+          "author_orcid": 0.7577413479052824,
+          "all_authors_orcid": 0.5191256830601093,
+          "funder_doi": 0.06448087431693988,
+          "award_number": 0.029143897996357013,
+          "issn": 0.9934426229508196,
+          "volume": 0.7650273224043715,
+          "issue": 0.8276867030965391,
+          "page": 0.7468123861566485,
+          "published_print_date": 1,
+          "published_online_date": 1,
+          "article_number": 0,
+          "license": 0.75591985428051,
+          "license_url": 0.75591985428051,
+          "open_access_license": 0.7533697632058288,
+          "full_text_links": 0.6349726775956284,
+          "resource_url": 1,
+          "references": 0.55591985428051,
+          "references_count": 0.55591985428051,
+          "is_referenced_by": 0.5336976320582878,
+          "update_policy": 0,
+          "jats_abstract": 0,
+          "author_sequence": 0.9996357012750455,
+          "affiliation_ids_ror": 0.6145719489981785,
+          "relations": 0.9861566484517305,
+          "assertions": 0,
+          "archive": 0,
+          "credit_roles": 0,
+          "author_given_family": 0.9996357012750455,
+          "affiliation_ror": 0.6145719489981785,
+          "funding_complete": 0.029143897996357013,
+          "data_availability": 0,
+          "preprint_version_link": 0.43278688524590164,
+          "peer_review_info": 0,
+          "clinical_trial": 0,
+          "abstract_structured": 0,
+          "open_access_status": 0.9016393442622951
+        }
+      },
+      "comparable": {
+        "crossref": {
+          "categories": {
+            "findable_essential": 0.6653655289276205,
+            "findable_support": 0.49328249818445896,
+            "accessible_essential": 0.44639615105301383,
+            "accessible_support": 0.33369644153957884,
+            "evaluation_coara": 0.2689905591866376
+          },
+          "overall": 0.4723688271604939
+        },
+        "openalex": {
+          "categories": {
+            "findable_essential": 0.8523982999392836,
+            "findable_support": 0.6703460837887067,
+            "accessible_essential": 0.693214936247723,
+            "accessible_support": 0.8667880995749848,
+            "evaluation_coara": 0.5955555555555556
+          },
+          "overall": 0.7353650576806314
+        },
+        "gap": 0.26299623052013754
+      },
+      "voluntary": {
+        "crossref": 0.16042725732268218,
+        "openalex": 0.5525925925925926
+      }
+    },
+    {
+      "year": 2022,
+      "count": 3223,
+      "matched": 3218,
+      "universeSize": 3223,
+      "crossref": {
+        "overall": 0.42477256273564057,
+        "categories": {
+          "findable_essential": 0.666640810838763,
+          "findable_support": 0.44061151383521846,
+          "accessible_essential": 0.40076533250594687,
+          "accessible_support": 0.3183886648050471,
+          "evaluation_coara": 0.13329196400868754
+        },
+        "fields": {
+          "title": 1,
+          "abstract": 0.910021718895439,
+          "author": 1,
+          "author_affiliation": 0.08966801116971765,
+          "doi": 1,
+          "publication_date": 1,
+          "publisher": 1,
+          "resource_type": 1,
+          "subject_keywords": 0,
+          "funder_name": 0,
+          "container_title": 1,
+          "language": 0,
+          "author_orcid": 0.3316785603475023,
+          "all_authors_orcid": 0.2590753955941669,
+          "funder_doi": 0,
+          "award_number": 0,
+          "issn": 0.9798324542351846,
+          "volume": 0.7601613403661185,
+          "issue": 0.78839590443686,
+          "page": 0.7074154514427552,
+          "published_print_date": 0.02109835556934533,
+          "published_online_date": 0.99906919019547,
+          "article_number": 0,
+          "license": 0.36084393422277383,
+          "license_url": 0.36084393422277383,
+          "open_access_license": 0.36084393422277383,
+          "full_text_links": 0.805150480918399,
+          "resource_url": 1,
+          "references": 0.18430034129692832,
+          "references_count": 0.18430034129692832,
+          "is_referenced_by": 0.35060502637294444,
+          "update_policy": 0,
+          "jats_abstract": 0.910021718895439,
+          "author_sequence": 1,
+          "affiliation_ids_ror": 0,
+          "relations": 0.00031026993484331366,
+          "assertions": 0,
+          "archive": 0,
+          "credit_roles": 0,
+          "author_given_family": 0.9717654359292585,
+          "affiliation_ror": 0,
+          "funding_complete": 0,
+          "data_availability": 0,
+          "preprint_version_link": 0.00031026993484331366,
+          "peer_review_info": 0,
+          "clinical_trial": 0,
+          "abstract_structured": 0,
+          "open_access_status": 0.36084393422277383
+        }
+      },
+      "openalex": {
+        "overall": 0.6191963450540208,
+        "categories": {
+          "findable_essential": 0.8690180236171536,
+          "findable_support": 0.5959658737781796,
+          "accessible_essential": 0.6532352738070577,
+          "accessible_support": 0.45084938885436093,
+          "evaluation_coara": 0.30351149782473585
+        },
+        "fields": {
+          "title": 1,
+          "abstract": 0.9468614045991299,
+          "author": 1,
+          "author_affiliation": 0.7277812305779987,
+          "doi": 1,
+          "publication_date": 1,
+          "publisher": 0.6979490366687383,
+          "resource_type": 1,
+          "subject_keywords": 1,
+          "funder_name": 0.07799875699192045,
+          "container_title": 0.9912989434431324,
+          "language": 0.9863269111249223,
+          "author_orcid": 0.7402113113735239,
+          "all_authors_orcid": 0.45494095711622123,
+          "funder_doi": 0.07799875699192045,
+          "award_number": 0.03325046612802983,
+          "issn": 0.9912989434431324,
+          "volume": 0.7604101926662523,
+          "issue": 0.7880671224362958,
+          "page": 0.7094468614045991,
+          "published_print_date": 1,
+          "published_online_date": 1,
+          "article_number": 0,
+          "license": 0.7489123679303915,
+          "license_url": 0.7489123679303915,
+          "open_access_license": 0.747669359850839,
+          "full_text_links": 0.7663144810441268,
+          "resource_url": 1,
+          "references": 0.6668738346799254,
+          "references_count": 0.6668738346799254,
+          "is_referenced_by": 0.533561218147918,
+          "update_policy": 0,
+          "jats_abstract": 0,
+          "author_sequence": 1,
+          "affiliation_ids_ror": 0.7274704785581106,
+          "relations": 0.9776258545680547,
+          "assertions": 0,
+          "archive": 0,
+          "credit_roles": 0,
+          "author_given_family": 1,
+          "affiliation_ror": 0.7274704785581106,
+          "funding_complete": 0.03325046612802983,
+          "data_availability": 0,
+          "preprint_version_link": 0.3054692355500311,
+          "peer_review_info": 0,
+          "clinical_trial": 0,
+          "abstract_structured": 0,
+          "open_access_status": 0.968924798011187
+        }
+      },
+      "comparable": {
+        "crossref": {
+          "categories": {
+            "findable_essential": 0.666640810838763,
+            "findable_support": 0.4846726652187403,
+            "accessible_essential": 0.45086099906919025,
+            "accessible_support": 0.3334367566449478,
+            "evaluation_coara": 0.26658392801737507
+          },
+          "overall": 0.4720688540697073
+        },
+        "openalex": {
+          "categories": {
+            "findable_essential": 0.8690180236171536,
+            "findable_support": 0.6555624611559975,
+            "accessible_essential": 0.7348896830329399,
+            "accessible_support": 0.9016987777087219,
+            "evaluation_coara": 0.6070229956494717
+          },
+          "overall": 0.7543366739175471
+        },
+        "gap": 0.28226781984783983
+      },
+      "voluntary": {
+        "crossref": 0.15795325266315027,
+        "openalex": 0.5852237414543194
+      }
+    },
+    {
+      "year": 2023,
+      "count": 2951,
+      "matched": 2936,
+      "universeSize": 2951,
+      "crossref": {
+        "overall": 0.4531746985271214,
+        "categories": {
+          "findable_essential": 0.6684457246131256,
+          "findable_support": 0.4485690520932812,
+          "accessible_essential": 0.4961406679468353,
+          "accessible_support": 0.3185925674912459,
+          "evaluation_coara": 0.14730599796679092
+        },
+        "fields": {
+          "title": 1,
+          "abstract": 0.9129108776685869,
+          "author": 0.9986445272788885,
+          "author_affiliation": 0.10030498136225008,
+          "doi": 1,
+          "publication_date": 1,
+          "publisher": 1,
+          "resource_type": 1,
+          "subject_keywords": 0,
+          "funder_name": 0,
+          "container_title": 1,
+          "language": 0.009488309047780414,
+          "author_orcid": 0.4035920027109454,
+          "all_authors_orcid": 0.32429684852592344,
+          "funder_doi": 0,
+          "award_number": 0,
+          "issn": 0.9654354456116571,
+          "volume": 0.7119620467638089,
+          "issue": 0.7536428329379872,
+          "page": 0.775330396475771,
+          "published_print_date": 0,
+          "published_online_date": 1,
+          "article_number": 0,
+          "license": 0.5022026431718062,
+          "license_url": 0.5022026431718062,
+          "open_access_license": 0.5022026431718062,
+          "full_text_links": 0.8891901050491359,
+          "resource_url": 1,
+          "references": 0.3903761436801084,
+          "references_count": 0.3903761436801084,
+          "is_referenced_by": 0.28871568959674687,
+          "update_policy": 0,
+          "jats_abstract": 0.9129108776685869,
+          "author_sequence": 0.9983056590986107,
+          "affiliation_ids_ror": 0,
+          "relations": 0,
+          "assertions": 0,
+          "archive": 0.00033886818027787193,
+          "credit_roles": 0,
+          "author_given_family": 0.9708573364961031,
+          "affiliation_ror": 0,
+          "funding_complete": 0,
+          "data_availability": 0,
+          "preprint_version_link": 0,
+          "peer_review_info": 0,
+          "clinical_trial": 0,
+          "abstract_structured": 0,
+          "open_access_status": 0.5022026431718062
+        }
+      },
+      "openalex": {
+        "overall": 0.6397871941485702,
+        "categories": {
+          "findable_essential": 0.8699761580381473,
+          "findable_support": 0.601746346296755,
+          "accessible_essential": 0.7173402966999698,
+          "accessible_support": 0.4665644868301544,
+          "evaluation_coara": 0.3127043596730245
+        },
+        "fields": {
+          "title": 1,
+          "abstract": 0.9342643051771117,
+          "author": 0.9989782016348774,
+          "author_affiliation": 0.8215258855585831,
+          "doi": 1,
+          "publication_date": 1,
+          "publisher": 0.646457765667575,
+          "resource_type": 1,
+          "subject_keywords": 1,
+          "funder_name": 0.07220708446866485,
+          "container_title": 0.9724114441416893,
+          "language": 0.9938692098092643,
+          "author_orcid": 0.7809945504087193,
+          "all_authors_orcid": 0.5183923705722071,
+          "funder_doi": 0.07220708446866485,
+          "award_number": 0.03303814713896458,
+          "issn": 0.9724114441416893,
+          "volume": 0.7104904632152589,
+          "issue": 0.7574931880108992,
+          "page": 0.7741825613079019,
+          "published_print_date": 1,
+          "published_online_date": 1,
+          "article_number": 0,
+          "license": 0.8341280653950953,
+          "license_url": 0.8341280653950953,
+          "open_access_license": 0.8337874659400545,
+          "full_text_links": 0.9352861035422343,
+          "resource_url": 1,
+          "references": 0.7854223433242506,
+          "references_count": 0.7854223433242506,
+          "is_referenced_by": 0.4478882833787466,
+          "update_policy": 0,
+          "jats_abstract": 0,
+          "author_sequence": 0.9989782016348774,
+          "affiliation_ids_ror": 0.8211852861035422,
+          "relations": 0.9792234332425068,
+          "assertions": 0,
+          "archive": 0,
+          "credit_roles": 0,
+          "author_given_family": 0.9989782016348774,
+          "affiliation_ror": 0.8211852861035422,
+          "funding_complete": 0.03303814713896458,
+          "data_availability": 0,
+          "preprint_version_link": 0.3123297002724796,
+          "peer_review_info": 0,
+          "clinical_trial": 0,
+          "abstract_structured": 0,
+          "open_access_status": 0.9615122615803815
+        }
+      },
+      "comparable": {
+        "crossref": {
+          "categories": {
+            "findable_essential": 0.6684457246131256,
+            "findable_support": 0.4934259573026093,
+            "accessible_essential": 0.5581582514401897,
+            "accessible_support": 0.33276855303287023,
+            "evaluation_coara": 0.29461199593358184
+          },
+          "overall": 0.5062864283293799
+        },
+        "openalex": {
+          "categories": {
+            "findable_essential": 0.8699761580381473,
+            "findable_support": 0.6619209809264305,
+            "accessible_essential": 0.807007833787466,
+            "accessible_support": 0.9331289736603088,
+            "evaluation_coara": 0.625408719346049
+          },
+          "overall": 0.7804275942325158
+        },
+        "gap": 0.274141165903136
+      },
+      "voluntary": {
+        "crossref": 0.21019993222636396,
+        "openalex": 0.6329501589464123
+      }
+    },
+    {
+      "year": 2024,
+      "count": 3000,
+      "matched": 2978,
+      "universeSize": 3000,
+      "crossref": {
+        "overall": 0.47538395622895624,
+        "categories": {
+          "findable_essential": 0.6683611111111111,
+          "findable_support": 0.46190909090909094,
+          "accessible_essential": 0.5693703703703704,
+          "accessible_support": 0.3193333333333333,
+          "evaluation_coara": 0.15656666666666666
+        },
+        "fields": {
+          "title": 1,
+          "abstract": 0.9173333333333333,
+          "author": 0.9983333333333333,
+          "author_affiliation": 0.09766666666666667,
+          "doi": 1,
+          "publication_date": 1,
+          "publisher": 1,
+          "resource_type": 1,
+          "subject_keywords": 0,
+          "funder_name": 0,
+          "container_title": 1,
+          "language": 0.007,
+          "author_orcid": 0.499,
+          "all_authors_orcid": 0.41133333333333333,
+          "funder_doi": 0,
+          "award_number": 0,
+          "issn": 0.9323333333333333,
+          "volume": 0.718,
+          "issue": 0.765,
+          "page": 0.7553333333333333,
+          "published_print_date": 0,
+          "published_online_date": 1,
+          "article_number": 0,
+          "license": 0.5766666666666667,
+          "license_url": 0.5766666666666667,
+          "open_access_license": 0.5766666666666667,
+          "full_text_links": 0.915,
+          "resource_url": 1,
+          "references": 0.64,
+          "references_count": 0.64,
+          "is_referenced_by": 0.19933333333333333,
+          "update_policy": 0,
+          "jats_abstract": 0.9173333333333333,
+          "author_sequence": 0.9983333333333333,
+          "affiliation_ids_ror": 0,
+          "relations": 0.0003333333333333333,
+          "assertions": 0,
+          "archive": 0,
+          "credit_roles": 0,
+          "author_given_family": 0.9886666666666667,
+          "affiliation_ror": 0,
+          "funding_complete": 0,
+          "data_availability": 0,
+          "preprint_version_link": 0.0003333333333333333,
+          "peer_review_info": 0,
+          "clinical_trial": 0,
+          "abstract_structured": 0,
+          "open_access_status": 0.5766666666666667
+        }
+      },
+      "openalex": {
+        "overall": 0.6259762500763172,
+        "categories": {
+          "findable_essential": 0.8609245578688157,
+          "findable_support": 0.5940838879052446,
+          "accessible_essential": 0.6836803223640027,
+          "accessible_support": 0.46020819341840163,
+          "evaluation_coara": 0.308226997985225
+        },
+        "fields": {
+          "title": 1,
+          "abstract": 0.9247817327065144,
+          "author": 0.9993284083277367,
+          "author_affiliation": 0.7978509066487576,
+          "doi": 1,
+          "publication_date": 1,
+          "publisher": 0.5950302216252519,
+          "resource_type": 1,
+          "subject_keywords": 1,
+          "funder_name": 0.04801880456682337,
+          "container_title": 0.9697783747481531,
+          "language": 0.996306245802552,
+          "author_orcid": 0.7515110812625924,
+          "all_authors_orcid": 0.506380120886501,
+          "funder_doi": 0.04801880456682337,
+          "award_number": 0.019140362659503023,
+          "issn": 0.9697783747481531,
+          "volume": 0.7159167226326394,
+          "issue": 0.7652787105439892,
+          "page": 0.7588985896574882,
+          "published_print_date": 1,
+          "published_online_date": 1,
+          "article_number": 0,
+          "license": 0.8310946944257891,
+          "license_url": 0.8310946944257891,
+          "open_access_license": 0.8304231027535258,
+          "full_text_links": 0.9264607118871726,
+          "resource_url": 1,
+          "references": 0.7283411685695097,
+          "references_count": 0.7283411685695097,
+          "is_referenced_by": 0.277367360644728,
+          "update_policy": 0,
+          "jats_abstract": 0,
+          "author_sequence": 0.9993284083277367,
+          "affiliation_ids_ror": 0.7971793149764943,
+          "relations": 0.9647414372061787,
+          "assertions": 0,
+          "archive": 0,
+          "credit_roles": 0,
+          "author_given_family": 0.9993284083277367,
+          "affiliation_ror": 0.7971793149764943,
+          "funding_complete": 0.019140362659503023,
+          "data_availability": 0,
+          "preprint_version_link": 0.3012088650100739,
+          "peer_review_info": 0,
+          "clinical_trial": 0,
+          "abstract_structured": 0,
+          "open_access_status": 0.9654130288784419
+        }
+      },
+      "comparable": {
+        "crossref": {
+          "categories": {
+            "findable_essential": 0.6683611111111111,
+            "findable_support": 0.5081,
+            "accessible_essential": 0.6405416666666667,
+            "accessible_support": 0.33288888888888885,
+            "evaluation_coara": 0.3131333333333333
+          },
+          "overall": 0.5327743055555555
+        },
+        "openalex": {
+          "categories": {
+            "findable_essential": 0.8609245578688157,
+            "findable_support": 0.653492276695769,
+            "accessible_essential": 0.769140362659503,
+            "accessible_support": 0.9204163868368033,
+            "evaluation_coara": 0.61645399597045
+          },
+          "overall": 0.7639187374076561
+        },
+        "gap": 0.23114443185210065
+      },
+      "voluntary": {
+        "crossref": 0.2650236111111111,
+        "openalex": 0.6106783075889859
+      }
+    },
+    {
+      "year": 2025,
+      "count": 2816,
+      "matched": 2759,
+      "universeSize": 2816,
+      "crossref": {
+        "overall": 0.48909889018021124,
+        "categories": {
+          "findable_essential": 0.6701882102272728,
+          "findable_support": 0.47084839876033063,
+          "accessible_essential": 0.604916351010101,
+          "accessible_support": 0.32741477272727276,
+          "evaluation_coara": 0.16722301136363638
+        },
+        "fields": {
+          "title": 1,
+          "abstract": 0.9453125,
+          "author": 0.9989346590909091,
+          "author_affiliation": 0.09019886363636363,
+          "doi": 1,
+          "publication_date": 1,
+          "publisher": 1,
+          "resource_type": 1,
+          "subject_keywords": 0,
+          "funder_name": 0.0007102272727272727,
+          "container_title": 1,
+          "language": 0.007102272727272727,
+          "author_orcid": 0.5809659090909091,
+          "all_authors_orcid": 0.48828125,
+          "funder_doi": 0,
+          "award_number": 0,
+          "issn": 0.9350142045454546,
+          "volume": 0.7180397727272727,
+          "issue": 0.7244318181818182,
+          "page": 0.7254971590909091,
+          "published_print_date": 0.002840909090909091,
+          "published_online_date": 1,
+          "article_number": 0.004261363636363636,
+          "license": 0.6558948863636364,
+          "license_url": 0.6558948863636364,
+          "open_access_license": 0.6558948863636364,
+          "full_text_links": 0.9154829545454546,
+          "resource_url": 1,
+          "references": 0.7446732954545454,
+          "references_count": 0.7446732954545454,
+          "is_referenced_by": 0.07173295454545454,
+          "update_policy": 0,
+          "jats_abstract": 0.9453125,
+          "author_sequence": 0.9989346590909091,
+          "affiliation_ids_ror": 0.020241477272727272,
+          "relations": 0,
+          "assertions": 0,
+          "archive": 0,
+          "credit_roles": 0,
+          "author_given_family": 0.99609375,
+          "affiliation_ror": 0.020241477272727272,
+          "funding_complete": 0,
+          "data_availability": 0,
+          "preprint_version_link": 0,
+          "peer_review_info": 0,
+          "clinical_trial": 0,
+          "abstract_structured": 0,
+          "open_access_status": 0.6558948863636364
+        }
+      },
+      "openalex": {
+        "overall": 0.6035076389117708,
+        "categories": {
+          "findable_essential": 0.8410051951190045,
+          "findable_support": 0.5843685129658309,
+          "accessible_essential": 0.6584511296363416,
+          "accessible_support": 0.38727799927509965,
+          "evaluation_coara": 0.30105110547299746
+        },
+        "fields": {
+          "title": 1,
+          "abstract": 0.9398332729249728,
+          "author": 0.9996375498368975,
+          "author_affiliation": 0.757883291047481,
+          "doi": 1,
+          "publication_date": 1,
+          "publisher": 0.6136281261326567,
+          "resource_type": 1,
+          "subject_keywords": 0.9992750996737948,
+          "funder_name": 0.05545487495469373,
+          "container_title": 0.9724537876042044,
+          "language": 0.7538963392533526,
+          "author_orcid": 0.7343240304458137,
+          "all_authors_orcid": 0.4824211670895252,
+          "funder_doi": 0.05545487495469373,
+          "award_number": 0.019934758970641536,
+          "issn": 0.9724537876042044,
+          "volume": 0.7154766219644799,
+          "issue": 0.7227256252265314,
+          "page": 0.7252627763682493,
+          "published_print_date": 1,
+          "published_online_date": 1,
+          "article_number": 0,
+          "license": 0.859006886553099,
+          "license_url": 0.859006886553099,
+          "open_access_license": 0.859006886553099,
+          "full_text_links": 0.8774918448713301,
+          "resource_url": 1,
+          "references": 0.6937296121783255,
+          "references_count": 0.6937296121783255,
+          "is_referenced_by": 0.08408843783979703,
+          "update_policy": 0,
+          "jats_abstract": 0,
+          "author_sequence": 0.9996375498368975,
+          "affiliation_ids_ror": 0.7571583907212758,
+          "relations": 0.5668720550924248,
+          "assertions": 0,
+          "archive": 0,
+          "credit_roles": 0,
+          "author_given_family": 0.9996375498368975,
+          "affiliation_ror": 0.7571583907212758,
+          "funding_complete": 0.019934758970641536,
+          "data_availability": 0,
+          "preprint_version_link": 0.2696629213483146,
+          "peer_review_info": 0,
+          "clinical_trial": 0,
+          "abstract_structured": 0,
+          "open_access_status": 0.9641174338528452
+        }
+      },
+      "comparable": {
+        "crossref": {
+          "categories": {
+            "findable_essential": 0.6701882102272728,
+            "findable_support": 0.5175071022727273,
+            "accessible_essential": 0.6805308948863636,
+            "accessible_support": 0.33972537878787873,
+            "evaluation_coara": 0.33444602272727275
+          },
+          "overall": 0.5496769945549242
+        },
+        "openalex": {
+          "categories": {
+            "findable_essential": 0.8410051951190045,
+            "findable_support": 0.642805364262414,
+            "accessible_essential": 0.7407575208408843,
+            "accessible_support": 0.7745559985501993,
+            "evaluation_coara": 0.6021022109459949
+          },
+          "overall": 0.7317877854295034
+        },
+        "gap": 0.18211079087457915
+      },
+      "voluntary": {
+        "crossref": 0.2989450165719697,
+        "openalex": 0.5780793161773589
+      }
+    }
+  ],
+  "fieldSamples": {
+    "title": [],
+    "abstract": [
+      {
+        "doi": "10.7550/rmb.46308",
+        "title": "First record of Spathoteredo spatha (Mollusca: Teredinidae) in Venezuela"
+      },
+      {
+        "doi": "10.22201/iij.24484873e.2015.142.4926",
+        "title": "Álvarez, Clara Luz, Derecho de las telecomunicaciones"
+      },
+      {
+        "doi": "10.1016/s0301-7036(15)72118-8",
+        "title": "Reestructuración productiva e integración. tlcan 20 años después"
+      },
+      {
+        "doi": "10.1016/j.rmo.2016.03.007",
+        "title": "Análisis cefalométrico de las características esqueléticas y dentales que presentan pacientes adultos con fisuras labiopalatinas que recibieron tratamiento ortopédico, ortodóncico y/o quirúrgico durante su infancia y adolescencia"
+      },
+      {
+        "doi": "10.1016/s0186-1042(15)72150-9",
+        "title": "Opciones reales: una propuesta para valorar proyectos de I+D en centros públicos de investigación agraria"
+      }
+    ],
+    "author": [
+      {
+        "doi": "10.21933/j.edsc.2015.06.093",
+        "title": "Transferencias Monetarias Condicionadas en la estructura del ingreso de pueblos mayas de México: Jose Maria Morelos y Saban, Quintana Roo"
+      },
+      {
+        "doi": "10.21933/j.edsc.2015.06.003",
+        "title": "John Riordan y Kristen Becker, (2008). The good office. Green design on the cutting edge. Nueva York: Collins Design"
+      },
+      {
+        "doi": "10.21933/j.edsc.2015.06.102",
+        "title": "Avances, retos y desafíos: aproximación al estado del conocimiento de los estudios de género en educación superior en México"
+      },
+      {
+        "doi": "10.21933/j.edsc.2015.06.094",
+        "title": "La función de las paradojas en la física y el caso de Paul Ehrenfest"
+      },
+      {
+        "doi": "10.1016/j.acso.2015.06.002",
+        "title": "BIBLIOGRAFÍA ESPECIALIZADA SOBRE REFLEXIVIDAD"
+      }
+    ],
+    "author_affiliation": [
+      {
+        "doi": "10.1016/j.pnsla.2014.08.002",
+        "title": "Percepciones juveniles de ciudadanía. El caso de Yucatán"
+      },
+      {
+        "doi": "10.7550/rmb.46308",
+        "title": "First record of Spathoteredo spatha (Mollusca: Teredinidae) in Venezuela"
+      },
+      {
+        "doi": "10.1016/s0301-7036(15)72118-8",
+        "title": "Reestructuración productiva e integración. tlcan 20 años después"
+      },
+      {
+        "doi": "10.1016/j.rmo.2016.03.007",
+        "title": "Análisis cefalométrico de las características esqueléticas y dentales que presentan pacientes adultos con fisuras labiopalatinas que recibieron tratamiento ortopédico, ortodóncico y/o quirúrgico durante su infancia y adolescencia"
+      },
+      {
+        "doi": "10.22201/ceiich.24485705e.2015.5.47617",
+        "title": "De la evolución al valor de uso, ida y vuelta: exploraciones en la domesticación y diversificación de plantas"
+      }
+    ],
+    "doi": [],
+    "publication_date": [],
+    "publisher": [],
+    "resource_type": [],
+    "subject_keywords": [
+      {
+        "doi": "10.22201/cela.24484946e.2015.35.46965",
+        "title": "Movimientos sociales, élites y cultura política en América Latina"
+      },
+      {
+        "doi": "10.1016/j.pnsla.2014.08.002",
+        "title": "Percepciones juveniles de ciudadanía. El caso de Yucatán"
+      },
+      {
+        "doi": "10.7550/rmb.46308",
+        "title": "First record of Spathoteredo spatha (Mollusca: Teredinidae) in Venezuela"
+      },
+      {
+        "doi": "10.22201/facmed.14058871p.2014.3.47936",
+        "title": "Portada, contraportada y hoja legal"
+      },
+      {
+        "doi": "10.22201/iij.24484873e.2015.142.4926",
+        "title": "Álvarez, Clara Luz, Derecho de las telecomunicaciones"
+      }
+    ],
+    "funder_name": [
+      {
+        "doi": "10.20937/atm.2015.28.01.02",
+        "title": "Assessment of potential human health and environmental impacts of a nuclear power plant (NPP) based on atmospheric dispersion modeling"
+      },
+      {
+        "doi": "10.1016/s1870-0578(16)30005-1",
+        "title": "The objective international responsibility of states in the Inter-American human rights system"
+      },
+      {
+        "doi": "10.7550/rmb.38023",
+        "title": "Clasificación jerárquica de gremios tróficos para aves y mamíferos de Norteamérica"
+      },
+      {
+        "doi": "10.1016/j.amdi.2014.09.013",
+        "title": "A legalidade da entrada da Venezuela no Mercosul"
+      },
+      {
+        "doi": "10.7550/rmb.40560",
+        "title": "Comunidades de helmintos de Xiphophorus malinche (Pisces: Poeciliidae), especie dulceacuícola endémica del río Pánuco, Hidalgo, México"
+      }
+    ],
+    "container_title": [],
+    "language": [
+      {
+        "doi": "10.22201/cela.24484946e.2015.35.46965",
+        "title": "Movimientos sociales, élites y cultura política en América Latina"
+      },
+      {
+        "doi": "10.1016/j.pnsla.2014.08.002",
+        "title": "Percepciones juveniles de ciudadanía. El caso de Yucatán"
+      },
+      {
+        "doi": "10.22201/facmed.14058871p.2014.3.47936",
+        "title": "Portada, contraportada y hoja legal"
+      },
+      {
+        "doi": "10.22201/iij.24484873e.2015.142.4926",
+        "title": "Álvarez, Clara Luz, Derecho de las telecomunicaciones"
+      },
+      {
+        "doi": "10.22201/fesc.20072236e.2015.6.10.1",
+        "title": "El Consenso de Washington y la postura poskeynesiana"
+      }
+    ],
+    "author_orcid": [
+      {
+        "doi": "10.1016/j.pnsla.2014.08.002",
+        "title": "Percepciones juveniles de ciudadanía. El caso de Yucatán"
+      },
+      {
+        "doi": "10.7550/rmb.46308",
+        "title": "First record of Spathoteredo spatha (Mollusca: Teredinidae) in Venezuela"
+      },
+      {
+        "doi": "10.22201/iij.24484873e.2015.142.4926",
+        "title": "Álvarez, Clara Luz, Derecho de las telecomunicaciones"
+      },
+      {
+        "doi": "10.22201/fesc.20072236e.2015.6.10.1",
+        "title": "El Consenso de Washington y la postura poskeynesiana"
+      },
+      {
+        "doi": "10.22201/iij.24484873e.2015.142.4931",
+        "title": "Sepúlveda Amor, Bernardo, La Corte Internacional de Justicia y la protección de los derechos del individuo: el caso Avena"
+      }
+    ],
+    "all_authors_orcid": [
+      {
+        "doi": "10.1016/j.pnsla.2014.08.002",
+        "title": "Percepciones juveniles de ciudadanía. El caso de Yucatán"
+      },
+      {
+        "doi": "10.22201/iij.24484873e.2015.142.4926",
+        "title": "Álvarez, Clara Luz, Derecho de las telecomunicaciones"
+      },
+      {
+        "doi": "10.22201/iij.24484873e.2015.142.4931",
+        "title": "Sepúlveda Amor, Bernardo, La Corte Internacional de Justicia y la protección de los derechos del individuo: el caso Avena"
+      },
+      {
+        "doi": "10.22201/ceiich.24485705e.2015.5.47617",
+        "title": "De la evolución al valor de uso, ida y vuelta: exploraciones en la domesticación y diversificación de plantas"
+      },
+      {
+        "doi": "10.7550/rmb.38029",
+        "title": "Patrones de distribución de micromamíferos en gradientes altitudinales del noroeste Argentino"
+      }
+    ],
+    "funder_doi": [
+      {
+        "doi": "10.20937/atm.2015.28.01.02",
+        "title": "Assessment of potential human health and environmental impacts of a nuclear power plant (NPP) based on atmospheric dispersion modeling"
+      },
+      {
+        "doi": "10.1016/s1870-0578(16)30005-1",
+        "title": "The objective international responsibility of states in the Inter-American human rights system"
+      },
+      {
+        "doi": "10.7550/rmb.38023",
+        "title": "Clasificación jerárquica de gremios tróficos para aves y mamíferos de Norteamérica"
+      },
+      {
+        "doi": "10.1016/j.amdi.2014.09.013",
+        "title": "A legalidade da entrada da Venezuela no Mercosul"
+      },
+      {
+        "doi": "10.7550/rmb.40560",
+        "title": "Comunidades de helmintos de Xiphophorus malinche (Pisces: Poeciliidae), especie dulceacuícola endémica del río Pánuco, Hidalgo, México"
+      }
+    ],
+    "award_number": [
+      {
+        "doi": "10.20937/atm.2015.28.01.02",
+        "title": "Assessment of potential human health and environmental impacts of a nuclear power plant (NPP) based on atmospheric dispersion modeling"
+      },
+      {
+        "doi": "10.7550/rmb.40560",
+        "title": "Comunidades de helmintos de Xiphophorus malinche (Pisces: Poeciliidae), especie dulceacuícola endémica del río Pánuco, Hidalgo, México"
+      },
+      {
+        "doi": "10.1016/j.gi.2015.04.001",
+        "title": "Dynamics of internal waves generated by mountain breeze in Alchichica Crater Lake, Mexico"
+      },
+      {
+        "doi": "10.7550/rmb.37437",
+        "title": "Descripción de una especie nueva de Vaejovis de Michoacán, México (Arachnida: Scorpiones: Vaejovidae)"
+      },
+      {
+        "doi": "10.1016/s1870-0578(16)30004-x",
+        "title": "The best interests of the minor as a principle of interpretation in Mexican civil law"
+      }
+    ],
+    "issn": [
+      {
+        "doi": "10.20937/rica.47828",
+        "title": "ANÁLISIS COSTO-BENEFICIO DE LA CALEFACCIÓN DISTRITAL EN LA ZONA CENTRAL DE CHILE"
+      },
+      {
+        "doi": "10.20937/rica.50688",
+        "title": "MANANTIALES DE LA CUENCA DEL RÍO DUERO MICHOACÁN: OPERACIÓN, CALIDAD Y CANTIDAD"
+      },
+      {
+        "doi": "10.22201/iib.bibliographica.2018.1.9",
+        "title": "Colección taurina Javier Sánchez Gámiz, Biblioteca Nacional de México"
+      },
+      {
+        "doi": "10.21933/j.edsc.2017.13.209",
+        "title": "La transversalidad en la política turísticocultural del pueblo mágico de Metepec, México"
+      },
+      {
+        "doi": "10.22201/iib.bibliographica.2018.1.15",
+        "title": "La obra literaria abierta: del soporte digital al impreso"
+      }
+    ],
+    "volume": [
+      {
+        "doi": "10.22201/iij.24487872e.2015.15.519",
+        "title": "Villegas Delgado, César, La preeminencia del derecho en derecho internacional"
+      },
+      {
+        "doi": "10.22201/fcpys.24484911e.2017.23.60908",
+        "title": "Una reconstrucción del concepto de opinión pública"
+      },
+      {
+        "doi": "10.22201/iij.24487872e.2018.18.12096",
+        "title": "A Tale of Non-State Actors and Human Rights at Sea: Maritime Migration Crisis and Commercial Vessels’ Obligations"
+      },
+      {
+        "doi": "10.22201/iij.24487880e.2019.40.16183",
+        "title": "De bulas y pontífices. Prolegómenos de la cuestión indiana"
+      },
+      {
+        "doi": "10.22201/iij.24487929e.2019.34.14188",
+        "title": "¿Son internacionales los derechos fundamentales? Estudio sobre la validez, protección y exigibilidad extraterritorial de los derechos constitucionales"
+      }
+    ],
+    "issue": [
+      {
+        "doi": "10.22201/iij.24487872e.2015.15.519",
+        "title": "Villegas Delgado, César, La preeminencia del derecho en derecho internacional"
+      },
+      {
+        "doi": "10.1016/j.df.2017.07.001",
+        "title": "Cuando el velo deviene revolución, reseña del libro de Sirin Adlbi Sibai La cárcel del feminismo. Hacia un pensamiento islámico decolonial"
+      },
+      {
+        "doi": "10.22201/iij.24487872e.2018.18.12096",
+        "title": "A Tale of Non-State Actors and Human Rights at Sea: Maritime Migration Crisis and Commercial Vessels’ Obligations"
+      },
+      {
+        "doi": "10.22201/cieg.2594066xe.2006.34.1305",
+        "title": "El poder, los fantasmas y los cuerpos. Políticas corporales y subjetivación en la transición chilena"
+      },
+      {
+        "doi": "10.22201/iij.24487880e.2019.40.16183",
+        "title": "De bulas y pontífices. Prolegómenos de la cuestión indiana"
+      }
+    ],
+    "page": [
+      {
+        "doi": "10.20937/rica.43350",
+        "title": "Riesgo ambiental por pesticidas en una cuenca del sur de la provincia de Santa Fe, Argentina"
+      },
+      {
+        "doi": "10.20937/rica.43416",
+        "title": "Bioinoculación y fertilización química reducida asociadas con el crecimiento de planta y productividad de sorgo"
+      },
+      {
+        "doi": "10.20937/rica.44016",
+        "title": "Formulación de Metarhizium anisopliae (Metschnikoff) Sorokin con polímeros biodegradables y su virulencia contra Heliothis virescens (Fabricius)"
+      },
+      {
+        "doi": "10.20937/rica.45223",
+        "title": "Síntesis de materiales zeolíticos a partir de ceniza volcánica en presencia y ausencia de bromuro de cetiltrimetilamonio"
+      },
+      {
+        "doi": "10.20937/rica.46759",
+        "title": "Niveles de plaguicidas organoclorados en suero sanguíneo comparados con la concentración de lípidos sanguíneos"
+      }
+    ],
+    "published_print_date": [
+      {
+        "doi": "10.22201/cela.24484946e.2015.35.46965",
+        "title": "Movimientos sociales, élites y cultura política en América Latina"
+      },
+      {
+        "doi": "10.1016/j.pnsla.2014.08.002",
+        "title": "Percepciones juveniles de ciudadanía. El caso de Yucatán"
+      },
+      {
+        "doi": "10.22201/facmed.14058871p.2014.3.47936",
+        "title": "Portada, contraportada y hoja legal"
+      },
+      {
+        "doi": "10.22201/iij.24484873e.2015.142.4926",
+        "title": "Álvarez, Clara Luz, Derecho de las telecomunicaciones"
+      },
+      {
+        "doi": "10.22201/fesc.20072236e.2015.6.10.1",
+        "title": "El Consenso de Washington y la postura poskeynesiana"
+      }
+    ],
+    "published_online_date": [
+      {
+        "doi": "10.7550/rmb.46308",
+        "title": "First record of Spathoteredo spatha (Mollusca: Teredinidae) in Venezuela"
+      },
+      {
+        "doi": "10.1016/s0301-7036(15)72118-8",
+        "title": "Reestructuración productiva e integración. tlcan 20 años después"
+      },
+      {
+        "doi": "10.1016/j.rmo.2016.03.007",
+        "title": "Análisis cefalométrico de las características esqueléticas y dentales que presentan pacientes adultos con fisuras labiopalatinas que recibieron tratamiento ortopédico, ortodóncico y/o quirúrgico durante su infancia y adolescencia"
+      },
+      {
+        "doi": "10.1016/s0186-1042(15)72150-9",
+        "title": "Opciones reales: una propuesta para valorar proyectos de I+D en centros públicos de investigación agraria"
+      },
+      {
+        "doi": "10.1016/j.rmo.2016.03.014",
+        "title": "Camouflage orthodontic treatment in an autistic class II patient with anterior open bite: Case report"
+      }
+    ],
+    "license": [
+      {
+        "doi": "10.22201/cela.24484946e.2015.35.46965",
+        "title": "Movimientos sociales, élites y cultura política en América Latina"
+      },
+      {
+        "doi": "10.22201/facmed.14058871p.2014.3.47936",
+        "title": "Portada, contraportada y hoja legal"
+      },
+      {
+        "doi": "10.22201/iij.24484873e.2015.142.4926",
+        "title": "Álvarez, Clara Luz, Derecho de las telecomunicaciones"
+      },
+      {
+        "doi": "10.22201/iij.24484873e.2015.142.4931",
+        "title": "Sepúlveda Amor, Bernardo, La Corte Internacional de Justicia y la protección de los derechos del individuo: el caso Avena"
+      },
+      {
+        "doi": "10.22201/ceiich.24485705e.2015.5.47617",
+        "title": "De la evolución al valor de uso, ida y vuelta: exploraciones en la domesticación y diversificación de plantas"
+      }
+    ],
+    "license_url": [
+      {
+        "doi": "10.22201/cela.24484946e.2015.35.46965",
+        "title": "Movimientos sociales, élites y cultura política en América Latina"
+      },
+      {
+        "doi": "10.22201/facmed.14058871p.2014.3.47936",
+        "title": "Portada, contraportada y hoja legal"
+      },
+      {
+        "doi": "10.22201/iij.24484873e.2015.142.4926",
+        "title": "Álvarez, Clara Luz, Derecho de las telecomunicaciones"
+      },
+      {
+        "doi": "10.22201/iij.24484873e.2015.142.4931",
+        "title": "Sepúlveda Amor, Bernardo, La Corte Internacional de Justicia y la protección de los derechos del individuo: el caso Avena"
+      },
+      {
+        "doi": "10.22201/ceiich.24485705e.2015.5.47617",
+        "title": "De la evolución al valor de uso, ida y vuelta: exploraciones en la domesticación y diversificación de plantas"
+      }
+    ],
+    "open_access_license": [
+      {
+        "doi": "10.22201/cela.24484946e.2015.35.46965",
+        "title": "Movimientos sociales, élites y cultura política en América Latina"
+      },
+      {
+        "doi": "10.22201/facmed.14058871p.2014.3.47936",
+        "title": "Portada, contraportada y hoja legal"
+      },
+      {
+        "doi": "10.22201/iij.24484873e.2015.142.4926",
+        "title": "Álvarez, Clara Luz, Derecho de las telecomunicaciones"
+      },
+      {
+        "doi": "10.22201/iij.24484873e.2015.142.4931",
+        "title": "Sepúlveda Amor, Bernardo, La Corte Internacional de Justicia y la protección de los derechos del individuo: el caso Avena"
+      },
+      {
+        "doi": "10.22201/ceiich.24485705e.2015.5.47617",
+        "title": "De la evolución al valor de uso, ida y vuelta: exploraciones en la domesticación y diversificación de plantas"
+      }
+    ],
+    "full_text_links": [
+      {
+        "doi": "10.20937/atm.2015.28.01.02",
+        "title": "Assessment of potential human health and environmental impacts of a nuclear power plant (NPP) based on atmospheric dispersion modeling"
+      },
+      {
+        "doi": "10.20937/atm.2015.28.01.03",
+        "title": "Rapid deepening of tropical cyclones in the northeastern Tropical Pacific: The relationship with oceanic eddies"
+      },
+      {
+        "doi": "10.1016/s0187-6236(15)72157-0",
+        "title": "Rapid deepening of tropical cyclones in the northeastern Tropical Pacific: The relationship with oceanic eddies"
+      },
+      {
+        "doi": "10.1016/s0187-6236(15)72159-4",
+        "title": "Improved rainfall estimation over the Indian monsoon region by synergistic use of Kalpana-1 and rain gauge data"
+      },
+      {
+        "doi": "10.20937/atm.2015.28.01.05",
+        "title": "Improved rainfall estimation over the Indian monsoon region by synergistic use of Kalpana-1 and rain gauge data"
+      }
+    ],
+    "resource_url": [],
+    "references": [
+      {
+        "doi": "10.22201/fesc.20072236e.2015.6.10.1",
+        "title": "El Consenso de Washington y la postura poskeynesiana"
+      },
+      {
+        "doi": "10.20937/atm.2015.28.01.02",
+        "title": "Assessment of potential human health and environmental impacts of a nuclear power plant (NPP) based on atmospheric dispersion modeling"
+      },
+      {
+        "doi": "10.1016/j.rmdc.2016.03.005",
+        "title": "¿CÓMO AFRONTA EL DESAFÍO DE LA SOBRECARGA DE TRABAJO EL TRIBUNAL CONSTITUCIONAL DE ESPAÑA?"
+      },
+      {
+        "doi": "10.22201/iij.24484873e.2015.142.4920",
+        "title": "Las revistas jurídicas venezolanas en tiempos de revolución (2000-2013)"
+      },
+      {
+        "doi": "10.22201/ie.20074484e.2014.4.2.194",
+        "title": "&lt;b&gt; LOS MAMIFEROS DE OAXACA &lt;/b&gt;"
+      }
+    ],
+    "references_count": [
+      {
+        "doi": "10.22201/fesc.20072236e.2015.6.10.1",
+        "title": "El Consenso de Washington y la postura poskeynesiana"
+      },
+      {
+        "doi": "10.20937/atm.2015.28.01.02",
+        "title": "Assessment of potential human health and environmental impacts of a nuclear power plant (NPP) based on atmospheric dispersion modeling"
+      },
+      {
+        "doi": "10.1016/j.rmdc.2016.03.005",
+        "title": "¿CÓMO AFRONTA EL DESAFÍO DE LA SOBRECARGA DE TRABAJO EL TRIBUNAL CONSTITUCIONAL DE ESPAÑA?"
+      },
+      {
+        "doi": "10.22201/iij.24484873e.2015.142.4920",
+        "title": "Las revistas jurídicas venezolanas en tiempos de revolución (2000-2013)"
+      },
+      {
+        "doi": "10.22201/ie.20074484e.2014.4.2.194",
+        "title": "&lt;b&gt; LOS MAMIFEROS DE OAXACA &lt;/b&gt;"
+      }
+    ],
+    "is_referenced_by": [
+      {
+        "doi": "10.22201/cela.24484946e.2015.35.46965",
+        "title": "Movimientos sociales, élites y cultura política en América Latina"
+      },
+      {
+        "doi": "10.22201/iij.24484873e.2015.142.4931",
+        "title": "Sepúlveda Amor, Bernardo, La Corte Internacional de Justicia y la protección de los derechos del individuo: el caso Avena"
+      },
+      {
+        "doi": "10.22201/iis.01882503p.2015.1.46623",
+        "title": "Norma Blazquez Graf, Fátima Flores Palacios y Maribel Ríos Everardo (coordinadoras). Investigación feminista. Epistemología, metodología y representaciones sociales (México: Universidad Nacional Autónoma de México-Centro de Investigaciones Interdisciplina"
+      },
+      {
+        "doi": "10.20937/rica.43350",
+        "title": "Riesgo ambiental por pesticidas en una cuenca del sur de la provincia de Santa Fe, Argentina"
+      },
+      {
+        "doi": "10.22201/fa.2007252xp.2014.8.47601",
+        "title": "La modernización temprana en Mérida, Yucatán. Una nueva dualidad urbana"
+      }
+    ],
+    "author_sequence": [
+      {
+        "doi": "10.21933/j.edsc.2015.06.093",
+        "title": "Transferencias Monetarias Condicionadas en la estructura del ingreso de pueblos mayas de México: Jose Maria Morelos y Saban, Quintana Roo"
+      },
+      {
+        "doi": "10.21933/j.edsc.2015.06.003",
+        "title": "John Riordan y Kristen Becker, (2008). The good office. Green design on the cutting edge. Nueva York: Collins Design"
+      },
+      {
+        "doi": "10.21933/j.edsc.2015.06.102",
+        "title": "Avances, retos y desafíos: aproximación al estado del conocimiento de los estudios de género en educación superior en México"
+      },
+      {
+        "doi": "10.21933/j.edsc.2015.06.094",
+        "title": "La función de las paradojas en la física y el caso de Paul Ehrenfest"
+      },
+      {
+        "doi": "10.1016/j.acso.2015.06.002",
+        "title": "BIBLIOGRAFÍA ESPECIALIZADA SOBRE REFLEXIVIDAD"
+      }
+    ],
+    "affiliation_ids_ror": [
+      {
+        "doi": "10.1016/j.pnsla.2014.08.002",
+        "title": "Percepciones juveniles de ciudadanía. El caso de Yucatán"
+      },
+      {
+        "doi": "10.7550/rmb.46308",
+        "title": "First record of Spathoteredo spatha (Mollusca: Teredinidae) in Venezuela"
+      },
+      {
+        "doi": "10.1016/s0301-7036(15)72118-8",
+        "title": "Reestructuración productiva e integración. tlcan 20 años después"
+      },
+      {
+        "doi": "10.22201/fesc.20072236e.2015.6.10.1",
+        "title": "El Consenso de Washington y la postura poskeynesiana"
+      },
+      {
+        "doi": "10.1016/j.rmo.2016.03.007",
+        "title": "Análisis cefalométrico de las características esqueléticas y dentales que presentan pacientes adultos con fisuras labiopalatinas que recibieron tratamiento ortopédico, ortodóncico y/o quirúrgico durante su infancia y adolescencia"
+      }
+    ],
+    "relations": [
+      {
+        "doi": "10.22201/cela.24484946e.2015.35.46965",
+        "title": "Movimientos sociales, élites y cultura política en América Latina"
+      },
+      {
+        "doi": "10.1016/j.pnsla.2014.08.002",
+        "title": "Percepciones juveniles de ciudadanía. El caso de Yucatán"
+      },
+      {
+        "doi": "10.7550/rmb.46308",
+        "title": "First record of Spathoteredo spatha (Mollusca: Teredinidae) in Venezuela"
+      },
+      {
+        "doi": "10.22201/facmed.14058871p.2014.3.47936",
+        "title": "Portada, contraportada y hoja legal"
+      },
+      {
+        "doi": "10.22201/iij.24484873e.2015.142.4926",
+        "title": "Álvarez, Clara Luz, Derecho de las telecomunicaciones"
+      }
+    ],
+    "author_given_family": [
+      {
+        "doi": "10.20937/atm.2015.28.01.02",
+        "title": "Assessment of potential human health and environmental impacts of a nuclear power plant (NPP) based on atmospheric dispersion modeling"
+      },
+      {
+        "doi": "10.1016/s1665-6423(15)30008-0",
+        "title": "Robust Face Recognition Technique under Varying Illumination"
+      },
+      {
+        "doi": "10.20999/nam.2015.a007",
+        "title": "Internalization of International Migrants' Rights Norms. The case of Chiapas"
+      },
+      {
+        "doi": "10.20999/nam.2015.a008",
+        "title": "Los gobiernos locales y la cooperación transregional como alternativa a la política internacional de cambio climático"
+      },
+      {
+        "doi": "10.1016/j.ibbai.2016.02.022",
+        "title": "Reseñas"
+      }
+    ],
+    "affiliation_ror": [
+      {
+        "doi": "10.1016/j.pnsla.2014.08.002",
+        "title": "Percepciones juveniles de ciudadanía. El caso de Yucatán"
+      },
+      {
+        "doi": "10.7550/rmb.46308",
+        "title": "First record of Spathoteredo spatha (Mollusca: Teredinidae) in Venezuela"
+      },
+      {
+        "doi": "10.1016/s0301-7036(15)72118-8",
+        "title": "Reestructuración productiva e integración. tlcan 20 años después"
+      },
+      {
+        "doi": "10.22201/fesc.20072236e.2015.6.10.1",
+        "title": "El Consenso de Washington y la postura poskeynesiana"
+      },
+      {
+        "doi": "10.1016/j.rmo.2016.03.007",
+        "title": "Análisis cefalométrico de las características esqueléticas y dentales que presentan pacientes adultos con fisuras labiopalatinas que recibieron tratamiento ortopédico, ortodóncico y/o quirúrgico durante su infancia y adolescencia"
+      }
+    ],
+    "funding_complete": [
+      {
+        "doi": "10.20937/atm.2015.28.01.02",
+        "title": "Assessment of potential human health and environmental impacts of a nuclear power plant (NPP) based on atmospheric dispersion modeling"
+      },
+      {
+        "doi": "10.7550/rmb.40560",
+        "title": "Comunidades de helmintos de Xiphophorus malinche (Pisces: Poeciliidae), especie dulceacuícola endémica del río Pánuco, Hidalgo, México"
+      },
+      {
+        "doi": "10.1016/j.gi.2015.04.001",
+        "title": "Dynamics of internal waves generated by mountain breeze in Alchichica Crater Lake, Mexico"
+      },
+      {
+        "doi": "10.7550/rmb.37437",
+        "title": "Descripción de una especie nueva de Vaejovis de Michoacán, México (Arachnida: Scorpiones: Vaejovidae)"
+      },
+      {
+        "doi": "10.1016/s1870-0578(16)30004-x",
+        "title": "The best interests of the minor as a principle of interpretation in Mexican civil law"
+      }
+    ],
+    "preprint_version_link": [
+      {
+        "doi": "10.7550/rmb.46308",
+        "title": "First record of Spathoteredo spatha (Mollusca: Teredinidae) in Venezuela"
+      },
+      {
+        "doi": "10.22201/iij.24484873e.2015.142.4926",
+        "title": "Álvarez, Clara Luz, Derecho de las telecomunicaciones"
+      },
+      {
+        "doi": "10.22201/iij.24484873e.2015.142.4931",
+        "title": "Sepúlveda Amor, Bernardo, La Corte Internacional de Justicia y la protección de los derechos del individuo: el caso Avena"
+      },
+      {
+        "doi": "10.22201/ceiich.24485691e.2014.13.46602",
+        "title": "Contenido"
+      },
+      {
+        "doi": "10.1016/s0186-1042(15)72150-9",
+        "title": "Opciones reales: una propuesta para valorar proyectos de I+D en centros públicos de investigación agraria"
+      }
+    ],
+    "open_access_status": [
+      {
+        "doi": "10.22201/cela.24484946e.2015.35.46965",
+        "title": "Movimientos sociales, élites y cultura política en América Latina"
+      },
+      {
+        "doi": "10.22201/facmed.14058871p.2014.3.47936",
+        "title": "Portada, contraportada y hoja legal"
+      },
+      {
+        "doi": "10.22201/iij.24484873e.2015.142.4926",
+        "title": "Álvarez, Clara Luz, Derecho de las telecomunicaciones"
+      },
+      {
+        "doi": "10.22201/iij.24484873e.2015.142.4931",
+        "title": "Sepúlveda Amor, Bernardo, La Corte Internacional de Justicia y la protección de los derechos del individuo: el caso Avena"
+      },
+      {
+        "doi": "10.22201/ceiich.24485705e.2015.5.47617",
+        "title": "De la evolución al valor de uso, ida y vuelta: exploraciones en la domesticación y diversificación de plantas"
+      }
+    ]
+  },
+  "sampleWorks": [
+    {
+      "doi": "10.22201/cela.24484946e.2015.35.46965",
+      "title": "Movimientos sociales, élites y cultura política en América Latina",
+      "year": 2015,
+      "crossrefScore": 0.4473684210526316,
+      "openalexScore": 0.6052631578947368,
+      "gap": 9,
+      "openalexAdds": [
+        "subject_keywords",
+        "language",
+        "published_print_date",
+        "license",
+        "license_url",
+        "open_access_license",
+        "is_referenced_by",
+        "relations",
+        "open_access_status"
+      ]
+    },
+    {
+      "doi": "10.1016/j.pnsla.2014.08.002",
+      "title": "Percepciones juveniles de ciudadanía. El caso de Yucatán",
+      "year": 2015,
+      "crossrefScore": 0.631578947368421,
+      "openalexScore": 0.7631578947368421,
+      "gap": 9,
+      "openalexAdds": [
+        "author_affiliation",
+        "subject_keywords",
+        "language",
+        "author_orcid",
+        "all_authors_orcid",
+        "published_print_date",
+        "affiliation_ids_ror",
+        "relations",
+        "affiliation_ror"
+      ]
+    },
+    {
+      "doi": "10.7550/rmb.46308",
+      "title": "First record of Spathoteredo spatha (Mollusca: Teredinidae) in Venezuela",
+      "year": 2015,
+      "crossrefScore": 0.631578947368421,
+      "openalexScore": 0.8421052631578947,
+      "gap": 9,
+      "openalexAdds": [
+        "abstract",
+        "author_affiliation",
+        "subject_keywords",
+        "author_orcid",
+        "published_online_date",
+        "affiliation_ids_ror",
+        "relations",
+        "affiliation_ror",
+        "preprint_version_link"
+      ]
+    },
+    {
+      "doi": "10.22201/facmed.14058871p.2014.3.47936",
+      "title": "Portada, contraportada y hoja legal",
+      "year": 2015,
+      "crossrefScore": 0.39473684210526316,
+      "openalexScore": 0.5789473684210527,
+      "gap": 8,
+      "openalexAdds": [
+        "subject_keywords",
+        "language",
+        "published_print_date",
+        "license",
+        "license_url",
+        "open_access_license",
+        "relations",
+        "open_access_status"
+      ]
+    },
+    {
+      "doi": "10.22201/iij.24484873e.2015.142.4926",
+      "title": "Álvarez, Clara Luz, Derecho de las telecomunicaciones",
+      "year": 2015,
+      "crossrefScore": 0.39473684210526316,
+      "openalexScore": 0.7105263157894737,
+      "gap": 12,
+      "openalexAdds": [
+        "abstract",
+        "subject_keywords",
+        "language",
+        "author_orcid",
+        "all_authors_orcid",
+        "published_print_date",
+        "license",
+        "license_url",
+        "open_access_license",
+        "relations",
+        "preprint_version_link",
+        "open_access_status"
+      ]
+    },
+    {
+      "doi": "10.1016/s0301-7036(15)72118-8",
+      "title": "Reestructuración productiva e integración. tlcan 20 años después",
+      "year": 2015,
+      "crossrefScore": 0.631578947368421,
+      "openalexScore": 0.8157894736842105,
+      "gap": 7,
+      "openalexAdds": [
+        "abstract",
+        "author_affiliation",
+        "subject_keywords",
+        "published_online_date",
+        "affiliation_ids_ror",
+        "relations",
+        "affiliation_ror"
+      ]
+    },
+    {
+      "doi": "10.22201/fesc.20072236e.2015.6.10.1",
+      "title": "El Consenso de Washington y la postura poskeynesiana",
+      "year": 2015,
+      "crossrefScore": 0.6052631578947368,
+      "openalexScore": 0.7894736842105263,
+      "gap": 9,
+      "openalexAdds": [
+        "subject_keywords",
+        "language",
+        "author_orcid",
+        "published_print_date",
+        "references",
+        "references_count",
+        "affiliation_ids_ror",
+        "relations",
+        "affiliation_ror"
+      ]
+    },
+    {
+      "doi": "10.22201/iij.24484873e.2015.142.4931",
+      "title": "Sepúlveda Amor, Bernardo, La Corte Internacional de Justicia y la protección de los derechos del individuo: el caso Avena",
+      "year": 2015,
+      "crossrefScore": 0.39473684210526316,
+      "openalexScore": 0.7105263157894737,
+      "gap": 12,
+      "openalexAdds": [
+        "subject_keywords",
+        "language",
+        "author_orcid",
+        "all_authors_orcid",
+        "published_print_date",
+        "license",
+        "license_url",
+        "open_access_license",
+        "is_referenced_by",
+        "relations",
+        "preprint_version_link",
+        "open_access_status"
+      ]
+    },
+    {
+      "doi": "10.1016/j.rmo.2016.03.007",
+      "title": "Análisis cefalométrico de las características esqueléticas y dentales que presentan pacientes adultos con fisuras labiopalatinas que recibieron tratamiento ortopédico, ortodóncico y/o quirúrgico durante su infancia y adolescencia",
+      "year": 2015,
+      "crossrefScore": 0.631578947368421,
+      "openalexScore": 0.7105263157894737,
+      "gap": 7,
+      "openalexAdds": [
+        "abstract",
+        "author_affiliation",
+        "subject_keywords",
+        "published_online_date",
+        "affiliation_ids_ror",
+        "relations",
+        "affiliation_ror"
+      ]
+    },
+    {
+      "doi": "10.22201/ceiich.24485705e.2015.5.47617",
+      "title": "De la evolución al valor de uso, ida y vuelta: exploraciones en la domesticación y diversificación de plantas",
+      "year": 2015,
+      "crossrefScore": 0.47368421052631576,
+      "openalexScore": 0.7105263157894737,
+      "gap": 12,
+      "openalexAdds": [
+        "author_affiliation",
+        "subject_keywords",
+        "language",
+        "author_orcid",
+        "all_authors_orcid",
+        "published_print_date",
+        "license",
+        "license_url",
+        "open_access_license",
+        "affiliation_ids_ror",
+        "affiliation_ror",
+        "open_access_status"
+      ]
+    }
+  ],
+  "fieldDetails": [
+    {
+      "id": "title",
+      "label": "Title",
+      "category": "findable_essential",
+      "effort": "automatic",
+      "crossref": 1,
+      "openalex": 1,
+      "gap": 0,
+      "samples": []
+    },
+    {
+      "id": "abstract",
+      "label": "Abstract",
+      "category": "findable_essential",
+      "effort": "voluntary",
+      "crossref": 0.7689501915708812,
+      "openalex": 0.8927538906317278,
+      "gap": 0.12380369906084665,
+      "samples": [
+        {
+          "doi": "10.7550/rmb.46308",
+          "title": "First record of Spathoteredo spatha (Mollusca: Teredinidae) in Venezuela"
+        },
+        {
+          "doi": "10.22201/iij.24484873e.2015.142.4926",
+          "title": "Álvarez, Clara Luz, Derecho de las telecomunicaciones"
+        },
+        {
+          "doi": "10.1016/s0301-7036(15)72118-8",
+          "title": "Reestructuración productiva e integración. tlcan 20 años después"
+        },
+        {
+          "doi": "10.1016/j.rmo.2016.03.007",
+          "title": "Análisis cefalométrico de las características esqueléticas y dentales que presentan pacientes adultos con fisuras labiopalatinas que recibieron tratamiento ortopédico, ortodóncico y/o quirúrgico durante su infancia y adolescencia"
+        },
+        {
+          "doi": "10.1016/s0186-1042(15)72150-9",
+          "title": "Opciones reales: una propuesta para valorar proyectos de I+D en centros públicos de investigación agraria"
+        }
+      ]
+    },
+    {
+      "id": "author",
+      "label": "Author",
+      "category": "findable_essential",
+      "effort": "automatic",
+      "crossref": 0.9952490421455938,
+      "openalex": 0.9986467367903057,
+      "gap": 0.003397694644711846,
+      "samples": [
+        {
+          "doi": "10.21933/j.edsc.2015.06.093",
+          "title": "Transferencias Monetarias Condicionadas en la estructura del ingreso de pueblos mayas de México: Jose Maria Morelos y Saban, Quintana Roo"
+        },
+        {
+          "doi": "10.21933/j.edsc.2015.06.003",
+          "title": "John Riordan y Kristen Becker, (2008). The good office. Green design on the cutting edge. Nueva York: Collins Design"
+        },
+        {
+          "doi": "10.21933/j.edsc.2015.06.102",
+          "title": "Avances, retos y desafíos: aproximación al estado del conocimiento de los estudios de género en educación superior en México"
+        },
+        {
+          "doi": "10.21933/j.edsc.2015.06.094",
+          "title": "La función de las paradojas en la física y el caso de Paul Ehrenfest"
+        },
+        {
+          "doi": "10.1016/j.acso.2015.06.002",
+          "title": "BIBLIOGRAFÍA ESPECIALIZADA SOBRE REFLEXIVIDAD"
+        }
+      ]
+    },
+    {
+      "id": "author_affiliation",
+      "label": "Author Affiliation",
+      "category": "findable_essential",
+      "effort": "voluntary",
+      "crossref": 0.05983141762452107,
+      "openalex": 0.7218736544257858,
+      "gap": 0.6620422368012647,
+      "samples": [
+        {
+          "doi": "10.1016/j.pnsla.2014.08.002",
+          "title": "Percepciones juveniles de ciudadanía. El caso de Yucatán"
+        },
+        {
+          "doi": "10.7550/rmb.46308",
+          "title": "First record of Spathoteredo spatha (Mollusca: Teredinidae) in Venezuela"
+        },
+        {
+          "doi": "10.1016/s0301-7036(15)72118-8",
+          "title": "Reestructuración productiva e integración. tlcan 20 años después"
+        },
+        {
+          "doi": "10.1016/j.rmo.2016.03.007",
+          "title": "Análisis cefalométrico de las características esqueléticas y dentales que presentan pacientes adultos con fisuras labiopalatinas que recibieron tratamiento ortopédico, ortodóncico y/o quirúrgico durante su infancia y adolescencia"
+        },
+        {
+          "doi": "10.22201/ceiich.24485705e.2015.5.47617",
+          "title": "De la evolución al valor de uso, ida y vuelta: exploraciones en la domesticación y diversificación de plantas"
+        }
+      ]
+    },
+    {
+      "id": "doi",
+      "label": "DOI",
+      "category": "findable_essential",
+      "effort": "automatic",
+      "crossref": 1,
+      "openalex": 1,
+      "gap": 0,
+      "samples": []
+    },
+    {
+      "id": "publication_date",
+      "label": "Publication Date",
+      "category": "findable_essential",
+      "effort": "automatic",
+      "crossref": 1,
+      "openalex": 1,
+      "gap": 0,
+      "samples": []
+    },
+    {
+      "id": "publisher",
+      "label": "Publisher",
+      "category": "findable_essential",
+      "effort": "automatic",
+      "crossref": 1,
+      "openalex": 0.71787537676078,
+      "gap": -0.28212462323922005,
+      "samples": []
+    },
+    {
+      "id": "resource_type",
+      "label": "Resource Type",
+      "category": "findable_essential",
+      "effort": "automatic",
+      "crossref": 1,
+      "openalex": 1,
+      "gap": 0,
+      "samples": []
+    },
+    {
+      "id": "subject_keywords",
+      "label": "Subject / Keywords",
+      "category": "findable_essential",
+      "effort": "voluntary",
+      "crossref": 0,
+      "openalex": 0.999876976071846,
+      "gap": 0.999876976071846,
+      "samples": [
+        {
+          "doi": "10.22201/cela.24484946e.2015.35.46965",
+          "title": "Movimientos sociales, élites y cultura política en América Latina"
+        },
+        {
+          "doi": "10.1016/j.pnsla.2014.08.002",
+          "title": "Percepciones juveniles de ciudadanía. El caso de Yucatán"
+        },
+        {
+          "doi": "10.7550/rmb.46308",
+          "title": "First record of Spathoteredo spatha (Mollusca: Teredinidae) in Venezuela"
+        },
+        {
+          "doi": "10.22201/facmed.14058871p.2014.3.47936",
+          "title": "Portada, contraportada y hoja legal"
+        },
+        {
+          "doi": "10.22201/iij.24484873e.2015.142.4926",
+          "title": "Álvarez, Clara Luz, Derecho de las telecomunicaciones"
+        }
+      ]
+    },
+    {
+      "id": "funder_name",
+      "label": "Funder Name",
+      "category": "findable_essential",
+      "effort": "voluntary",
+      "crossref": 0.002421455938697318,
+      "openalex": 0.05588361936396629,
+      "gap": 0.05346216342526897,
+      "samples": [
+        {
+          "doi": "10.20937/atm.2015.28.01.02",
+          "title": "Assessment of potential human health and environmental impacts of a nuclear power plant (NPP) based on atmospheric dispersion modeling"
+        },
+        {
+          "doi": "10.1016/s1870-0578(16)30005-1",
+          "title": "The objective international responsibility of states in the Inter-American human rights system"
+        },
+        {
+          "doi": "10.7550/rmb.38023",
+          "title": "Clasificación jerárquica de gremios tróficos para aves y mamíferos de Norteamérica"
+        },
+        {
+          "doi": "10.1016/j.amdi.2014.09.013",
+          "title": "A legalidade da entrada da Venezuela no Mercosul"
+        },
+        {
+          "doi": "10.7550/rmb.40560",
+          "title": "Comunidades de helmintos de Xiphophorus malinche (Pisces: Poeciliidae), especie dulceacuícola endémica del río Pánuco, Hidalgo, México"
+        }
+      ]
+    },
+    {
+      "id": "container_title",
+      "label": "Container Title",
+      "category": "findable_essential",
+      "effort": "automatic",
+      "crossref": 1,
+      "openalex": 0.9907424494064095,
+      "gap": -0.009257550593590458,
+      "samples": []
+    },
+    {
+      "id": "language",
+      "label": "Language",
+      "category": "findable_essential",
+      "effort": "automatic",
+      "crossref": 0.09140229885057471,
+      "openalex": 0.976686965614812,
+      "gap": 0.8852846667642373,
+      "samples": [
+        {
+          "doi": "10.22201/cela.24484946e.2015.35.46965",
+          "title": "Movimientos sociales, élites y cultura política en América Latina"
+        },
+        {
+          "doi": "10.1016/j.pnsla.2014.08.002",
+          "title": "Percepciones juveniles de ciudadanía. El caso de Yucatán"
+        },
+        {
+          "doi": "10.22201/facmed.14058871p.2014.3.47936",
+          "title": "Portada, contraportada y hoja legal"
+        },
+        {
+          "doi": "10.22201/iij.24484873e.2015.142.4926",
+          "title": "Álvarez, Clara Luz, Derecho de las telecomunicaciones"
+        },
+        {
+          "doi": "10.22201/fesc.20072236e.2015.6.10.1",
+          "title": "El Consenso de Washington y la postura poskeynesiana"
+        }
+      ]
+    },
+    {
+      "id": "author_orcid",
+      "label": "Author ORCID",
+      "category": "findable_support",
+      "effort": "voluntary",
+      "crossref": 0.23552490421455938,
+      "openalex": 0.6813680260810727,
+      "gap": 0.4458431218665133,
+      "samples": [
+        {
+          "doi": "10.1016/j.pnsla.2014.08.002",
+          "title": "Percepciones juveniles de ciudadanía. El caso de Yucatán"
+        },
+        {
+          "doi": "10.7550/rmb.46308",
+          "title": "First record of Spathoteredo spatha (Mollusca: Teredinidae) in Venezuela"
+        },
+        {
+          "doi": "10.22201/iij.24484873e.2015.142.4926",
+          "title": "Álvarez, Clara Luz, Derecho de las telecomunicaciones"
+        },
+        {
+          "doi": "10.22201/fesc.20072236e.2015.6.10.1",
+          "title": "El Consenso de Washington y la postura poskeynesiana"
+        },
+        {
+          "doi": "10.22201/iij.24484873e.2015.142.4931",
+          "title": "Sepúlveda Amor, Bernardo, La Corte Internacional de Justicia y la protección de los derechos del individuo: el caso Avena"
+        }
+      ]
+    },
+    {
+      "id": "all_authors_orcid",
+      "label": "All Authors ORCID",
+      "category": "findable_support",
+      "effort": "voluntary",
+      "crossref": 0.1845823754789272,
+      "openalex": 0.4199114227717291,
+      "gap": 0.2353290472928019,
+      "samples": [
+        {
+          "doi": "10.1016/j.pnsla.2014.08.002",
+          "title": "Percepciones juveniles de ciudadanía. El caso de Yucatán"
+        },
+        {
+          "doi": "10.22201/iij.24484873e.2015.142.4926",
+          "title": "Álvarez, Clara Luz, Derecho de las telecomunicaciones"
+        },
+        {
+          "doi": "10.22201/iij.24484873e.2015.142.4931",
+          "title": "Sepúlveda Amor, Bernardo, La Corte Internacional de Justicia y la protección de los derechos del individuo: el caso Avena"
+        },
+        {
+          "doi": "10.22201/ceiich.24485705e.2015.5.47617",
+          "title": "De la evolución al valor de uso, ida y vuelta: exploraciones en la domesticación y diversificación de plantas"
+        },
+        {
+          "doi": "10.7550/rmb.38029",
+          "title": "Patrones de distribución de micromamíferos en gradientes altitudinales del noroeste Argentino"
+        }
+      ]
+    },
+    {
+      "id": "funder_doi",
+      "label": "Funder DOI",
+      "category": "findable_support",
+      "effort": "voluntary",
+      "crossref": 0.0011954022988505746,
+      "openalex": 0.05588361936396629,
+      "gap": 0.054688217065115716,
+      "samples": [
+        {
+          "doi": "10.20937/atm.2015.28.01.02",
+          "title": "Assessment of potential human health and environmental impacts of a nuclear power plant (NPP) based on atmospheric dispersion modeling"
+        },
+        {
+          "doi": "10.1016/s1870-0578(16)30005-1",
+          "title": "The objective international responsibility of states in the Inter-American human rights system"
+        },
+        {
+          "doi": "10.7550/rmb.38023",
+          "title": "Clasificación jerárquica de gremios tróficos para aves y mamíferos de Norteamérica"
+        },
+        {
+          "doi": "10.1016/j.amdi.2014.09.013",
+          "title": "A legalidade da entrada da Venezuela no Mercosul"
+        },
+        {
+          "doi": "10.7550/rmb.40560",
+          "title": "Comunidades de helmintos de Xiphophorus malinche (Pisces: Poeciliidae), especie dulceacuícola endémica del río Pánuco, Hidalgo, México"
+        }
+      ]
+    },
+    {
+      "id": "award_number",
+      "label": "Award Number",
+      "category": "findable_support",
+      "effort": "voluntary",
+      "crossref": 0.0011954022988505746,
+      "openalex": 0.021682967337147075,
+      "gap": 0.0204875650382965,
+      "samples": [
+        {
+          "doi": "10.20937/atm.2015.28.01.02",
+          "title": "Assessment of potential human health and environmental impacts of a nuclear power plant (NPP) based on atmospheric dispersion modeling"
+        },
+        {
+          "doi": "10.7550/rmb.40560",
+          "title": "Comunidades de helmintos de Xiphophorus malinche (Pisces: Poeciliidae), especie dulceacuícola endémica del río Pánuco, Hidalgo, México"
+        },
+        {
+          "doi": "10.1016/j.gi.2015.04.001",
+          "title": "Dynamics of internal waves generated by mountain breeze in Alchichica Crater Lake, Mexico"
+        },
+        {
+          "doi": "10.7550/rmb.37437",
+          "title": "Descripción de una especie nueva de Vaejovis de Michoacán, México (Arachnida: Scorpiones: Vaejovidae)"
+        },
+        {
+          "doi": "10.1016/s1870-0578(16)30004-x",
+          "title": "The best interests of the minor as a principle of interpretation in Mexican civil law"
+        }
+      ]
+    },
+    {
+      "id": "issn",
+      "label": "ISSN",
+      "category": "findable_support",
+      "effort": "automatic",
+      "crossref": 0.9813639846743295,
+      "openalex": 0.9907424494064095,
+      "gap": 0.009378464732080039,
+      "samples": [
+        {
+          "doi": "10.20937/rica.47828",
+          "title": "ANÁLISIS COSTO-BENEFICIO DE LA CALEFACCIÓN DISTRITAL EN LA ZONA CENTRAL DE CHILE"
+        },
+        {
+          "doi": "10.20937/rica.50688",
+          "title": "MANANTIALES DE LA CUENCA DEL RÍO DUERO MICHOACÁN: OPERACIÓN, CALIDAD Y CANTIDAD"
+        },
+        {
+          "doi": "10.22201/iib.bibliographica.2018.1.9",
+          "title": "Colección taurina Javier Sánchez Gámiz, Biblioteca Nacional de México"
+        },
+        {
+          "doi": "10.21933/j.edsc.2017.13.209",
+          "title": "La transversalidad en la política turísticocultural del pueblo mágico de Metepec, México"
+        },
+        {
+          "doi": "10.22201/iib.bibliographica.2018.1.15",
+          "title": "La obra literaria abierta: del soporte digital al impreso"
+        }
+      ]
+    },
+    {
+      "id": "volume",
+      "label": "Volume",
+      "category": "findable_support",
+      "effort": "automatic",
+      "crossref": 0.7987739463601533,
+      "openalex": 0.7988558774681676,
+      "gap": 0.00008193110801424375,
+      "samples": [
+        {
+          "doi": "10.22201/iij.24487872e.2015.15.519",
+          "title": "Villegas Delgado, César, La preeminencia del derecho en derecho internacional"
+        },
+        {
+          "doi": "10.22201/fcpys.24484911e.2017.23.60908",
+          "title": "Una reconstrucción del concepto de opinión pública"
+        },
+        {
+          "doi": "10.22201/iij.24487872e.2018.18.12096",
+          "title": "A Tale of Non-State Actors and Human Rights at Sea: Maritime Migration Crisis and Commercial Vessels’ Obligations"
+        },
+        {
+          "doi": "10.22201/iij.24487880e.2019.40.16183",
+          "title": "De bulas y pontífices. Prolegómenos de la cuestión indiana"
+        },
+        {
+          "doi": "10.22201/iij.24487929e.2019.34.14188",
+          "title": "¿Son internacionales los derechos fundamentales? Estudio sobre la validez, protección y exigibilidad extraterritorial de los derechos constitucionales"
+        }
+      ]
+    },
+    {
+      "id": "issue",
+      "label": "Issue",
+      "category": "findable_support",
+      "effort": "automatic",
+      "crossref": 0.829272030651341,
+      "openalex": 0.8302577351294826,
+      "gap": 0.0009857044781416135,
+      "samples": [
+        {
+          "doi": "10.22201/iij.24487872e.2015.15.519",
+          "title": "Villegas Delgado, César, La preeminencia del derecho en derecho internacional"
+        },
+        {
+          "doi": "10.1016/j.df.2017.07.001",
+          "title": "Cuando el velo deviene revolución, reseña del libro de Sirin Adlbi Sibai La cárcel del feminismo. Hacia un pensamiento islámico decolonial"
+        },
+        {
+          "doi": "10.22201/iij.24487872e.2018.18.12096",
+          "title": "A Tale of Non-State Actors and Human Rights at Sea: Maritime Migration Crisis and Commercial Vessels’ Obligations"
+        },
+        {
+          "doi": "10.22201/cieg.2594066xe.2006.34.1305",
+          "title": "El poder, los fantasmas y los cuerpos. Políticas corporales y subjetivación en la transición chilena"
+        },
+        {
+          "doi": "10.22201/iij.24487880e.2019.40.16183",
+          "title": "De bulas y pontífices. Prolegómenos de la cuestión indiana"
+        }
+      ]
+    },
+    {
+      "id": "page",
+      "label": "Page",
+      "category": "findable_support",
+      "effort": "automatic",
+      "crossref": 0.7288888888888889,
+      "openalex": 0.7389124684751184,
+      "gap": 0.010023579586229459,
+      "samples": [
+        {
+          "doi": "10.20937/rica.43350",
+          "title": "Riesgo ambiental por pesticidas en una cuenca del sur de la provincia de Santa Fe, Argentina"
+        },
+        {
+          "doi": "10.20937/rica.43416",
+          "title": "Bioinoculación y fertilización química reducida asociadas con el crecimiento de planta y productividad de sorgo"
+        },
+        {
+          "doi": "10.20937/rica.44016",
+          "title": "Formulación de Metarhizium anisopliae (Metschnikoff) Sorokin con polímeros biodegradables y su virulencia contra Heliothis virescens (Fabricius)"
+        },
+        {
+          "doi": "10.20937/rica.45223",
+          "title": "Síntesis de materiales zeolíticos a partir de ceniza volcánica en presencia y ausencia de bromuro de cetiltrimetilamonio"
+        },
+        {
+          "doi": "10.20937/rica.46759",
+          "title": "Niveles de plaguicidas organoclorados en suero sanguíneo comparados con la concentración de lípidos sanguíneos"
+        }
+      ]
+    },
+    {
+      "id": "published_print_date",
+      "label": "Published Print Date",
+      "category": "findable_support",
+      "effort": "automatic",
+      "crossref": 0.1189272030651341,
+      "openalex": 1,
+      "gap": 0.881072796934866,
+      "samples": [
+        {
+          "doi": "10.22201/cela.24484946e.2015.35.46965",
+          "title": "Movimientos sociales, élites y cultura política en América Latina"
+        },
+        {
+          "doi": "10.1016/j.pnsla.2014.08.002",
+          "title": "Percepciones juveniles de ciudadanía. El caso de Yucatán"
+        },
+        {
+          "doi": "10.22201/facmed.14058871p.2014.3.47936",
+          "title": "Portada, contraportada y hoja legal"
+        },
+        {
+          "doi": "10.22201/iij.24484873e.2015.142.4926",
+          "title": "Álvarez, Clara Luz, Derecho de las telecomunicaciones"
+        },
+        {
+          "doi": "10.22201/fesc.20072236e.2015.6.10.1",
+          "title": "El Consenso de Washington y la postura poskeynesiana"
+        }
+      ]
+    },
+    {
+      "id": "published_online_date",
+      "label": "Published Online Date",
+      "category": "findable_support",
+      "effort": "automatic",
+      "crossref": 0.910528735632184,
+      "openalex": 1,
+      "gap": 0.08947126436781605,
+      "samples": [
+        {
+          "doi": "10.7550/rmb.46308",
+          "title": "First record of Spathoteredo spatha (Mollusca: Teredinidae) in Venezuela"
+        },
+        {
+          "doi": "10.1016/s0301-7036(15)72118-8",
+          "title": "Reestructuración productiva e integración. tlcan 20 años después"
+        },
+        {
+          "doi": "10.1016/j.rmo.2016.03.007",
+          "title": "Análisis cefalométrico de las características esqueléticas y dentales que presentan pacientes adultos con fisuras labiopalatinas que recibieron tratamiento ortopédico, ortodóncico y/o quirúrgico durante su infancia y adolescencia"
+        },
+        {
+          "doi": "10.1016/s0186-1042(15)72150-9",
+          "title": "Opciones reales: una propuesta para valorar proyectos de I+D en centros públicos de investigación agraria"
+        },
+        {
+          "doi": "10.1016/j.rmo.2016.03.014",
+          "title": "Camouflage orthodontic treatment in an autistic class II patient with anterior open bite: Case report"
+        }
+      ]
+    },
+    {
+      "id": "license",
+      "label": "License",
+      "category": "accessible_essential",
+      "effort": "automatic",
+      "crossref": 0.4094712643678161,
+      "openalex": 0.7915051977609645,
+      "gap": 0.3820339333931484,
+      "samples": [
+        {
+          "doi": "10.22201/cela.24484946e.2015.35.46965",
+          "title": "Movimientos sociales, élites y cultura política en América Latina"
+        },
+        {
+          "doi": "10.22201/facmed.14058871p.2014.3.47936",
+          "title": "Portada, contraportada y hoja legal"
+        },
+        {
+          "doi": "10.22201/iij.24484873e.2015.142.4926",
+          "title": "Álvarez, Clara Luz, Derecho de las telecomunicaciones"
+        },
+        {
+          "doi": "10.22201/iij.24484873e.2015.142.4931",
+          "title": "Sepúlveda Amor, Bernardo, La Corte Internacional de Justicia y la protección de los derechos del individuo: el caso Avena"
+        },
+        {
+          "doi": "10.22201/ceiich.24485705e.2015.5.47617",
+          "title": "De la evolución al valor de uso, ida y vuelta: exploraciones en la domesticación y diversificación de plantas"
+        }
+      ]
+    },
+    {
+      "id": "license_url",
+      "label": "License URL",
+      "category": "accessible_essential",
+      "effort": "automatic",
+      "crossref": 0.4094712643678161,
+      "openalex": 0.7915051977609645,
+      "gap": 0.3820339333931484,
+      "samples": [
+        {
+          "doi": "10.22201/cela.24484946e.2015.35.46965",
+          "title": "Movimientos sociales, élites y cultura política en América Latina"
+        },
+        {
+          "doi": "10.22201/facmed.14058871p.2014.3.47936",
+          "title": "Portada, contraportada y hoja legal"
+        },
+        {
+          "doi": "10.22201/iij.24484873e.2015.142.4926",
+          "title": "Álvarez, Clara Luz, Derecho de las telecomunicaciones"
+        },
+        {
+          "doi": "10.22201/iij.24484873e.2015.142.4931",
+          "title": "Sepúlveda Amor, Bernardo, La Corte Internacional de Justicia y la protección de los derechos del individuo: el caso Avena"
+        },
+        {
+          "doi": "10.22201/ceiich.24485705e.2015.5.47617",
+          "title": "De la evolución al valor de uso, ida y vuelta: exploraciones en la domesticación y diversificación de plantas"
+        }
+      ]
+    },
+    {
+      "id": "open_access_license",
+      "label": "Open Access License",
+      "category": "accessible_essential",
+      "effort": "voluntary",
+      "crossref": 0.4082452107279693,
+      "openalex": 0.7892600110721535,
+      "gap": 0.38101480034418417,
+      "samples": [
+        {
+          "doi": "10.22201/cela.24484946e.2015.35.46965",
+          "title": "Movimientos sociales, élites y cultura política en América Latina"
+        },
+        {
+          "doi": "10.22201/facmed.14058871p.2014.3.47936",
+          "title": "Portada, contraportada y hoja legal"
+        },
+        {
+          "doi": "10.22201/iij.24484873e.2015.142.4926",
+          "title": "Álvarez, Clara Luz, Derecho de las telecomunicaciones"
+        },
+        {
+          "doi": "10.22201/iij.24484873e.2015.142.4931",
+          "title": "Sepúlveda Amor, Bernardo, La Corte Internacional de Justicia y la protección de los derechos del individuo: el caso Avena"
+        },
+        {
+          "doi": "10.22201/ceiich.24485705e.2015.5.47617",
+          "title": "De la evolución al valor de uso, ida y vuelta: exploraciones en la domesticación y diversificación de plantas"
+        }
+      ]
+    },
+    {
+      "id": "full_text_links",
+      "label": "Full-text Links",
+      "category": "accessible_essential",
+      "effort": "automatic",
+      "crossref": 0.8994022988505748,
+      "openalex": 0.663591068462816,
+      "gap": -0.23581123038775875,
+      "samples": [
+        {
+          "doi": "10.20937/atm.2015.28.01.02",
+          "title": "Assessment of potential human health and environmental impacts of a nuclear power plant (NPP) based on atmospheric dispersion modeling"
+        },
+        {
+          "doi": "10.20937/atm.2015.28.01.03",
+          "title": "Rapid deepening of tropical cyclones in the northeastern Tropical Pacific: The relationship with oceanic eddies"
+        },
+        {
+          "doi": "10.1016/s0187-6236(15)72157-0",
+          "title": "Rapid deepening of tropical cyclones in the northeastern Tropical Pacific: The relationship with oceanic eddies"
+        },
+        {
+          "doi": "10.1016/s0187-6236(15)72159-4",
+          "title": "Improved rainfall estimation over the Indian monsoon region by synergistic use of Kalpana-1 and rain gauge data"
+        },
+        {
+          "doi": "10.20937/atm.2015.28.01.05",
+          "title": "Improved rainfall estimation over the Indian monsoon region by synergistic use of Kalpana-1 and rain gauge data"
+        }
+      ]
+    },
+    {
+      "id": "resource_url",
+      "label": "Resource URL",
+      "category": "accessible_essential",
+      "effort": "automatic",
+      "crossref": 1,
+      "openalex": 1,
+      "gap": 0,
+      "samples": []
+    },
+    {
+      "id": "references",
+      "label": "References",
+      "category": "accessible_essential",
+      "effort": "voluntary",
+      "crossref": 0.3810268199233717,
+      "openalex": 0.606569477763425,
+      "gap": 0.22554265784005328,
+      "samples": [
+        {
+          "doi": "10.22201/fesc.20072236e.2015.6.10.1",
+          "title": "El Consenso de Washington y la postura poskeynesiana"
+        },
+        {
+          "doi": "10.20937/atm.2015.28.01.02",
+          "title": "Assessment of potential human health and environmental impacts of a nuclear power plant (NPP) based on atmospheric dispersion modeling"
+        },
+        {
+          "doi": "10.1016/j.rmdc.2016.03.005",
+          "title": "¿CÓMO AFRONTA EL DESAFÍO DE LA SOBRECARGA DE TRABAJO EL TRIBUNAL CONSTITUCIONAL DE ESPAÑA?"
+        },
+        {
+          "doi": "10.22201/iij.24484873e.2015.142.4920",
+          "title": "Las revistas jurídicas venezolanas en tiempos de revolución (2000-2013)"
+        },
+        {
+          "doi": "10.22201/ie.20074484e.2014.4.2.194",
+          "title": "&lt;b&gt; LOS MAMIFEROS DE OAXACA &lt;/b&gt;"
+        }
+      ]
+    },
+    {
+      "id": "references_count",
+      "label": "References Count",
+      "category": "accessible_essential",
+      "effort": "voluntary",
+      "crossref": 0.3810268199233717,
+      "openalex": 0.606569477763425,
+      "gap": 0.22554265784005328,
+      "samples": [
+        {
+          "doi": "10.22201/fesc.20072236e.2015.6.10.1",
+          "title": "El Consenso de Washington y la postura poskeynesiana"
+        },
+        {
+          "doi": "10.20937/atm.2015.28.01.02",
+          "title": "Assessment of potential human health and environmental impacts of a nuclear power plant (NPP) based on atmospheric dispersion modeling"
+        },
+        {
+          "doi": "10.1016/j.rmdc.2016.03.005",
+          "title": "¿CÓMO AFRONTA EL DESAFÍO DE LA SOBRECARGA DE TRABAJO EL TRIBUNAL CONSTITUCIONAL DE ESPAÑA?"
+        },
+        {
+          "doi": "10.22201/iij.24484873e.2015.142.4920",
+          "title": "Las revistas jurídicas venezolanas en tiempos de revolución (2000-2013)"
+        },
+        {
+          "doi": "10.22201/ie.20074484e.2014.4.2.194",
+          "title": "&lt;b&gt; LOS MAMIFEROS DE OAXACA &lt;/b&gt;"
+        }
+      ]
+    },
+    {
+      "id": "is_referenced_by",
+      "label": "Is Referenced By",
+      "category": "accessible_essential",
+      "effort": "automatic",
+      "crossref": 0.3583448275862069,
+      "openalex": 0.4867441717414037,
+      "gap": 0.12839934415519683,
+      "samples": [
+        {
+          "doi": "10.22201/cela.24484946e.2015.35.46965",
+          "title": "Movimientos sociales, élites y cultura política en América Latina"
+        },
+        {
+          "doi": "10.22201/iij.24484873e.2015.142.4931",
+          "title": "Sepúlveda Amor, Bernardo, La Corte Internacional de Justicia y la protección de los derechos del individuo: el caso Avena"
+        },
+        {
+          "doi": "10.22201/iis.01882503p.2015.1.46623",
+          "title": "Norma Blazquez Graf, Fátima Flores Palacios y Maribel Ríos Everardo (coordinadoras). Investigación feminista. Epistemología, metodología y representaciones sociales (México: Universidad Nacional Autónoma de México-Centro de Investigaciones Interdisciplina"
+        },
+        {
+          "doi": "10.20937/rica.43350",
+          "title": "Riesgo ambiental por pesticidas en una cuenca del sur de la provincia de Santa Fe, Argentina"
+        },
+        {
+          "doi": "10.22201/fa.2007252xp.2014.8.47601",
+          "title": "La modernización temprana en Mérida, Yucatán. Una nueva dualidad urbana"
+        }
+      ]
+    },
+    {
+      "id": "author_sequence",
+      "label": "Author Sequence",
+      "category": "accessible_support",
+      "effort": "automatic",
+      "crossref": 0.9951877394636015,
+      "openalex": 0.9986467367903057,
+      "gap": 0.003458997326704183,
+      "samples": [
+        {
+          "doi": "10.21933/j.edsc.2015.06.093",
+          "title": "Transferencias Monetarias Condicionadas en la estructura del ingreso de pueblos mayas de México: Jose Maria Morelos y Saban, Quintana Roo"
+        },
+        {
+          "doi": "10.21933/j.edsc.2015.06.003",
+          "title": "John Riordan y Kristen Becker, (2008). The good office. Green design on the cutting edge. Nueva York: Collins Design"
+        },
+        {
+          "doi": "10.21933/j.edsc.2015.06.102",
+          "title": "Avances, retos y desafíos: aproximación al estado del conocimiento de los estudios de género en educación superior en México"
+        },
+        {
+          "doi": "10.21933/j.edsc.2015.06.094",
+          "title": "La función de las paradojas en la física y el caso de Paul Ehrenfest"
+        },
+        {
+          "doi": "10.1016/j.acso.2015.06.002",
+          "title": "BIBLIOGRAFÍA ESPECIALIZADA SOBRE REFLEXIVIDAD"
+        }
+      ]
+    },
+    {
+      "id": "affiliation_ids_ror",
+      "label": "Affiliation IDs (ROR)",
+      "category": "accessible_support",
+      "effort": "voluntary",
+      "crossref": 0.0017471264367816092,
+      "openalex": 0.7215353386233623,
+      "gap": 0.7197882121865806,
+      "samples": [
+        {
+          "doi": "10.1016/j.pnsla.2014.08.002",
+          "title": "Percepciones juveniles de ciudadanía. El caso de Yucatán"
+        },
+        {
+          "doi": "10.7550/rmb.46308",
+          "title": "First record of Spathoteredo spatha (Mollusca: Teredinidae) in Venezuela"
+        },
+        {
+          "doi": "10.1016/s0301-7036(15)72118-8",
+          "title": "Reestructuración productiva e integración. tlcan 20 años después"
+        },
+        {
+          "doi": "10.22201/fesc.20072236e.2015.6.10.1",
+          "title": "El Consenso de Washington y la postura poskeynesiana"
+        },
+        {
+          "doi": "10.1016/j.rmo.2016.03.007",
+          "title": "Análisis cefalométrico de las características esqueléticas y dentales que presentan pacientes adultos con fisuras labiopalatinas que recibieron tratamiento ortopédico, ortodóncico y/o quirúrgico durante su infancia y adolescencia"
+        }
+      ]
+    },
+    {
+      "id": "relations",
+      "label": "Relations",
+      "category": "accessible_support",
+      "effort": "voluntary",
+      "crossref": 0.00024521072796934864,
+      "openalex": 0.9425785815341083,
+      "gap": 0.942333370806139,
+      "samples": [
+        {
+          "doi": "10.22201/cela.24484946e.2015.35.46965",
+          "title": "Movimientos sociales, élites y cultura política en América Latina"
+        },
+        {
+          "doi": "10.1016/j.pnsla.2014.08.002",
+          "title": "Percepciones juveniles de ciudadanía. El caso de Yucatán"
+        },
+        {
+          "doi": "10.7550/rmb.46308",
+          "title": "First record of Spathoteredo spatha (Mollusca: Teredinidae) in Venezuela"
+        },
+        {
+          "doi": "10.22201/facmed.14058871p.2014.3.47936",
+          "title": "Portada, contraportada y hoja legal"
+        },
+        {
+          "doi": "10.22201/iij.24484873e.2015.142.4926",
+          "title": "Álvarez, Clara Luz, Derecho de las telecomunicaciones"
+        }
+      ]
+    },
+    {
+      "id": "author_given_family",
+      "label": "Complete Author Names",
+      "category": "evaluation_coara",
+      "effort": "automatic",
+      "crossref": 0.9643218390804598,
+      "openalex": 0.9986467367903057,
+      "gap": 0.034324897709845925,
+      "samples": [
+        {
+          "doi": "10.20937/atm.2015.28.01.02",
+          "title": "Assessment of potential human health and environmental impacts of a nuclear power plant (NPP) based on atmospheric dispersion modeling"
+        },
+        {
+          "doi": "10.1016/s1665-6423(15)30008-0",
+          "title": "Robust Face Recognition Technique under Varying Illumination"
+        },
+        {
+          "doi": "10.20999/nam.2015.a007",
+          "title": "Internalization of International Migrants' Rights Norms. The case of Chiapas"
+        },
+        {
+          "doi": "10.20999/nam.2015.a008",
+          "title": "Los gobiernos locales y la cooperación transregional como alternativa a la política internacional de cambio climático"
+        },
+        {
+          "doi": "10.1016/j.ibbai.2016.02.022",
+          "title": "Reseñas"
+        }
+      ]
+    },
+    {
+      "id": "affiliation_ror",
+      "label": "Affiliation with ROR",
+      "category": "evaluation_coara",
+      "effort": "voluntary",
+      "crossref": 0.0017471264367816092,
+      "openalex": 0.7215353386233623,
+      "gap": 0.7197882121865806,
+      "samples": [
+        {
+          "doi": "10.1016/j.pnsla.2014.08.002",
+          "title": "Percepciones juveniles de ciudadanía. El caso de Yucatán"
+        },
+        {
+          "doi": "10.7550/rmb.46308",
+          "title": "First record of Spathoteredo spatha (Mollusca: Teredinidae) in Venezuela"
+        },
+        {
+          "doi": "10.1016/s0301-7036(15)72118-8",
+          "title": "Reestructuración productiva e integración. tlcan 20 años después"
+        },
+        {
+          "doi": "10.22201/fesc.20072236e.2015.6.10.1",
+          "title": "El Consenso de Washington y la postura poskeynesiana"
+        },
+        {
+          "doi": "10.1016/j.rmo.2016.03.007",
+          "title": "Análisis cefalométrico de las características esqueléticas y dentales que presentan pacientes adultos con fisuras labiopalatinas que recibieron tratamiento ortopédico, ortodóncico y/o quirúrgico durante su infancia y adolescencia"
+        }
+      ]
+    },
+    {
+      "id": "funding_complete",
+      "label": "Complete Funding Info",
+      "category": "evaluation_coara",
+      "effort": "voluntary",
+      "crossref": 0.0005823754789272031,
+      "openalex": 0.021682967337147075,
+      "gap": 0.021100591858219872,
+      "samples": [
+        {
+          "doi": "10.20937/atm.2015.28.01.02",
+          "title": "Assessment of potential human health and environmental impacts of a nuclear power plant (NPP) based on atmospheric dispersion modeling"
+        },
+        {
+          "doi": "10.7550/rmb.40560",
+          "title": "Comunidades de helmintos de Xiphophorus malinche (Pisces: Poeciliidae), especie dulceacuícola endémica del río Pánuco, Hidalgo, México"
+        },
+        {
+          "doi": "10.1016/j.gi.2015.04.001",
+          "title": "Dynamics of internal waves generated by mountain breeze in Alchichica Crater Lake, Mexico"
+        },
+        {
+          "doi": "10.7550/rmb.37437",
+          "title": "Descripción de una especie nueva de Vaejovis de Michoacán, México (Arachnida: Scorpiones: Vaejovidae)"
+        },
+        {
+          "doi": "10.1016/s1870-0578(16)30004-x",
+          "title": "The best interests of the minor as a principle of interpretation in Mexican civil law"
+        }
+      ]
+    },
+    {
+      "id": "preprint_version_link",
+      "label": "Preprint / Version Link",
+      "category": "evaluation_coara",
+      "effort": "voluntary",
+      "crossref": 0.0001532567049808429,
+      "openalex": 0.4088392692378668,
+      "gap": 0.40868601253288594,
+      "samples": [
+        {
+          "doi": "10.7550/rmb.46308",
+          "title": "First record of Spathoteredo spatha (Mollusca: Teredinidae) in Venezuela"
+        },
+        {
+          "doi": "10.22201/iij.24484873e.2015.142.4926",
+          "title": "Álvarez, Clara Luz, Derecho de las telecomunicaciones"
+        },
+        {
+          "doi": "10.22201/iij.24484873e.2015.142.4931",
+          "title": "Sepúlveda Amor, Bernardo, La Corte Internacional de Justicia y la protección de los derechos del individuo: el caso Avena"
+        },
+        {
+          "doi": "10.22201/ceiich.24485691e.2014.13.46602",
+          "title": "Contenido"
+        },
+        {
+          "doi": "10.1016/s0186-1042(15)72150-9",
+          "title": "Opciones reales: una propuesta para valorar proyectos de I+D en centros públicos de investigación agraria"
+        }
+      ]
+    },
+    {
+      "id": "open_access_status",
+      "label": "Open Access Status",
+      "category": "evaluation_coara",
+      "effort": "automatic",
+      "crossref": 0.4082452107279693,
+      "openalex": 0.9639539890508704,
+      "gap": 0.5557087783229011,
+      "samples": [
+        {
+          "doi": "10.22201/cela.24484946e.2015.35.46965",
+          "title": "Movimientos sociales, élites y cultura política en América Latina"
+        },
+        {
+          "doi": "10.22201/facmed.14058871p.2014.3.47936",
+          "title": "Portada, contraportada y hoja legal"
+        },
+        {
+          "doi": "10.22201/iij.24484873e.2015.142.4926",
+          "title": "Álvarez, Clara Luz, Derecho de las telecomunicaciones"
+        },
+        {
+          "doi": "10.22201/iij.24484873e.2015.142.4931",
+          "title": "Sepúlveda Amor, Bernardo, La Corte Internacional de Justicia y la protección de los derechos del individuo: el caso Avena"
+        },
+        {
+          "doi": "10.22201/ceiich.24485705e.2015.5.47617",
+          "title": "De la evolución al valor de uso, ida y vuelta: exploraciones en la domesticación y diversificación de plantas"
+        }
+      ]
+    }
+  ]
+}

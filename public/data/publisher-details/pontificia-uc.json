@@ -1,0 +1,3730 @@
+{
+  "id": "pontificia-uc",
+  "label": "Pontificia U. Católica de Chile",
+  "memberId": 4571,
+  "category": "regional_latam",
+  "categoryLabel": "Regional / Latin America",
+  "totalWorksSampled": 8408,
+  "totalWorksMatched": 8388,
+  "totalWorksUniverse": 8408,
+  "crossref": {
+    "overall": 0.3675413807436881,
+    "categories": {
+      "findable_essential": 0.6431870440849985,
+      "findable_support": 0.34794784188219013,
+      "accessible_essential": 0.3187969129929168,
+      "accessible_support": 0.2648073263558516,
+      "evaluation_coara": 0.08106565176022835
+    },
+    "fields": {
+      "title": 0.9998810656517603,
+      "abstract": 0.5877735490009515,
+      "author": 0.9980970504281637,
+      "author_affiliation": 0.0032112274024738343,
+      "doi": 1,
+      "publication_date": 1,
+      "publisher": 1,
+      "resource_type": 1,
+      "subject_keywords": 0,
+      "funder_name": 0,
+      "container_title": 1,
+      "language": 0.12928163653663177,
+      "author_orcid": 0.10751665080875357,
+      "all_authors_orcid": 0.07029019980970504,
+      "funder_doi": 0,
+      "award_number": 0,
+      "issn": 0.4138915318744053,
+      "volume": 0.46003805899143674,
+      "issue": 0.93232635585157,
+      "page": 0.8215984776403426,
+      "published_print_date": 0.020456707897240724,
+      "published_online_date": 0.9988106565176023,
+      "article_number": 0.0024976213130352047,
+      "license": 0.19778782112274024,
+      "license_url": 0.19778782112274024,
+      "open_access_license": 0.19778782112274024,
+      "full_text_links": 0.9316127497621313,
+      "resource_url": 1,
+      "references": 0.010466222645099905,
+      "references_count": 0.010466222645099905,
+      "is_referenced_by": 0.3232635585156993,
+      "update_policy": 0,
+      "jats_abstract": 0.5877735490009515,
+      "author_sequence": 0.9980970504281637,
+      "affiliation_ids_ror": 0.0028544243577545195,
+      "relations": 0.00011893434823977165,
+      "assertions": 0,
+      "archive": 0,
+      "credit_roles": 0,
+      "author_given_family": 0.6100142721217888,
+      "affiliation_ror": 0.0028544243577545195,
+      "funding_complete": 0,
+      "data_availability": 0,
+      "preprint_version_link": 0,
+      "peer_review_info": 0,
+      "clinical_trial": 0,
+      "abstract_structured": 0,
+      "open_access_status": 0.19778782112274024
+    }
+  },
+  "openalex": {
+    "overall": 0.5849527403264886,
+    "categories": {
+      "findable_essential": 0.8130563503417582,
+      "findable_support": 0.5314626956257857,
+      "accessible_essential": 0.6197610342817782,
+      "accessible_support": 0.44919329200445085,
+      "evaluation_coara": 0.30728421554601815
+    },
+    "fields": {
+      "title": 0.9998807820696233,
+      "abstract": 0.8233190271816881,
+      "author": 0.9994039103481164,
+      "author_affiliation": 0.7676442536957558,
+      "doi": 1,
+      "publication_date": 1,
+      "publisher": 0.3383404864091559,
+      "resource_type": 1,
+      "subject_keywords": 0.9997615641392466,
+      "funder_name": 0.05925131139723414,
+      "container_title": 0.807105388650453,
+      "language": 0.9619694802098235,
+      "author_orcid": 0.56413924654268,
+      "all_authors_orcid": 0.28457319980925133,
+      "funder_doi": 0.05925131139723414,
+      "award_number": 0.02587029089175012,
+      "issn": 0.6983786361468765,
+      "volume": 0.45994277539341916,
+      "issue": 0.9325226514067716,
+      "page": 0.8214115402956604,
+      "published_print_date": 1,
+      "published_online_date": 1,
+      "article_number": 0,
+      "license": 0.8079399141630901,
+      "license_url": 0.8079399141630901,
+      "open_access_license": 0.7900572246065808,
+      "full_text_links": 0.8130662851692895,
+      "resource_url": 1,
+      "references": 0.47067238912732473,
+      "references_count": 0.47067238912732473,
+      "is_referenced_by": 0.41750119217930376,
+      "update_policy": 0,
+      "jats_abstract": 0,
+      "author_sequence": 0.9994039103481164,
+      "affiliation_ids_ror": 0.7670481640438722,
+      "relations": 0.9287076776347163,
+      "assertions": 0,
+      "archive": 0,
+      "credit_roles": 0,
+      "author_given_family": 0.9994039103481164,
+      "affiliation_ror": 0.7670481640438722,
+      "funding_complete": 0.02587029089175012,
+      "data_availability": 0,
+      "preprint_version_link": 0.3574153552694325,
+      "peer_review_info": 0,
+      "clinical_trial": 0,
+      "abstract_structured": 0,
+      "open_access_status": 0.92310443490701
+    }
+  },
+  "gap": 0.2174113595828005,
+  "comparable": {
+    "crossref": {
+      "categories": {
+        "findable_essential": 0.6431870440849985,
+        "findable_support": 0.3824928639391056,
+        "accessible_essential": 0.3586465271170314,
+        "accessible_support": 0.33369013637805267,
+        "evaluation_coara": 0.1621313035204567
+      },
+      "overall": 0.4057869489375198
+    },
+    "openalex": {
+      "categories": {
+        "findable_essential": 0.8130563503417582,
+        "findable_support": 0.5846089651883644,
+        "accessible_essential": 0.6972311635670004,
+        "accessible_support": 0.8983865840089017,
+        "evaluation_coara": 0.6145684310920363
+      },
+      "overall": 0.7186683853918296
+    },
+    "gap": 0.3128814364543098,
+    "fieldCount": 38,
+    "totalFieldCount": 48
+  },
+  "voluntary": {
+    "crossref": {
+      "categories": {
+        "findable_essential": 0.14774619410085632,
+        "findable_support": 0.04445171265461465,
+        "accessible_essential": 0.07290675547098002,
+        "accessible_support": 0.0014866793529971455,
+        "evaluation_coara": 0.0009514747859181732
+      },
+      "overall": 0.06955726688867746
+    },
+    "openalex": {
+      "categories": {
+        "findable_essential": 0.662494039103481,
+        "findable_support": 0.2334585121602289,
+        "accessible_essential": 0.5771340009537435,
+        "accessible_support": 0.8478779208392943,
+        "evaluation_coara": 0.38344460340168496
+      },
+      "overall": 0.539527201557781
+    },
+    "gap": 0.46996993466910353,
+    "fieldCount": 16
+  },
+  "automatic": {
+    "crossref": {
+      "categories": {
+        "findable_essential": 0.8909074690770695,
+        "findable_support": 0.6078536314620996,
+        "accessible_essential": 0.5300903901046622,
+        "accessible_support": 0.9980970504281637,
+        "evaluation_coara": 0.40390104662226456
+      },
+      "overall": 0.6715627973358707
+    },
+    "openalex": {
+      "categories": {
+        "findable_essential": 0.8883375059608966,
+        "findable_support": 0.8187092672071213,
+        "accessible_essential": 0.7692894611349547,
+        "accessible_support": 0.9994039103481164,
+        "evaluation_coara": 0.9612541726275632
+      },
+      "overall": 0.8738212327134001
+    },
+    "gap": 0.2022584353775294,
+    "fieldCount": 22
+  },
+  "yearlyScores": [
+    {
+      "year": 2015,
+      "count": 467,
+      "matched": 465,
+      "universeSize": 467,
+      "crossref": {
+        "overall": 0.35106774381934974,
+        "categories": {
+          "findable_essential": 0.6336545324768023,
+          "findable_support": 0.40062293167218227,
+          "accessible_essential": 0.28693790149892934,
+          "accessible_support": 0.19593147751605997,
+          "evaluation_coara": 0.047751605995717344
+        },
+        "fields": {
+          "title": 1,
+          "abstract": 0.17558886509635974,
+          "author": 1,
+          "author_affiliation": 0,
+          "doi": 1,
+          "publication_date": 1,
+          "publisher": 1,
+          "resource_type": 1,
+          "subject_keywords": 0,
+          "funder_name": 0,
+          "container_title": 1,
+          "language": 0.4282655246252677,
+          "author_orcid": 0,
+          "all_authors_orcid": 0,
+          "funder_doi": 0,
+          "award_number": 0,
+          "issn": 0.6937901498929336,
+          "volume": 0.6766595289079229,
+          "issue": 0.9550321199143469,
+          "page": 0.9336188436830836,
+          "published_print_date": 0.14775160599571735,
+          "published_online_date": 1,
+          "article_number": 0,
+          "license": 0,
+          "license_url": 0,
+          "open_access_license": 0,
+          "full_text_links": 0.8329764453961456,
+          "resource_url": 1,
+          "references": 0.11349036402569593,
+          "references_count": 0.11349036402569593,
+          "is_referenced_by": 0.5224839400428265,
+          "update_policy": 0,
+          "jats_abstract": 0.17558886509635974,
+          "author_sequence": 1,
+          "affiliation_ids_ror": 0,
+          "relations": 0,
+          "assertions": 0,
+          "archive": 0,
+          "credit_roles": 0,
+          "author_given_family": 0.47751605995717344,
+          "affiliation_ror": 0,
+          "funding_complete": 0,
+          "data_availability": 0,
+          "preprint_version_link": 0,
+          "peer_review_info": 0,
+          "clinical_trial": 0,
+          "abstract_structured": 0,
+          "open_access_status": 0
+        }
+      },
+      "openalex": {
+        "overall": 0.6076555881394591,
+        "categories": {
+          "findable_essential": 0.8460573476702509,
+          "findable_support": 0.5730205278592375,
+          "accessible_essential": 0.6279569892473118,
+          "accessible_support": 0.4616487455197133,
+          "evaluation_coara": 0.32365591397849464
+        },
+        "fields": {
+          "title": 1,
+          "abstract": 0.7419354838709677,
+          "author": 1,
+          "author_affiliation": 0.7741935483870968,
+          "doi": 1,
+          "publication_date": 1,
+          "publisher": 0.6387096774193548,
+          "resource_type": 1,
+          "subject_keywords": 1,
+          "funder_name": 0.09462365591397849,
+          "container_title": 0.9032258064516129,
+          "language": 1,
+          "author_orcid": 0.556989247311828,
+          "all_authors_orcid": 0.22365591397849463,
+          "funder_doi": 0.09462365591397849,
+          "award_number": 0.03870967741935484,
+          "issn": 0.821505376344086,
+          "volume": 0.6752688172043011,
+          "issue": 0.9591397849462365,
+          "page": 0.9333333333333333,
+          "published_print_date": 1,
+          "published_online_date": 1,
+          "article_number": 0,
+          "license": 0.7268817204301076,
+          "license_url": 0.7268817204301076,
+          "open_access_license": 0.6903225806451613,
+          "full_text_links": 0.7268817204301076,
+          "resource_url": 1,
+          "references": 0.5741935483870968,
+          "references_count": 0.5741935483870968,
+          "is_referenced_by": 0.632258064516129,
+          "update_policy": 0,
+          "jats_abstract": 0,
+          "author_sequence": 1,
+          "affiliation_ids_ror": 0.7741935483870968,
+          "relations": 0.9956989247311828,
+          "assertions": 0,
+          "archive": 0,
+          "credit_roles": 0,
+          "author_given_family": 1,
+          "affiliation_ror": 0.7741935483870968,
+          "funding_complete": 0.03870967741935484,
+          "data_availability": 0,
+          "preprint_version_link": 0.4666666666666667,
+          "peer_review_info": 0,
+          "clinical_trial": 0,
+          "abstract_structured": 0,
+          "open_access_status": 0.956989247311828
+        }
+      },
+      "comparable": {
+        "crossref": {
+          "categories": {
+            "findable_essential": 0.6336545324768023,
+            "findable_support": 0.4406852248394005,
+            "accessible_essential": 0.3228051391862955,
+            "accessible_support": 0.3333333333333333,
+            "evaluation_coara": 0.09550321199143469
+          },
+          "overall": 0.38933440399714486
+        },
+        "openalex": {
+          "categories": {
+            "findable_essential": 0.8460573476702509,
+            "findable_support": 0.6303225806451612,
+            "accessible_essential": 0.7064516129032258,
+            "accessible_support": 0.9232974910394266,
+            "evaluation_coara": 0.6473118279569893
+          },
+          "overall": 0.7467706093189964
+        },
+        "gap": 0.35743620532185155
+      },
+      "voluntary": {
+        "crossref": 0.032084225553176304,
+        "openalex": 0.5571057347670251
+      }
+    },
+    {
+      "year": 2016,
+      "count": 532,
+      "matched": 532,
+      "universeSize": 532,
+      "crossref": {
+        "overall": 0.3461942735626946,
+        "categories": {
+          "findable_essential": 0.631265664160401,
+          "findable_support": 0.38021189336978806,
+          "accessible_essential": 0.2771512113617377,
+          "accessible_support": 0.1970551378446115,
+          "evaluation_coara": 0.05394736842105263
+        },
+        "fields": {
+          "title": 1,
+          "abstract": 0.18045112781954886,
+          "author": 1,
+          "author_affiliation": 0,
+          "doi": 1,
+          "publication_date": 1,
+          "publisher": 1,
+          "resource_type": 1,
+          "subject_keywords": 0,
+          "funder_name": 0,
+          "container_title": 1,
+          "language": 0.39473684210526316,
+          "author_orcid": 0,
+          "all_authors_orcid": 0,
+          "funder_doi": 0,
+          "award_number": 0,
+          "issn": 0.575187969924812,
+          "volume": 0.631578947368421,
+          "issue": 0.9661654135338346,
+          "page": 0.9454887218045113,
+          "published_print_date": 0.06390977443609022,
+          "published_online_date": 1,
+          "article_number": 0,
+          "license": 0.018796992481203006,
+          "license_url": 0.018796992481203006,
+          "open_access_license": 0.018796992481203006,
+          "full_text_links": 0.8796992481203008,
+          "resource_url": 1,
+          "references": 0.02819548872180451,
+          "references_count": 0.02819548872180451,
+          "is_referenced_by": 0.5018796992481203,
+          "update_policy": 0,
+          "jats_abstract": 0.18045112781954886,
+          "author_sequence": 1,
+          "affiliation_ids_ror": 0,
+          "relations": 0.0018796992481203006,
+          "assertions": 0,
+          "archive": 0,
+          "credit_roles": 0,
+          "author_given_family": 0.5206766917293233,
+          "affiliation_ror": 0,
+          "funding_complete": 0,
+          "data_availability": 0,
+          "preprint_version_link": 0,
+          "peer_review_info": 0,
+          "clinical_trial": 0,
+          "abstract_structured": 0,
+          "open_access_status": 0.018796992481203006
+        }
+      },
+      "openalex": {
+        "overall": 0.5957651705020126,
+        "categories": {
+          "findable_essential": 0.8348997493734335,
+          "findable_support": 0.5741626794258372,
+          "accessible_essential": 0.6038011695906433,
+          "accessible_support": 0.45175438596491224,
+          "evaluation_coara": 0.3152255639097744
+        },
+        "fields": {
+          "title": 1,
+          "abstract": 0.806390977443609,
+          "author": 1,
+          "author_affiliation": 0.7293233082706767,
+          "doi": 1,
+          "publication_date": 1,
+          "publisher": 0.543233082706767,
+          "resource_type": 1,
+          "subject_keywords": 1,
+          "funder_name": 0.09022556390977443,
+          "container_title": 0.849624060150376,
+          "language": 1,
+          "author_orcid": 0.5939849624060151,
+          "all_authors_orcid": 0.24436090225563908,
+          "funder_doi": 0.09022556390977443,
+          "award_number": 0.039473684210526314,
+          "issn": 0.8045112781954887,
+          "volume": 0.631578947368421,
+          "issue": 0.9661654135338346,
+          "page": 0.9454887218045113,
+          "published_print_date": 1,
+          "published_online_date": 1,
+          "article_number": 0,
+          "license": 0.7518796992481203,
+          "license_url": 0.7518796992481203,
+          "open_access_license": 0.7293233082706767,
+          "full_text_links": 0.7161654135338346,
+          "resource_url": 1,
+          "references": 0.4398496240601504,
+          "references_count": 0.4398496240601504,
+          "is_referenced_by": 0.6052631578947368,
+          "update_policy": 0,
+          "jats_abstract": 0,
+          "author_sequence": 1,
+          "affiliation_ids_ror": 0.7293233082706767,
+          "relations": 0.981203007518797,
+          "assertions": 0,
+          "archive": 0,
+          "credit_roles": 0,
+          "author_given_family": 1,
+          "affiliation_ror": 0.7293233082706767,
+          "funding_complete": 0.039473684210526314,
+          "data_availability": 0,
+          "preprint_version_link": 0.4266917293233083,
+          "peer_review_info": 0,
+          "clinical_trial": 0,
+          "abstract_structured": 0,
+          "open_access_status": 0.956766917293233
+        }
+      },
+      "comparable": {
+        "crossref": {
+          "categories": {
+            "findable_essential": 0.631265664160401,
+            "findable_support": 0.4182330827067669,
+            "accessible_essential": 0.31179511278195493,
+            "accessible_support": 0.3339598997493734,
+            "evaluation_coara": 0.10789473684210527
+          },
+          "overall": 0.3850383771929824
+        },
+        "openalex": {
+          "categories": {
+            "findable_essential": 0.8348997493734335,
+            "findable_support": 0.631578947368421,
+            "accessible_essential": 0.6792763157894738,
+            "accessible_support": 0.9035087719298245,
+            "evaluation_coara": 0.6304511278195488
+          },
+          "overall": 0.7314669486215539
+        },
+        "gap": 0.34642857142857153
+      },
+      "voluntary": {
+        "crossref": 0.01989348370927318,
+        "openalex": 0.5325579573934838
+      }
+    },
+    {
+      "year": 2017,
+      "count": 593,
+      "matched": 593,
+      "universeSize": 593,
+      "crossref": {
+        "overall": 0.3349339090738754,
+        "categories": {
+          "findable_essential": 0.6207138842046094,
+          "findable_support": 0.357350912156983,
+          "accessible_essential": 0.2638186246955218,
+          "accessible_support": 0.2062956717256886,
+          "evaluation_coara": 0.04266441821247892
+        },
+        "fields": {
+          "title": 0.9983136593591906,
+          "abstract": 0.23777403035413153,
+          "author": 1,
+          "author_affiliation": 0,
+          "doi": 1,
+          "publication_date": 1,
+          "publisher": 1,
+          "resource_type": 1,
+          "subject_keywords": 0,
+          "funder_name": 0,
+          "container_title": 1,
+          "language": 0.21247892074198987,
+          "author_orcid": 0,
+          "all_authors_orcid": 0,
+          "funder_doi": 0,
+          "award_number": 0,
+          "issn": 0.5463743676222597,
+          "volume": 0.6290050590219224,
+          "issue": 0.8094435075885329,
+          "page": 0.927487352445194,
+          "published_print_date": 0.01854974704890388,
+          "published_online_date": 1,
+          "article_number": 0,
+          "license": 0,
+          "license_url": 0,
+          "open_access_license": 0,
+          "full_text_links": 0.8988195615514334,
+          "resource_url": 1,
+          "references": 0.00505902192242833,
+          "references_count": 0.00505902192242833,
+          "is_referenced_by": 0.4654300168634064,
+          "update_policy": 0,
+          "jats_abstract": 0.23777403035413153,
+          "author_sequence": 1,
+          "affiliation_ids_ror": 0,
+          "relations": 0,
+          "assertions": 0,
+          "archive": 0,
+          "credit_roles": 0,
+          "author_given_family": 0.4266441821247892,
+          "affiliation_ror": 0,
+          "funding_complete": 0,
+          "data_availability": 0,
+          "preprint_version_link": 0,
+          "peer_review_info": 0,
+          "clinical_trial": 0,
+          "abstract_structured": 0,
+          "open_access_status": 0
+        }
+      },
+      "openalex": {
+        "overall": 0.5832565963173044,
+        "categories": {
+          "findable_essential": 0.8317875210792579,
+          "findable_support": 0.5433082937298789,
+          "accessible_essential": 0.5669851976765973,
+          "accessible_support": 0.4558740865654862,
+          "evaluation_coara": 0.32445193929173693
+        },
+        "fields": {
+          "title": 0.9983136593591906,
+          "abstract": 0.8701517706576728,
+          "author": 1,
+          "author_affiliation": 0.7622259696458684,
+          "doi": 1,
+          "publication_date": 1,
+          "publisher": 0.39291736930860033,
+          "resource_type": 1,
+          "subject_keywords": 1,
+          "funder_name": 0.050590219224283306,
+          "container_title": 0.9072512647554806,
+          "language": 1,
+          "author_orcid": 0.5430016863406408,
+          "all_authors_orcid": 0.24283305227655985,
+          "funder_doi": 0.050590219224283306,
+          "award_number": 0.021922428330522766,
+          "issn": 0.7521079258010118,
+          "volume": 0.6290050590219224,
+          "issue": 0.8094435075885329,
+          "page": 0.927487352445194,
+          "published_print_date": 1,
+          "published_online_date": 1,
+          "article_number": 0,
+          "license": 0.6711635750421585,
+          "license_url": 0.6711635750421585,
+          "open_access_license": 0.6357504215851602,
+          "full_text_links": 0.7386172006745363,
+          "resource_url": 1,
+          "references": 0.40978077571669475,
+          "references_count": 0.40978077571669475,
+          "is_referenced_by": 0.5666104553119731,
+          "update_policy": 0,
+          "jats_abstract": 0,
+          "author_sequence": 1,
+          "affiliation_ids_ror": 0.7588532883642496,
+          "relations": 0.9763912310286678,
+          "assertions": 0,
+          "archive": 0,
+          "credit_roles": 0,
+          "author_given_family": 1,
+          "affiliation_ror": 0.7588532883642496,
+          "funding_complete": 0.021922428330522766,
+          "data_availability": 0,
+          "preprint_version_link": 0.4957841483979764,
+          "peer_review_info": 0,
+          "clinical_trial": 0,
+          "abstract_structured": 0,
+          "open_access_status": 0.9679595278246206
+        }
+      },
+      "comparable": {
+        "crossref": {
+          "categories": {
+            "findable_essential": 0.6207138842046094,
+            "findable_support": 0.3930860033726813,
+            "accessible_essential": 0.296795952782462,
+            "accessible_support": 0.3333333333333333,
+            "evaluation_coara": 0.08532883642495784
+          },
+          "overall": 0.36977515458122545
+        },
+        "openalex": {
+          "categories": {
+            "findable_essential": 0.8317875210792579,
+            "findable_support": 0.5976391231028668,
+            "accessible_essential": 0.637858347386172,
+            "accessible_support": 0.9117481731309725,
+            "evaluation_coara": 0.6489038785834739
+          },
+          "overall": 0.7196023046655424
+        },
+        "gap": 0.349827150084317
+      },
+      "voluntary": {
+        "crossref": 0.018676222596964585,
+        "openalex": 0.526552838673412
+      }
+    },
+    {
+      "year": 2018,
+      "count": 531,
+      "matched": 530,
+      "universeSize": 531,
+      "crossref": {
+        "overall": 0.3303282352717381,
+        "categories": {
+          "findable_essential": 0.6206842435655995,
+          "findable_support": 0.33230611196712895,
+          "accessible_essential": 0.265118225570203,
+          "accessible_support": 0.1989956057752668,
+          "evaluation_coara": 0.04048964218455744
+        },
+        "fields": {
+          "title": 1,
+          "abstract": 0.1958568738229755,
+          "author": 0.9981167608286252,
+          "author_affiliation": 0,
+          "doi": 1,
+          "publication_date": 1,
+          "publisher": 1,
+          "resource_type": 1,
+          "subject_keywords": 0,
+          "funder_name": 0,
+          "container_title": 1,
+          "language": 0.2542372881355932,
+          "author_orcid": 0,
+          "all_authors_orcid": 0,
+          "funder_doi": 0,
+          "award_number": 0,
+          "issn": 0.3408662900188324,
+          "volume": 0.5329566854990584,
+          "issue": 0.8135593220338984,
+          "page": 0.9322033898305084,
+          "published_print_date": 0.05273069679849341,
+          "published_online_date": 0.9830508474576272,
+          "article_number": 0,
+          "license": 0,
+          "license_url": 0,
+          "open_access_license": 0,
+          "full_text_links": 0.879472693032015,
+          "resource_url": 1,
+          "references": 0,
+          "references_count": 0,
+          "is_referenced_by": 0.5065913370998116,
+          "update_policy": 0,
+          "jats_abstract": 0.1958568738229755,
+          "author_sequence": 0.9981167608286252,
+          "affiliation_ids_ror": 0,
+          "relations": 0,
+          "assertions": 0,
+          "archive": 0,
+          "credit_roles": 0,
+          "author_given_family": 0.4048964218455744,
+          "affiliation_ror": 0,
+          "funding_complete": 0,
+          "data_availability": 0,
+          "preprint_version_link": 0,
+          "peer_review_info": 0,
+          "clinical_trial": 0,
+          "abstract_structured": 0,
+          "open_access_status": 0
+        }
+      },
+      "openalex": {
+        "overall": 0.6119695063846007,
+        "categories": {
+          "findable_essential": 0.8330188679245284,
+          "findable_support": 0.527958833619211,
+          "accessible_essential": 0.6712788259958071,
+          "accessible_support": 0.4738993710691824,
+          "evaluation_coara": 0.3383018867924528
+        },
+        "fields": {
+          "title": 1,
+          "abstract": 0.8905660377358491,
+          "author": 0.9981132075471698,
+          "author_affiliation": 0.8547169811320755,
+          "doi": 1,
+          "publication_date": 1,
+          "publisher": 0.39433962264150946,
+          "resource_type": 1,
+          "subject_keywords": 0.9981132075471698,
+          "funder_name": 0.062264150943396226,
+          "container_title": 0.8,
+          "language": 0.9981132075471698,
+          "author_orcid": 0.5811320754716981,
+          "all_authors_orcid": 0.21132075471698114,
+          "funder_doi": 0.062264150943396226,
+          "award_number": 0.020754716981132074,
+          "issn": 0.6528301886792452,
+          "volume": 0.5339622641509434,
+          "issue": 0.8132075471698114,
+          "page": 0.9320754716981132,
+          "published_print_date": 1,
+          "published_online_date": 1,
+          "article_number": 0,
+          "license": 0.8622641509433963,
+          "license_url": 0.8622641509433963,
+          "open_access_license": 0.8207547169811321,
+          "full_text_links": 0.7943396226415095,
+          "resource_url": 1,
+          "references": 0.5283018867924528,
+          "references_count": 0.5283018867924528,
+          "is_referenced_by": 0.6452830188679245,
+          "update_policy": 0,
+          "jats_abstract": 0,
+          "author_sequence": 0.9981132075471698,
+          "affiliation_ids_ror": 0.8547169811320755,
+          "relations": 0.9905660377358491,
+          "assertions": 0,
+          "archive": 0,
+          "credit_roles": 0,
+          "author_given_family": 0.9981132075471698,
+          "affiliation_ror": 0.8547169811320755,
+          "funding_complete": 0.020754716981132074,
+          "data_availability": 0,
+          "preprint_version_link": 0.5188679245283019,
+          "peer_review_info": 0,
+          "clinical_trial": 0,
+          "abstract_structured": 0,
+          "open_access_status": 0.9905660377358491
+        }
+      },
+      "comparable": {
+        "crossref": {
+          "categories": {
+            "findable_essential": 0.6206842435655995,
+            "findable_support": 0.36553672316384184,
+            "accessible_essential": 0.2982580037664784,
+            "accessible_support": 0.33270558694287505,
+            "evaluation_coara": 0.08097928436911488
+          },
+          "overall": 0.36506669805398617
+        },
+        "openalex": {
+          "categories": {
+            "findable_essential": 0.8330188679245284,
+            "findable_support": 0.5807547169811321,
+            "accessible_essential": 0.755188679245283,
+            "accessible_support": 0.9477987421383648,
+            "evaluation_coara": 0.6766037735849056
+          },
+          "overall": 0.7559166666666667
+        },
+        "gap": 0.3908499686126805
+      },
+      "voluntary": {
+        "crossref": 0.014689265536723162,
+        "openalex": 0.5849213836477988
+      }
+    },
+    {
+      "year": 2019,
+      "count": 754,
+      "matched": 753,
+      "universeSize": 754,
+      "crossref": {
+        "overall": 0.33282848377675966,
+        "categories": {
+          "findable_essential": 0.6192528735632185,
+          "findable_support": 0.3324089703400049,
+          "accessible_essential": 0.2681992337164751,
+          "accessible_support": 0.21043324491600354,
+          "evaluation_coara": 0.04549071618037136
+        },
+        "fields": {
+          "title": 1,
+          "abstract": 0.26790450928381965,
+          "author": 0.9946949602122016,
+          "author_affiliation": 0,
+          "doi": 1,
+          "publication_date": 1,
+          "publisher": 1,
+          "resource_type": 1,
+          "subject_keywords": 0,
+          "funder_name": 0,
+          "container_title": 1,
+          "language": 0.16843501326259946,
+          "author_orcid": 0,
+          "all_authors_orcid": 0,
+          "funder_doi": 0,
+          "award_number": 0,
+          "issn": 0.3183023872679045,
+          "volume": 0.5172413793103449,
+          "issue": 0.9137931034482759,
+          "page": 0.9045092838196287,
+          "published_print_date": 0.002652519893899204,
+          "published_online_date": 1,
+          "article_number": 0,
+          "license": 0.03050397877984085,
+          "license_url": 0.03050397877984085,
+          "open_access_license": 0.03050397877984085,
+          "full_text_links": 0.916445623342175,
+          "resource_url": 1,
+          "references": 0,
+          "references_count": 0,
+          "is_referenced_by": 0.40583554376657827,
+          "update_policy": 0,
+          "jats_abstract": 0.26790450928381965,
+          "author_sequence": 0.9946949602122016,
+          "affiliation_ids_ror": 0,
+          "relations": 0,
+          "assertions": 0,
+          "archive": 0,
+          "credit_roles": 0,
+          "author_given_family": 0.4244031830238727,
+          "affiliation_ror": 0,
+          "funding_complete": 0,
+          "data_availability": 0,
+          "preprint_version_link": 0,
+          "peer_review_info": 0,
+          "clinical_trial": 0,
+          "abstract_structured": 0,
+          "open_access_status": 0.03050397877984085
+        }
+      },
+      "openalex": {
+        "overall": 0.5999864515003958,
+        "categories": {
+          "findable_essential": 0.8291279327135902,
+          "findable_support": 0.5408668356875528,
+          "accessible_essential": 0.6350892725394718,
+          "accessible_support": 0.4645861000442674,
+          "evaluation_coara": 0.3244355909694555
+        },
+        "fields": {
+          "title": 1,
+          "abstract": 0.8167330677290837,
+          "author": 0.99734395750332,
+          "author_affiliation": 0.8074369189907038,
+          "doi": 1,
+          "publication_date": 1,
+          "publisher": 0.43293492695883135,
+          "resource_type": 1,
+          "subject_keywords": 1,
+          "funder_name": 0.07835325365205843,
+          "container_title": 0.8167330677290837,
+          "language": 1,
+          "author_orcid": 0.5776892430278885,
+          "all_authors_orcid": 0.2297476759628154,
+          "funder_doi": 0.07835325365205843,
+          "award_number": 0.027888446215139442,
+          "issn": 0.701195219123506,
+          "volume": 0.5166002656042497,
+          "issue": 0.9136786188579017,
+          "page": 0.9043824701195219,
+          "published_print_date": 1,
+          "published_online_date": 1,
+          "article_number": 0,
+          "license": 0.8140770252324038,
+          "license_url": 0.8140770252324038,
+          "open_access_license": 0.7928286852589641,
+          "full_text_links": 0.7583001328021248,
+          "resource_url": 1,
+          "references": 0.5059760956175299,
+          "references_count": 0.5059760956175299,
+          "is_referenced_by": 0.5245683930942895,
+          "update_policy": 0,
+          "jats_abstract": 0,
+          "author_sequence": 0.99734395750332,
+          "affiliation_ids_ror": 0.8074369189907038,
+          "relations": 0.9827357237715804,
+          "assertions": 0,
+          "archive": 0,
+          "credit_roles": 0,
+          "author_given_family": 0.99734395750332,
+          "affiliation_ror": 0.8074369189907038,
+          "funding_complete": 0.027888446215139442,
+          "data_availability": 0,
+          "preprint_version_link": 0.42231075697211157,
+          "peer_review_info": 0,
+          "clinical_trial": 0,
+          "abstract_structured": 0,
+          "open_access_status": 0.9893758300132802
+        }
+      },
+      "comparable": {
+        "crossref": {
+          "categories": {
+            "findable_essential": 0.6192528735632185,
+            "findable_support": 0.36564986737400534,
+            "accessible_essential": 0.3017241379310345,
+            "accessible_support": 0.33156498673740054,
+            "evaluation_coara": 0.09098143236074271
+          },
+          "overall": 0.3674071618037136
+        },
+        "openalex": {
+          "categories": {
+            "findable_essential": 0.8291279327135902,
+            "findable_support": 0.5949535192563081,
+            "accessible_essential": 0.7144754316069057,
+            "accessible_support": 0.9291722000885348,
+            "evaluation_coara": 0.648871181938911
+          },
+          "overall": 0.7392917220008853
+        },
+        "gap": 0.37188456019717175
+      },
+      "voluntary": {
+        "crossref": 0.022634836427939876,
+        "openalex": 0.560701637892873
+      }
+    },
+    {
+      "year": 2020,
+      "count": 847,
+      "matched": 845,
+      "universeSize": 847,
+      "crossref": {
+        "overall": 0.3400437074404017,
+        "categories": {
+          "findable_essential": 0.6266233766233766,
+          "findable_support": 0.3190941290114844,
+          "accessible_essential": 0.26852945034763215,
+          "accessible_support": 0.22963400236127507,
+          "evaluation_coara": 0.0704840613931523
+        },
+        "fields": {
+          "title": 1,
+          "abstract": 0.3789846517119244,
+          "author": 0.9988193624557261,
+          "author_affiliation": 0,
+          "doi": 1,
+          "publication_date": 1,
+          "publisher": 1,
+          "resource_type": 1,
+          "subject_keywords": 0,
+          "funder_name": 0,
+          "container_title": 1,
+          "language": 0.14167650531286896,
+          "author_orcid": 0.0011806375442739079,
+          "all_authors_orcid": 0.0011806375442739079,
+          "funder_doi": 0,
+          "award_number": 0,
+          "issn": 0.282172373081464,
+          "volume": 0.42621015348288077,
+          "issue": 0.9090909090909091,
+          "page": 0.8902007083825265,
+          "published_print_date": 0,
+          "published_online_date": 1,
+          "article_number": 0,
+          "license": 0.02833530106257379,
+          "license_url": 0.02833530106257379,
+          "open_access_license": 0.02833530106257379,
+          "full_text_links": 0.9268004722550177,
+          "resource_url": 1,
+          "references": 0.0035419126328217238,
+          "references_count": 0.0035419126328217238,
+          "is_referenced_by": 0.39787485242030696,
+          "update_policy": 0,
+          "jats_abstract": 0.3789846517119244,
+          "author_sequence": 0.9988193624557261,
+          "affiliation_ids_ror": 0,
+          "relations": 0,
+          "assertions": 0,
+          "archive": 0,
+          "credit_roles": 0,
+          "author_given_family": 0.6765053128689492,
+          "affiliation_ror": 0,
+          "funding_complete": 0,
+          "data_availability": 0,
+          "preprint_version_link": 0,
+          "peer_review_info": 0,
+          "clinical_trial": 0,
+          "abstract_structured": 0,
+          "open_access_status": 0.02833530106257379
+        }
+      },
+      "openalex": {
+        "overall": 0.5984707429322813,
+        "categories": {
+          "findable_essential": 0.8205128205128206,
+          "findable_support": 0.5396449704142011,
+          "accessible_essential": 0.6407626561472716,
+          "accessible_support": 0.47061143984220905,
+          "evaluation_coara": 0.3205917159763313
+        },
+        "fields": {
+          "title": 1,
+          "abstract": 0.8757396449704142,
+          "author": 1,
+          "author_affiliation": 0.8390532544378698,
+          "doi": 1,
+          "publication_date": 1,
+          "publisher": 0.2982248520710059,
+          "resource_type": 1,
+          "subject_keywords": 1,
+          "funder_name": 0.06272189349112427,
+          "container_title": 0.7739644970414201,
+          "language": 0.9964497041420118,
+          "author_orcid": 0.5893491124260355,
+          "all_authors_orcid": 0.34911242603550297,
+          "funder_doi": 0.06272189349112427,
+          "award_number": 0.03076923076923077,
+          "issn": 0.6781065088757396,
+          "volume": 0.4272189349112426,
+          "issue": 0.9088757396449704,
+          "page": 0.8899408284023669,
+          "published_print_date": 1,
+          "published_online_date": 1,
+          "article_number": 0,
+          "license": 0.6816568047337278,
+          "license_url": 0.6816568047337278,
+          "open_access_license": 0.6343195266272189,
+          "full_text_links": 0.8331360946745562,
+          "resource_url": 1,
+          "references": 0.6982248520710059,
+          "references_count": 0.6982248520710059,
+          "is_referenced_by": 0.5396449704142012,
+          "update_policy": 0,
+          "jats_abstract": 0,
+          "author_sequence": 1,
+          "affiliation_ids_ror": 0.8390532544378698,
+          "relations": 0.9846153846153847,
+          "assertions": 0,
+          "archive": 0,
+          "credit_roles": 0,
+          "author_given_family": 1,
+          "affiliation_ror": 0.8390532544378698,
+          "funding_complete": 0.03076923076923077,
+          "data_availability": 0,
+          "preprint_version_link": 0.3727810650887574,
+          "peer_review_info": 0,
+          "clinical_trial": 0,
+          "abstract_structured": 0,
+          "open_access_status": 0.9633136094674556
+        }
+      },
+      "comparable": {
+        "crossref": {
+          "categories": {
+            "findable_essential": 0.6266233766233766,
+            "findable_support": 0.35100354191263283,
+            "accessible_essential": 0.30209563164108616,
+            "accessible_support": 0.33293978748524206,
+            "evaluation_coara": 0.1409681227863046
+          },
+          "overall": 0.3776490554899646
+        },
+        "openalex": {
+          "categories": {
+            "findable_essential": 0.8205128205128206,
+            "findable_support": 0.5936094674556213,
+            "accessible_essential": 0.7208579881656805,
+            "accessible_support": 0.9412228796844181,
+            "evaluation_coara": 0.6411834319526626
+          },
+          "overall": 0.7377687376725838
+        },
+        "gap": 0.3601196821826192
+      },
+      "voluntary": {
+        "crossref": 0.031463990554899644,
+        "openalex": 0.5902662721893491
+      }
+    },
+    {
+      "year": 2021,
+      "count": 772,
+      "matched": 772,
+      "universeSize": 772,
+      "crossref": {
+        "overall": 0.34886972052127496,
+        "categories": {
+          "findable_essential": 0.653821243523316,
+          "findable_support": 0.30016486104569007,
+          "accessible_essential": 0.27806563039723664,
+          "accessible_support": 0.29425734024179623,
+          "evaluation_coara": 0.04378238341968912
+        },
+        "fields": {
+          "title": 1,
+          "abstract": 0.7668393782383419,
+          "author": 0.9987046632124352,
+          "author_affiliation": 0,
+          "doi": 1,
+          "publication_date": 1,
+          "publisher": 1,
+          "resource_type": 1,
+          "subject_keywords": 0,
+          "funder_name": 0,
+          "container_title": 1,
+          "language": 0.08031088082901554,
+          "author_orcid": 0.022020725388601035,
+          "all_authors_orcid": 0.0038860103626943004,
+          "funder_doi": 0,
+          "award_number": 0,
+          "issn": 0.19818652849740934,
+          "volume": 0.4106217616580311,
+          "issue": 0.9287564766839378,
+          "page": 0.7383419689119171,
+          "published_print_date": 0,
+          "published_online_date": 1,
+          "article_number": 0,
+          "license": 0.06476683937823834,
+          "license_url": 0.06476683937823834,
+          "open_access_license": 0.06476683937823834,
+          "full_text_links": 0.9352331606217616,
+          "resource_url": 1,
+          "references": 0,
+          "references_count": 0,
+          "is_referenced_by": 0.37305699481865284,
+          "update_policy": 0,
+          "jats_abstract": 0.7668393782383419,
+          "author_sequence": 0.9987046632124352,
+          "affiliation_ids_ror": 0,
+          "relations": 0,
+          "assertions": 0,
+          "archive": 0,
+          "credit_roles": 0,
+          "author_given_family": 0.37305699481865284,
+          "affiliation_ror": 0,
+          "funding_complete": 0,
+          "data_availability": 0,
+          "preprint_version_link": 0,
+          "peer_review_info": 0,
+          "clinical_trial": 0,
+          "abstract_structured": 0,
+          "open_access_status": 0.06476683937823834
+        }
+      },
+      "openalex": {
+        "overall": 0.6050630004710316,
+        "categories": {
+          "findable_essential": 0.8094775474956822,
+          "findable_support": 0.5001177578897786,
+          "accessible_essential": 0.6986183074265976,
+          "accessible_support": 0.4684801381692573,
+          "evaluation_coara": 0.32849740932642485
+        },
+        "fields": {
+          "title": 1,
+          "abstract": 0.8393782383419689,
+          "author": 1,
+          "author_affiliation": 0.8303108808290155,
+          "doi": 1,
+          "publication_date": 1,
+          "publisher": 0.3380829015544041,
+          "resource_type": 1,
+          "subject_keywords": 1,
+          "funder_name": 0.05829015544041451,
+          "container_title": 0.655440414507772,
+          "language": 0.9922279792746114,
+          "author_orcid": 0.5634715025906736,
+          "all_authors_orcid": 0.24870466321243523,
+          "funder_doi": 0.05829015544041451,
+          "award_number": 0.029792746113989636,
+          "issn": 0.522020725388601,
+          "volume": 0.4106217616580311,
+          "issue": 0.9287564766839378,
+          "page": 0.7396373056994818,
+          "published_print_date": 1,
+          "published_online_date": 1,
+          "article_number": 0,
+          "license": 0.8406735751295337,
+          "license_url": 0.8406735751295337,
+          "open_access_license": 0.822538860103627,
+          "full_text_links": 0.8963730569948186,
+          "resource_url": 1,
+          "references": 0.6839378238341969,
+          "references_count": 0.6839378238341969,
+          "is_referenced_by": 0.5194300518134715,
+          "update_policy": 0,
+          "jats_abstract": 0,
+          "author_sequence": 1,
+          "affiliation_ids_ror": 0.8290155440414507,
+          "relations": 0.9818652849740933,
+          "assertions": 0,
+          "archive": 0,
+          "credit_roles": 0,
+          "author_given_family": 1,
+          "affiliation_ror": 0.8290155440414507,
+          "funding_complete": 0.029792746113989636,
+          "data_availability": 0,
+          "preprint_version_link": 0.4676165803108808,
+          "peer_review_info": 0,
+          "clinical_trial": 0,
+          "abstract_structured": 0,
+          "open_access_status": 0.9585492227979274
+        }
+      },
+      "comparable": {
+        "crossref": {
+          "categories": {
+            "findable_essential": 0.653821243523316,
+            "findable_support": 0.3301813471502591,
+            "accessible_essential": 0.3128238341968912,
+            "accessible_support": 0.3329015544041451,
+            "evaluation_coara": 0.08756476683937824
+          },
+          "overall": 0.37468264248704664
+        },
+        "openalex": {
+          "categories": {
+            "findable_essential": 0.8094775474956822,
+            "findable_support": 0.5501295336787565,
+            "accessible_essential": 0.7859455958549223,
+            "accessible_support": 0.9369602763385146,
+            "evaluation_coara": 0.6569948186528497
+          },
+          "overall": 0.74694408462867
+        },
+        "gap": 0.3722614421416234
+      },
+      "voluntary": {
+        "crossref": 0.0638816925734024,
+        "openalex": 0.5998650690846287
+      }
+    },
+    {
+      "year": 2022,
+      "count": 771,
+      "matched": 770,
+      "universeSize": 771,
+      "crossref": {
+        "overall": 0.346702170865595,
+        "categories": {
+          "findable_essential": 0.6526156506701254,
+          "findable_support": 0.304209409267775,
+          "accessible_essential": 0.2765528174088485,
+          "accessible_support": 0.29896238651102464,
+          "evaluation_coara": 0.03125810635538262
+        },
+        "fields": {
+          "title": 1,
+          "abstract": 0.795071335927367,
+          "author": 0.9974059662775616,
+          "author_affiliation": 0.0012970168612191958,
+          "doi": 1,
+          "publication_date": 1,
+          "publisher": 1,
+          "resource_type": 1,
+          "subject_keywords": 0,
+          "funder_name": 0,
+          "container_title": 1,
+          "language": 0.03761348897535668,
+          "author_orcid": 0.12710765239948119,
+          "all_authors_orcid": 0,
+          "funder_doi": 0,
+          "award_number": 0,
+          "issn": 0.08690012970168612,
+          "volume": 0.45136186770428016,
+          "issue": 0.980544747081712,
+          "page": 0.7003891050583657,
+          "published_print_date": 0.0012970168612191958,
+          "published_online_date": 0.9987029831387808,
+          "article_number": 0,
+          "license": 0.04928664072632944,
+          "license_url": 0.04928664072632944,
+          "open_access_license": 0.04928664072632944,
+          "full_text_links": 0.959792477302205,
+          "resource_url": 1,
+          "references": 0,
+          "references_count": 0,
+          "is_referenced_by": 0.38132295719844356,
+          "update_policy": 0,
+          "jats_abstract": 0.795071335927367,
+          "author_sequence": 0.9974059662775616,
+          "affiliation_ids_ror": 0.0012970168612191958,
+          "relations": 0,
+          "assertions": 0,
+          "archive": 0,
+          "credit_roles": 0,
+          "author_given_family": 0.2619974059662776,
+          "affiliation_ror": 0.0012970168612191958,
+          "funding_complete": 0,
+          "data_availability": 0,
+          "preprint_version_link": 0,
+          "peer_review_info": 0,
+          "clinical_trial": 0,
+          "abstract_structured": 0,
+          "open_access_status": 0.04928664072632944
+        }
+      },
+      "openalex": {
+        "overall": 0.6184987537714811,
+        "categories": {
+          "findable_essential": 0.8051948051948052,
+          "findable_support": 0.49291617473435656,
+          "accessible_essential": 0.7466089466089466,
+          "accessible_support": 0.47597402597402594,
+          "evaluation_coara": 0.3437662337662338
+        },
+        "fields": {
+          "title": 1,
+          "abstract": 0.8649350649350649,
+          "author": 0.9987012987012988,
+          "author_affiliation": 0.8727272727272727,
+          "doi": 1,
+          "publication_date": 1,
+          "publisher": 0.23116883116883116,
+          "resource_type": 1,
+          "subject_keywords": 1,
+          "funder_name": 0.05844155844155844,
+          "container_title": 0.6376623376623377,
+          "language": 0.9987012987012988,
+          "author_orcid": 0.5701298701298702,
+          "all_authors_orcid": 0.16363636363636364,
+          "funder_doi": 0.05844155844155844,
+          "award_number": 0.02207792207792208,
+          "issn": 0.474025974025974,
+          "volume": 0.45194805194805193,
+          "issue": 0.9818181818181818,
+          "page": 0.7,
+          "published_print_date": 1,
+          "published_online_date": 1,
+          "article_number": 0,
+          "license": 0.9558441558441558,
+          "license_url": 0.9558441558441558,
+          "open_access_license": 0.9454545454545454,
+          "full_text_links": 0.925974025974026,
+          "resource_url": 1,
+          "references": 0.712987012987013,
+          "references_count": 0.712987012987013,
+          "is_referenced_by": 0.5103896103896104,
+          "update_policy": 0,
+          "jats_abstract": 0,
+          "author_sequence": 0.9987012987012988,
+          "affiliation_ids_ror": 0.8727272727272727,
+          "relations": 0.9844155844155844,
+          "assertions": 0,
+          "archive": 0,
+          "credit_roles": 0,
+          "author_given_family": 0.9987012987012988,
+          "affiliation_ror": 0.8727272727272727,
+          "funding_complete": 0.02207792207792208,
+          "data_availability": 0,
+          "preprint_version_link": 0.5506493506493506,
+          "peer_review_info": 0,
+          "clinical_trial": 0,
+          "abstract_structured": 0,
+          "open_access_status": 0.9935064935064936
+        }
+      },
+      "comparable": {
+        "crossref": {
+          "categories": {
+            "findable_essential": 0.6526156506701254,
+            "findable_support": 0.3346303501945525,
+            "accessible_essential": 0.3111219195849546,
+            "accessible_support": 0.3329009943795936,
+            "evaluation_coara": 0.06251621271076524
+          },
+          "overall": 0.3695530696065715
+        },
+        "openalex": {
+          "categories": {
+            "findable_essential": 0.8051948051948052,
+            "findable_support": 0.5422077922077922,
+            "accessible_essential": 0.839935064935065,
+            "accessible_support": 0.9519480519480519,
+            "evaluation_coara": 0.6875324675324676
+          },
+          "overall": 0.7655746753246753
+        },
+        "gap": 0.39602160571810374
+      },
+      "voluntary": {
+        "crossref": 0.06875270211846086,
+        "openalex": 0.6270833333333333
+      }
+    },
+    {
+      "year": 2023,
+      "count": 1263,
+      "matched": 1260,
+      "universeSize": 1263,
+      "crossref": {
+        "overall": 0.41423302702400083,
+        "categories": {
+          "findable_essential": 0.6623779361309052,
+          "findable_support": 0.34578564744835527,
+          "accessible_essential": 0.42165918888009146,
+          "accessible_support": 0.319345473739773,
+          "evaluation_coara": 0.13151227236737925
+        },
+        "fields": {
+          "title": 1,
+          "abstract": 0.9184481393507522,
+          "author": 0.997624703087886,
+          "author_affiliation": 0,
+          "doi": 1,
+          "publication_date": 1,
+          "publisher": 1,
+          "resource_type": 1,
+          "subject_keywords": 0,
+          "funder_name": 0,
+          "container_title": 1,
+          "language": 0.03246239113222486,
+          "author_orcid": 0.13143309580364212,
+          "all_authors_orcid": 0.056215360253365,
+          "funder_doi": 0,
+          "award_number": 0,
+          "issn": 0.6080760095011877,
+          "volume": 0.273950910530483,
+          "issue": 0.9691211401425178,
+          "page": 0.7434679334916865,
+          "published_print_date": 0.021377672209026127,
+          "published_online_date": 1,
+          "article_number": 0,
+          "license": 0.5455265241488519,
+          "license_url": 0.5455265241488519,
+          "open_access_license": 0.5455265241488519,
+          "full_text_links": 0.9651623119556612,
+          "resource_url": 1,
+          "references": 0,
+          "references_count": 0,
+          "is_referenced_by": 0.19319081551860648,
+          "update_policy": 0,
+          "jats_abstract": 0.9184481393507522,
+          "author_sequence": 0.997624703087886,
+          "affiliation_ids_ror": 0,
+          "relations": 0,
+          "assertions": 0,
+          "archive": 0,
+          "credit_roles": 0,
+          "author_given_family": 0.7695961995249406,
+          "affiliation_ror": 0,
+          "funding_complete": 0,
+          "data_availability": 0,
+          "preprint_version_link": 0,
+          "peer_review_info": 0,
+          "clinical_trial": 0,
+          "abstract_structured": 0,
+          "open_access_status": 0.5455265241488519
+        }
+      },
+      "openalex": {
+        "overall": 0.5476992544492544,
+        "categories": {
+          "findable_essential": 0.7832671957671957,
+          "findable_support": 0.5133477633477633,
+          "accessible_essential": 0.5621693121693121,
+          "accessible_support": 0.42698412698412697,
+          "evaluation_coara": 0.2623809523809524
+        },
+        "fields": {
+          "title": 1,
+          "abstract": 0.6182539682539683,
+          "author": 0.9992063492063492,
+          "author_affiliation": 0.6158730158730159,
+          "doi": 1,
+          "publication_date": 1,
+          "publisher": 0.26666666666666666,
+          "resource_type": 1,
+          "subject_keywords": 1,
+          "funder_name": 0.03650793650793651,
+          "container_title": 0.8626984126984127,
+          "language": 1,
+          "author_orcid": 0.5142857142857142,
+          "all_authors_orcid": 0.29603174603174603,
+          "funder_doi": 0.03650793650793651,
+          "award_number": 0.01746031746031746,
+          "issn": 0.7952380952380952,
+          "volume": 0.2746031746031746,
+          "issue": 0.969047619047619,
+          "page": 0.7436507936507937,
+          "published_print_date": 1,
+          "published_online_date": 1,
+          "article_number": 0,
+          "license": 0.719047619047619,
+          "license_url": 0.719047619047619,
+          "open_access_license": 0.719047619047619,
+          "full_text_links": 0.719047619047619,
+          "resource_url": 1,
+          "references": 0.4650793650793651,
+          "references_count": 0.4650793650793651,
+          "is_referenced_by": 0.25317460317460316,
+          "update_policy": 0,
+          "jats_abstract": 0,
+          "author_sequence": 0.9992063492063492,
+          "affiliation_ids_ror": 0.6158730158730159,
+          "relations": 0.9468253968253968,
+          "assertions": 0,
+          "archive": 0,
+          "credit_roles": 0,
+          "author_given_family": 0.9992063492063492,
+          "affiliation_ror": 0.6158730158730159,
+          "funding_complete": 0.01746031746031746,
+          "data_availability": 0,
+          "preprint_version_link": 0.2634920634920635,
+          "peer_review_info": 0,
+          "clinical_trial": 0,
+          "abstract_structured": 0,
+          "open_access_status": 0.7277777777777777
+        }
+      },
+      "comparable": {
+        "crossref": {
+          "categories": {
+            "findable_essential": 0.6623779361309052,
+            "findable_support": 0.38036421219319083,
+            "accessible_essential": 0.4743665874901029,
+            "accessible_support": 0.332541567695962,
+            "evaluation_coara": 0.2630245447347585
+          },
+          "overall": 0.46021872525732377
+        },
+        "openalex": {
+          "categories": {
+            "findable_essential": 0.7832671957671957,
+            "findable_support": 0.5646825396825397,
+            "accessible_essential": 0.6324404761904762,
+            "accessible_support": 0.8539682539682539,
+            "evaluation_coara": 0.5247619047619048
+          },
+          "overall": 0.6681418650793651
+        },
+        "gap": 0.20792313982204136
+      },
+      "voluntary": {
+        "crossref": 0.12138097123251518,
+        "openalex": 0.47806547619047624
+      }
+    },
+    {
+      "year": 2024,
+      "count": 1050,
+      "matched": 1050,
+      "universeSize": 1050,
+      "crossref": {
+        "overall": 0.39914227994227996,
+        "categories": {
+          "findable_essential": 0.6571428571428571,
+          "findable_support": 0.3741125541125541,
+          "accessible_essential": 0.35365079365079366,
+          "accessible_support": 0.3084126984126984,
+          "evaluation_coara": 0.13314285714285715
+        },
+        "fields": {
+          "title": 1,
+          "abstract": 0.8523809523809524,
+          "author": 0.9980952380952381,
+          "author_affiliation": 0,
+          "doi": 1,
+          "publication_date": 1,
+          "publisher": 1,
+          "resource_type": 1,
+          "subject_keywords": 0,
+          "funder_name": 0,
+          "container_title": 1,
+          "language": 0.035238095238095235,
+          "author_orcid": 0.2885714285714286,
+          "all_authors_orcid": 0.22380952380952382,
+          "funder_doi": 0,
+          "award_number": 0,
+          "issn": 0.3942857142857143,
+          "volume": 0.3961904761904762,
+          "issue": 0.9885714285714285,
+          "page": 0.8238095238095238,
+          "published_print_date": 0,
+          "published_online_date": 1,
+          "article_number": 0,
+          "license": 0.35904761904761906,
+          "license_url": 0.35904761904761906,
+          "open_access_license": 0.35904761904761906,
+          "full_text_links": 0.9638095238095238,
+          "resource_url": 1,
+          "references": 0,
+          "references_count": 0,
+          "is_referenced_by": 0.1419047619047619,
+          "update_policy": 0,
+          "jats_abstract": 0.8523809523809524,
+          "author_sequence": 0.9980952380952381,
+          "affiliation_ids_ror": 0,
+          "relations": 0,
+          "assertions": 0,
+          "archive": 0,
+          "credit_roles": 0,
+          "author_given_family": 0.9723809523809523,
+          "affiliation_ror": 0,
+          "funding_complete": 0,
+          "data_availability": 0,
+          "preprint_version_link": 0,
+          "peer_review_info": 0,
+          "clinical_trial": 0,
+          "abstract_structured": 0,
+          "open_access_status": 0.35904761904761906
+        }
+      },
+      "openalex": {
+        "overall": 0.5541837421837422,
+        "categories": {
+          "findable_essential": 0.7992063492063491,
+          "findable_support": 0.5367099567099567,
+          "accessible_essential": 0.5521693121693121,
+          "accessible_support": 0.43111111111111106,
+          "evaluation_coara": 0.2638095238095238
+        },
+        "fields": {
+          "title": 1,
+          "abstract": 0.8866666666666667,
+          "author": 1,
+          "author_affiliation": 0.6533333333333333,
+          "doi": 1,
+          "publication_date": 1,
+          "publisher": 0.19047619047619047,
+          "resource_type": 1,
+          "subject_keywords": 1,
+          "funder_name": 0.04380952380952381,
+          "container_title": 0.8247619047619048,
+          "language": 0.9914285714285714,
+          "author_orcid": 0.5523809523809524,
+          "all_authors_orcid": 0.3923809523809524,
+          "funder_doi": 0.04380952380952381,
+          "award_number": 0.022857142857142857,
+          "issn": 0.6838095238095238,
+          "volume": 0.3961904761904762,
+          "issue": 0.9885714285714285,
+          "page": 0.8238095238095238,
+          "published_print_date": 1,
+          "published_online_date": 1,
+          "article_number": 0,
+          "license": 0.8485714285714285,
+          "license_url": 0.8485714285714285,
+          "open_access_license": 0.8485714285714285,
+          "full_text_links": 0.84,
+          "resource_url": 1,
+          "references": 0.20095238095238097,
+          "references_count": 0.20095238095238097,
+          "is_referenced_by": 0.1819047619047619,
+          "update_policy": 0,
+          "jats_abstract": 0,
+          "author_sequence": 1,
+          "affiliation_ids_ror": 0.6523809523809524,
+          "relations": 0.9342857142857143,
+          "assertions": 0,
+          "archive": 0,
+          "credit_roles": 0,
+          "author_given_family": 1,
+          "affiliation_ror": 0.6523809523809524,
+          "funding_complete": 0.022857142857142857,
+          "data_availability": 0,
+          "preprint_version_link": 0.11333333333333333,
+          "peer_review_info": 0,
+          "clinical_trial": 0,
+          "abstract_structured": 0,
+          "open_access_status": 0.8495238095238096
+        }
+      },
+      "comparable": {
+        "crossref": {
+          "categories": {
+            "findable_essential": 0.6571428571428571,
+            "findable_support": 0.4115238095238095,
+            "accessible_essential": 0.39785714285714285,
+            "accessible_support": 0.3326984126984127,
+            "evaluation_coara": 0.2662857142857143
+          },
+          "overall": 0.44486269841269843
+        },
+        "openalex": {
+          "categories": {
+            "findable_essential": 0.7992063492063491,
+            "findable_support": 0.5903809523809523,
+            "accessible_essential": 0.6211904761904761,
+            "accessible_support": 0.8622222222222221,
+            "evaluation_coara": 0.5276190476190477
+          },
+          "overall": 0.6753626984126984
+        },
+        "gap": 0.23049999999999993
+      },
+      "voluntary": {
+        "crossref": 0.11306349206349205,
+        "openalex": 0.4678253968253968
+      }
+    },
+    {
+      "year": 2025,
+      "count": 828,
+      "matched": 818,
+      "universeSize": 828,
+      "crossref": {
+        "overall": 0.42302371541501976,
+        "categories": {
+          "findable_essential": 0.6598228663446055,
+          "findable_support": 0.3998682476943347,
+          "accessible_essential": 0.4110305958132045,
+          "accessible_support": 0.3190418679549114,
+          "evaluation_coara": 0.15217391304347827
+        },
+        "fields": {
+          "title": 1,
+          "abstract": 0.8888888888888888,
+          "author": 0.9975845410628019,
+          "author_affiliation": 0.03140096618357488,
+          "doi": 1,
+          "publication_date": 1,
+          "publisher": 1,
+          "resource_type": 1,
+          "subject_keywords": 0,
+          "funder_name": 0,
+          "container_title": 1,
+          "language": 0,
+          "author_orcid": 0.3852657004830918,
+          "all_authors_orcid": 0.3393719806763285,
+          "funder_doi": 0,
+          "award_number": 0,
+          "issn": 0.5603864734299517,
+          "volume": 0.4613526570048309,
+          "issue": 0.9335748792270532,
+          "page": 0.6932367149758454,
+          "published_print_date": 0,
+          "published_online_date": 1,
+          "article_number": 0.025362318840579712,
+          "license": 0.5458937198067633,
+          "license_url": 0.5458937198067633,
+          "open_access_license": 0.5458937198067633,
+          "full_text_links": 0.9746376811594203,
+          "resource_url": 1,
+          "references": 0.016908212560386472,
+          "references_count": 0.016908212560386472,
+          "is_referenced_by": 0.05314009661835749,
+          "update_policy": 0,
+          "jats_abstract": 0.8888888888888888,
+          "author_sequence": 0.9975845410628019,
+          "affiliation_ids_ror": 0.027777777777777776,
+          "relations": 0,
+          "assertions": 0,
+          "archive": 0,
+          "credit_roles": 0,
+          "author_given_family": 0.9480676328502415,
+          "affiliation_ror": 0.027777777777777776,
+          "funding_complete": 0,
+          "data_availability": 0,
+          "preprint_version_link": 0,
+          "peer_review_info": 0,
+          "clinical_trial": 0,
+          "abstract_structured": 0,
+          "open_access_status": 0.5458937198067633
+        }
+      },
+      "openalex": {
+        "overall": 0.5672584648440393,
+        "categories": {
+          "findable_essential": 0.805521597392013,
+          "findable_support": 0.5436763725272283,
+          "accessible_essential": 0.5762021189894051,
+          "accessible_support": 0.3973105134474328,
+          "evaluation_coara": 0.3013447432762836
+        },
+        "fields": {
+          "title": 1,
+          "abstract": 0.9352078239608802,
+          "author": 1,
+          "author_affiliation": 0.8484107579462102,
+          "doi": 1,
+          "publication_date": 1,
+          "publisher": 0.3141809290953545,
+          "resource_type": 1,
+          "subject_keywords": 0.9987775061124694,
+          "funder_name": 0.05867970660146699,
+          "container_title": 0.8765281173594132,
+          "language": 0.6344743276283619,
+          "author_orcid": 0.6014669926650367,
+          "all_authors_orcid": 0.39853300733496333,
+          "funder_doi": 0.05867970660146699,
+          "award_number": 0.02567237163814181,
+          "issn": 0.815403422982885,
+          "volume": 0.45843520782396086,
+          "issue": 0.9327628361858191,
+          "page": 0.6894865525672371,
+          "published_print_date": 1,
+          "published_online_date": 1,
+          "article_number": 0,
+          "license": 0.9938875305623472,
+          "license_url": 0.9938875305623472,
+          "open_access_license": 0.9938875305623472,
+          "full_text_links": 0.9462102689486552,
+          "resource_url": 1,
+          "references": 0.09657701711491443,
+          "references_count": 0.09657701711491443,
+          "is_referenced_by": 0.0647921760391198,
+          "update_policy": 0,
+          "jats_abstract": 0,
+          "author_sequence": 1,
+          "affiliation_ids_ror": 0.8471882640586798,
+          "relations": 0.5366748166259169,
+          "assertions": 0,
+          "archive": 0,
+          "credit_roles": 0,
+          "author_given_family": 1,
+          "affiliation_ror": 0.8471882640586798,
+          "funding_complete": 0.02567237163814181,
+          "data_availability": 0,
+          "preprint_version_link": 0.14180929095354522,
+          "peer_review_info": 0,
+          "clinical_trial": 0,
+          "abstract_structured": 0,
+          "open_access_status": 0.9987775061124694
+        }
+      },
+      "comparable": {
+        "crossref": {
+          "categories": {
+            "findable_essential": 0.6598228663446055,
+            "findable_support": 0.43731884057971016,
+            "accessible_essential": 0.46240942028985504,
+            "accessible_support": 0.34178743961352653,
+            "evaluation_coara": 0.30434782608695654
+          },
+          "overall": 0.4741953502415459
+        },
+        "openalex": {
+          "categories": {
+            "findable_essential": 0.805521597392013,
+            "findable_support": 0.5980440097799511,
+            "accessible_essential": 0.6482273838630808,
+            "accessible_support": 0.7946210268948656,
+            "evaluation_coara": 0.6026894865525672
+          },
+          "overall": 0.6934199266503668
+        },
+        "gap": 0.21922457640882087
+      },
+      "voluntary": {
+        "crossref": 0.1477455716586151,
+        "openalex": 0.4895018337408312
+      }
+    }
+  ],
+  "fieldSamples": {
+    "title": [],
+    "abstract": [
+      {
+        "doi": "10.4067/s0718-16202015000300003",
+        "title": "Forage potential of black oat Iapar 61 alone or in association with birdsfoot trefoil"
+      },
+      {
+        "doi": "10.4067/s0718-16202015000200001",
+        "title": "Development of insulin resistance in horses (Equus caballus): etiologic and molecular aspects"
+      },
+      {
+        "doi": "10.4067/s0718-16202015000100001",
+        "title": "Finishing strategies for steers based on pasture or silage plus grain and time on feed and their effects on beef quality"
+      },
+      {
+        "doi": "10.4067/s0250-71612015000300011",
+        "title": "Redes institucionales y desarrollo económico en ciudades pequeñas: el caso de la localidad de Pigüé (Argentina)"
+      },
+      {
+        "doi": "10.7764/horiz_enferm.26.2.37",
+        "title": "Del Autocuidado al Automanejo: La Escuela de Enfermería UC en la Vanguardia del Cuidado Crónico"
+      }
+    ],
+    "author": [
+      {
+        "doi": "10.7764/10.7764/pel.56.2.2019.2",
+        "title": "Uso de TIC en estudiantes universitarios chilenos: enfoque desde la adultez emergente"
+      },
+      {
+        "doi": "10.7764/onomazein.46.15",
+        "title": "Discursos leídos en la ceremonia de entrega del Premio de Traducción a la Excelencia Profesional y Académica 2019 al profesor Óscar Velásquez"
+      },
+      {
+        "doi": "10.7764/aisth.66.15",
+        "title": "Sontag, historiadora"
+      },
+      {
+        "doi": "10.7764/tl68160-161",
+        "title": "Nota introductoria"
+      },
+      {
+        "doi": "10.7764/rldr.ne01.018",
+        "title": "Editorial caso Pavez Pavez vs. Chile"
+      }
+    ],
+    "author_affiliation": [
+      {
+        "doi": "10.4067/s0718-16202015000300003",
+        "title": "Forage potential of black oat Iapar 61 alone or in association with birdsfoot trefoil"
+      },
+      {
+        "doi": "10.4067/s0718-16202015000200001",
+        "title": "Development of insulin resistance in horses (Equus caballus): etiologic and molecular aspects"
+      },
+      {
+        "doi": "10.7764/onomazein.31.17",
+        "title": "Paul Maas: Crítica del Texto Traducción de Rafael Bonilla Cerezo y Andrea Baldissera, con la presentación de Giorgio Pasquali a la edición italiana, la Mirada Retrospectiva (1956) y una nota de Luciano Canfora a la tercera edición italiana"
+      },
+      {
+        "doi": "10.4067/s0718-16202015000100001",
+        "title": "Finishing strategies for steers based on pasture or silage plus grain and time on feed and their effects on beef quality"
+      },
+      {
+        "doi": "10.4067/s0250-71612015000300011",
+        "title": "Redes institucionales y desarrollo económico en ciudades pequeñas: el caso de la localidad de Pigüé (Argentina)"
+      }
+    ],
+    "doi": [],
+    "publication_date": [],
+    "publisher": [],
+    "resource_type": [],
+    "subject_keywords": [
+      {
+        "doi": "10.4067/s0718-16202015000300003",
+        "title": "Forage potential of black oat Iapar 61 alone or in association with birdsfoot trefoil"
+      },
+      {
+        "doi": "10.4067/s0718-16202015000200001",
+        "title": "Development of insulin resistance in horses (Equus caballus): etiologic and molecular aspects"
+      },
+      {
+        "doi": "10.7764/onomazein.31.17",
+        "title": "Paul Maas: Crítica del Texto Traducción de Rafael Bonilla Cerezo y Andrea Baldissera, con la presentación de Giorgio Pasquali a la edición italiana, la Mirada Retrospectiva (1956) y una nota de Luciano Canfora a la tercera edición italiana"
+      },
+      {
+        "doi": "10.4067/s0718-16202015000100001",
+        "title": "Finishing strategies for steers based on pasture or silage plus grain and time on feed and their effects on beef quality"
+      },
+      {
+        "doi": "10.4067/s0250-71612015000300011",
+        "title": "Redes institucionales y desarrollo económico en ciudades pequeñas: el caso de la localidad de Pigüé (Argentina)"
+      }
+    ],
+    "funder_name": [
+      {
+        "doi": "10.4067/s0718-16202015000100001",
+        "title": "Finishing strategies for steers based on pasture or silage plus grain and time on feed and their effects on beef quality"
+      },
+      {
+        "doi": "10.4067/s0718-16202015000100005",
+        "title": "Improvement in nutritional quality of fibrous food via in vitro digestion by Aspergillus niger"
+      },
+      {
+        "doi": "10.7764/rts.88.1-18",
+        "title": "Avanzando hacia la protección integral de los derechos de la infancia: Una mirada al proyecto de ley que regula entrevistas grabadas en video y otras medidas de resguardo a menores de edad víctimas de delitos sexuales"
+      },
+      {
+        "doi": "10.4067/s0718-16202015000300007",
+        "title": "Profit maps for precision agriculture"
+      },
+      {
+        "doi": "10.4067/s0718-16202015000100006",
+        "title": "Nutritional value of Brachiarias and forage legumes in the humid tropics of Ecuador"
+      }
+    ],
+    "container_title": [],
+    "language": [
+      {
+        "doi": "10.7764/onomazein.31.17",
+        "title": "Paul Maas: Crítica del Texto Traducción de Rafael Bonilla Cerezo y Andrea Baldissera, con la presentación de Giorgio Pasquali a la edición italiana, la Mirada Retrospectiva (1956) y una nota de Luciano Canfora a la tercera edición italiana"
+      },
+      {
+        "doi": "10.7764/ais.57.73-92",
+        "title": "Herir la lengua. Por una política de la singularidad –Derrida, lector de Celan–"
+      },
+      {
+        "doi": "10.7764/ais.58.255-278",
+        "title": "Cine chileno en dos tiempos: para una lectura del desplazamiento del cuadro teatral al encuadre cinematográfico"
+      },
+      {
+        "doi": "10.7764/ais.57.203-218",
+        "title": "Alfonso Reyes y el cine del porvenir"
+      },
+      {
+        "doi": "10.7764/horiz_enferm.26.2.37",
+        "title": "Del Autocuidado al Automanejo: La Escuela de Enfermería UC en la Vanguardia del Cuidado Crónico"
+      }
+    ],
+    "author_orcid": [
+      {
+        "doi": "10.4067/s0718-16202015000300003",
+        "title": "Forage potential of black oat Iapar 61 alone or in association with birdsfoot trefoil"
+      },
+      {
+        "doi": "10.4067/s0718-16202015000200001",
+        "title": "Development of insulin resistance in horses (Equus caballus): etiologic and molecular aspects"
+      },
+      {
+        "doi": "10.4067/s0718-16202015000100001",
+        "title": "Finishing strategies for steers based on pasture or silage plus grain and time on feed and their effects on beef quality"
+      },
+      {
+        "doi": "10.4067/s0250-71612015000300011",
+        "title": "Redes institucionales y desarrollo económico en ciudades pequeñas: el caso de la localidad de Pigüé (Argentina)"
+      },
+      {
+        "doi": "10.4067/s0718-16202015000100005",
+        "title": "Improvement in nutritional quality of fibrous food via in vitro digestion by Aspergillus niger"
+      }
+    ],
+    "all_authors_orcid": [
+      {
+        "doi": "10.4067/s0718-16202015000200001",
+        "title": "Development of insulin resistance in horses (Equus caballus): etiologic and molecular aspects"
+      },
+      {
+        "doi": "10.4067/s0718-16202015000100005",
+        "title": "Improvement in nutritional quality of fibrous food via in vitro digestion by Aspergillus niger"
+      },
+      {
+        "doi": "10.4067/s0049-34492015000100005",
+        "title": "Hacia una concepción católica de la sociedad civil"
+      },
+      {
+        "doi": "10.4067/s0250-71612015000300010",
+        "title": "Tendencias y proyecciones de la fuerza de trabajo del Área Metropolitana del Valle de Aburrá, 2010-2030"
+      },
+      {
+        "doi": "10.7764/psykhe.24.1.661",
+        "title": "La Comprensión Referencial Temprana: Aprendiendo Palabras a Través de Imágenes con Distinto Nivel de Iconicismo"
+      }
+    ],
+    "funder_doi": [
+      {
+        "doi": "10.4067/s0718-16202015000100001",
+        "title": "Finishing strategies for steers based on pasture or silage plus grain and time on feed and their effects on beef quality"
+      },
+      {
+        "doi": "10.4067/s0718-16202015000100005",
+        "title": "Improvement in nutritional quality of fibrous food via in vitro digestion by Aspergillus niger"
+      },
+      {
+        "doi": "10.7764/rts.88.1-18",
+        "title": "Avanzando hacia la protección integral de los derechos de la infancia: Una mirada al proyecto de ley que regula entrevistas grabadas en video y otras medidas de resguardo a menores de edad víctimas de delitos sexuales"
+      },
+      {
+        "doi": "10.4067/s0718-16202015000300007",
+        "title": "Profit maps for precision agriculture"
+      },
+      {
+        "doi": "10.4067/s0718-16202015000100006",
+        "title": "Nutritional value of Brachiarias and forage legumes in the humid tropics of Ecuador"
+      }
+    ],
+    "award_number": [
+      {
+        "doi": "10.4067/s0718-16202015000100001",
+        "title": "Finishing strategies for steers based on pasture or silage plus grain and time on feed and their effects on beef quality"
+      },
+      {
+        "doi": "10.4067/s0718-16202015000300007",
+        "title": "Profit maps for precision agriculture"
+      },
+      {
+        "doi": "10.4067/s0718-16202015000200014",
+        "title": "Potential in vitro degradability and gas production of byproducts of the biodiesel chain"
+      },
+      {
+        "doi": "10.4067/s0718-16202015000300005",
+        "title": "Colonization of blueberry (Vaccinium corymbosum) plantlets by ericoid mycorrhizae under nursery conditions"
+      },
+      {
+        "doi": "10.4067/s0718-16202015000300012",
+        "title": "Energy potential of vine shoots in La Rioja (Spain) and their dependence on several viticultural factors"
+      }
+    ],
+    "issn": [
+      {
+        "doi": "10.7764/cdi.37.824",
+        "title": "La publicidad y el ideal del “mínimo esfuerzo”"
+      },
+      {
+        "doi": "10.7764/rldr.1.8",
+        "title": "LA GESTIÓN DE LA DIVERSIDAD RELIGIOSA EN EL PERÚ"
+      },
+      {
+        "doi": "10.7764/redae.21.6",
+        "title": "Desafíos para la gestión ambiental del agua en Chile: perspectiva australiana"
+      },
+      {
+        "doi": "10.7764/cdi.37.779",
+        "title": "De la Cumbre de Nairobi (2006) a Copenhague (2009): cobertura del cambio climático en medios digitales en español"
+      },
+      {
+        "doi": "10.7764/cdi.36.647",
+        "title": "Tecnología, redes sociales, política y periodismo. ¿Pluralidad informativa o efecto bumerán?"
+      }
+    ],
+    "volume": [],
+    "issue": [],
+    "page": [
+      {
+        "doi": "10.7764/psykhe.2019.22461",
+        "title": "Violencia de Barrio y Crianza Materna en Medellín-Roma: Rol de la Autoeficacia Emocional Negativa"
+      }
+    ],
+    "published_print_date": [
+      {
+        "doi": "10.4067/s0718-16202015000300003",
+        "title": "Forage potential of black oat Iapar 61 alone or in association with birdsfoot trefoil"
+      },
+      {
+        "doi": "10.4067/s0718-16202015000200001",
+        "title": "Development of insulin resistance in horses (Equus caballus): etiologic and molecular aspects"
+      },
+      {
+        "doi": "10.7764/onomazein.31.17",
+        "title": "Paul Maas: Crítica del Texto Traducción de Rafael Bonilla Cerezo y Andrea Baldissera, con la presentación de Giorgio Pasquali a la edición italiana, la Mirada Retrospectiva (1956) y una nota de Luciano Canfora a la tercera edición italiana"
+      },
+      {
+        "doi": "10.4067/s0718-16202015000100001",
+        "title": "Finishing strategies for steers based on pasture or silage plus grain and time on feed and their effects on beef quality"
+      },
+      {
+        "doi": "10.4067/s0250-71612015000300011",
+        "title": "Redes institucionales y desarrollo económico en ciudades pequeñas: el caso de la localidad de Pigüé (Argentina)"
+      }
+    ],
+    "published_online_date": [
+      {
+        "doi": "10.7764/rcia.v45i1.1818",
+        "title": "Susceptibility of different grapevine (Vitis vinifera L.) cultivars to Diplodia seriata and Diplodia mutila"
+      },
+      {
+        "doi": "10.7764/rcia.v45i1.1793",
+        "title": "Effects of climate trends and drought events on urban tree growth in Santiago de Chile"
+      },
+      {
+        "doi": "10.7764/rcia.v45i1.1874",
+        "title": "Finishing lambs on a chicory-plantain mixture or a temperate grassbased pasture: live weight gain and gastrointestinal parasitism"
+      },
+      {
+        "doi": "10.7764/rcia.v45i1.1911",
+        "title": "The use of cation exchange resins in wines: Effects on pH, tartrate stability, and metal content"
+      },
+      {
+        "doi": "10.7764/rcia.v45i1.1897",
+        "title": "Chemical Composition and Antifungal and Antibacterial Activity of Mentha spicata L. Volatile Oil"
+      }
+    ],
+    "license": [
+      {
+        "doi": "10.4067/s0718-16202015000300003",
+        "title": "Forage potential of black oat Iapar 61 alone or in association with birdsfoot trefoil"
+      },
+      {
+        "doi": "10.4067/s0718-16202015000200001",
+        "title": "Development of insulin resistance in horses (Equus caballus): etiologic and molecular aspects"
+      },
+      {
+        "doi": "10.7764/onomazein.31.17",
+        "title": "Paul Maas: Crítica del Texto Traducción de Rafael Bonilla Cerezo y Andrea Baldissera, con la presentación de Giorgio Pasquali a la edición italiana, la Mirada Retrospectiva (1956) y una nota de Luciano Canfora a la tercera edición italiana"
+      },
+      {
+        "doi": "10.4067/s0718-16202015000100001",
+        "title": "Finishing strategies for steers based on pasture or silage plus grain and time on feed and their effects on beef quality"
+      },
+      {
+        "doi": "10.4067/s0250-71612015000300011",
+        "title": "Redes institucionales y desarrollo económico en ciudades pequeñas: el caso de la localidad de Pigüé (Argentina)"
+      }
+    ],
+    "license_url": [
+      {
+        "doi": "10.4067/s0718-16202015000300003",
+        "title": "Forage potential of black oat Iapar 61 alone or in association with birdsfoot trefoil"
+      },
+      {
+        "doi": "10.4067/s0718-16202015000200001",
+        "title": "Development of insulin resistance in horses (Equus caballus): etiologic and molecular aspects"
+      },
+      {
+        "doi": "10.7764/onomazein.31.17",
+        "title": "Paul Maas: Crítica del Texto Traducción de Rafael Bonilla Cerezo y Andrea Baldissera, con la presentación de Giorgio Pasquali a la edición italiana, la Mirada Retrospectiva (1956) y una nota de Luciano Canfora a la tercera edición italiana"
+      },
+      {
+        "doi": "10.4067/s0718-16202015000100001",
+        "title": "Finishing strategies for steers based on pasture or silage plus grain and time on feed and their effects on beef quality"
+      },
+      {
+        "doi": "10.4067/s0250-71612015000300011",
+        "title": "Redes institucionales y desarrollo económico en ciudades pequeñas: el caso de la localidad de Pigüé (Argentina)"
+      }
+    ],
+    "open_access_license": [
+      {
+        "doi": "10.4067/s0718-16202015000300003",
+        "title": "Forage potential of black oat Iapar 61 alone or in association with birdsfoot trefoil"
+      },
+      {
+        "doi": "10.4067/s0718-16202015000200001",
+        "title": "Development of insulin resistance in horses (Equus caballus): etiologic and molecular aspects"
+      },
+      {
+        "doi": "10.7764/onomazein.31.17",
+        "title": "Paul Maas: Crítica del Texto Traducción de Rafael Bonilla Cerezo y Andrea Baldissera, con la presentación de Giorgio Pasquali a la edición italiana, la Mirada Retrospectiva (1956) y una nota de Luciano Canfora a la tercera edición italiana"
+      },
+      {
+        "doi": "10.4067/s0718-16202015000100001",
+        "title": "Finishing strategies for steers based on pasture or silage plus grain and time on feed and their effects on beef quality"
+      },
+      {
+        "doi": "10.4067/s0250-71612015000300011",
+        "title": "Redes institucionales y desarrollo económico en ciudades pequeñas: el caso de la localidad de Pigüé (Argentina)"
+      }
+    ],
+    "full_text_links": [
+      {
+        "doi": "10.4067/s0049-34492015000100006",
+        "title": "Christós Yannarás, Contro la Religione"
+      },
+      {
+        "doi": "10.4067/s0717-71942015000100018",
+        "title": "MARCOS CUETO y STEVEN PALMER, Medicine and Public Health in Latin America: A History"
+      },
+      {
+        "doi": "10.4067/s0717-71942015000100013",
+        "title": "MERCEDES AVELLANEDA, Guaraníes, criollos y jesuitas. Luchas de poder en las revoluciones comuneras del Paraguay, siglos XVII y XVIII"
+      },
+      {
+        "doi": "10.4067/s0717-71942015000100012",
+        "title": "MARIO AMORÓS, Miguel Enríquez: un nombre en las estrellas. Biografía de un revolucionario"
+      },
+      {
+        "doi": "10.4067/s0717-71942015000100009",
+        "title": "THE END OF \"THE\" CHILEAN HISTORY IN THE NINETEENTH-CENTURY"
+      }
+    ],
+    "resource_url": [],
+    "references": [
+      {
+        "doi": "10.4067/s0718-16202015000300003",
+        "title": "Forage potential of black oat Iapar 61 alone or in association with birdsfoot trefoil"
+      },
+      {
+        "doi": "10.4067/s0718-16202015000200001",
+        "title": "Development of insulin resistance in horses (Equus caballus): etiologic and molecular aspects"
+      },
+      {
+        "doi": "10.7764/onomazein.31.17",
+        "title": "Paul Maas: Crítica del Texto Traducción de Rafael Bonilla Cerezo y Andrea Baldissera, con la presentación de Giorgio Pasquali a la edición italiana, la Mirada Retrospectiva (1956) y una nota de Luciano Canfora a la tercera edición italiana"
+      },
+      {
+        "doi": "10.4067/s0718-16202015000100001",
+        "title": "Finishing strategies for steers based on pasture or silage plus grain and time on feed and their effects on beef quality"
+      },
+      {
+        "doi": "10.4067/s0250-71612015000300011",
+        "title": "Redes institucionales y desarrollo económico en ciudades pequeñas: el caso de la localidad de Pigüé (Argentina)"
+      }
+    ],
+    "references_count": [
+      {
+        "doi": "10.4067/s0718-16202015000300003",
+        "title": "Forage potential of black oat Iapar 61 alone or in association with birdsfoot trefoil"
+      },
+      {
+        "doi": "10.4067/s0718-16202015000200001",
+        "title": "Development of insulin resistance in horses (Equus caballus): etiologic and molecular aspects"
+      },
+      {
+        "doi": "10.7764/onomazein.31.17",
+        "title": "Paul Maas: Crítica del Texto Traducción de Rafael Bonilla Cerezo y Andrea Baldissera, con la presentación de Giorgio Pasquali a la edición italiana, la Mirada Retrospectiva (1956) y una nota de Luciano Canfora a la tercera edición italiana"
+      },
+      {
+        "doi": "10.4067/s0718-16202015000100001",
+        "title": "Finishing strategies for steers based on pasture or silage plus grain and time on feed and their effects on beef quality"
+      },
+      {
+        "doi": "10.4067/s0250-71612015000300011",
+        "title": "Redes institucionales y desarrollo económico en ciudades pequeñas: el caso de la localidad de Pigüé (Argentina)"
+      }
+    ],
+    "is_referenced_by": [
+      {
+        "doi": "10.4067/s0718-16202015000300003",
+        "title": "Forage potential of black oat Iapar 61 alone or in association with birdsfoot trefoil"
+      },
+      {
+        "doi": "10.4067/s0718-16202015000200001",
+        "title": "Development of insulin resistance in horses (Equus caballus): etiologic and molecular aspects"
+      },
+      {
+        "doi": "10.4067/s0250-71612015000300011",
+        "title": "Redes institucionales y desarrollo económico en ciudades pequeñas: el caso de la localidad de Pigüé (Argentina)"
+      },
+      {
+        "doi": "10.4067/s0718-16202015000100005",
+        "title": "Improvement in nutritional quality of fibrous food via in vitro digestion by Aspergillus niger"
+      },
+      {
+        "doi": "10.7764/onomazein.31.10",
+        "title": "Diseño y evaluación de una aplicación tecnológica para la enseñanza del español como lengua extranjera"
+      }
+    ],
+    "author_sequence": [
+      {
+        "doi": "10.7764/10.7764/pel.56.2.2019.2",
+        "title": "Uso de TIC en estudiantes universitarios chilenos: enfoque desde la adultez emergente"
+      },
+      {
+        "doi": "10.7764/onomazein.46.15",
+        "title": "Discursos leídos en la ceremonia de entrega del Premio de Traducción a la Excelencia Profesional y Académica 2019 al profesor Óscar Velásquez"
+      },
+      {
+        "doi": "10.7764/aisth.66.15",
+        "title": "Sontag, historiadora"
+      },
+      {
+        "doi": "10.7764/tl68160-161",
+        "title": "Nota introductoria"
+      },
+      {
+        "doi": "10.7764/rldr.ne01.018",
+        "title": "Editorial caso Pavez Pavez vs. Chile"
+      }
+    ],
+    "affiliation_ids_ror": [
+      {
+        "doi": "10.4067/s0718-16202015000300003",
+        "title": "Forage potential of black oat Iapar 61 alone or in association with birdsfoot trefoil"
+      },
+      {
+        "doi": "10.4067/s0718-16202015000200001",
+        "title": "Development of insulin resistance in horses (Equus caballus): etiologic and molecular aspects"
+      },
+      {
+        "doi": "10.7764/onomazein.31.17",
+        "title": "Paul Maas: Crítica del Texto Traducción de Rafael Bonilla Cerezo y Andrea Baldissera, con la presentación de Giorgio Pasquali a la edición italiana, la Mirada Retrospectiva (1956) y una nota de Luciano Canfora a la tercera edición italiana"
+      },
+      {
+        "doi": "10.4067/s0718-16202015000100001",
+        "title": "Finishing strategies for steers based on pasture or silage plus grain and time on feed and their effects on beef quality"
+      },
+      {
+        "doi": "10.4067/s0250-71612015000300011",
+        "title": "Redes institucionales y desarrollo económico en ciudades pequeñas: el caso de la localidad de Pigüé (Argentina)"
+      }
+    ],
+    "relations": [
+      {
+        "doi": "10.4067/s0718-16202015000300003",
+        "title": "Forage potential of black oat Iapar 61 alone or in association with birdsfoot trefoil"
+      },
+      {
+        "doi": "10.4067/s0718-16202015000200001",
+        "title": "Development of insulin resistance in horses (Equus caballus): etiologic and molecular aspects"
+      },
+      {
+        "doi": "10.7764/onomazein.31.17",
+        "title": "Paul Maas: Crítica del Texto Traducción de Rafael Bonilla Cerezo y Andrea Baldissera, con la presentación de Giorgio Pasquali a la edición italiana, la Mirada Retrospectiva (1956) y una nota de Luciano Canfora a la tercera edición italiana"
+      },
+      {
+        "doi": "10.4067/s0718-16202015000100001",
+        "title": "Finishing strategies for steers based on pasture or silage plus grain and time on feed and their effects on beef quality"
+      },
+      {
+        "doi": "10.4067/s0250-71612015000300011",
+        "title": "Redes institucionales y desarrollo económico en ciudades pequeñas: el caso de la localidad de Pigüé (Argentina)"
+      }
+    ],
+    "author_given_family": [
+      {
+        "doi": "10.7764/onomazein.31.17",
+        "title": "Paul Maas: Crítica del Texto Traducción de Rafael Bonilla Cerezo y Andrea Baldissera, con la presentación de Giorgio Pasquali a la edición italiana, la Mirada Retrospectiva (1956) y una nota de Luciano Canfora a la tercera edición italiana"
+      },
+      {
+        "doi": "10.7764/ais.57.73-92",
+        "title": "Herir la lengua. Por una política de la singularidad –Derrida, lector de Celan–"
+      },
+      {
+        "doi": "10.7764/ais.58.255-278",
+        "title": "Cine chileno en dos tiempos: para una lectura del desplazamiento del cuadro teatral al encuadre cinematográfico"
+      },
+      {
+        "doi": "10.7764/ais.57.203-218",
+        "title": "Alfonso Reyes y el cine del porvenir"
+      },
+      {
+        "doi": "10.7764/cdi.37.824",
+        "title": "La publicidad y el ideal del “mínimo esfuerzo”"
+      }
+    ],
+    "affiliation_ror": [
+      {
+        "doi": "10.4067/s0718-16202015000300003",
+        "title": "Forage potential of black oat Iapar 61 alone or in association with birdsfoot trefoil"
+      },
+      {
+        "doi": "10.4067/s0718-16202015000200001",
+        "title": "Development of insulin resistance in horses (Equus caballus): etiologic and molecular aspects"
+      },
+      {
+        "doi": "10.7764/onomazein.31.17",
+        "title": "Paul Maas: Crítica del Texto Traducción de Rafael Bonilla Cerezo y Andrea Baldissera, con la presentación de Giorgio Pasquali a la edición italiana, la Mirada Retrospectiva (1956) y una nota de Luciano Canfora a la tercera edición italiana"
+      },
+      {
+        "doi": "10.4067/s0718-16202015000100001",
+        "title": "Finishing strategies for steers based on pasture or silage plus grain and time on feed and their effects on beef quality"
+      },
+      {
+        "doi": "10.4067/s0250-71612015000300011",
+        "title": "Redes institucionales y desarrollo económico en ciudades pequeñas: el caso de la localidad de Pigüé (Argentina)"
+      }
+    ],
+    "funding_complete": [
+      {
+        "doi": "10.4067/s0718-16202015000100001",
+        "title": "Finishing strategies for steers based on pasture or silage plus grain and time on feed and their effects on beef quality"
+      },
+      {
+        "doi": "10.4067/s0718-16202015000300007",
+        "title": "Profit maps for precision agriculture"
+      },
+      {
+        "doi": "10.4067/s0718-16202015000200014",
+        "title": "Potential in vitro degradability and gas production of byproducts of the biodiesel chain"
+      },
+      {
+        "doi": "10.4067/s0718-16202015000300005",
+        "title": "Colonization of blueberry (Vaccinium corymbosum) plantlets by ericoid mycorrhizae under nursery conditions"
+      },
+      {
+        "doi": "10.4067/s0718-16202015000300012",
+        "title": "Energy potential of vine shoots in La Rioja (Spain) and their dependence on several viticultural factors"
+      }
+    ],
+    "preprint_version_link": [
+      {
+        "doi": "10.4067/s0718-16202015000300003",
+        "title": "Forage potential of black oat Iapar 61 alone or in association with birdsfoot trefoil"
+      },
+      {
+        "doi": "10.4067/s0718-16202015000200001",
+        "title": "Development of insulin resistance in horses (Equus caballus): etiologic and molecular aspects"
+      },
+      {
+        "doi": "10.4067/s0718-16202015000100001",
+        "title": "Finishing strategies for steers based on pasture or silage plus grain and time on feed and their effects on beef quality"
+      },
+      {
+        "doi": "10.4067/s0250-71612015000300011",
+        "title": "Redes institucionales y desarrollo económico en ciudades pequeñas: el caso de la localidad de Pigüé (Argentina)"
+      },
+      {
+        "doi": "10.4067/s0718-16202015000100005",
+        "title": "Improvement in nutritional quality of fibrous food via in vitro digestion by Aspergillus niger"
+      }
+    ],
+    "open_access_status": [
+      {
+        "doi": "10.4067/s0718-16202015000300003",
+        "title": "Forage potential of black oat Iapar 61 alone or in association with birdsfoot trefoil"
+      },
+      {
+        "doi": "10.4067/s0718-16202015000200001",
+        "title": "Development of insulin resistance in horses (Equus caballus): etiologic and molecular aspects"
+      },
+      {
+        "doi": "10.7764/onomazein.31.17",
+        "title": "Paul Maas: Crítica del Texto Traducción de Rafael Bonilla Cerezo y Andrea Baldissera, con la presentación de Giorgio Pasquali a la edición italiana, la Mirada Retrospectiva (1956) y una nota de Luciano Canfora a la tercera edición italiana"
+      },
+      {
+        "doi": "10.4067/s0718-16202015000100001",
+        "title": "Finishing strategies for steers based on pasture or silage plus grain and time on feed and their effects on beef quality"
+      },
+      {
+        "doi": "10.4067/s0250-71612015000300011",
+        "title": "Redes institucionales y desarrollo económico en ciudades pequeñas: el caso de la localidad de Pigüé (Argentina)"
+      }
+    ]
+  },
+  "sampleWorks": [
+    {
+      "doi": "10.4067/s0718-16202015000300003",
+      "title": "Forage potential of black oat Iapar 61 alone or in association with birdsfoot trefoil",
+      "year": 2015,
+      "crossrefScore": 0.4473684210526316,
+      "openalexScore": 0.868421052631579,
+      "gap": 16,
+      "openalexAdds": [
+        "abstract",
+        "author_affiliation",
+        "subject_keywords",
+        "author_orcid",
+        "published_print_date",
+        "license",
+        "license_url",
+        "open_access_license",
+        "references",
+        "references_count",
+        "is_referenced_by",
+        "affiliation_ids_ror",
+        "relations",
+        "affiliation_ror",
+        "preprint_version_link",
+        "open_access_status"
+      ]
+    },
+    {
+      "doi": "10.4067/s0718-16202015000200001",
+      "title": "Development of insulin resistance in horses (Equus caballus): etiologic and molecular aspects",
+      "year": 2015,
+      "crossrefScore": 0.4473684210526316,
+      "openalexScore": 0.8947368421052632,
+      "gap": 17,
+      "openalexAdds": [
+        "abstract",
+        "author_affiliation",
+        "subject_keywords",
+        "author_orcid",
+        "all_authors_orcid",
+        "published_print_date",
+        "license",
+        "license_url",
+        "open_access_license",
+        "references",
+        "references_count",
+        "is_referenced_by",
+        "affiliation_ids_ror",
+        "relations",
+        "affiliation_ror",
+        "preprint_version_link",
+        "open_access_status"
+      ]
+    },
+    {
+      "doi": "10.7764/onomazein.31.17",
+      "title": "Paul Maas: Crítica del Texto Traducción de Rafael Bonilla Cerezo y Andrea Baldissera, con la presentación de Giorgio Pasquali a la edición italiana, la Mirada Retrospectiva (1956) y una nota de Luciano Canfora a la tercera edición italiana",
+      "year": 2015,
+      "crossrefScore": 0.39473684210526316,
+      "openalexScore": 0.6842105263157895,
+      "gap": 14,
+      "openalexAdds": [
+        "author_affiliation",
+        "subject_keywords",
+        "language",
+        "published_print_date",
+        "license",
+        "license_url",
+        "open_access_license",
+        "references",
+        "references_count",
+        "affiliation_ids_ror",
+        "relations",
+        "author_given_family",
+        "affiliation_ror",
+        "open_access_status"
+      ]
+    },
+    {
+      "doi": "10.4067/s0718-16202015000100001",
+      "title": "Finishing strategies for steers based on pasture or silage plus grain and time on feed and their effects on beef quality",
+      "year": 2015,
+      "crossrefScore": 0.47368421052631576,
+      "openalexScore": 0.9736842105263158,
+      "gap": 19,
+      "openalexAdds": [
+        "abstract",
+        "author_affiliation",
+        "subject_keywords",
+        "funder_name",
+        "author_orcid",
+        "funder_doi",
+        "award_number",
+        "published_print_date",
+        "license",
+        "license_url",
+        "open_access_license",
+        "references",
+        "references_count",
+        "affiliation_ids_ror",
+        "relations",
+        "affiliation_ror",
+        "funding_complete",
+        "preprint_version_link",
+        "open_access_status"
+      ]
+    },
+    {
+      "doi": "10.4067/s0250-71612015000300011",
+      "title": "Redes institucionales y desarrollo económico en ciudades pequeñas: el caso de la localidad de Pigüé (Argentina)",
+      "year": 2015,
+      "crossrefScore": 0.4473684210526316,
+      "openalexScore": 0.868421052631579,
+      "gap": 16,
+      "openalexAdds": [
+        "abstract",
+        "author_affiliation",
+        "subject_keywords",
+        "author_orcid",
+        "published_print_date",
+        "license",
+        "license_url",
+        "open_access_license",
+        "references",
+        "references_count",
+        "is_referenced_by",
+        "affiliation_ids_ror",
+        "relations",
+        "affiliation_ror",
+        "preprint_version_link",
+        "open_access_status"
+      ]
+    },
+    {
+      "doi": "10.4067/s0718-16202015000100005",
+      "title": "Improvement in nutritional quality of fibrous food via in vitro digestion by Aspergillus niger",
+      "year": 2015,
+      "crossrefScore": 0.4473684210526316,
+      "openalexScore": 0.9210526315789473,
+      "gap": 18,
+      "openalexAdds": [
+        "author_affiliation",
+        "subject_keywords",
+        "funder_name",
+        "author_orcid",
+        "all_authors_orcid",
+        "funder_doi",
+        "published_print_date",
+        "license",
+        "license_url",
+        "open_access_license",
+        "references",
+        "references_count",
+        "is_referenced_by",
+        "affiliation_ids_ror",
+        "relations",
+        "affiliation_ror",
+        "preprint_version_link",
+        "open_access_status"
+      ]
+    },
+    {
+      "doi": "10.7764/ais.57.73-92",
+      "title": "Herir la lengua. Por una política de la singularidad –Derrida, lector de Celan–",
+      "year": 2015,
+      "crossrefScore": 0.34210526315789475,
+      "openalexScore": 0.4473684210526316,
+      "gap": 6,
+      "openalexAdds": [
+        "subject_keywords",
+        "language",
+        "published_print_date",
+        "relations",
+        "author_given_family",
+        "open_access_status"
+      ]
+    },
+    {
+      "doi": "10.7764/ais.58.255-278",
+      "title": "Cine chileno en dos tiempos: para una lectura del desplazamiento del cuadro teatral al encuadre cinematográfico",
+      "year": 2015,
+      "crossrefScore": 0.34210526315789475,
+      "openalexScore": 0.4473684210526316,
+      "gap": 6,
+      "openalexAdds": [
+        "subject_keywords",
+        "language",
+        "published_print_date",
+        "relations",
+        "author_given_family",
+        "open_access_status"
+      ]
+    },
+    {
+      "doi": "10.7764/ais.57.203-218",
+      "title": "Alfonso Reyes y el cine del porvenir",
+      "year": 2015,
+      "crossrefScore": 0.34210526315789475,
+      "openalexScore": 0.5263157894736842,
+      "gap": 9,
+      "openalexAdds": [
+        "author_affiliation",
+        "subject_keywords",
+        "language",
+        "published_print_date",
+        "affiliation_ids_ror",
+        "relations",
+        "author_given_family",
+        "affiliation_ror",
+        "open_access_status"
+      ]
+    },
+    {
+      "doi": "10.7764/horiz_enferm.26.2.37",
+      "title": "Del Autocuidado al Automanejo: La Escuela de Enfermería UC en la Vanguardia del Cuidado Crónico",
+      "year": 2015,
+      "crossrefScore": 0.42105263157894735,
+      "openalexScore": 0.631578947368421,
+      "gap": 10,
+      "openalexAdds": [
+        "abstract",
+        "subject_keywords",
+        "language",
+        "author_orcid",
+        "published_print_date",
+        "license",
+        "license_url",
+        "open_access_license",
+        "relations",
+        "open_access_status"
+      ]
+    }
+  ],
+  "fieldDetails": [
+    {
+      "id": "title",
+      "label": "Title",
+      "category": "findable_essential",
+      "effort": "automatic",
+      "crossref": 0.9998810656517603,
+      "openalex": 0.9998807820696233,
+      "gap": -2.835821369950864e-7,
+      "samples": []
+    },
+    {
+      "id": "abstract",
+      "label": "Abstract",
+      "category": "findable_essential",
+      "effort": "voluntary",
+      "crossref": 0.5877735490009515,
+      "openalex": 0.8233190271816881,
+      "gap": 0.23554547818073668,
+      "samples": [
+        {
+          "doi": "10.4067/s0718-16202015000300003",
+          "title": "Forage potential of black oat Iapar 61 alone or in association with birdsfoot trefoil"
+        },
+        {
+          "doi": "10.4067/s0718-16202015000200001",
+          "title": "Development of insulin resistance in horses (Equus caballus): etiologic and molecular aspects"
+        },
+        {
+          "doi": "10.4067/s0718-16202015000100001",
+          "title": "Finishing strategies for steers based on pasture or silage plus grain and time on feed and their effects on beef quality"
+        },
+        {
+          "doi": "10.4067/s0250-71612015000300011",
+          "title": "Redes institucionales y desarrollo económico en ciudades pequeñas: el caso de la localidad de Pigüé (Argentina)"
+        },
+        {
+          "doi": "10.7764/horiz_enferm.26.2.37",
+          "title": "Del Autocuidado al Automanejo: La Escuela de Enfermería UC en la Vanguardia del Cuidado Crónico"
+        }
+      ]
+    },
+    {
+      "id": "author",
+      "label": "Author",
+      "category": "findable_essential",
+      "effort": "automatic",
+      "crossref": 0.9980970504281637,
+      "openalex": 0.9994039103481164,
+      "gap": 0.0013068599199527187,
+      "samples": [
+        {
+          "doi": "10.7764/10.7764/pel.56.2.2019.2",
+          "title": "Uso de TIC en estudiantes universitarios chilenos: enfoque desde la adultez emergente"
+        },
+        {
+          "doi": "10.7764/onomazein.46.15",
+          "title": "Discursos leídos en la ceremonia de entrega del Premio de Traducción a la Excelencia Profesional y Académica 2019 al profesor Óscar Velásquez"
+        },
+        {
+          "doi": "10.7764/aisth.66.15",
+          "title": "Sontag, historiadora"
+        },
+        {
+          "doi": "10.7764/tl68160-161",
+          "title": "Nota introductoria"
+        },
+        {
+          "doi": "10.7764/rldr.ne01.018",
+          "title": "Editorial caso Pavez Pavez vs. Chile"
+        }
+      ]
+    },
+    {
+      "id": "author_affiliation",
+      "label": "Author Affiliation",
+      "category": "findable_essential",
+      "effort": "voluntary",
+      "crossref": 0.0032112274024738343,
+      "openalex": 0.7676442536957558,
+      "gap": 0.764433026293282,
+      "samples": [
+        {
+          "doi": "10.4067/s0718-16202015000300003",
+          "title": "Forage potential of black oat Iapar 61 alone or in association with birdsfoot trefoil"
+        },
+        {
+          "doi": "10.4067/s0718-16202015000200001",
+          "title": "Development of insulin resistance in horses (Equus caballus): etiologic and molecular aspects"
+        },
+        {
+          "doi": "10.7764/onomazein.31.17",
+          "title": "Paul Maas: Crítica del Texto Traducción de Rafael Bonilla Cerezo y Andrea Baldissera, con la presentación de Giorgio Pasquali a la edición italiana, la Mirada Retrospectiva (1956) y una nota de Luciano Canfora a la tercera edición italiana"
+        },
+        {
+          "doi": "10.4067/s0718-16202015000100001",
+          "title": "Finishing strategies for steers based on pasture or silage plus grain and time on feed and their effects on beef quality"
+        },
+        {
+          "doi": "10.4067/s0250-71612015000300011",
+          "title": "Redes institucionales y desarrollo económico en ciudades pequeñas: el caso de la localidad de Pigüé (Argentina)"
+        }
+      ]
+    },
+    {
+      "id": "doi",
+      "label": "DOI",
+      "category": "findable_essential",
+      "effort": "automatic",
+      "crossref": 1,
+      "openalex": 1,
+      "gap": 0,
+      "samples": []
+    },
+    {
+      "id": "publication_date",
+      "label": "Publication Date",
+      "category": "findable_essential",
+      "effort": "automatic",
+      "crossref": 1,
+      "openalex": 1,
+      "gap": 0,
+      "samples": []
+    },
+    {
+      "id": "publisher",
+      "label": "Publisher",
+      "category": "findable_essential",
+      "effort": "automatic",
+      "crossref": 1,
+      "openalex": 0.3383404864091559,
+      "gap": -0.6616595135908441,
+      "samples": []
+    },
+    {
+      "id": "resource_type",
+      "label": "Resource Type",
+      "category": "findable_essential",
+      "effort": "automatic",
+      "crossref": 1,
+      "openalex": 1,
+      "gap": 0,
+      "samples": []
+    },
+    {
+      "id": "subject_keywords",
+      "label": "Subject / Keywords",
+      "category": "findable_essential",
+      "effort": "voluntary",
+      "crossref": 0,
+      "openalex": 0.9997615641392466,
+      "gap": 0.9997615641392466,
+      "samples": [
+        {
+          "doi": "10.4067/s0718-16202015000300003",
+          "title": "Forage potential of black oat Iapar 61 alone or in association with birdsfoot trefoil"
+        },
+        {
+          "doi": "10.4067/s0718-16202015000200001",
+          "title": "Development of insulin resistance in horses (Equus caballus): etiologic and molecular aspects"
+        },
+        {
+          "doi": "10.7764/onomazein.31.17",
+          "title": "Paul Maas: Crítica del Texto Traducción de Rafael Bonilla Cerezo y Andrea Baldissera, con la presentación de Giorgio Pasquali a la edición italiana, la Mirada Retrospectiva (1956) y una nota de Luciano Canfora a la tercera edición italiana"
+        },
+        {
+          "doi": "10.4067/s0718-16202015000100001",
+          "title": "Finishing strategies for steers based on pasture or silage plus grain and time on feed and their effects on beef quality"
+        },
+        {
+          "doi": "10.4067/s0250-71612015000300011",
+          "title": "Redes institucionales y desarrollo económico en ciudades pequeñas: el caso de la localidad de Pigüé (Argentina)"
+        }
+      ]
+    },
+    {
+      "id": "funder_name",
+      "label": "Funder Name",
+      "category": "findable_essential",
+      "effort": "voluntary",
+      "crossref": 0,
+      "openalex": 0.05925131139723414,
+      "gap": 0.05925131139723414,
+      "samples": [
+        {
+          "doi": "10.4067/s0718-16202015000100001",
+          "title": "Finishing strategies for steers based on pasture or silage plus grain and time on feed and their effects on beef quality"
+        },
+        {
+          "doi": "10.4067/s0718-16202015000100005",
+          "title": "Improvement in nutritional quality of fibrous food via in vitro digestion by Aspergillus niger"
+        },
+        {
+          "doi": "10.7764/rts.88.1-18",
+          "title": "Avanzando hacia la protección integral de los derechos de la infancia: Una mirada al proyecto de ley que regula entrevistas grabadas en video y otras medidas de resguardo a menores de edad víctimas de delitos sexuales"
+        },
+        {
+          "doi": "10.4067/s0718-16202015000300007",
+          "title": "Profit maps for precision agriculture"
+        },
+        {
+          "doi": "10.4067/s0718-16202015000100006",
+          "title": "Nutritional value of Brachiarias and forage legumes in the humid tropics of Ecuador"
+        }
+      ]
+    },
+    {
+      "id": "container_title",
+      "label": "Container Title",
+      "category": "findable_essential",
+      "effort": "automatic",
+      "crossref": 1,
+      "openalex": 0.807105388650453,
+      "gap": -0.192894611349547,
+      "samples": []
+    },
+    {
+      "id": "language",
+      "label": "Language",
+      "category": "findable_essential",
+      "effort": "automatic",
+      "crossref": 0.12928163653663177,
+      "openalex": 0.9619694802098235,
+      "gap": 0.8326878436731917,
+      "samples": [
+        {
+          "doi": "10.7764/onomazein.31.17",
+          "title": "Paul Maas: Crítica del Texto Traducción de Rafael Bonilla Cerezo y Andrea Baldissera, con la presentación de Giorgio Pasquali a la edición italiana, la Mirada Retrospectiva (1956) y una nota de Luciano Canfora a la tercera edición italiana"
+        },
+        {
+          "doi": "10.7764/ais.57.73-92",
+          "title": "Herir la lengua. Por una política de la singularidad –Derrida, lector de Celan–"
+        },
+        {
+          "doi": "10.7764/ais.58.255-278",
+          "title": "Cine chileno en dos tiempos: para una lectura del desplazamiento del cuadro teatral al encuadre cinematográfico"
+        },
+        {
+          "doi": "10.7764/ais.57.203-218",
+          "title": "Alfonso Reyes y el cine del porvenir"
+        },
+        {
+          "doi": "10.7764/horiz_enferm.26.2.37",
+          "title": "Del Autocuidado al Automanejo: La Escuela de Enfermería UC en la Vanguardia del Cuidado Crónico"
+        }
+      ]
+    },
+    {
+      "id": "author_orcid",
+      "label": "Author ORCID",
+      "category": "findable_support",
+      "effort": "voluntary",
+      "crossref": 0.10751665080875357,
+      "openalex": 0.56413924654268,
+      "gap": 0.45662259573392644,
+      "samples": [
+        {
+          "doi": "10.4067/s0718-16202015000300003",
+          "title": "Forage potential of black oat Iapar 61 alone or in association with birdsfoot trefoil"
+        },
+        {
+          "doi": "10.4067/s0718-16202015000200001",
+          "title": "Development of insulin resistance in horses (Equus caballus): etiologic and molecular aspects"
+        },
+        {
+          "doi": "10.4067/s0718-16202015000100001",
+          "title": "Finishing strategies for steers based on pasture or silage plus grain and time on feed and their effects on beef quality"
+        },
+        {
+          "doi": "10.4067/s0250-71612015000300011",
+          "title": "Redes institucionales y desarrollo económico en ciudades pequeñas: el caso de la localidad de Pigüé (Argentina)"
+        },
+        {
+          "doi": "10.4067/s0718-16202015000100005",
+          "title": "Improvement in nutritional quality of fibrous food via in vitro digestion by Aspergillus niger"
+        }
+      ]
+    },
+    {
+      "id": "all_authors_orcid",
+      "label": "All Authors ORCID",
+      "category": "findable_support",
+      "effort": "voluntary",
+      "crossref": 0.07029019980970504,
+      "openalex": 0.28457319980925133,
+      "gap": 0.2142829999995463,
+      "samples": [
+        {
+          "doi": "10.4067/s0718-16202015000200001",
+          "title": "Development of insulin resistance in horses (Equus caballus): etiologic and molecular aspects"
+        },
+        {
+          "doi": "10.4067/s0718-16202015000100005",
+          "title": "Improvement in nutritional quality of fibrous food via in vitro digestion by Aspergillus niger"
+        },
+        {
+          "doi": "10.4067/s0049-34492015000100005",
+          "title": "Hacia una concepción católica de la sociedad civil"
+        },
+        {
+          "doi": "10.4067/s0250-71612015000300010",
+          "title": "Tendencias y proyecciones de la fuerza de trabajo del Área Metropolitana del Valle de Aburrá, 2010-2030"
+        },
+        {
+          "doi": "10.7764/psykhe.24.1.661",
+          "title": "La Comprensión Referencial Temprana: Aprendiendo Palabras a Través de Imágenes con Distinto Nivel de Iconicismo"
+        }
+      ]
+    },
+    {
+      "id": "funder_doi",
+      "label": "Funder DOI",
+      "category": "findable_support",
+      "effort": "voluntary",
+      "crossref": 0,
+      "openalex": 0.05925131139723414,
+      "gap": 0.05925131139723414,
+      "samples": [
+        {
+          "doi": "10.4067/s0718-16202015000100001",
+          "title": "Finishing strategies for steers based on pasture or silage plus grain and time on feed and their effects on beef quality"
+        },
+        {
+          "doi": "10.4067/s0718-16202015000100005",
+          "title": "Improvement in nutritional quality of fibrous food via in vitro digestion by Aspergillus niger"
+        },
+        {
+          "doi": "10.7764/rts.88.1-18",
+          "title": "Avanzando hacia la protección integral de los derechos de la infancia: Una mirada al proyecto de ley que regula entrevistas grabadas en video y otras medidas de resguardo a menores de edad víctimas de delitos sexuales"
+        },
+        {
+          "doi": "10.4067/s0718-16202015000300007",
+          "title": "Profit maps for precision agriculture"
+        },
+        {
+          "doi": "10.4067/s0718-16202015000100006",
+          "title": "Nutritional value of Brachiarias and forage legumes in the humid tropics of Ecuador"
+        }
+      ]
+    },
+    {
+      "id": "award_number",
+      "label": "Award Number",
+      "category": "findable_support",
+      "effort": "voluntary",
+      "crossref": 0,
+      "openalex": 0.02587029089175012,
+      "gap": 0.02587029089175012,
+      "samples": [
+        {
+          "doi": "10.4067/s0718-16202015000100001",
+          "title": "Finishing strategies for steers based on pasture or silage plus grain and time on feed and their effects on beef quality"
+        },
+        {
+          "doi": "10.4067/s0718-16202015000300007",
+          "title": "Profit maps for precision agriculture"
+        },
+        {
+          "doi": "10.4067/s0718-16202015000200014",
+          "title": "Potential in vitro degradability and gas production of byproducts of the biodiesel chain"
+        },
+        {
+          "doi": "10.4067/s0718-16202015000300005",
+          "title": "Colonization of blueberry (Vaccinium corymbosum) plantlets by ericoid mycorrhizae under nursery conditions"
+        },
+        {
+          "doi": "10.4067/s0718-16202015000300012",
+          "title": "Energy potential of vine shoots in La Rioja (Spain) and their dependence on several viticultural factors"
+        }
+      ]
+    },
+    {
+      "id": "issn",
+      "label": "ISSN",
+      "category": "findable_support",
+      "effort": "automatic",
+      "crossref": 0.4138915318744053,
+      "openalex": 0.6983786361468765,
+      "gap": 0.28448710427247115,
+      "samples": [
+        {
+          "doi": "10.7764/cdi.37.824",
+          "title": "La publicidad y el ideal del “mínimo esfuerzo”"
+        },
+        {
+          "doi": "10.7764/rldr.1.8",
+          "title": "LA GESTIÓN DE LA DIVERSIDAD RELIGIOSA EN EL PERÚ"
+        },
+        {
+          "doi": "10.7764/redae.21.6",
+          "title": "Desafíos para la gestión ambiental del agua en Chile: perspectiva australiana"
+        },
+        {
+          "doi": "10.7764/cdi.37.779",
+          "title": "De la Cumbre de Nairobi (2006) a Copenhague (2009): cobertura del cambio climático en medios digitales en español"
+        },
+        {
+          "doi": "10.7764/cdi.36.647",
+          "title": "Tecnología, redes sociales, política y periodismo. ¿Pluralidad informativa o efecto bumerán?"
+        }
+      ]
+    },
+    {
+      "id": "volume",
+      "label": "Volume",
+      "category": "findable_support",
+      "effort": "automatic",
+      "crossref": 0.46003805899143674,
+      "openalex": 0.45994277539341916,
+      "gap": -0.00009528359801758146,
+      "samples": []
+    },
+    {
+      "id": "issue",
+      "label": "Issue",
+      "category": "findable_support",
+      "effort": "automatic",
+      "crossref": 0.93232635585157,
+      "openalex": 0.9325226514067716,
+      "gap": 0.0001962955552016199,
+      "samples": []
+    },
+    {
+      "id": "page",
+      "label": "Page",
+      "category": "findable_support",
+      "effort": "automatic",
+      "crossref": 0.8215984776403426,
+      "openalex": 0.8214115402956604,
+      "gap": -0.00018693734468211431,
+      "samples": [
+        {
+          "doi": "10.7764/psykhe.2019.22461",
+          "title": "Violencia de Barrio y Crianza Materna en Medellín-Roma: Rol de la Autoeficacia Emocional Negativa"
+        }
+      ]
+    },
+    {
+      "id": "published_print_date",
+      "label": "Published Print Date",
+      "category": "findable_support",
+      "effort": "automatic",
+      "crossref": 0.020456707897240724,
+      "openalex": 1,
+      "gap": 0.9795432921027593,
+      "samples": [
+        {
+          "doi": "10.4067/s0718-16202015000300003",
+          "title": "Forage potential of black oat Iapar 61 alone or in association with birdsfoot trefoil"
+        },
+        {
+          "doi": "10.4067/s0718-16202015000200001",
+          "title": "Development of insulin resistance in horses (Equus caballus): etiologic and molecular aspects"
+        },
+        {
+          "doi": "10.7764/onomazein.31.17",
+          "title": "Paul Maas: Crítica del Texto Traducción de Rafael Bonilla Cerezo y Andrea Baldissera, con la presentación de Giorgio Pasquali a la edición italiana, la Mirada Retrospectiva (1956) y una nota de Luciano Canfora a la tercera edición italiana"
+        },
+        {
+          "doi": "10.4067/s0718-16202015000100001",
+          "title": "Finishing strategies for steers based on pasture or silage plus grain and time on feed and their effects on beef quality"
+        },
+        {
+          "doi": "10.4067/s0250-71612015000300011",
+          "title": "Redes institucionales y desarrollo económico en ciudades pequeñas: el caso de la localidad de Pigüé (Argentina)"
+        }
+      ]
+    },
+    {
+      "id": "published_online_date",
+      "label": "Published Online Date",
+      "category": "findable_support",
+      "effort": "automatic",
+      "crossref": 0.9988106565176023,
+      "openalex": 1,
+      "gap": 0.0011893434823977422,
+      "samples": [
+        {
+          "doi": "10.7764/rcia.v45i1.1818",
+          "title": "Susceptibility of different grapevine (Vitis vinifera L.) cultivars to Diplodia seriata and Diplodia mutila"
+        },
+        {
+          "doi": "10.7764/rcia.v45i1.1793",
+          "title": "Effects of climate trends and drought events on urban tree growth in Santiago de Chile"
+        },
+        {
+          "doi": "10.7764/rcia.v45i1.1874",
+          "title": "Finishing lambs on a chicory-plantain mixture or a temperate grassbased pasture: live weight gain and gastrointestinal parasitism"
+        },
+        {
+          "doi": "10.7764/rcia.v45i1.1911",
+          "title": "The use of cation exchange resins in wines: Effects on pH, tartrate stability, and metal content"
+        },
+        {
+          "doi": "10.7764/rcia.v45i1.1897",
+          "title": "Chemical Composition and Antifungal and Antibacterial Activity of Mentha spicata L. Volatile Oil"
+        }
+      ]
+    },
+    {
+      "id": "license",
+      "label": "License",
+      "category": "accessible_essential",
+      "effort": "automatic",
+      "crossref": 0.19778782112274024,
+      "openalex": 0.8079399141630901,
+      "gap": 0.6101520930403499,
+      "samples": [
+        {
+          "doi": "10.4067/s0718-16202015000300003",
+          "title": "Forage potential of black oat Iapar 61 alone or in association with birdsfoot trefoil"
+        },
+        {
+          "doi": "10.4067/s0718-16202015000200001",
+          "title": "Development of insulin resistance in horses (Equus caballus): etiologic and molecular aspects"
+        },
+        {
+          "doi": "10.7764/onomazein.31.17",
+          "title": "Paul Maas: Crítica del Texto Traducción de Rafael Bonilla Cerezo y Andrea Baldissera, con la presentación de Giorgio Pasquali a la edición italiana, la Mirada Retrospectiva (1956) y una nota de Luciano Canfora a la tercera edición italiana"
+        },
+        {
+          "doi": "10.4067/s0718-16202015000100001",
+          "title": "Finishing strategies for steers based on pasture or silage plus grain and time on feed and their effects on beef quality"
+        },
+        {
+          "doi": "10.4067/s0250-71612015000300011",
+          "title": "Redes institucionales y desarrollo económico en ciudades pequeñas: el caso de la localidad de Pigüé (Argentina)"
+        }
+      ]
+    },
+    {
+      "id": "license_url",
+      "label": "License URL",
+      "category": "accessible_essential",
+      "effort": "automatic",
+      "crossref": 0.19778782112274024,
+      "openalex": 0.8079399141630901,
+      "gap": 0.6101520930403499,
+      "samples": [
+        {
+          "doi": "10.4067/s0718-16202015000300003",
+          "title": "Forage potential of black oat Iapar 61 alone or in association with birdsfoot trefoil"
+        },
+        {
+          "doi": "10.4067/s0718-16202015000200001",
+          "title": "Development of insulin resistance in horses (Equus caballus): etiologic and molecular aspects"
+        },
+        {
+          "doi": "10.7764/onomazein.31.17",
+          "title": "Paul Maas: Crítica del Texto Traducción de Rafael Bonilla Cerezo y Andrea Baldissera, con la presentación de Giorgio Pasquali a la edición italiana, la Mirada Retrospectiva (1956) y una nota de Luciano Canfora a la tercera edición italiana"
+        },
+        {
+          "doi": "10.4067/s0718-16202015000100001",
+          "title": "Finishing strategies for steers based on pasture or silage plus grain and time on feed and their effects on beef quality"
+        },
+        {
+          "doi": "10.4067/s0250-71612015000300011",
+          "title": "Redes institucionales y desarrollo económico en ciudades pequeñas: el caso de la localidad de Pigüé (Argentina)"
+        }
+      ]
+    },
+    {
+      "id": "open_access_license",
+      "label": "Open Access License",
+      "category": "accessible_essential",
+      "effort": "voluntary",
+      "crossref": 0.19778782112274024,
+      "openalex": 0.7900572246065808,
+      "gap": 0.5922694034838405,
+      "samples": [
+        {
+          "doi": "10.4067/s0718-16202015000300003",
+          "title": "Forage potential of black oat Iapar 61 alone or in association with birdsfoot trefoil"
+        },
+        {
+          "doi": "10.4067/s0718-16202015000200001",
+          "title": "Development of insulin resistance in horses (Equus caballus): etiologic and molecular aspects"
+        },
+        {
+          "doi": "10.7764/onomazein.31.17",
+          "title": "Paul Maas: Crítica del Texto Traducción de Rafael Bonilla Cerezo y Andrea Baldissera, con la presentación de Giorgio Pasquali a la edición italiana, la Mirada Retrospectiva (1956) y una nota de Luciano Canfora a la tercera edición italiana"
+        },
+        {
+          "doi": "10.4067/s0718-16202015000100001",
+          "title": "Finishing strategies for steers based on pasture or silage plus grain and time on feed and their effects on beef quality"
+        },
+        {
+          "doi": "10.4067/s0250-71612015000300011",
+          "title": "Redes institucionales y desarrollo económico en ciudades pequeñas: el caso de la localidad de Pigüé (Argentina)"
+        }
+      ]
+    },
+    {
+      "id": "full_text_links",
+      "label": "Full-text Links",
+      "category": "accessible_essential",
+      "effort": "automatic",
+      "crossref": 0.9316127497621313,
+      "openalex": 0.8130662851692895,
+      "gap": -0.1185464645928418,
+      "samples": [
+        {
+          "doi": "10.4067/s0049-34492015000100006",
+          "title": "Christós Yannarás, Contro la Religione"
+        },
+        {
+          "doi": "10.4067/s0717-71942015000100018",
+          "title": "MARCOS CUETO y STEVEN PALMER, Medicine and Public Health in Latin America: A History"
+        },
+        {
+          "doi": "10.4067/s0717-71942015000100013",
+          "title": "MERCEDES AVELLANEDA, Guaraníes, criollos y jesuitas. Luchas de poder en las revoluciones comuneras del Paraguay, siglos XVII y XVIII"
+        },
+        {
+          "doi": "10.4067/s0717-71942015000100012",
+          "title": "MARIO AMORÓS, Miguel Enríquez: un nombre en las estrellas. Biografía de un revolucionario"
+        },
+        {
+          "doi": "10.4067/s0717-71942015000100009",
+          "title": "THE END OF \"THE\" CHILEAN HISTORY IN THE NINETEENTH-CENTURY"
+        }
+      ]
+    },
+    {
+      "id": "resource_url",
+      "label": "Resource URL",
+      "category": "accessible_essential",
+      "effort": "automatic",
+      "crossref": 1,
+      "openalex": 1,
+      "gap": 0,
+      "samples": []
+    },
+    {
+      "id": "references",
+      "label": "References",
+      "category": "accessible_essential",
+      "effort": "voluntary",
+      "crossref": 0.010466222645099905,
+      "openalex": 0.47067238912732473,
+      "gap": 0.46020616648222484,
+      "samples": [
+        {
+          "doi": "10.4067/s0718-16202015000300003",
+          "title": "Forage potential of black oat Iapar 61 alone or in association with birdsfoot trefoil"
+        },
+        {
+          "doi": "10.4067/s0718-16202015000200001",
+          "title": "Development of insulin resistance in horses (Equus caballus): etiologic and molecular aspects"
+        },
+        {
+          "doi": "10.7764/onomazein.31.17",
+          "title": "Paul Maas: Crítica del Texto Traducción de Rafael Bonilla Cerezo y Andrea Baldissera, con la presentación de Giorgio Pasquali a la edición italiana, la Mirada Retrospectiva (1956) y una nota de Luciano Canfora a la tercera edición italiana"
+        },
+        {
+          "doi": "10.4067/s0718-16202015000100001",
+          "title": "Finishing strategies for steers based on pasture or silage plus grain and time on feed and their effects on beef quality"
+        },
+        {
+          "doi": "10.4067/s0250-71612015000300011",
+          "title": "Redes institucionales y desarrollo económico en ciudades pequeñas: el caso de la localidad de Pigüé (Argentina)"
+        }
+      ]
+    },
+    {
+      "id": "references_count",
+      "label": "References Count",
+      "category": "accessible_essential",
+      "effort": "voluntary",
+      "crossref": 0.010466222645099905,
+      "openalex": 0.47067238912732473,
+      "gap": 0.46020616648222484,
+      "samples": [
+        {
+          "doi": "10.4067/s0718-16202015000300003",
+          "title": "Forage potential of black oat Iapar 61 alone or in association with birdsfoot trefoil"
+        },
+        {
+          "doi": "10.4067/s0718-16202015000200001",
+          "title": "Development of insulin resistance in horses (Equus caballus): etiologic and molecular aspects"
+        },
+        {
+          "doi": "10.7764/onomazein.31.17",
+          "title": "Paul Maas: Crítica del Texto Traducción de Rafael Bonilla Cerezo y Andrea Baldissera, con la presentación de Giorgio Pasquali a la edición italiana, la Mirada Retrospectiva (1956) y una nota de Luciano Canfora a la tercera edición italiana"
+        },
+        {
+          "doi": "10.4067/s0718-16202015000100001",
+          "title": "Finishing strategies for steers based on pasture or silage plus grain and time on feed and their effects on beef quality"
+        },
+        {
+          "doi": "10.4067/s0250-71612015000300011",
+          "title": "Redes institucionales y desarrollo económico en ciudades pequeñas: el caso de la localidad de Pigüé (Argentina)"
+        }
+      ]
+    },
+    {
+      "id": "is_referenced_by",
+      "label": "Is Referenced By",
+      "category": "accessible_essential",
+      "effort": "automatic",
+      "crossref": 0.3232635585156993,
+      "openalex": 0.41750119217930376,
+      "gap": 0.09423763366360444,
+      "samples": [
+        {
+          "doi": "10.4067/s0718-16202015000300003",
+          "title": "Forage potential of black oat Iapar 61 alone or in association with birdsfoot trefoil"
+        },
+        {
+          "doi": "10.4067/s0718-16202015000200001",
+          "title": "Development of insulin resistance in horses (Equus caballus): etiologic and molecular aspects"
+        },
+        {
+          "doi": "10.4067/s0250-71612015000300011",
+          "title": "Redes institucionales y desarrollo económico en ciudades pequeñas: el caso de la localidad de Pigüé (Argentina)"
+        },
+        {
+          "doi": "10.4067/s0718-16202015000100005",
+          "title": "Improvement in nutritional quality of fibrous food via in vitro digestion by Aspergillus niger"
+        },
+        {
+          "doi": "10.7764/onomazein.31.10",
+          "title": "Diseño y evaluación de una aplicación tecnológica para la enseñanza del español como lengua extranjera"
+        }
+      ]
+    },
+    {
+      "id": "author_sequence",
+      "label": "Author Sequence",
+      "category": "accessible_support",
+      "effort": "automatic",
+      "crossref": 0.9980970504281637,
+      "openalex": 0.9994039103481164,
+      "gap": 0.0013068599199527187,
+      "samples": [
+        {
+          "doi": "10.7764/10.7764/pel.56.2.2019.2",
+          "title": "Uso de TIC en estudiantes universitarios chilenos: enfoque desde la adultez emergente"
+        },
+        {
+          "doi": "10.7764/onomazein.46.15",
+          "title": "Discursos leídos en la ceremonia de entrega del Premio de Traducción a la Excelencia Profesional y Académica 2019 al profesor Óscar Velásquez"
+        },
+        {
+          "doi": "10.7764/aisth.66.15",
+          "title": "Sontag, historiadora"
+        },
+        {
+          "doi": "10.7764/tl68160-161",
+          "title": "Nota introductoria"
+        },
+        {
+          "doi": "10.7764/rldr.ne01.018",
+          "title": "Editorial caso Pavez Pavez vs. Chile"
+        }
+      ]
+    },
+    {
+      "id": "affiliation_ids_ror",
+      "label": "Affiliation IDs (ROR)",
+      "category": "accessible_support",
+      "effort": "voluntary",
+      "crossref": 0.0028544243577545195,
+      "openalex": 0.7670481640438722,
+      "gap": 0.7641937396861177,
+      "samples": [
+        {
+          "doi": "10.4067/s0718-16202015000300003",
+          "title": "Forage potential of black oat Iapar 61 alone or in association with birdsfoot trefoil"
+        },
+        {
+          "doi": "10.4067/s0718-16202015000200001",
+          "title": "Development of insulin resistance in horses (Equus caballus): etiologic and molecular aspects"
+        },
+        {
+          "doi": "10.7764/onomazein.31.17",
+          "title": "Paul Maas: Crítica del Texto Traducción de Rafael Bonilla Cerezo y Andrea Baldissera, con la presentación de Giorgio Pasquali a la edición italiana, la Mirada Retrospectiva (1956) y una nota de Luciano Canfora a la tercera edición italiana"
+        },
+        {
+          "doi": "10.4067/s0718-16202015000100001",
+          "title": "Finishing strategies for steers based on pasture or silage plus grain and time on feed and their effects on beef quality"
+        },
+        {
+          "doi": "10.4067/s0250-71612015000300011",
+          "title": "Redes institucionales y desarrollo económico en ciudades pequeñas: el caso de la localidad de Pigüé (Argentina)"
+        }
+      ]
+    },
+    {
+      "id": "relations",
+      "label": "Relations",
+      "category": "accessible_support",
+      "effort": "voluntary",
+      "crossref": 0.00011893434823977165,
+      "openalex": 0.9287076776347163,
+      "gap": 0.9285887432864766,
+      "samples": [
+        {
+          "doi": "10.4067/s0718-16202015000300003",
+          "title": "Forage potential of black oat Iapar 61 alone or in association with birdsfoot trefoil"
+        },
+        {
+          "doi": "10.4067/s0718-16202015000200001",
+          "title": "Development of insulin resistance in horses (Equus caballus): etiologic and molecular aspects"
+        },
+        {
+          "doi": "10.7764/onomazein.31.17",
+          "title": "Paul Maas: Crítica del Texto Traducción de Rafael Bonilla Cerezo y Andrea Baldissera, con la presentación de Giorgio Pasquali a la edición italiana, la Mirada Retrospectiva (1956) y una nota de Luciano Canfora a la tercera edición italiana"
+        },
+        {
+          "doi": "10.4067/s0718-16202015000100001",
+          "title": "Finishing strategies for steers based on pasture or silage plus grain and time on feed and their effects on beef quality"
+        },
+        {
+          "doi": "10.4067/s0250-71612015000300011",
+          "title": "Redes institucionales y desarrollo económico en ciudades pequeñas: el caso de la localidad de Pigüé (Argentina)"
+        }
+      ]
+    },
+    {
+      "id": "author_given_family",
+      "label": "Complete Author Names",
+      "category": "evaluation_coara",
+      "effort": "automatic",
+      "crossref": 0.6100142721217888,
+      "openalex": 0.9994039103481164,
+      "gap": 0.38938963822632755,
+      "samples": [
+        {
+          "doi": "10.7764/onomazein.31.17",
+          "title": "Paul Maas: Crítica del Texto Traducción de Rafael Bonilla Cerezo y Andrea Baldissera, con la presentación de Giorgio Pasquali a la edición italiana, la Mirada Retrospectiva (1956) y una nota de Luciano Canfora a la tercera edición italiana"
+        },
+        {
+          "doi": "10.7764/ais.57.73-92",
+          "title": "Herir la lengua. Por una política de la singularidad –Derrida, lector de Celan–"
+        },
+        {
+          "doi": "10.7764/ais.58.255-278",
+          "title": "Cine chileno en dos tiempos: para una lectura del desplazamiento del cuadro teatral al encuadre cinematográfico"
+        },
+        {
+          "doi": "10.7764/ais.57.203-218",
+          "title": "Alfonso Reyes y el cine del porvenir"
+        },
+        {
+          "doi": "10.7764/cdi.37.824",
+          "title": "La publicidad y el ideal del “mínimo esfuerzo”"
+        }
+      ]
+    },
+    {
+      "id": "affiliation_ror",
+      "label": "Affiliation with ROR",
+      "category": "evaluation_coara",
+      "effort": "voluntary",
+      "crossref": 0.0028544243577545195,
+      "openalex": 0.7670481640438722,
+      "gap": 0.7641937396861177,
+      "samples": [
+        {
+          "doi": "10.4067/s0718-16202015000300003",
+          "title": "Forage potential of black oat Iapar 61 alone or in association with birdsfoot trefoil"
+        },
+        {
+          "doi": "10.4067/s0718-16202015000200001",
+          "title": "Development of insulin resistance in horses (Equus caballus): etiologic and molecular aspects"
+        },
+        {
+          "doi": "10.7764/onomazein.31.17",
+          "title": "Paul Maas: Crítica del Texto Traducción de Rafael Bonilla Cerezo y Andrea Baldissera, con la presentación de Giorgio Pasquali a la edición italiana, la Mirada Retrospectiva (1956) y una nota de Luciano Canfora a la tercera edición italiana"
+        },
+        {
+          "doi": "10.4067/s0718-16202015000100001",
+          "title": "Finishing strategies for steers based on pasture or silage plus grain and time on feed and their effects on beef quality"
+        },
+        {
+          "doi": "10.4067/s0250-71612015000300011",
+          "title": "Redes institucionales y desarrollo económico en ciudades pequeñas: el caso de la localidad de Pigüé (Argentina)"
+        }
+      ]
+    },
+    {
+      "id": "funding_complete",
+      "label": "Complete Funding Info",
+      "category": "evaluation_coara",
+      "effort": "voluntary",
+      "crossref": 0,
+      "openalex": 0.02587029089175012,
+      "gap": 0.02587029089175012,
+      "samples": [
+        {
+          "doi": "10.4067/s0718-16202015000100001",
+          "title": "Finishing strategies for steers based on pasture or silage plus grain and time on feed and their effects on beef quality"
+        },
+        {
+          "doi": "10.4067/s0718-16202015000300007",
+          "title": "Profit maps for precision agriculture"
+        },
+        {
+          "doi": "10.4067/s0718-16202015000200014",
+          "title": "Potential in vitro degradability and gas production of byproducts of the biodiesel chain"
+        },
+        {
+          "doi": "10.4067/s0718-16202015000300005",
+          "title": "Colonization of blueberry (Vaccinium corymbosum) plantlets by ericoid mycorrhizae under nursery conditions"
+        },
+        {
+          "doi": "10.4067/s0718-16202015000300012",
+          "title": "Energy potential of vine shoots in La Rioja (Spain) and their dependence on several viticultural factors"
+        }
+      ]
+    },
+    {
+      "id": "preprint_version_link",
+      "label": "Preprint / Version Link",
+      "category": "evaluation_coara",
+      "effort": "voluntary",
+      "crossref": 0,
+      "openalex": 0.3574153552694325,
+      "gap": 0.3574153552694325,
+      "samples": [
+        {
+          "doi": "10.4067/s0718-16202015000300003",
+          "title": "Forage potential of black oat Iapar 61 alone or in association with birdsfoot trefoil"
+        },
+        {
+          "doi": "10.4067/s0718-16202015000200001",
+          "title": "Development of insulin resistance in horses (Equus caballus): etiologic and molecular aspects"
+        },
+        {
+          "doi": "10.4067/s0718-16202015000100001",
+          "title": "Finishing strategies for steers based on pasture or silage plus grain and time on feed and their effects on beef quality"
+        },
+        {
+          "doi": "10.4067/s0250-71612015000300011",
+          "title": "Redes institucionales y desarrollo económico en ciudades pequeñas: el caso de la localidad de Pigüé (Argentina)"
+        },
+        {
+          "doi": "10.4067/s0718-16202015000100005",
+          "title": "Improvement in nutritional quality of fibrous food via in vitro digestion by Aspergillus niger"
+        }
+      ]
+    },
+    {
+      "id": "open_access_status",
+      "label": "Open Access Status",
+      "category": "evaluation_coara",
+      "effort": "automatic",
+      "crossref": 0.19778782112274024,
+      "openalex": 0.92310443490701,
+      "gap": 0.7253166137842697,
+      "samples": [
+        {
+          "doi": "10.4067/s0718-16202015000300003",
+          "title": "Forage potential of black oat Iapar 61 alone or in association with birdsfoot trefoil"
+        },
+        {
+          "doi": "10.4067/s0718-16202015000200001",
+          "title": "Development of insulin resistance in horses (Equus caballus): etiologic and molecular aspects"
+        },
+        {
+          "doi": "10.7764/onomazein.31.17",
+          "title": "Paul Maas: Crítica del Texto Traducción de Rafael Bonilla Cerezo y Andrea Baldissera, con la presentación de Giorgio Pasquali a la edición italiana, la Mirada Retrospectiva (1956) y una nota de Luciano Canfora a la tercera edición italiana"
+        },
+        {
+          "doi": "10.4067/s0718-16202015000100001",
+          "title": "Finishing strategies for steers based on pasture or silage plus grain and time on feed and their effects on beef quality"
+        },
+        {
+          "doi": "10.4067/s0250-71612015000300011",
+          "title": "Redes institucionales y desarrollo económico en ciudades pequeñas: el caso de la localidad de Pigüé (Argentina)"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,3851 @@
+{
+  "id": "scielo",
+  "label": "SciELO / FapUNIFESP",
+  "memberId": 530,
+  "category": "regional_latam",
+  "categoryLabel": "Regional / Latin America",
+  "totalWorksSampled": 72414,
+  "totalWorksMatched": 72347,
+  "totalWorksUniverse": 72414,
+  "crossref": {
+    "overall": 0.5306569401865201,
+    "categories": {
+      "findable_essential": 0.7216686920577051,
+      "findable_support": 0.5302565802192946,
+      "accessible_essential": 0.6943546827961444,
+      "accessible_support": 0.297520737242338,
+      "evaluation_coara": 0.1563855055652222
+    },
+    "fields": {
+      "title": 1,
+      "abstract": 0.7115474908166929,
+      "author": 0.988538127986301,
+      "author_affiliation": 0.926685447565388,
+      "doi": 1,
+      "publication_date": 1,
+      "publisher": 1,
+      "resource_type": 1,
+      "subject_keywords": 0,
+      "funder_name": 0.010799016764714005,
+      "container_title": 1,
+      "language": 0.022454221559366973,
+      "author_orcid": 0.5615074433120667,
+      "all_authors_orcid": 0.4806943408733118,
+      "funder_doi": 0.008423785455851079,
+      "award_number": 0.009072831220482228,
+      "issn": 0.9999171430938769,
+      "volume": 0.9698953241085978,
+      "issue": 0.8869003231419339,
+      "page": 0.7118374899881238,
+      "published_print_date": 0.2708039881790814,
+      "published_online_date": 0.7312260060209351,
+      "article_number": 0.20254370701797994,
+      "license": 0.578727870301323,
+      "license_url": 0.578727870301323,
+      "open_access_license": 0.5781064435053995,
+      "full_text_links": 0.9388516032811335,
+      "resource_url": 1,
+      "references": 0.9264644958157262,
+      "references_count": 0.9264644958157262,
+      "is_referenced_by": 0.7167674759024498,
+      "update_policy": 0.005081890242218356,
+      "jats_abstract": 0.7115474908166929,
+      "author_sequence": 0.9885105090175933,
+      "affiliation_ids_ror": 0,
+      "relations": 0.07698787527273732,
+      "assertions": 0.004488082415002623,
+      "archive": 0.003590465932002099,
+      "credit_roles": 0,
+      "author_given_family": 0.9782914905957412,
+      "affiliation_ror": 0,
+      "funding_complete": 0.007015218051757947,
+      "data_availability": 0,
+      "preprint_version_link": 0.0004419034993233353,
+      "peer_review_info": 0,
+      "clinical_trial": 0,
+      "abstract_structured": 0,
+      "open_access_status": 0.5781064435053995
+    }
+  },
+  "openalex": {
+    "overall": 0.7208701267586224,
+    "categories": {
+      "findable_essential": 0.926330739353394,
+      "findable_support": 0.6903509223854228,
+      "accessible_essential": 0.8447344050202497,
+      "accessible_support": 0.49015623776152895,
+      "evaluation_coara": 0.3960952078178777
+    },
+    "fields": {
+      "title": 1,
+      "abstract": 0.9409650711155957,
+      "author": 0.9911675674181376,
+      "author_affiliation": 0.9705032689676144,
+      "doi": 1,
+      "publication_date": 1,
+      "publisher": 0.9992259527001811,
+      "resource_type": 1,
+      "subject_keywords": 0.999986177726789,
+      "funder_name": 0.2182122271828825,
+      "container_title": 1,
+      "language": 0.9959086071295286,
+      "author_orcid": 0.9578282444330795,
+      "all_authors_orcid": 0.6199013089692731,
+      "funder_doi": 0.2182122271828825,
+      "award_number": 0.15258407397680623,
+      "issn": 1,
+      "volume": 0.9708626480711018,
+      "issue": 0.8879290088047881,
+      "page": 0.7865426348017195,
+      "published_print_date": 1,
+      "published_online_date": 1,
+      "article_number": 0,
+      "license": 0.994719891633378,
+      "license_url": 0.994719891633378,
+      "open_access_license": 0.9937661547818154,
+      "full_text_links": 0.9417391184154146,
+      "resource_url": 1,
+      "references": 0.9429831230044093,
+      "references_count": 0.9429831230044093,
+      "is_referenced_by": 0.791698342709442,
+      "update_policy": 0,
+      "jats_abstract": 0,
+      "author_sequence": 0.9911675674181376,
+      "affiliation_ids_ror": 0.9704341576015592,
+      "relations": 0.9793357015494768,
+      "assertions": 0,
+      "archive": 0,
+      "credit_roles": 0,
+      "author_given_family": 0.9908911219539165,
+      "affiliation_ror": 0.9704341576015592,
+      "funding_complete": 0.15258407397680623,
+      "data_availability": 0,
+      "preprint_version_link": 0.8470427246464953,
+      "peer_review_info": 0,
+      "clinical_trial": 0,
+      "abstract_structured": 0,
+      "open_access_status": 1
+    }
+  },
+  "gap": 0.1902131865721023,
+  "comparable": {
+    "crossref": {
+      "categories": {
+        "findable_essential": 0.7216686920577051,
+        "findable_support": 0.5630278675394261,
+        "accessible_essential": 0.7805137818653852,
+        "accessible_support": 0.35516612809677683,
+        "evaluation_coara": 0.3127710111304444
+      },
+      "overall": 0.5941540482503382
+    },
+    "openalex": {
+      "categories": {
+        "findable_essential": 0.926330739353394,
+        "findable_support": 0.759386014623965,
+        "accessible_essential": 0.9503262056477808,
+        "accessible_support": 0.9803124755230579,
+        "evaluation_coara": 0.7921904156357554
+      },
+      "overall": 0.8858580060910152
+    },
+    "gap": 0.29170395784067693,
+    "fieldCount": 38,
+    "totalFieldCount": 48
+  },
+  "voluntary": {
+    "crossref": {
+      "categories": {
+        "findable_essential": 0.4122579887866987,
+        "findable_support": 0.26492460021542796,
+        "accessible_essential": 0.8103451450456173,
+        "accessible_support": 0.03849393763636866,
+        "evaluation_coara": 0.0024857071836937605
+      },
+      "overall": 0.37034890813010374
+    },
+    "openalex": {
+      "categories": {
+        "findable_essential": 0.7824166862482205,
+        "findable_support": 0.48713146364051035,
+        "accessible_essential": 0.9599108002635447,
+        "accessible_support": 0.974884929575518,
+        "evaluation_coara": 0.656686985408287
+      },
+      "overall": 0.776598315525638
+    },
+    "gap": 0.4062494073955342,
+    "fieldCount": 16
+  },
+  "automatic": {
+    "crossref": {
+      "categories": {
+        "findable_essential": 0.8763740436932085,
+        "findable_support": 0.7617633790887582,
+        "accessible_essential": 0.7626149639572459,
+        "accessible_support": 0.9885105090175933,
+        "evaluation_coara": 0.7781989670505703
+      },
+      "overall": 0.8223213052724612
+    },
+    "openalex": {
+      "categories": {
+        "findable_essential": 0.998287765905981,
+        "findable_support": 0.9408890486129349,
+        "accessible_essential": 0.9445754488783227,
+        "accessible_support": 0.9911675674181376,
+        "evaluation_coara": 0.9954455609769582
+      },
+      "overall": 0.9749694182205206
+    },
+    "gap": 0.15264811294805947,
+    "fieldCount": 22
+  },
+  "yearlyScores": [
+    {
+      "year": 2015,
+      "count": 8000,
+      "matched": 8000,
+      "universeSize": 18760,
+      "crossref": {
+        "overall": 0.4607496275252525,
+        "categories": {
+          "findable_essential": 0.7183645833333333,
+          "findable_support": 0.4496590909090909,
+          "accessible_essential": 0.5171805555555555,
+          "accessible_support": 0.2808125,
+          "evaluation_coara": 0.102075
+        },
+        "fields": {
+          "title": 1,
+          "abstract": 0.68475,
+          "author": 0.99175,
+          "author_affiliation": 0.87025,
+          "doi": 1,
+          "publication_date": 1,
+          "publisher": 1,
+          "resource_type": 1,
+          "subject_keywords": 0,
+          "funder_name": 0.001375,
+          "container_title": 1,
+          "language": 0.07225,
+          "author_orcid": 0.0005,
+          "all_authors_orcid": 0,
+          "funder_doi": 0.001125,
+          "award_number": 0.000875,
+          "issn": 1,
+          "volume": 0.97525,
+          "issue": 0.9975,
+          "page": 0.97025,
+          "published_print_date": 0.784875,
+          "published_online_date": 0.215875,
+          "article_number": 0,
+          "license": 0.032125,
+          "license_url": 0.032125,
+          "open_access_license": 0.031375,
+          "full_text_links": 0.979,
+          "resource_url": 1,
+          "references": 0.867375,
+          "references_count": 0.867375,
+          "is_referenced_by": 0.83625,
+          "update_policy": 0.009,
+          "jats_abstract": 0.68475,
+          "author_sequence": 0.991625,
+          "affiliation_ids_ror": 0,
+          "relations": 0.00025,
+          "assertions": 0.00825,
+          "archive": 0,
+          "credit_roles": 0,
+          "author_given_family": 0.9885,
+          "affiliation_ror": 0,
+          "funding_complete": 0.000875,
+          "data_availability": 0,
+          "preprint_version_link": 0,
+          "peer_review_info": 0,
+          "clinical_trial": 0,
+          "abstract_structured": 0,
+          "open_access_status": 0.031375
+        }
+      },
+      "openalex": {
+        "overall": 0.7238065656565655,
+        "categories": {
+          "findable_essential": 0.925625,
+          "findable_support": 0.6887613636363636,
+          "accessible_essential": 0.8534861111111112,
+          "accessible_support": 0.49020833333333336,
+          "evaluation_coara": 0.4020625
+        },
+        "fields": {
+          "title": 1,
+          "abstract": 0.949375,
+          "author": 0.995,
+          "author_affiliation": 0.958625,
+          "doi": 1,
+          "publication_date": 1,
+          "publisher": 0.99725,
+          "resource_type": 1,
+          "subject_keywords": 1,
+          "funder_name": 0.20725,
+          "container_title": 1,
+          "language": 1,
+          "author_orcid": 0.920125,
+          "all_authors_orcid": 0.36475,
+          "funder_doi": 0.20725,
+          "award_number": 0.132625,
+          "issn": 1,
+          "volume": 0.97525,
+          "issue": 0.9975,
+          "page": 0.978875,
+          "published_print_date": 1,
+          "published_online_date": 1,
+          "article_number": 0,
+          "license": 0.98575,
+          "license_url": 0.98575,
+          "open_access_license": 0.984,
+          "full_text_links": 0.97575,
+          "resource_url": 1,
+          "references": 0.924625,
+          "references_count": 0.924625,
+          "is_referenced_by": 0.900875,
+          "update_policy": 0,
+          "jats_abstract": 0,
+          "author_sequence": 0.995,
+          "affiliation_ids_ror": 0.958625,
+          "relations": 0.987625,
+          "assertions": 0,
+          "archive": 0,
+          "credit_roles": 0,
+          "author_given_family": 0.994375,
+          "affiliation_ror": 0.958625,
+          "funding_complete": 0.132625,
+          "data_availability": 0,
+          "preprint_version_link": 0.935,
+          "peer_review_info": 0,
+          "clinical_trial": 0,
+          "abstract_structured": 0,
+          "open_access_status": 1
+        }
+      },
+      "comparable": {
+        "crossref": {
+          "categories": {
+            "findable_essential": 0.7183645833333333,
+            "findable_support": 0.494625,
+            "accessible_essential": 0.580703125,
+            "accessible_support": 0.330625,
+            "evaluation_coara": 0.20415
+          },
+          "overall": 0.50877140625
+        },
+        "openalex": {
+          "categories": {
+            "findable_essential": 0.925625,
+            "findable_support": 0.7576375000000001,
+            "accessible_essential": 0.960171875,
+            "accessible_support": 0.9804166666666667,
+            "evaluation_coara": 0.804125
+          },
+          "overall": 0.8902427604166666
+        },
+        "gap": 0.38147135416666667
+      },
+      "voluntary": {
+        "crossref": 0.26406979166666666,
+        "openalex": 0.7630718750000001
+      }
+    },
+    {
+      "year": 2016,
+      "count": 8000,
+      "matched": 7996,
+      "universeSize": 18381,
+      "crossref": {
+        "overall": 0.4564065719696969,
+        "categories": {
+          "findable_essential": 0.71365625,
+          "findable_support": 0.44078409090909093,
+          "accessible_essential": 0.5161250000000001,
+          "accessible_support": 0.2788333333333333,
+          "evaluation_coara": 0.0963875
+        },
+        "fields": {
+          "title": 1,
+          "abstract": 0.672875,
+          "author": 0.988625,
+          "author_affiliation": 0.86125,
+          "doi": 1,
+          "publication_date": 1,
+          "publisher": 1,
+          "resource_type": 1,
+          "subject_keywords": 0,
+          "funder_name": 0.003125,
+          "container_title": 1,
+          "language": 0.038,
+          "author_orcid": 0.000875,
+          "all_authors_orcid": 0.00025,
+          "funder_doi": 0.002625,
+          "award_number": 0.001875,
+          "issn": 1,
+          "volume": 0.9695,
+          "issue": 0.99475,
+          "page": 0.8705,
+          "published_print_date": 0.83275,
+          "published_online_date": 0.169875,
+          "article_number": 0.005625,
+          "license": 0.03,
+          "license_url": 0.03,
+          "open_access_license": 0.027375,
+          "full_text_links": 0.981375,
+          "resource_url": 1,
+          "references": 0.87075,
+          "references_count": 0.87075,
+          "is_referenced_by": 0.821,
+          "update_policy": 0.013875,
+          "jats_abstract": 0.672875,
+          "author_sequence": 0.9885,
+          "affiliation_ids_ror": 0,
+          "relations": 0.000375,
+          "assertions": 0.01125,
+          "archive": 0,
+          "credit_roles": 0,
+          "author_given_family": 0.934875,
+          "affiliation_ror": 0,
+          "funding_complete": 0.001625,
+          "data_availability": 0,
+          "preprint_version_link": 0,
+          "peer_review_info": 0,
+          "clinical_trial": 0,
+          "abstract_structured": 0,
+          "open_access_status": 0.027375
+        }
+      },
+      "openalex": {
+        "overall": 0.7247558059332697,
+        "categories": {
+          "findable_essential": 0.9273907787226946,
+          "findable_support": 0.686809313747783,
+          "accessible_essential": 0.853593463398366,
+          "accessible_support": 0.49130815407703854,
+          "evaluation_coara": 0.4049399699849925
+        },
+        "fields": {
+          "title": 1,
+          "abstract": 0.9449724862431216,
+          "author": 0.992871435717859,
+          "author_affiliation": 0.9621060530265133,
+          "doi": 1,
+          "publication_date": 1,
+          "publisher": 1,
+          "resource_type": 1,
+          "subject_keywords": 1,
+          "funder_name": 0.22873936968484243,
+          "container_title": 1,
+          "language": 1,
+          "author_orcid": 0.9232116058029014,
+          "all_authors_orcid": 0.3723111555777889,
+          "funder_doi": 0.22873936968484243,
+          "award_number": 0.1535767883941971,
+          "issn": 1,
+          "volume": 0.9706103051525763,
+          "issue": 0.9957478739369685,
+          "page": 0.9107053526763381,
+          "published_print_date": 1,
+          "published_online_date": 1,
+          "article_number": 0,
+          "license": 0.9931215607803902,
+          "license_url": 0.9931215607803902,
+          "open_access_license": 0.9904952476238119,
+          "full_text_links": 0.9723611805902952,
+          "resource_url": 1,
+          "references": 0.9228364182091046,
+          "references_count": 0.9228364182091046,
+          "is_referenced_by": 0.8875687843921961,
+          "update_policy": 0,
+          "jats_abstract": 0,
+          "author_sequence": 0.992871435717859,
+          "affiliation_ids_ror": 0.9619809904952477,
+          "relations": 0.9929964982491246,
+          "assertions": 0,
+          "archive": 0,
+          "credit_roles": 0,
+          "author_given_family": 0.9918709354677339,
+          "affiliation_ror": 0.9619809904952477,
+          "funding_complete": 0.1535767883941971,
+          "data_availability": 0,
+          "preprint_version_link": 0.9419709854927464,
+          "peer_review_info": 0,
+          "clinical_trial": 0,
+          "abstract_structured": 0,
+          "open_access_status": 1
+        }
+      },
+      "comparable": {
+        "crossref": {
+          "categories": {
+            "findable_essential": 0.71365625,
+            "findable_support": 0.4843,
+            "accessible_essential": 0.5789062500000001,
+            "accessible_support": 0.329625,
+            "evaluation_coara": 0.192775
+          },
+          "overall": 0.5029859375
+        },
+        "openalex": {
+          "categories": {
+            "findable_essential": 0.9273907787226946,
+            "findable_support": 0.7554902451225612,
+            "accessible_essential": 0.9602926463231617,
+            "accessible_support": 0.9826163081540771,
+            "evaluation_coara": 0.809879939969985
+          },
+          "overall": 0.8918515507753878
+        },
+        "gap": 0.3888656132753878
+      },
+      "voluntary": {
+        "crossref": 0.26303802083333333,
+        "openalex": 0.7693701017175254
+      }
+    },
+    {
+      "year": 2017,
+      "count": 8000,
+      "matched": 7998,
+      "universeSize": 18317,
+      "crossref": {
+        "overall": 0.4600088573232323,
+        "categories": {
+          "findable_essential": 0.7160520833333334,
+          "findable_support": 0.4340113636363636,
+          "accessible_essential": 0.5281111111111111,
+          "accessible_support": 0.2785625,
+          "evaluation_coara": 0.1010375
+        },
+        "fields": {
+          "title": 1,
+          "abstract": 0.6765,
+          "author": 0.9895,
+          "author_affiliation": 0.90475,
+          "doi": 1,
+          "publication_date": 1,
+          "publisher": 1,
+          "resource_type": 1,
+          "subject_keywords": 0,
+          "funder_name": 0.00125,
+          "container_title": 1,
+          "language": 0.020625,
+          "author_orcid": 0.006375,
+          "all_authors_orcid": 0.003375,
+          "funder_doi": 0.000875,
+          "award_number": 0.00075,
+          "issn": 1,
+          "volume": 0.9685,
+          "issue": 0.995875,
+          "page": 0.789375,
+          "published_print_date": 0.768125,
+          "published_online_date": 0.232625,
+          "article_number": 0.00825,
+          "license": 0.046875,
+          "license_url": 0.046875,
+          "open_access_license": 0.046125,
+          "full_text_links": 0.9835,
+          "resource_url": 1,
+          "references": 0.907625,
+          "references_count": 0.907625,
+          "is_referenced_by": 0.8085,
+          "update_policy": 0.005875,
+          "jats_abstract": 0.6765,
+          "author_sequence": 0.9895,
+          "affiliation_ids_ror": 0,
+          "relations": 0.00025,
+          "assertions": 0.005125,
+          "archive": 0,
+          "credit_roles": 0,
+          "author_given_family": 0.96375,
+          "affiliation_ror": 0,
+          "funding_complete": 0.0005,
+          "data_availability": 0,
+          "preprint_version_link": 0,
+          "peer_review_info": 0,
+          "clinical_trial": 0,
+          "abstract_structured": 0,
+          "open_access_status": 0.046125
+        }
+      },
+      "openalex": {
+        "overall": 0.7271715151009974,
+        "categories": {
+          "findable_essential": 0.9306493289989164,
+          "findable_support": 0.6906726681670418,
+          "accessible_essential": 0.8543941540940792,
+          "accessible_support": 0.4921438693006585,
+          "evaluation_coara": 0.4078144536134033
+        },
+        "fields": {
+          "title": 1,
+          "abstract": 0.9502375593898474,
+          "author": 0.9926231557889472,
+          "author_affiliation": 0.967741935483871,
+          "doi": 1,
+          "publication_date": 1,
+          "publisher": 1,
+          "resource_type": 1,
+          "subject_keywords": 1,
+          "funder_name": 0.2571892973243311,
+          "container_title": 1,
+          "language": 1,
+          "author_orcid": 0.9392348087021756,
+          "all_authors_orcid": 0.41597899474868716,
+          "funder_doi": 0.2571892973243311,
+          "award_number": 0.1760440110027507,
+          "issn": 1,
+          "volume": 0.9684921230307577,
+          "issue": 0.9958739684921231,
+          "page": 0.8445861465366341,
+          "published_print_date": 1,
+          "published_online_date": 1,
+          "article_number": 0,
+          "license": 0.9921230307576894,
+          "license_url": 0.9921230307576894,
+          "open_access_license": 0.9907476869217304,
+          "full_text_links": 0.9783695923980995,
+          "resource_url": 1,
+          "references": 0.9262315578894724,
+          "references_count": 0.9262315578894724,
+          "is_referenced_by": 0.8837209302325582,
+          "update_policy": 0,
+          "jats_abstract": 0,
+          "author_sequence": 0.9926231557889472,
+          "affiliation_ids_ror": 0.967741935483871,
+          "relations": 0.9924981245311327,
+          "assertions": 0,
+          "archive": 0,
+          "credit_roles": 0,
+          "author_given_family": 0.9924981245311327,
+          "affiliation_ror": 0.967741935483871,
+          "funding_complete": 0.1760440110027507,
+          "data_availability": 0,
+          "preprint_version_link": 0.9418604651162791,
+          "peer_review_info": 0,
+          "clinical_trial": 0,
+          "abstract_structured": 0,
+          "open_access_status": 1
+        }
+      },
+      "comparable": {
+        "crossref": {
+          "categories": {
+            "findable_essential": 0.7160520833333334,
+            "findable_support": 0.47658749999999994,
+            "accessible_essential": 0.5933906250000001,
+            "accessible_support": 0.3299166666666667,
+            "evaluation_coara": 0.202075
+          },
+          "overall": 0.5080580729166666
+        },
+        "openalex": {
+          "categories": {
+            "findable_essential": 0.9306493289989164,
+            "findable_support": 0.7597399349837459,
+            "accessible_essential": 0.961193423355839,
+            "accessible_support": 0.984287738601317,
+            "evaluation_coara": 0.8156289072268066
+          },
+          "overall": 0.8950087000916895
+        },
+        "gap": 0.38695062717502293
+      },
+      "voluntary": {
+        "crossref": 0.2742744791666667,
+        "openalex": 0.7791937567725264
+      }
+    },
+    {
+      "year": 2018,
+      "count": 8000,
+      "matched": 8000,
+      "universeSize": 18735,
+      "crossref": {
+        "overall": 0.4781925505050505,
+        "categories": {
+          "findable_essential": 0.7200833333333335,
+          "findable_support": 0.4608068181818182,
+          "accessible_essential": 0.568486111111111,
+          "accessible_support": 0.280125,
+          "evaluation_coara": 0.11456250000000001
+        },
+        "fields": {
+          "title": 1,
+          "abstract": 0.684375,
+          "author": 0.989125,
+          "author_affiliation": 0.95,
+          "doi": 1,
+          "publication_date": 1,
+          "publisher": 1,
+          "resource_type": 1,
+          "subject_keywords": 0,
+          "funder_name": 0.00325,
+          "container_title": 1,
+          "language": 0.01425,
+          "author_orcid": 0.245125,
+          "all_authors_orcid": 0.167125,
+          "funder_doi": 0.002375,
+          "award_number": 0.00125,
+          "issn": 0.99925,
+          "volume": 0.974625,
+          "issue": 0.98075,
+          "page": 0.66225,
+          "published_print_date": 0.039375,
+          "published_online_date": 0.961875,
+          "article_number": 0.034875,
+          "license": 0.157375,
+          "license_url": 0.157375,
+          "open_access_license": 0.156125,
+          "full_text_links": 0.9405,
+          "resource_url": 1,
+          "references": 0.948125,
+          "references_count": 0.948125,
+          "is_referenced_by": 0.80075,
+          "update_policy": 0.008,
+          "jats_abstract": 0.684375,
+          "author_sequence": 0.989125,
+          "affiliation_ids_ror": 0,
+          "relations": 0.0005,
+          "assertions": 0.00675,
+          "archive": 0,
+          "credit_roles": 0,
+          "author_given_family": 0.98875,
+          "affiliation_ror": 0,
+          "funding_complete": 0.000625,
+          "data_availability": 0,
+          "preprint_version_link": 0.000125,
+          "peer_review_info": 0,
+          "clinical_trial": 0,
+          "abstract_structured": 0,
+          "open_access_status": 0.156125
+        }
+      },
+      "openalex": {
+        "overall": 0.7282763825757576,
+        "categories": {
+          "findable_essential": 0.9309895833333334,
+          "findable_support": 0.6891022727272728,
+          "accessible_essential": 0.860375,
+          "accessible_support": 0.4931041666666666,
+          "evaluation_coara": 0.4060499999999999
+        },
+        "fields": {
+          "title": 1,
+          "abstract": 0.953625,
+          "author": 0.99125,
+          "author_affiliation": 0.9735,
+          "doi": 1,
+          "publication_date": 1,
+          "publisher": 1,
+          "resource_type": 1,
+          "subject_keywords": 1,
+          "funder_name": 0.2535,
+          "container_title": 1,
+          "language": 1,
+          "author_orcid": 0.951875,
+          "all_authors_orcid": 0.494375,
+          "funder_doi": 0.2535,
+          "award_number": 0.1735,
+          "issn": 1,
+          "volume": 0.975625,
+          "issue": 0.98175,
+          "page": 0.7495,
+          "published_print_date": 1,
+          "published_online_date": 1,
+          "article_number": 0,
+          "license": 0.993875,
+          "license_url": 0.993875,
+          "open_access_license": 0.99275,
+          "full_text_links": 0.979875,
+          "resource_url": 1,
+          "references": 0.951125,
+          "references_count": 0.951125,
+          "is_referenced_by": 0.88075,
+          "update_policy": 0,
+          "jats_abstract": 0,
+          "author_sequence": 0.99125,
+          "affiliation_ids_ror": 0.973375,
+          "relations": 0.994,
+          "assertions": 0,
+          "archive": 0,
+          "credit_roles": 0,
+          "author_given_family": 0.99125,
+          "affiliation_ror": 0.973375,
+          "funding_complete": 0.1735,
+          "data_availability": 0,
+          "preprint_version_link": 0.922375,
+          "peer_review_info": 0,
+          "clinical_trial": 0,
+          "abstract_structured": 0,
+          "open_access_status": 1
+        }
+      },
+      "comparable": {
+        "crossref": {
+          "categories": {
+            "findable_essential": 0.7200833333333335,
+            "findable_support": 0.5034,
+            "accessible_essential": 0.638546875,
+            "accessible_support": 0.329875,
+            "evaluation_coara": 0.22912500000000002
+          },
+          "overall": 0.5299842187500001
+        },
+        "openalex": {
+          "categories": {
+            "findable_essential": 0.9309895833333334,
+            "findable_support": 0.7580125000000001,
+            "accessible_essential": 0.967921875,
+            "accessible_support": 0.9862083333333332,
+            "evaluation_coara": 0.8120999999999998
+          },
+          "overall": 0.8960200520833335
+        },
+        "gap": 0.36603583333333334
+      },
+      "voluntary": {
+        "crossref": 0.30952343749999994,
+        "openalex": 0.7863625
+      }
+    },
+    {
+      "year": 2019,
+      "count": 8000,
+      "matched": 8000,
+      "universeSize": 18437,
+      "crossref": {
+        "overall": 0.5837865404040404,
+        "categories": {
+          "findable_essential": 0.7217500000000001,
+          "findable_support": 0.5850454545454545,
+          "accessible_essential": 0.8468055555555556,
+          "accessible_support": 0.2839583333333333,
+          "evaluation_coara": 0.19703749999999998
+        },
+        "fields": {
+          "title": 1,
+          "abstract": 0.702125,
+          "author": 0.98925,
+          "author_affiliation": 0.94525,
+          "doi": 1,
+          "publication_date": 1,
+          "publisher": 1,
+          "resource_type": 1,
+          "subject_keywords": 0,
+          "funder_name": 0.00525,
+          "container_title": 1,
+          "language": 0.019125,
+          "author_orcid": 0.897625,
+          "all_authors_orcid": 0.702,
+          "funder_doi": 0.004875,
+          "award_number": 0.00225,
+          "issn": 1,
+          "volume": 0.966625,
+          "issue": 0.885375,
+          "page": 0.77175,
+          "published_print_date": 0.011,
+          "published_online_date": 0.989,
+          "article_number": 0.205,
+          "license": 0.9795,
+          "license_url": 0.9795,
+          "open_access_license": 0.97925,
+          "full_text_links": 0.9825,
+          "resource_url": 1,
+          "references": 0.95075,
+          "references_count": 0.95075,
+          "is_referenced_by": 0.78975,
+          "update_policy": 0.00925,
+          "jats_abstract": 0.702125,
+          "author_sequence": 0.98925,
+          "affiliation_ids_ror": 0,
+          "relations": 0.000375,
+          "assertions": 0.00925,
+          "archive": 0.00275,
+          "credit_roles": 0,
+          "author_given_family": 0.988625,
+          "affiliation_ror": 0,
+          "funding_complete": 0.00225,
+          "data_availability": 0,
+          "preprint_version_link": 0.00025,
+          "peer_review_info": 0,
+          "clinical_trial": 0,
+          "abstract_structured": 0,
+          "open_access_status": 0.97925
+        }
+      },
+      "openalex": {
+        "overall": 0.7305217992424243,
+        "categories": {
+          "findable_essential": 0.9295520833333333,
+          "findable_support": 0.7106022727272728,
+          "accessible_essential": 0.8579166666666667,
+          "accessible_support": 0.4935416666666667,
+          "evaluation_coara": 0.40616250000000004
+        },
+        "fields": {
+          "title": 1,
+          "abstract": 0.943125,
+          "author": 0.991125,
+          "author_affiliation": 0.977,
+          "doi": 1,
+          "publication_date": 1,
+          "publisher": 1,
+          "resource_type": 1,
+          "subject_keywords": 1,
+          "funder_name": 0.243375,
+          "container_title": 1,
+          "language": 1,
+          "author_orcid": 0.97975,
+          "all_authors_orcid": 0.742125,
+          "funder_doi": 0.243375,
+          "award_number": 0.1705,
+          "issn": 1,
+          "volume": 0.966875,
+          "issue": 0.885625,
+          "page": 0.828375,
+          "published_print_date": 1,
+          "published_online_date": 1,
+          "article_number": 0,
+          "license": 0.993375,
+          "license_url": 0.993375,
+          "open_access_license": 0.992875,
+          "full_text_links": 0.974375,
+          "resource_url": 1,
+          "references": 0.951625,
+          "references_count": 0.951625,
+          "is_referenced_by": 0.864,
+          "update_policy": 0,
+          "jats_abstract": 0,
+          "author_sequence": 0.991125,
+          "affiliation_ids_ror": 0.977,
+          "relations": 0.993125,
+          "assertions": 0,
+          "archive": 0,
+          "credit_roles": 0,
+          "author_given_family": 0.991125,
+          "affiliation_ror": 0.977,
+          "funding_complete": 0.1705,
+          "data_availability": 0,
+          "preprint_version_link": 0.923,
+          "peer_review_info": 0,
+          "clinical_trial": 0,
+          "abstract_structured": 0,
+          "open_access_status": 1
+        }
+      },
+      "comparable": {
+        "crossref": {
+          "categories": {
+            "findable_essential": 0.7217500000000001,
+            "findable_support": 0.62305,
+            "accessible_essential": 0.9515,
+            "accessible_support": 0.329875,
+            "evaluation_coara": 0.39407499999999995
+          },
+          "overall": 0.65966
+        },
+        "openalex": {
+          "categories": {
+            "findable_essential": 0.9295520833333333,
+            "findable_support": 0.7816625000000001,
+            "accessible_essential": 0.9651562499999999,
+            "accessible_support": 0.9870833333333334,
+            "evaluation_coara": 0.8123250000000001
+          },
+          "overall": 0.8985773958333334
+        },
+        "gap": 0.23891739583333338
+      },
+      "voluntary": {
+        "crossref": 0.42444791666666665,
+        "openalex": 0.7952364583333333
+      }
+    },
+    {
+      "year": 2020,
+      "count": 8000,
+      "matched": 7999,
+      "universeSize": 19172,
+      "crossref": {
+        "overall": 0.5852027525252526,
+        "categories": {
+          "findable_essential": 0.7233958333333333,
+          "findable_support": 0.5995340909090908,
+          "accessible_essential": 0.8401805555555555,
+          "accessible_support": 0.2876875,
+          "evaluation_coara": 0.1972
+        },
+        "fields": {
+          "title": 1,
+          "abstract": 0.730375,
+          "author": 0.98825,
+          "author_affiliation": 0.944125,
+          "doi": 1,
+          "publication_date": 1,
+          "publisher": 1,
+          "resource_type": 1,
+          "subject_keywords": 0,
+          "funder_name": 0.0025,
+          "container_title": 1,
+          "language": 0.0155,
+          "author_orcid": 0.964625,
+          "all_authors_orcid": 0.811,
+          "funder_doi": 0.0025,
+          "award_number": 0.0005,
+          "issn": 1,
+          "volume": 0.966125,
+          "issue": 0.8785,
+          "page": 0.749,
+          "published_print_date": 0,
+          "published_online_date": 1,
+          "article_number": 0.222625,
+          "license": 0.982875,
+          "license_url": 0.982875,
+          "open_access_license": 0.982875,
+          "full_text_links": 0.984,
+          "resource_url": 1,
+          "references": 0.9395,
+          "references_count": 0.9395,
+          "is_referenced_by": 0.75,
+          "update_policy": 0,
+          "jats_abstract": 0.730375,
+          "author_sequence": 0.98825,
+          "affiliation_ids_ror": 0,
+          "relations": 0.001125,
+          "assertions": 0,
+          "archive": 0.006375,
+          "credit_roles": 0,
+          "author_given_family": 0.987625,
+          "affiliation_ror": 0,
+          "funding_complete": 0.0005,
+          "data_availability": 0,
+          "preprint_version_link": 0.001,
+          "peer_review_info": 0,
+          "clinical_trial": 0,
+          "abstract_structured": 0,
+          "open_access_status": 0.982875
+        }
+      },
+      "openalex": {
+        "overall": 0.7275509564958247,
+        "categories": {
+          "findable_essential": 0.9264491394757678,
+          "findable_support": 0.709134096307493,
+          "accessible_essential": 0.8554680446166881,
+          "accessible_support": 0.4937908905279827,
+          "evaluation_coara": 0.4
+        },
+        "fields": {
+          "title": 1,
+          "abstract": 0.9391173896737092,
+          "author": 0.9909988748593574,
+          "author_affiliation": 0.9763720465058132,
+          "doi": 1,
+          "publication_date": 1,
+          "publisher": 1,
+          "resource_type": 1,
+          "subject_keywords": 1,
+          "funder_name": 0.2109013626703338,
+          "container_title": 1,
+          "language": 1,
+          "author_orcid": 0.9798724840605075,
+          "all_authors_orcid": 0.7858482310288786,
+          "funder_doi": 0.2109013626703338,
+          "award_number": 0.15226903362920366,
+          "issn": 1,
+          "volume": 0.9663707963495437,
+          "issue": 0.8786098262282785,
+          "page": 0.8266033254156769,
+          "published_print_date": 1,
+          "published_online_date": 1,
+          "article_number": 0,
+          "license": 0.9969996249531191,
+          "license_url": 0.9969996249531191,
+          "open_access_license": 0.9964995624453057,
+          "full_text_links": 0.970871358919865,
+          "resource_url": 1,
+          "references": 0.9524940617577197,
+          "references_count": 0.9524940617577197,
+          "is_referenced_by": 0.8328541067633454,
+          "update_policy": 0,
+          "jats_abstract": 0,
+          "author_sequence": 0.9909988748593574,
+          "affiliation_ids_ror": 0.9762470308788599,
+          "relations": 0.9954994374296787,
+          "assertions": 0,
+          "archive": 0,
+          "credit_roles": 0,
+          "author_given_family": 0.9909988748593574,
+          "affiliation_ror": 0.9762470308788599,
+          "funding_complete": 0.15226903362920366,
+          "data_availability": 0,
+          "preprint_version_link": 0.880485060632579,
+          "peer_review_info": 0,
+          "clinical_trial": 0,
+          "abstract_structured": 0,
+          "open_access_status": 1
+        }
+      },
+      "comparable": {
+        "crossref": {
+          "categories": {
+            "findable_essential": 0.7233958333333333,
+            "findable_support": 0.6372249999999999,
+            "accessible_essential": 0.9452031249999999,
+            "accessible_support": 0.32979166666666665,
+            "evaluation_coara": 0.3944
+          },
+          "overall": 0.6607624479166667
+        },
+        "openalex": {
+          "categories": {
+            "findable_essential": 0.9264491394757678,
+            "findable_support": 0.7800475059382423,
+            "accessible_essential": 0.9624015501937742,
+            "accessible_support": 0.9875817810559654,
+            "evaluation_coara": 0.8
+          },
+          "overall": 0.8943004333875068
+        },
+        "gap": 0.23353798547084004
+      },
+      "voluntary": {
+        "crossref": 0.43111927083333335,
+        "openalex": 0.7886240988456891
+      }
+    },
+    {
+      "year": 2021,
+      "count": 7507,
+      "matched": 7507,
+      "universeSize": 18624,
+      "crossref": {
+        "overall": 0.5757877630709654,
+        "categories": {
+          "findable_essential": 0.7211380489321076,
+          "findable_support": 0.6052290589389296,
+          "accessible_essential": 0.8023030356852122,
+          "accessible_support": 0.2851782780515963,
+          "evaluation_coara": 0.1978420141201545
+        },
+        "fields": {
+          "title": 1,
+          "abstract": 0.7147995204475822,
+          "author": 0.9881443985613427,
+          "author_affiliation": 0.9499134141467963,
+          "doi": 1,
+          "publication_date": 1,
+          "publisher": 1,
+          "resource_type": 1,
+          "subject_keywords": 0,
+          "funder_name": 0.0007992540295723991,
+          "container_title": 1,
+          "language": 0,
+          "author_orcid": 0.9688290928466764,
+          "all_authors_orcid": 0.8562674836818969,
+          "funder_doi": 0.0006660450246436659,
+          "award_number": 0.0001332090049287332,
+          "issn": 1,
+          "volume": 0.9754895430931131,
+          "issue": 0.8781137604902092,
+          "page": 0.7508991607832689,
+          "published_print_date": 0.00039962701478619956,
+          "published_online_date": 0.9998667909950713,
+          "article_number": 0.2268549353936326,
+          "license": 0.9902757426402025,
+          "license_url": 0.9902757426402025,
+          "open_access_license": 0.9902757426402025,
+          "full_text_links": 0.65405621420008,
+          "resource_url": 1,
+          "references": 0.946583189023578,
+          "references_count": 0.946583189023578,
+          "is_referenced_by": 0.7026775009990676,
+          "update_policy": 0,
+          "jats_abstract": 0.7147995204475822,
+          "author_sequence": 0.9881443985613427,
+          "affiliation_ids_ror": 0,
+          "relations": 0.008125749300652725,
+          "assertions": 0,
+          "archive": 0,
+          "credit_roles": 0,
+          "author_given_family": 0.9869455175169841,
+          "affiliation_ror": 0,
+          "funding_complete": 0,
+          "data_availability": 0,
+          "preprint_version_link": 0.0011988810443585986,
+          "peer_review_info": 0,
+          "clinical_trial": 0,
+          "abstract_structured": 0,
+          "open_access_status": 0.9902757426402025
+        }
+      },
+      "openalex": {
+        "overall": 0.7260272298043713,
+        "categories": {
+          "findable_essential": 0.9249922294747126,
+          "findable_support": 0.709882897174758,
+          "accessible_essential": 0.8516199695099389,
+          "accessible_support": 0.492540295723991,
+          "evaluation_coara": 0.3994405221792993
+        },
+        "fields": {
+          "title": 1,
+          "abstract": 0.9323298254962036,
+          "author": 0.9906753696549887,
+          "author_affiliation": 0.9760223791128281,
+          "doi": 1,
+          "publication_date": 1,
+          "publisher": 1,
+          "resource_type": 1,
+          "subject_keywords": 1,
+          "funder_name": 0.20087917943252964,
+          "container_title": 1,
+          "language": 1,
+          "author_orcid": 0.9786865592114027,
+          "all_authors_orcid": 0.8128413480751299,
+          "funder_doi": 0.20087917943252964,
+          "award_number": 0.14559744238710537,
+          "issn": 1,
+          "volume": 0.9757559611029706,
+          "issue": 0.8778473424803517,
+          "page": 0.8171040362328493,
+          "published_print_date": 1,
+          "published_online_date": 1,
+          "article_number": 0,
+          "license": 0.9985347009457839,
+          "license_url": 0.9985347009457839,
+          "open_access_license": 0.9985347009457839,
+          "full_text_links": 0.972026108964966,
+          "resource_url": 1,
+          "references": 0.9576395364326629,
+          "references_count": 0.9576395364326629,
+          "is_referenced_by": 0.7816704409218063,
+          "update_policy": 0,
+          "jats_abstract": 0,
+          "author_sequence": 0.9906753696549887,
+          "affiliation_ids_ror": 0.9760223791128281,
+          "relations": 0.988544025576129,
+          "assertions": 0,
+          "archive": 0,
+          "credit_roles": 0,
+          "author_given_family": 0.9906753696549887,
+          "affiliation_ror": 0.9760223791128281,
+          "funding_complete": 0.14559744238710537,
+          "data_availability": 0,
+          "preprint_version_link": 0.8821100306380711,
+          "peer_review_info": 0,
+          "clinical_trial": 0,
+          "abstract_structured": 0,
+          "open_access_status": 1
+        }
+      },
+      "comparable": {
+        "crossref": {
+          "categories": {
+            "findable_essential": 0.7211380489321076,
+            "findable_support": 0.6430664712934594,
+            "accessible_essential": 0.9025909151458638,
+            "accessible_support": 0.3320900492873318,
+            "evaluation_coara": 0.395684028240309
+          },
+          "overall": 0.650794924736912
+        },
+        "openalex": {
+          "categories": {
+            "findable_essential": 0.9249922294747126,
+            "findable_support": 0.7808711868922339,
+            "accessible_essential": 0.9580724656986812,
+            "accessible_support": 0.985080591447982,
+            "evaluation_coara": 0.7988810443585986
+          },
+          "overall": 0.8924307313174371
+        },
+        "gap": 0.24163580658052508
+      },
+      "voluntary": {
+        "crossref": 0.4341575640513299,
+        "openalex": 0.787995648505839
+      }
+    },
+    {
+      "year": 2022,
+      "count": 6874,
+      "matched": 6874,
+      "universeSize": 20578,
+      "crossref": {
+        "overall": 0.5835446110802527,
+        "categories": {
+          "findable_essential": 0.725317621957133,
+          "findable_support": 0.5988309043298862,
+          "accessible_essential": 0.814049720363366,
+          "accessible_support": 0.33432741732130733,
+          "evaluation_coara": 0.19589758510328775
+        },
+        "fields": {
+          "title": 1,
+          "abstract": 0.7448356124527203,
+          "author": 0.9914169333721269,
+          "author_affiliation": 0.9402094850160023,
+          "doi": 1,
+          "publication_date": 1,
+          "publisher": 1,
+          "resource_type": 1,
+          "subject_keywords": 0,
+          "funder_name": 0,
+          "container_title": 1,
+          "language": 0.027349432644748328,
+          "author_orcid": 0.9671224905440792,
+          "all_authors_orcid": 0.8651440209485016,
+          "funder_doi": 0,
+          "award_number": 0,
+          "issn": 1,
+          "volume": 0.9442828047716031,
+          "issue": 0.8242653476869363,
+          "page": 0.7125400058190282,
+          "published_print_date": 0.014983997672388711,
+          "published_online_date": 0.9988361943555426,
+          "article_number": 0.2599650858306663,
+          "license": 0.9691591504218795,
+          "license_url": 0.9691591504218795,
+          "open_access_license": 0.9691591504218795,
+          "full_text_links": 0.9172243235379691,
+          "resource_url": 1,
+          "references": 0.9419551934826884,
+          "references_count": 0.9419551934826884,
+          "is_referenced_by": 0.6178353215013093,
+          "update_policy": 0,
+          "jats_abstract": 0.7448356124527203,
+          "author_sequence": 0.9914169333721269,
+          "affiliation_ids_ror": 0,
+          "relations": 0.24250800116380564,
+          "assertions": 0,
+          "archive": 0.027203956939191157,
+          "credit_roles": 0,
+          "author_given_family": 0.988943846377655,
+          "affiliation_ror": 0,
+          "funding_complete": 0,
+          "data_availability": 0,
+          "preprint_version_link": 0.0008728542333430317,
+          "peer_review_info": 0,
+          "clinical_trial": 0,
+          "abstract_structured": 0,
+          "open_access_status": 0.9691591504218795
+        }
+      },
+      "openalex": {
+        "overall": 0.7173465378251528,
+        "categories": {
+          "findable_essential": 0.9256376685093589,
+          "findable_support": 0.6980453355198772,
+          "accessible_essential": 0.8451007015161801,
+          "accessible_support": 0.49279895257492007,
+          "evaluation_coara": 0.37196683153913296
+        },
+        "fields": {
+          "title": 1,
+          "abstract": 0.9372999709048588,
+          "author": 0.9928716904276986,
+          "author_affiliation": 0.9786150712830958,
+          "doi": 1,
+          "publication_date": 1,
+          "publisher": 1,
+          "resource_type": 1,
+          "subject_keywords": 1,
+          "funder_name": 0.19886528949665405,
+          "container_title": 1,
+          "language": 1,
+          "author_orcid": 0.980506255455339,
+          "all_authors_orcid": 0.8015711376200174,
+          "funder_doi": 0.19886528949665405,
+          "award_number": 0.14183881291824266,
+          "issn": 1,
+          "volume": 0.9489380273494327,
+          "issue": 0.8284841431480943,
+          "page": 0.77829502473087,
+          "published_print_date": 1,
+          "published_online_date": 1,
+          "article_number": 0,
+          "license": 0.9981088158277568,
+          "license_url": 0.9981088158277568,
+          "open_access_license": 0.9972359615944137,
+          "full_text_links": 0.9770148385219668,
+          "resource_url": 1,
+          "references": 0.9634855979051499,
+          "references_count": 0.9634855979051499,
+          "is_referenced_by": 0.7084666860634274,
+          "update_policy": 0,
+          "jats_abstract": 0,
+          "author_sequence": 0.9928716904276986,
+          "affiliation_ids_ror": 0.9783241198719814,
+          "relations": 0.98559790514984,
+          "assertions": 0,
+          "archive": 0,
+          "credit_roles": 0,
+          "author_given_family": 0.9927262147221414,
+          "affiliation_ror": 0.9783241198719814,
+          "funding_complete": 0.14183881291824266,
+          "data_availability": 0,
+          "preprint_version_link": 0.6067791678789642,
+          "peer_review_info": 0,
+          "clinical_trial": 0,
+          "abstract_structured": 0,
+          "open_access_status": 1
+        }
+      },
+      "comparable": {
+        "crossref": {
+          "categories": {
+            "findable_essential": 0.725317621957133,
+            "findable_support": 0.6327174861798082,
+            "accessible_essential": 0.9158059354087867,
+            "accessible_support": 0.4113083115119775,
+            "evaluation_coara": 0.3917951702065755
+          },
+          "overall": 0.6609442585588206
+        },
+        "openalex": {
+          "categories": {
+            "findable_essential": 0.9256376685093589,
+            "findable_support": 0.7678498690718649,
+            "accessible_essential": 0.9507382892057026,
+            "accessible_support": 0.9855979051498401,
+            "evaluation_coara": 0.7439336630782659
+          },
+          "overall": 0.8778998763456503
+        },
+        "gap": 0.2169556177868297
+      },
+      "voluntary": {
+        "crossref": 0.4450277616138105,
+        "openalex": 0.7702223353699932
+      }
+    },
+    {
+      "year": 2023,
+      "count": 4621,
+      "matched": 4621,
+      "universeSize": 19338,
+      "crossref": {
+        "overall": 0.5880943715449234,
+        "categories": {
+          "findable_essential": 0.7260513597345453,
+          "findable_support": 0.5937518443469535,
+          "accessible_essential": 0.8273822404962851,
+          "accessible_support": 0.3472552838490947,
+          "evaluation_coara": 0.19822549231768014
+        },
+        "fields": {
+          "title": 1,
+          "abstract": 0.7504869075957585,
+          "author": 0.9870157974464402,
+          "author_affiliation": 0.9727331746375244,
+          "doi": 1,
+          "publication_date": 1,
+          "publisher": 1,
+          "resource_type": 1,
+          "subject_keywords": 0,
+          "funder_name": 0.0023804371348193033,
+          "container_title": 1,
+          "language": 0,
+          "author_orcid": 0.9846353603116209,
+          "all_authors_orcid": 0.893745942436702,
+          "funder_doi": 0.0015148236312486475,
+          "award_number": 0.0023804371348193033,
+          "issn": 1,
+          "volume": 0.9822549231768015,
+          "issue": 0.6814542306859988,
+          "page": 0.49816057130491237,
+          "published_print_date": 0.0012984202553559835,
+          "published_online_date": 0.999350789872322,
+          "article_number": 0.4864747890067085,
+          "license": 0.9976195628651807,
+          "license_url": 0.9976195628651807,
+          "open_access_license": 0.9976195628651807,
+          "full_text_links": 0.9945899156026834,
+          "resource_url": 1,
+          "references": 0.9658082666089591,
+          "references_count": 0.9658082666089591,
+          "is_referenced_by": 0.5273750270504219,
+          "update_policy": 0,
+          "jats_abstract": 0.7504869075957585,
+          "author_sequence": 0.9870157974464402,
+          "affiliation_ids_ror": 0,
+          "relations": 0.34602899805236964,
+          "assertions": 0,
+          "archive": 0,
+          "credit_roles": 0,
+          "author_given_family": 0.9822549231768015,
+          "affiliation_ror": 0,
+          "funding_complete": 0.0015148236312486475,
+          "data_availability": 0,
+          "preprint_version_link": 0.0008656135035706557,
+          "peer_review_info": 0,
+          "clinical_trial": 0,
+          "abstract_structured": 0,
+          "open_access_status": 0.9976195628651807
+        }
+      },
+      "openalex": {
+        "overall": 0.7114990742744476,
+        "categories": {
+          "findable_essential": 0.9247817932626415,
+          "findable_support": 0.6771261631681454,
+          "accessible_essential": 0.831469859818702,
+          "accessible_support": 0.49289475582485753,
+          "evaluation_coara": 0.3766933564163601
+        },
+        "fields": {
+          "title": 1,
+          "abstract": 0.9318329365938108,
+          "author": 0.9885306210776889,
+          "author_affiliation": 0.9751136117723437,
+          "doi": 1,
+          "publication_date": 1,
+          "publisher": 0.9961047392339321,
+          "resource_type": 1,
+          "subject_keywords": 1,
+          "funder_name": 0.2057996104739234,
+          "container_title": 1,
+          "language": 1,
+          "author_orcid": 0.9803072927937676,
+          "all_authors_orcid": 0.8257952824064055,
+          "funder_doi": 0.2057996104739234,
+          "award_number": 0.1536463968837914,
+          "issn": 1,
+          "volume": 0.9835533434321575,
+          "issue": 0.6823198441895694,
+          "page": 0.6169660246699848,
+          "published_print_date": 1,
+          "published_online_date": 1,
+          "article_number": 0,
+          "license": 1,
+          "license_url": 1,
+          "open_access_license": 1,
+          "full_text_links": 0.9668902834884224,
+          "resource_url": 1,
+          "references": 0.9517420471759359,
+          "references_count": 0.9517420471759359,
+          "is_referenced_by": 0.6128543605280242,
+          "update_policy": 0,
+          "jats_abstract": 0,
+          "author_sequence": 0.9885306210776889,
+          "affiliation_ids_ror": 0.9751136117723437,
+          "relations": 0.9937243020991128,
+          "assertions": 0,
+          "archive": 0,
+          "credit_roles": 0,
+          "author_given_family": 0.9885306210776889,
+          "affiliation_ror": 0.9751136117723437,
+          "funding_complete": 0.1536463968837914,
+          "data_availability": 0,
+          "preprint_version_link": 0.649642934429777,
+          "peer_review_info": 0,
+          "clinical_trial": 0,
+          "abstract_structured": 0,
+          "open_access_status": 1
+        }
+      },
+      "comparable": {
+        "crossref": {
+          "categories": {
+            "findable_essential": 0.7260513597345453,
+            "findable_support": 0.6044795498809781,
+            "accessible_essential": 0.9308050205583207,
+            "accessible_support": 0.44434826516626996,
+            "evaluation_coara": 0.39645098463536027
+          },
+          "overall": 0.6649136189857896
+        },
+        "openalex": {
+          "categories": {
+            "findable_essential": 0.9247817932626415,
+            "findable_support": 0.74483877948496,
+            "accessible_essential": 0.9354035922960398,
+            "accessible_support": 0.9857895116497151,
+            "evaluation_coara": 0.7533867128327202
+          },
+          "overall": 0.872267546707062
+        },
+        "gap": 0.20735392772127237
+      },
+      "voluntary": {
+        "crossref": 0.46156856380292877,
+        "openalex": 0.773623133520883
+      }
+    },
+    {
+      "year": 2024,
+      "count": 2948,
+      "matched": 2948,
+      "universeSize": 18896,
+      "crossref": {
+        "overall": 0.5799306840453381,
+        "categories": {
+          "findable_essential": 0.7234848484848485,
+          "findable_support": 0.5822129024299989,
+          "accessible_essential": 0.8044248454696216,
+          "accessible_support": 0.35057666214382627,
+          "evaluation_coara": 0.1969470827679783
+        },
+        "fields": {
+          "title": 1,
+          "abstract": 0.739145183175034,
+          "author": 0.9748982360922659,
+          "author_affiliation": 0.9552238805970149,
+          "doi": 1,
+          "publication_date": 1,
+          "publisher": 1,
+          "resource_type": 1,
+          "subject_keywords": 0,
+          "funder_name": 0.012550881953867029,
+          "container_title": 1,
+          "language": 0,
+          "author_orcid": 0.9687924016282226,
+          "all_authors_orcid": 0.8853459972862958,
+          "funder_doi": 0.009497964721845319,
+          "award_number": 0.012211668928086838,
+          "issn": 1,
+          "volume": 0.9762550881953868,
+          "issue": 0.5729308005427408,
+          "page": 0.06953867028493894,
+          "published_print_date": 0.0016960651289009499,
+          "published_online_date": 0.9986431478968792,
+          "article_number": 0.9094301221166893,
+          "license": 0.9898236092265943,
+          "license_url": 0.9898236092265943,
+          "open_access_license": 0.9898236092265943,
+          "full_text_links": 0.9888059701492538,
+          "resource_url": 1,
+          "references": 0.9525101763907734,
+          "references_count": 0.9525101763907734,
+          "is_referenced_by": 0.37652645861601086,
+          "update_policy": 0,
+          "jats_abstract": 0.739145183175034,
+          "author_sequence": 0.9748982360922659,
+          "affiliation_ids_ror": 0,
+          "relations": 0.3894165535956581,
+          "assertions": 0,
+          "archive": 0,
+          "credit_roles": 0,
+          "author_given_family": 0.9701492537313433,
+          "affiliation_ror": 0,
+          "funding_complete": 0.009158751696065129,
+          "data_availability": 0,
+          "preprint_version_link": 0.00033921302578018993,
+          "peer_review_info": 0,
+          "clinical_trial": 0,
+          "abstract_structured": 0,
+          "open_access_status": 0.9898236092265943
+        }
+      },
+      "openalex": {
+        "overall": 0.6810875546509874,
+        "categories": {
+          "findable_essential": 0.9146596562641337,
+          "findable_support": 0.6173677069199457,
+          "accessible_essential": 0.7719734660033167,
+          "accessible_support": 0.48648801447308915,
+          "evaluation_coara": 0.36221166892808687
+        },
+        "fields": {
+          "title": 1,
+          "abstract": 0.9155359565807327,
+          "author": 0.9772727272727273,
+          "author_affiliation": 0.9559023066485753,
+          "doi": 1,
+          "publication_date": 1,
+          "publisher": 0.9986431478968792,
+          "resource_type": 1,
+          "subject_keywords": 1,
+          "funder_name": 0.12957937584803256,
+          "container_title": 1,
+          "language": 0.9989823609226595,
+          "author_orcid": 0.9599728629579376,
+          "all_authors_orcid": 0.7723880597014925,
+          "funder_doi": 0.12957937584803256,
+          "award_number": 0.09158751696065129,
+          "issn": 1,
+          "volume": 0.9776119402985075,
+          "issue": 0.573270013568521,
+          "page": 0.2866350067842605,
+          "published_print_date": 1,
+          "published_online_date": 1,
+          "article_number": 0,
+          "license": 1,
+          "license_url": 1,
+          "open_access_license": 1,
+          "full_text_links": 0.6180461329715061,
+          "resource_url": 1,
+          "references": 0.9450474898236092,
+          "references_count": 0.9450474898236092,
+          "is_referenced_by": 0.4396200814111262,
+          "update_policy": 0,
+          "jats_abstract": 0,
+          "author_sequence": 0.9772727272727273,
+          "affiliation_ids_ror": 0.9559023066485753,
+          "relations": 0.985753052917232,
+          "assertions": 0,
+          "archive": 0,
+          "credit_roles": 0,
+          "author_given_family": 0.9762550881953868,
+          "affiliation_ror": 0.9559023066485753,
+          "funding_complete": 0.09158751696065129,
+          "data_availability": 0,
+          "preprint_version_link": 0.5983717774762551,
+          "peer_review_info": 0,
+          "clinical_trial": 0,
+          "abstract_structured": 0,
+          "open_access_status": 1
+        }
+      },
+      "comparable": {
+        "crossref": {
+          "categories": {
+            "findable_essential": 0.7234848484848485,
+            "findable_support": 0.5494911804613298,
+            "accessible_essential": 0.9049779511533242,
+            "accessible_support": 0.4547715965626413,
+            "evaluation_coara": 0.3938941655359566
+          },
+          "overall": 0.6499696121664404
+        },
+        "openalex": {
+          "categories": {
+            "findable_essential": 0.9146596562641337,
+            "findable_support": 0.6791044776119403,
+            "accessible_essential": 0.8684701492537313,
+            "accessible_support": 0.9729760289461783,
+            "evaluation_coara": 0.7244233378561737
+          },
+          "overall": 0.8355633763003166
+        },
+        "gap": 0.18559376413387618
+      },
+      "voluntary": {
+        "crossref": 0.45970431931252836,
+        "openalex": 0.7459817390321122
+      }
+    },
+    {
+      "year": 2025,
+      "count": 2464,
+      "matched": 2404,
+      "universeSize": 18985,
+      "crossref": {
+        "overall": 0.5971072740390923,
+        "categories": {
+          "findable_essential": 0.7569669913419914,
+          "findable_support": 0.616624852420307,
+          "accessible_essential": 0.7842712842712842,
+          "accessible_support": 0.38460497835497837,
+          "evaluation_coara": 0.21497564935064933
+        },
+        "fields": {
+          "title": 1,
+          "abstract": 0.8867694805194806,
+          "author": 0.9837662337662337,
+          "author_affiliation": 0.9719967532467533,
+          "doi": 1,
+          "publication_date": 1,
+          "publisher": 1,
+          "resource_type": 1,
+          "subject_keywords": 0,
+          "funder_name": 0.24107142857142858,
+          "container_title": 1,
+          "language": 0,
+          "author_orcid": 0.979301948051948,
+          "all_authors_orcid": 0.9025974025974026,
+          "funder_doi": 0.1846590909090909,
+          "award_number": 0.22280844155844157,
+          "issn": 1,
+          "volume": 0.989448051948052,
+          "issue": 0.5137987012987013,
+          "page": 0,
+          "published_print_date": 0.0016233766233766235,
+          "published_online_date": 0.9995941558441559,
+          "article_number": 0.9890422077922078,
+          "license": 0.9959415584415584,
+          "license_url": 0.9959415584415584,
+          "open_access_license": 0.9959415584415584,
+          "full_text_links": 0.9955357142857143,
+          "resource_url": 1,
+          "references": 0.9594155844155844,
+          "references_count": 0.9594155844155844,
+          "is_referenced_by": 0.15625,
+          "update_policy": 0,
+          "jats_abstract": 0.8867694805194806,
+          "author_sequence": 0.9837662337662337,
+          "affiliation_ids_ror": 0,
+          "relations": 0.43709415584415584,
+          "assertions": 0,
+          "archive": 0,
+          "credit_roles": 0,
+          "author_given_family": 0.981737012987013,
+          "affiliation_ror": 0,
+          "funding_complete": 0.17167207792207792,
+          "data_availability": 0,
+          "preprint_version_link": 0.00040584415584415587,
+          "peer_review_info": 0,
+          "clinical_trial": 0,
+          "abstract_structured": 0,
+          "open_access_status": 0.9959415584415584
+        }
+      },
+      "openalex": {
+        "overall": 0.6589841635993883,
+        "categories": {
+          "findable_essential": 0.9076192457016085,
+          "findable_support": 0.6125397065496899,
+          "accessible_essential": 0.714549824366796,
+          "accessible_support": 0.4306017748197449,
+          "evaluation_coara": 0.36559900166389353
+        },
+        "fields": {
+          "title": 1,
+          "abstract": 0.9118136439267887,
+          "author": 0.9871048252911814,
+          "author_affiliation": 0.9646422628951747,
+          "doi": 1,
+          "publication_date": 1,
+          "publisher": 0.9950083194675541,
+          "resource_type": 1,
+          "subject_keywords": 0.9995840266222962,
+          "funder_name": 0.15515806988352746,
+          "container_title": 1,
+          "language": 0.8781198003327787,
+          "author_orcid": 0.9579866888519135,
+          "all_authors_orcid": 0.7250415973377704,
+          "funder_doi": 0.15515806988352746,
+          "award_number": 0.13477537437603992,
+          "issn": 1,
+          "volume": 0.9920965058236273,
+          "issue": 0.5145590682196339,
+          "page": 0.25831946755407653,
+          "published_print_date": 1,
+          "published_online_date": 1,
+          "article_number": 0,
+          "license": 1,
+          "license_url": 1,
+          "open_access_license": 1,
+          "full_text_links": 0.425540765391015,
+          "resource_url": 1,
+          "references": 0.9155574043261231,
+          "references_count": 0.9155574043261231,
+          "is_referenced_by": 0.1742928452579035,
+          "update_policy": 0,
+          "jats_abstract": 0,
+          "author_sequence": 0.9871048252911814,
+          "affiliation_ids_ror": 0.9646422628951747,
+          "relations": 0.6318635607321131,
+          "assertions": 0,
+          "archive": 0,
+          "credit_roles": 0,
+          "author_given_family": 0.9862728785357737,
+          "affiliation_ror": 0.9646422628951747,
+          "funding_complete": 0.13477537437603992,
+          "data_availability": 0,
+          "preprint_version_link": 0.5702995008319468,
+          "peer_review_info": 0,
+          "clinical_trial": 0,
+          "abstract_structured": 0,
+          "open_access_status": 1
+        }
+      },
+      "comparable": {
+        "crossref": {
+          "categories": {
+            "findable_essential": 0.7569669913419914,
+            "findable_support": 0.5793831168831168,
+            "accessible_essential": 0.8823051948051948,
+            "accessible_support": 0.47362012987012986,
+            "evaluation_coara": 0.42995129870129867
+          },
+          "overall": 0.6679261363636364
+        },
+        "openalex": {
+          "categories": {
+            "findable_essential": 0.9076192457016085,
+            "findable_support": 0.6737936772046589,
+            "accessible_essential": 0.8038685524126455,
+            "accessible_support": 0.8612035496394898,
+            "evaluation_coara": 0.7311980033277871
+          },
+          "overall": 0.8066819190238491
+        },
+        "gap": 0.1387557826602127
+      },
+      "voluntary": {
+        "crossref": 0.5195633793290043,
+        "openalex": 0.7283919162506933
+      }
+    }
+  ],
+  "fieldSamples": {
+    "title": [],
+    "abstract": [
+      {
+        "doi": "10.1590/2176-9451.20.1.030-039.int",
+        "title": "An interview with Eiji Tanaka"
+      },
+      {
+        "doi": "10.1590/0103-9016-2014-0056",
+        "title": "Seasonality of soil water exchange in the soybean growing season in southern Brazil"
+      },
+      {
+        "doi": "10.1590/001152582015",
+        "title": "O Topo da Distribui&amp;#231;&amp;#227;o de Renda no Brasil: Primeiras Estimativas com Dados Tribut&amp;#225;rios e Compara&amp;#231;&amp;#227;o com Pesquisas Domiciliares (2006-2012)"
+      },
+      {
+        "doi": "10.5935/0101-2800.20150042",
+        "title": "Erythropoietin resistance in end-stage renal disease patient with gastric antral vascular ectasia"
+      },
+      {
+        "doi": "10.1590/1679-395141523",
+        "title": "Editorial"
+      }
+    ],
+    "author": [
+      {
+        "doi": "10.1590/2176-9451.20.1.030-039.int",
+        "title": "An interview with Eiji Tanaka"
+      },
+      {
+        "doi": "10.1590/1807-3107bor-2015.vol29.0092errata",
+        "title": "Erratum: Fluoride varnishes with calcium glycerophosphate: fluoride release and effect on in vitro enamel demineralization"
+      },
+      {
+        "doi": "10.1590/s0034-8910.2013047004359err",
+        "title": "Erratum: Reflexões metodológicas sobre prevalência da fluorose dentária nos inquéritos de saúde bucal"
+      },
+      {
+        "doi": "10.1590/1807-57622015.0012",
+        "title": "Errata"
+      },
+      {
+        "doi": "10.1590/1807-57622015.001",
+        "title": "Errata"
+      }
+    ],
+    "author_affiliation": [
+      {
+        "doi": "10.1590/001152582015",
+        "title": "O Topo da Distribui&amp;#231;&amp;#227;o de Renda no Brasil: Primeiras Estimativas com Dados Tribut&amp;#225;rios e Compara&amp;#231;&amp;#227;o com Pesquisas Domiciliares (2006-2012)"
+      },
+      {
+        "doi": "10.5935/0101-2800.20150042",
+        "title": "Erythropoietin resistance in end-stage renal disease patient with gastric antral vascular ectasia"
+      },
+      {
+        "doi": "10.21168/rbrh.v20n3.p785-794",
+        "title": "Avaliação da influência da mudança de variáveis de projeto de barragens sobre as alterações hidrológicas e componentes do regime de vazão natural"
+      },
+      {
+        "doi": "10.21168/rbrh.v20n1.p106-118",
+        "title": "Utilização do método Bávaro para avaliação das condições hidromorfológicas de uma bacia experimental no Nordeste Brasileiro"
+      },
+      {
+        "doi": "10.1590/s1806-66902015000100024",
+        "title": "Caracter&amp;#237;sticas morfog&amp;#234;nicas e estruturais de Urochloa spp. sob manejo convencional e consorciado com cereais1"
+      }
+    ],
+    "doi": [],
+    "publication_date": [],
+    "publisher": [],
+    "resource_type": [],
+    "subject_keywords": [
+      {
+        "doi": "10.1590/1678-7189",
+        "title": "Influência do Hormônio do Crescimento na concentração de testosterona plasmática e nas características seminais de touros jovens e adultos da raça Nelore"
+      },
+      {
+        "doi": "10.1590/s1519-99402015000100006",
+        "title": "Grupo genético e ordem de parto no desempenho produtivo e reprodutivo de matrizes suínas"
+      },
+      {
+        "doi": "10.1590/0100-2945-058/14",
+        "title": "CARACTERIZAÇÃO PÓS-COLHEITA E SENSORIAL DE GENÓTIPOS DE BANANEIRAS TIPO PRATA"
+      },
+      {
+        "doi": "10.1590/2176-9451.20.1.030-039.int",
+        "title": "An interview with Eiji Tanaka"
+      },
+      {
+        "doi": "10.1590/1807-2577.1058",
+        "title": "Conhecimento de alunos do Curso de Odontologia sobre o uso racional do flúor"
+      }
+    ],
+    "funder_name": [
+      {
+        "doi": "10.1590/0103-9016-2014-0056",
+        "title": "Seasonality of soil water exchange in the soybean growing season in southern Brazil"
+      },
+      {
+        "doi": "10.1590/0104-4060.39834",
+        "title": "Escola Itinerante: espaço de disputa e contradição"
+      },
+      {
+        "doi": "10.1590/s1984-29612015005",
+        "title": "Parasitological survey on birds at some selected brazilian zoos"
+      },
+      {
+        "doi": "10.1590/1516-1439.264814",
+        "title": "Evaluation of the Influence of MgO and La2O3 on the Fast Sintering of Mullite"
+      },
+      {
+        "doi": "10.1590/1678-457x.6472",
+        "title": "Peroxidase activity and sensory quality of ready to cook mixed vegetables for soup: combined effect of biopreservatives and refrigerated storage"
+      }
+    ],
+    "container_title": [],
+    "language": [
+      {
+        "doi": "10.1590/1678-7189",
+        "title": "Influência do Hormônio do Crescimento na concentração de testosterona plasmática e nas características seminais de touros jovens e adultos da raça Nelore"
+      },
+      {
+        "doi": "10.1590/s1519-99402015000100006",
+        "title": "Grupo genético e ordem de parto no desempenho produtivo e reprodutivo de matrizes suínas"
+      },
+      {
+        "doi": "10.1590/0100-2945-058/14",
+        "title": "CARACTERIZAÇÃO PÓS-COLHEITA E SENSORIAL DE GENÓTIPOS DE BANANEIRAS TIPO PRATA"
+      },
+      {
+        "doi": "10.1590/2176-9451.20.1.030-039.int",
+        "title": "An interview with Eiji Tanaka"
+      },
+      {
+        "doi": "10.1590/1807-2577.1058",
+        "title": "Conhecimento de alunos do Curso de Odontologia sobre o uso racional do flúor"
+      }
+    ],
+    "author_orcid": [
+      {
+        "doi": "10.1590/1678-7189",
+        "title": "Influência do Hormônio do Crescimento na concentração de testosterona plasmática e nas características seminais de touros jovens e adultos da raça Nelore"
+      },
+      {
+        "doi": "10.1590/s1519-99402015000100006",
+        "title": "Grupo genético e ordem de parto no desempenho produtivo e reprodutivo de matrizes suínas"
+      },
+      {
+        "doi": "10.1590/0100-2945-058/14",
+        "title": "CARACTERIZAÇÃO PÓS-COLHEITA E SENSORIAL DE GENÓTIPOS DE BANANEIRAS TIPO PRATA"
+      },
+      {
+        "doi": "10.1590/2176-9451.20.1.030-039.int",
+        "title": "An interview with Eiji Tanaka"
+      },
+      {
+        "doi": "10.1590/1807-2577.1058",
+        "title": "Conhecimento de alunos do Curso de Odontologia sobre o uso racional do flúor"
+      }
+    ],
+    "all_authors_orcid": [
+      {
+        "doi": "10.1590/0100-2945-058/14",
+        "title": "CARACTERIZAÇÃO PÓS-COLHEITA E SENSORIAL DE GENÓTIPOS DE BANANEIRAS TIPO PRATA"
+      },
+      {
+        "doi": "10.1590/2176-9451.20.1.030-039.int",
+        "title": "An interview with Eiji Tanaka"
+      },
+      {
+        "doi": "10.1590/1980-5497201500010001",
+        "title": "Sintomas depressivos em idosos residentes em áreas de abrangência das Unidades Básicas de Saúde da zona urbana de Bagé, RS"
+      },
+      {
+        "doi": "10.1590/001152582015",
+        "title": "O Topo da Distribui&amp;#231;&amp;#227;o de Renda no Brasil: Primeiras Estimativas com Dados Tribut&amp;#225;rios e Compara&amp;#231;&amp;#227;o com Pesquisas Domiciliares (2006-2012)"
+      },
+      {
+        "doi": "10.1590/0103-6513.011411",
+        "title": "Perfil e tendências da liderança em uma empresa brasileira líder mundial de mercado"
+      }
+    ],
+    "funder_doi": [
+      {
+        "doi": "10.1590/0103-9016-2014-0056",
+        "title": "Seasonality of soil water exchange in the soybean growing season in southern Brazil"
+      },
+      {
+        "doi": "10.1590/0104-4060.39834",
+        "title": "Escola Itinerante: espaço de disputa e contradição"
+      },
+      {
+        "doi": "10.1590/s1984-29612015005",
+        "title": "Parasitological survey on birds at some selected brazilian zoos"
+      },
+      {
+        "doi": "10.1590/1516-1439.264814",
+        "title": "Evaluation of the Influence of MgO and La2O3 on the Fast Sintering of Mullite"
+      },
+      {
+        "doi": "10.1590/1678-457x.6472",
+        "title": "Peroxidase activity and sensory quality of ready to cook mixed vegetables for soup: combined effect of biopreservatives and refrigerated storage"
+      }
+    ],
+    "award_number": [
+      {
+        "doi": "10.1590/0103-9016-2014-0056",
+        "title": "Seasonality of soil water exchange in the soybean growing season in southern Brazil"
+      },
+      {
+        "doi": "10.1590/0104-4060.39834",
+        "title": "Escola Itinerante: espaço de disputa e contradição"
+      },
+      {
+        "doi": "10.1590/s1984-29612015005",
+        "title": "Parasitological survey on birds at some selected brazilian zoos"
+      },
+      {
+        "doi": "10.1590/1516-1439.264814",
+        "title": "Evaluation of the Influence of MgO and La2O3 on the Fast Sintering of Mullite"
+      },
+      {
+        "doi": "10.1590/1679-78251772",
+        "title": "A Modified Computational Scheme for the Stochastic Perturbation Finite Element Method"
+      }
+    ],
+    "issn": [
+      {
+        "doi": "10.21452/23580763.2018.5ne.ii-iii",
+        "title": "Editorial"
+      },
+      {
+        "doi": "10.17666/339611/2018",
+        "title": "OS BENEFÍCIOS NÃO CONTRIBUTIVOS EM DINÂMICAS SOCIAIS E ECONÔMICAS LOCAIS: ESTUDO DE CASO EM PASSA TEMPO (MG)"
+      },
+      {
+        "doi": "10.17666/339609/2018",
+        "title": "CASA GRANDE &amp; SENZALA A questão racial e o “colonialismo esclarecido” na França do Pós-Segunda Guerra Mundial"
+      },
+      {
+        "doi": "10.17666/329512/2017",
+        "title": "COMPRENDER LA BURBUJA INMOBILIARIA EN ESPAÑA Una visión mediatizada desde la publicidad"
+      },
+      {
+        "doi": "10.17666/329513/2017",
+        "title": "UMA RESPOSTA SÓLIDA A UM REGIME AGROALIMENTAR EM CRISE O fenômeno GAS na Itália"
+      }
+    ],
+    "volume": [
+      {
+        "doi": "10.1016/j.rpped.2016.02.005",
+        "title": "Ângulo de fase e critérios da Organização Mundial de Saúde na avaliação do estado nutricional em crianças com osteogênese imperfeita"
+      },
+      {
+        "doi": "10.1016/j.rpped.2016.02.007",
+        "title": "Necessidades de assistência à criança com deficiência – Uso do Inventário de Avaliação Pediátrica de Incapacidade"
+      },
+      {
+        "doi": "10.1016/j.rpped.2016.03.007",
+        "title": "Quilotórax bilateral espontâneo após vômitos excessivos em criança"
+      },
+      {
+        "doi": "10.1016/j.rpped.2016.05.003",
+        "title": "Conhecimento do pediatra sobre o manejo da constipação intestinal funcional"
+      },
+      {
+        "doi": "10.1016/j.rpped.2016.03.005",
+        "title": "Estágios de mudança de comportamento para atividade física em adolescentes catarinenses: prevalência e fatores associados"
+      }
+    ],
+    "issue": [
+      {
+        "doi": "10.1016/j.rpped.2016.02.005",
+        "title": "Ângulo de fase e critérios da Organização Mundial de Saúde na avaliação do estado nutricional em crianças com osteogênese imperfeita"
+      },
+      {
+        "doi": "10.1016/j.rpped.2016.02.007",
+        "title": "Necessidades de assistência à criança com deficiência – Uso do Inventário de Avaliação Pediátrica de Incapacidade"
+      },
+      {
+        "doi": "10.1016/j.rpped.2016.03.007",
+        "title": "Quilotórax bilateral espontâneo após vômitos excessivos em criança"
+      },
+      {
+        "doi": "10.1016/j.rpped.2016.05.003",
+        "title": "Conhecimento do pediatra sobre o manejo da constipação intestinal funcional"
+      },
+      {
+        "doi": "10.1016/j.rpped.2016.03.005",
+        "title": "Estágios de mudança de comportamento para atividade física em adolescentes catarinenses: prevalência e fatores associados"
+      }
+    ],
+    "page": [
+      {
+        "doi": "10.5935/0101-2800.20150042",
+        "title": "Erythropoietin resistance in end-stage renal disease patient with gastric antral vascular ectasia"
+      },
+      {
+        "doi": "10.1590/1807-3107bor-2015.vol29.0092errata",
+        "title": "Erratum: Fluoride varnishes with calcium glycerophosphate: fluoride release and effect on in vitro enamel demineralization"
+      },
+      {
+        "doi": "10.5935/0101-2800.20150033",
+        "title": "Different induction therapies for kidney transplantation with living donor"
+      },
+      {
+        "doi": "10.1590/s0034-8910.2015049005380",
+        "title": "Violence against metropolitan bus drivers and fare collectors in Brazil"
+      },
+      {
+        "doi": "10.1590/s0034-8910.2015049005424",
+        "title": "Intimate partner violence after the diagnosis of sexually transmitted diseases"
+      }
+    ],
+    "published_print_date": [
+      {
+        "doi": "10.1590/0100-2945-058/14",
+        "title": "CARACTERIZAÇÃO PÓS-COLHEITA E SENSORIAL DE GENÓTIPOS DE BANANEIRAS TIPO PRATA"
+      },
+      {
+        "doi": "10.1590/1982-3703000112014",
+        "title": "Plantão Psicológico: Ficções e Reflexões"
+      },
+      {
+        "doi": "10.1590/001152582015",
+        "title": "O Topo da Distribui&amp;#231;&amp;#227;o de Renda no Brasil: Primeiras Estimativas com Dados Tribut&amp;#225;rios e Compara&amp;#231;&amp;#227;o com Pesquisas Domiciliares (2006-2012)"
+      },
+      {
+        "doi": "10.1590/s0100-83582015000100014",
+        "title": "Volunteer RR® corn management in roundup ready® soybean-corn succession system"
+      },
+      {
+        "doi": "10.1590/0103-6513.011411",
+        "title": "Perfil e tendências da liderança em uma empresa brasileira líder mundial de mercado"
+      }
+    ],
+    "published_online_date": [
+      {
+        "doi": "10.1590/1678-7189",
+        "title": "Influência do Hormônio do Crescimento na concentração de testosterona plasmática e nas características seminais de touros jovens e adultos da raça Nelore"
+      },
+      {
+        "doi": "10.1590/s1519-99402015000100006",
+        "title": "Grupo genético e ordem de parto no desempenho produtivo e reprodutivo de matrizes suínas"
+      },
+      {
+        "doi": "10.1590/2176-9451.20.1.030-039.int",
+        "title": "An interview with Eiji Tanaka"
+      },
+      {
+        "doi": "10.1590/1807-2577.1058",
+        "title": "Conhecimento de alunos do Curso de Odontologia sobre o uso racional do flúor"
+      },
+      {
+        "doi": "10.1590/0103-9016-2014-0056",
+        "title": "Seasonality of soil water exchange in the soybean growing season in southern Brazil"
+      }
+    ],
+    "license": [
+      {
+        "doi": "10.1590/1678-7189",
+        "title": "Influência do Hormônio do Crescimento na concentração de testosterona plasmática e nas características seminais de touros jovens e adultos da raça Nelore"
+      },
+      {
+        "doi": "10.1590/s1519-99402015000100006",
+        "title": "Grupo genético e ordem de parto no desempenho produtivo e reprodutivo de matrizes suínas"
+      },
+      {
+        "doi": "10.1590/0100-2945-058/14",
+        "title": "CARACTERIZAÇÃO PÓS-COLHEITA E SENSORIAL DE GENÓTIPOS DE BANANEIRAS TIPO PRATA"
+      },
+      {
+        "doi": "10.1590/2176-9451.20.1.030-039.int",
+        "title": "An interview with Eiji Tanaka"
+      },
+      {
+        "doi": "10.1590/1807-2577.1058",
+        "title": "Conhecimento de alunos do Curso de Odontologia sobre o uso racional do flúor"
+      }
+    ],
+    "license_url": [
+      {
+        "doi": "10.1590/1678-7189",
+        "title": "Influência do Hormônio do Crescimento na concentração de testosterona plasmática e nas características seminais de touros jovens e adultos da raça Nelore"
+      },
+      {
+        "doi": "10.1590/s1519-99402015000100006",
+        "title": "Grupo genético e ordem de parto no desempenho produtivo e reprodutivo de matrizes suínas"
+      },
+      {
+        "doi": "10.1590/0100-2945-058/14",
+        "title": "CARACTERIZAÇÃO PÓS-COLHEITA E SENSORIAL DE GENÓTIPOS DE BANANEIRAS TIPO PRATA"
+      },
+      {
+        "doi": "10.1590/2176-9451.20.1.030-039.int",
+        "title": "An interview with Eiji Tanaka"
+      },
+      {
+        "doi": "10.1590/1807-2577.1058",
+        "title": "Conhecimento de alunos do Curso de Odontologia sobre o uso racional do flúor"
+      }
+    ],
+    "open_access_license": [
+      {
+        "doi": "10.1590/1678-7189",
+        "title": "Influência do Hormônio do Crescimento na concentração de testosterona plasmática e nas características seminais de touros jovens e adultos da raça Nelore"
+      },
+      {
+        "doi": "10.1590/s1519-99402015000100006",
+        "title": "Grupo genético e ordem de parto no desempenho produtivo e reprodutivo de matrizes suínas"
+      },
+      {
+        "doi": "10.1590/0100-2945-058/14",
+        "title": "CARACTERIZAÇÃO PÓS-COLHEITA E SENSORIAL DE GENÓTIPOS DE BANANEIRAS TIPO PRATA"
+      },
+      {
+        "doi": "10.1590/2176-9451.20.1.030-039.int",
+        "title": "An interview with Eiji Tanaka"
+      },
+      {
+        "doi": "10.1590/1807-2577.1058",
+        "title": "Conhecimento de alunos do Curso de Odontologia sobre o uso racional do flúor"
+      }
+    ],
+    "full_text_links": [
+      {
+        "doi": "10.1590/001152582015",
+        "title": "O Topo da Distribui&amp;#231;&amp;#227;o de Renda no Brasil: Primeiras Estimativas com Dados Tribut&amp;#225;rios e Compara&amp;#231;&amp;#227;o com Pesquisas Domiciliares (2006-2012)"
+      },
+      {
+        "doi": "10.21168/rbrh.v20n3.p785-794",
+        "title": "Avaliação da influência da mudança de variáveis de projeto de barragens sobre as alterações hidrológicas e componentes do regime de vazão natural"
+      },
+      {
+        "doi": "10.21168/rbrh.v20n1.p106-118",
+        "title": "Utilização do método Bávaro para avaliação das condições hidromorfológicas de uma bacia experimental no Nordeste Brasileiro"
+      },
+      {
+        "doi": "10.21168/rbrh.v20n4.p1019-1028",
+        "title": "Distribuição de hidrocarbonetos policíclicos aromáticos e alifáticos em sedimentos estuarinos / Distribution of aliphatic and polycyclic aromatics hydrocarbons in estuary sediments"
+      },
+      {
+        "doi": "10.21168/rbrh.v20n1.p237-248",
+        "title": "CICLAR: Modelo 0D para Dinâmica de Carbono em Lagos e Reservatórios"
+      }
+    ],
+    "resource_url": [],
+    "references": [
+      {
+        "doi": "10.1590/001152582015",
+        "title": "O Topo da Distribui&amp;#231;&amp;#227;o de Renda no Brasil: Primeiras Estimativas com Dados Tribut&amp;#225;rios e Compara&amp;#231;&amp;#227;o com Pesquisas Domiciliares (2006-2012)"
+      },
+      {
+        "doi": "10.5935/0101-2800.20150042",
+        "title": "Erythropoietin resistance in end-stage renal disease patient with gastric antral vascular ectasia"
+      },
+      {
+        "doi": "10.21168/rbrh.v20n3.p785-794",
+        "title": "Avaliação da influência da mudança de variáveis de projeto de barragens sobre as alterações hidrológicas e componentes do regime de vazão natural"
+      },
+      {
+        "doi": "10.21168/rbrh.v20n1.p106-118",
+        "title": "Utilização do método Bávaro para avaliação das condições hidromorfológicas de uma bacia experimental no Nordeste Brasileiro"
+      },
+      {
+        "doi": "10.1590/s1806-66902015000100024",
+        "title": "Caracter&amp;#237;sticas morfog&amp;#234;nicas e estruturais de Urochloa spp. sob manejo convencional e consorciado com cereais1"
+      }
+    ],
+    "references_count": [
+      {
+        "doi": "10.1590/001152582015",
+        "title": "O Topo da Distribui&amp;#231;&amp;#227;o de Renda no Brasil: Primeiras Estimativas com Dados Tribut&amp;#225;rios e Compara&amp;#231;&amp;#227;o com Pesquisas Domiciliares (2006-2012)"
+      },
+      {
+        "doi": "10.5935/0101-2800.20150042",
+        "title": "Erythropoietin resistance in end-stage renal disease patient with gastric antral vascular ectasia"
+      },
+      {
+        "doi": "10.21168/rbrh.v20n3.p785-794",
+        "title": "Avaliação da influência da mudança de variáveis de projeto de barragens sobre as alterações hidrológicas e componentes do regime de vazão natural"
+      },
+      {
+        "doi": "10.21168/rbrh.v20n1.p106-118",
+        "title": "Utilização do método Bávaro para avaliação das condições hidromorfológicas de uma bacia experimental no Nordeste Brasileiro"
+      },
+      {
+        "doi": "10.1590/s1806-66902015000100024",
+        "title": "Caracter&amp;#237;sticas morfog&amp;#234;nicas e estruturais de Urochloa spp. sob manejo convencional e consorciado com cereais1"
+      }
+    ],
+    "is_referenced_by": [
+      {
+        "doi": "10.1590/s1519-99402015000100006",
+        "title": "Grupo genético e ordem de parto no desempenho produtivo e reprodutivo de matrizes suínas"
+      },
+      {
+        "doi": "10.1590/1807-2577.1058",
+        "title": "Conhecimento de alunos do Curso de Odontologia sobre o uso racional do flúor"
+      },
+      {
+        "doi": "10.1590/0103-6513.011411",
+        "title": "Perfil e tendências da liderança em uma empresa brasileira líder mundial de mercado"
+      },
+      {
+        "doi": "10.21168/rbrh.v20n3.p785-794",
+        "title": "Avaliação da influência da mudança de variáveis de projeto de barragens sobre as alterações hidrológicas e componentes do regime de vazão natural"
+      },
+      {
+        "doi": "10.1590/0100-69912015s01015",
+        "title": "SCIENTIFIC LEADERS FOR THE FUTURE: PRIMARY AND SECONDARY EDUCATION"
+      }
+    ],
+    "author_sequence": [
+      {
+        "doi": "10.1590/2176-9451.20.1.030-039.int",
+        "title": "An interview with Eiji Tanaka"
+      },
+      {
+        "doi": "10.1590/1807-3107bor-2015.vol29.0092errata",
+        "title": "Erratum: Fluoride varnishes with calcium glycerophosphate: fluoride release and effect on in vitro enamel demineralization"
+      },
+      {
+        "doi": "10.1590/s0034-8910.2013047004359err",
+        "title": "Erratum: Reflexões metodológicas sobre prevalência da fluorose dentária nos inquéritos de saúde bucal"
+      },
+      {
+        "doi": "10.1590/1807-57622015.0012",
+        "title": "Errata"
+      },
+      {
+        "doi": "10.1590/1807-57622015.001",
+        "title": "Errata"
+      }
+    ],
+    "affiliation_ids_ror": [
+      {
+        "doi": "10.1590/1678-7189",
+        "title": "Influência do Hormônio do Crescimento na concentração de testosterona plasmática e nas características seminais de touros jovens e adultos da raça Nelore"
+      },
+      {
+        "doi": "10.1590/s1519-99402015000100006",
+        "title": "Grupo genético e ordem de parto no desempenho produtivo e reprodutivo de matrizes suínas"
+      },
+      {
+        "doi": "10.1590/0100-2945-058/14",
+        "title": "CARACTERIZAÇÃO PÓS-COLHEITA E SENSORIAL DE GENÓTIPOS DE BANANEIRAS TIPO PRATA"
+      },
+      {
+        "doi": "10.1590/1807-2577.1058",
+        "title": "Conhecimento de alunos do Curso de Odontologia sobre o uso racional do flúor"
+      },
+      {
+        "doi": "10.1590/0103-9016-2014-0056",
+        "title": "Seasonality of soil water exchange in the soybean growing season in southern Brazil"
+      }
+    ],
+    "relations": [
+      {
+        "doi": "10.1590/1678-7189",
+        "title": "Influência do Hormônio do Crescimento na concentração de testosterona plasmática e nas características seminais de touros jovens e adultos da raça Nelore"
+      },
+      {
+        "doi": "10.1590/s1519-99402015000100006",
+        "title": "Grupo genético e ordem de parto no desempenho produtivo e reprodutivo de matrizes suínas"
+      },
+      {
+        "doi": "10.1590/0100-2945-058/14",
+        "title": "CARACTERIZAÇÃO PÓS-COLHEITA E SENSORIAL DE GENÓTIPOS DE BANANEIRAS TIPO PRATA"
+      },
+      {
+        "doi": "10.1590/2176-9451.20.1.030-039.int",
+        "title": "An interview with Eiji Tanaka"
+      },
+      {
+        "doi": "10.1590/1807-2577.1058",
+        "title": "Conhecimento de alunos do Curso de Odontologia sobre o uso racional do flúor"
+      }
+    ],
+    "author_given_family": [
+      {
+        "doi": "10.1590/2176-9451.20.1.030-039.int",
+        "title": "An interview with Eiji Tanaka"
+      },
+      {
+        "doi": "10.1590/1807-57622015.0012",
+        "title": "Errata"
+      },
+      {
+        "doi": "10.1590/1807-57622015.001",
+        "title": "Errata"
+      },
+      {
+        "doi": "10.1590/1678-4499.er7401",
+        "title": "Errata"
+      },
+      {
+        "doi": "10.1590/1516-1439.er1801",
+        "title": "Erratum"
+      }
+    ],
+    "affiliation_ror": [
+      {
+        "doi": "10.1590/1678-7189",
+        "title": "Influência do Hormônio do Crescimento na concentração de testosterona plasmática e nas características seminais de touros jovens e adultos da raça Nelore"
+      },
+      {
+        "doi": "10.1590/s1519-99402015000100006",
+        "title": "Grupo genético e ordem de parto no desempenho produtivo e reprodutivo de matrizes suínas"
+      },
+      {
+        "doi": "10.1590/0100-2945-058/14",
+        "title": "CARACTERIZAÇÃO PÓS-COLHEITA E SENSORIAL DE GENÓTIPOS DE BANANEIRAS TIPO PRATA"
+      },
+      {
+        "doi": "10.1590/1807-2577.1058",
+        "title": "Conhecimento de alunos do Curso de Odontologia sobre o uso racional do flúor"
+      },
+      {
+        "doi": "10.1590/0103-9016-2014-0056",
+        "title": "Seasonality of soil water exchange in the soybean growing season in southern Brazil"
+      }
+    ],
+    "funding_complete": [
+      {
+        "doi": "10.1590/0103-9016-2014-0056",
+        "title": "Seasonality of soil water exchange in the soybean growing season in southern Brazil"
+      },
+      {
+        "doi": "10.1590/0104-4060.39834",
+        "title": "Escola Itinerante: espaço de disputa e contradição"
+      },
+      {
+        "doi": "10.1590/s1984-29612015005",
+        "title": "Parasitological survey on birds at some selected brazilian zoos"
+      },
+      {
+        "doi": "10.1590/1516-1439.264814",
+        "title": "Evaluation of the Influence of MgO and La2O3 on the Fast Sintering of Mullite"
+      },
+      {
+        "doi": "10.1590/1679-78251772",
+        "title": "A Modified Computational Scheme for the Stochastic Perturbation Finite Element Method"
+      }
+    ],
+    "preprint_version_link": [
+      {
+        "doi": "10.1590/1678-7189",
+        "title": "Influência do Hormônio do Crescimento na concentração de testosterona plasmática e nas características seminais de touros jovens e adultos da raça Nelore"
+      },
+      {
+        "doi": "10.1590/s1519-99402015000100006",
+        "title": "Grupo genético e ordem de parto no desempenho produtivo e reprodutivo de matrizes suínas"
+      },
+      {
+        "doi": "10.1590/0100-2945-058/14",
+        "title": "CARACTERIZAÇÃO PÓS-COLHEITA E SENSORIAL DE GENÓTIPOS DE BANANEIRAS TIPO PRATA"
+      },
+      {
+        "doi": "10.1590/2176-9451.20.1.030-039.int",
+        "title": "An interview with Eiji Tanaka"
+      },
+      {
+        "doi": "10.1590/1807-2577.1058",
+        "title": "Conhecimento de alunos do Curso de Odontologia sobre o uso racional do flúor"
+      }
+    ],
+    "open_access_status": [
+      {
+        "doi": "10.1590/1678-7189",
+        "title": "Influência do Hormônio do Crescimento na concentração de testosterona plasmática e nas características seminais de touros jovens e adultos da raça Nelore"
+      },
+      {
+        "doi": "10.1590/s1519-99402015000100006",
+        "title": "Grupo genético e ordem de parto no desempenho produtivo e reprodutivo de matrizes suínas"
+      },
+      {
+        "doi": "10.1590/0100-2945-058/14",
+        "title": "CARACTERIZAÇÃO PÓS-COLHEITA E SENSORIAL DE GENÓTIPOS DE BANANEIRAS TIPO PRATA"
+      },
+      {
+        "doi": "10.1590/2176-9451.20.1.030-039.int",
+        "title": "An interview with Eiji Tanaka"
+      },
+      {
+        "doi": "10.1590/1807-2577.1058",
+        "title": "Conhecimento de alunos do Curso de Odontologia sobre o uso racional do flúor"
+      }
+    ]
+  },
+  "sampleWorks": [
+    {
+      "doi": "10.1590/1678-7189",
+      "title": "Influência do Hormônio do Crescimento na concentração de testosterona plasmática e nas características seminais de touros jovens e adultos da raça Nelore",
+      "year": 2015,
+      "crossrefScore": 0.5789473684210527,
+      "openalexScore": 0.868421052631579,
+      "gap": 12,
+      "openalexAdds": [
+        "subject_keywords",
+        "language",
+        "author_orcid",
+        "published_online_date",
+        "license",
+        "license_url",
+        "open_access_license",
+        "affiliation_ids_ror",
+        "relations",
+        "affiliation_ror",
+        "preprint_version_link",
+        "open_access_status"
+      ]
+    },
+    {
+      "doi": "10.1590/s1519-99402015000100006",
+      "title": "Grupo genético e ordem de parto no desempenho produtivo e reprodutivo de matrizes suínas",
+      "year": 2015,
+      "crossrefScore": 0.5526315789473685,
+      "openalexScore": 0.868421052631579,
+      "gap": 13,
+      "openalexAdds": [
+        "subject_keywords",
+        "language",
+        "author_orcid",
+        "published_online_date",
+        "license",
+        "license_url",
+        "open_access_license",
+        "is_referenced_by",
+        "affiliation_ids_ror",
+        "relations",
+        "affiliation_ror",
+        "preprint_version_link",
+        "open_access_status"
+      ]
+    },
+    {
+      "doi": "10.1590/0100-2945-058/14",
+      "title": "CARACTERIZAÇÃO PÓS-COLHEITA E SENSORIAL DE GENÓTIPOS DE BANANEIRAS TIPO PRATA",
+      "year": 2015,
+      "crossrefScore": 0.5789473684210527,
+      "openalexScore": 0.8947368421052632,
+      "gap": 13,
+      "openalexAdds": [
+        "subject_keywords",
+        "language",
+        "author_orcid",
+        "all_authors_orcid",
+        "published_print_date",
+        "license",
+        "license_url",
+        "open_access_license",
+        "affiliation_ids_ror",
+        "relations",
+        "affiliation_ror",
+        "preprint_version_link",
+        "open_access_status"
+      ]
+    },
+    {
+      "doi": "10.1590/2176-9451.20.1.030-039.int",
+      "title": "An interview with Eiji Tanaka",
+      "year": 2015,
+      "crossrefScore": 0.39473684210526316,
+      "openalexScore": 0.7894736842105263,
+      "gap": 15,
+      "openalexAdds": [
+        "abstract",
+        "author",
+        "subject_keywords",
+        "language",
+        "author_orcid",
+        "all_authors_orcid",
+        "published_online_date",
+        "license",
+        "license_url",
+        "open_access_license",
+        "author_sequence",
+        "relations",
+        "author_given_family",
+        "preprint_version_link",
+        "open_access_status"
+      ]
+    },
+    {
+      "doi": "10.1590/1807-2577.1058",
+      "title": "Conhecimento de alunos do Curso de Odontologia sobre o uso racional do flúor",
+      "year": 2015,
+      "crossrefScore": 0.5526315789473685,
+      "openalexScore": 0.868421052631579,
+      "gap": 13,
+      "openalexAdds": [
+        "subject_keywords",
+        "language",
+        "author_orcid",
+        "published_online_date",
+        "license",
+        "license_url",
+        "open_access_license",
+        "is_referenced_by",
+        "affiliation_ids_ror",
+        "relations",
+        "affiliation_ror",
+        "preprint_version_link",
+        "open_access_status"
+      ]
+    },
+    {
+      "doi": "10.1590/0103-9016-2014-0056",
+      "title": "Seasonality of soil water exchange in the soybean growing season in southern Brazil",
+      "year": 2015,
+      "crossrefScore": 0.5263157894736842,
+      "openalexScore": 0.9736842105263158,
+      "gap": 17,
+      "openalexAdds": [
+        "abstract",
+        "subject_keywords",
+        "funder_name",
+        "language",
+        "author_orcid",
+        "funder_doi",
+        "award_number",
+        "published_online_date",
+        "license",
+        "license_url",
+        "open_access_license",
+        "affiliation_ids_ror",
+        "relations",
+        "affiliation_ror",
+        "funding_complete",
+        "preprint_version_link",
+        "open_access_status"
+      ]
+    },
+    {
+      "doi": "10.1590/1980-5497201500010001",
+      "title": "Sintomas depressivos em idosos residentes em áreas de abrangência das Unidades Básicas de Saúde da zona urbana de Bagé, RS",
+      "year": 2015,
+      "crossrefScore": 0.5789473684210527,
+      "openalexScore": 0.8947368421052632,
+      "gap": 13,
+      "openalexAdds": [
+        "subject_keywords",
+        "language",
+        "author_orcid",
+        "all_authors_orcid",
+        "published_online_date",
+        "license",
+        "license_url",
+        "open_access_license",
+        "affiliation_ids_ror",
+        "relations",
+        "affiliation_ror",
+        "preprint_version_link",
+        "open_access_status"
+      ]
+    },
+    {
+      "doi": "10.1590/1982-3703000112014",
+      "title": "Plantão Psicológico: Ficções e Reflexões",
+      "year": 2015,
+      "crossrefScore": 0.5789473684210527,
+      "openalexScore": 0.868421052631579,
+      "gap": 12,
+      "openalexAdds": [
+        "subject_keywords",
+        "language",
+        "author_orcid",
+        "published_print_date",
+        "license",
+        "license_url",
+        "open_access_license",
+        "affiliation_ids_ror",
+        "relations",
+        "affiliation_ror",
+        "preprint_version_link",
+        "open_access_status"
+      ]
+    },
+    {
+      "doi": "10.1590/001152582015",
+      "title": "O Topo da Distribui&amp;#231;&amp;#227;o de Renda no Brasil: Primeiras Estimativas com Dados Tribut&amp;#225;rios e Compara&amp;#231;&amp;#227;o com Pesquisas Domiciliares (2006-2012)",
+      "year": 2015,
+      "crossrefScore": 0.4473684210526316,
+      "openalexScore": 0.868421052631579,
+      "gap": 16,
+      "openalexAdds": [
+        "abstract",
+        "author_affiliation",
+        "subject_keywords",
+        "author_orcid",
+        "all_authors_orcid",
+        "published_print_date",
+        "license",
+        "license_url",
+        "open_access_license",
+        "full_text_links",
+        "references",
+        "references_count",
+        "affiliation_ids_ror",
+        "relations",
+        "affiliation_ror",
+        "open_access_status"
+      ]
+    },
+    {
+      "doi": "10.1590/s0100-83582015000100014",
+      "title": "Volunteer RR® corn management in roundup ready® soybean-corn succession system",
+      "year": 2015,
+      "crossrefScore": 0.5789473684210527,
+      "openalexScore": 0.868421052631579,
+      "gap": 12,
+      "openalexAdds": [
+        "subject_keywords",
+        "language",
+        "author_orcid",
+        "published_print_date",
+        "license",
+        "license_url",
+        "open_access_license",
+        "affiliation_ids_ror",
+        "relations",
+        "affiliation_ror",
+        "preprint_version_link",
+        "open_access_status"
+      ]
+    }
+  ],
+  "fieldDetails": [
+    {
+      "id": "title",
+      "label": "Title",
+      "category": "findable_essential",
+      "effort": "automatic",
+      "crossref": 1,
+      "openalex": 1,
+      "gap": 0,
+      "samples": []
+    },
+    {
+      "id": "abstract",
+      "label": "Abstract",
+      "category": "findable_essential",
+      "effort": "voluntary",
+      "crossref": 0.7115474908166929,
+      "openalex": 0.9409650711155957,
+      "gap": 0.2294175802989028,
+      "samples": [
+        {
+          "doi": "10.1590/2176-9451.20.1.030-039.int",
+          "title": "An interview with Eiji Tanaka"
+        },
+        {
+          "doi": "10.1590/0103-9016-2014-0056",
+          "title": "Seasonality of soil water exchange in the soybean growing season in southern Brazil"
+        },
+        {
+          "doi": "10.1590/001152582015",
+          "title": "O Topo da Distribui&amp;#231;&amp;#227;o de Renda no Brasil: Primeiras Estimativas com Dados Tribut&amp;#225;rios e Compara&amp;#231;&amp;#227;o com Pesquisas Domiciliares (2006-2012)"
+        },
+        {
+          "doi": "10.5935/0101-2800.20150042",
+          "title": "Erythropoietin resistance in end-stage renal disease patient with gastric antral vascular ectasia"
+        },
+        {
+          "doi": "10.1590/1679-395141523",
+          "title": "Editorial"
+        }
+      ]
+    },
+    {
+      "id": "author",
+      "label": "Author",
+      "category": "findable_essential",
+      "effort": "automatic",
+      "crossref": 0.988538127986301,
+      "openalex": 0.9911675674181376,
+      "gap": 0.0026294394318365777,
+      "samples": [
+        {
+          "doi": "10.1590/2176-9451.20.1.030-039.int",
+          "title": "An interview with Eiji Tanaka"
+        },
+        {
+          "doi": "10.1590/1807-3107bor-2015.vol29.0092errata",
+          "title": "Erratum: Fluoride varnishes with calcium glycerophosphate: fluoride release and effect on in vitro enamel demineralization"
+        },
+        {
+          "doi": "10.1590/s0034-8910.2013047004359err",
+          "title": "Erratum: Reflexões metodológicas sobre prevalência da fluorose dentária nos inquéritos de saúde bucal"
+        },
+        {
+          "doi": "10.1590/1807-57622015.0012",
+          "title": "Errata"
+        },
+        {
+          "doi": "10.1590/1807-57622015.001",
+          "title": "Errata"
+        }
+      ]
+    },
+    {
+      "id": "author_affiliation",
+      "label": "Author Affiliation",
+      "category": "findable_essential",
+      "effort": "voluntary",
+      "crossref": 0.926685447565388,
+      "openalex": 0.9705032689676144,
+      "gap": 0.04381782140222645,
+      "samples": [
+        {
+          "doi": "10.1590/001152582015",
+          "title": "O Topo da Distribui&amp;#231;&amp;#227;o de Renda no Brasil: Primeiras Estimativas com Dados Tribut&amp;#225;rios e Compara&amp;#231;&amp;#227;o com Pesquisas Domiciliares (2006-2012)"
+        },
+        {
+          "doi": "10.5935/0101-2800.20150042",
+          "title": "Erythropoietin resistance in end-stage renal disease patient with gastric antral vascular ectasia"
+        },
+        {
+          "doi": "10.21168/rbrh.v20n3.p785-794",
+          "title": "Avaliação da influência da mudança de variáveis de projeto de barragens sobre as alterações hidrológicas e componentes do regime de vazão natural"
+        },
+        {
+          "doi": "10.21168/rbrh.v20n1.p106-118",
+          "title": "Utilização do método Bávaro para avaliação das condições hidromorfológicas de uma bacia experimental no Nordeste Brasileiro"
+        },
+        {
+          "doi": "10.1590/s1806-66902015000100024",
+          "title": "Caracter&amp;#237;sticas morfog&amp;#234;nicas e estruturais de Urochloa spp. sob manejo convencional e consorciado com cereais1"
+        }
+      ]
+    },
+    {
+      "id": "doi",
+      "label": "DOI",
+      "category": "findable_essential",
+      "effort": "automatic",
+      "crossref": 1,
+      "openalex": 1,
+      "gap": 0,
+      "samples": []
+    },
+    {
+      "id": "publication_date",
+      "label": "Publication Date",
+      "category": "findable_essential",
+      "effort": "automatic",
+      "crossref": 1,
+      "openalex": 1,
+      "gap": 0,
+      "samples": []
+    },
+    {
+      "id": "publisher",
+      "label": "Publisher",
+      "category": "findable_essential",
+      "effort": "automatic",
+      "crossref": 1,
+      "openalex": 0.9992259527001811,
+      "gap": -0.0007740472998188919,
+      "samples": []
+    },
+    {
+      "id": "resource_type",
+      "label": "Resource Type",
+      "category": "findable_essential",
+      "effort": "automatic",
+      "crossref": 1,
+      "openalex": 1,
+      "gap": 0,
+      "samples": []
+    },
+    {
+      "id": "subject_keywords",
+      "label": "Subject / Keywords",
+      "category": "findable_essential",
+      "effort": "voluntary",
+      "crossref": 0,
+      "openalex": 0.999986177726789,
+      "gap": 0.999986177726789,
+      "samples": [
+        {
+          "doi": "10.1590/1678-7189",
+          "title": "Influência do Hormônio do Crescimento na concentração de testosterona plasmática e nas características seminais de touros jovens e adultos da raça Nelore"
+        },
+        {
+          "doi": "10.1590/s1519-99402015000100006",
+          "title": "Grupo genético e ordem de parto no desempenho produtivo e reprodutivo de matrizes suínas"
+        },
+        {
+          "doi": "10.1590/0100-2945-058/14",
+          "title": "CARACTERIZAÇÃO PÓS-COLHEITA E SENSORIAL DE GENÓTIPOS DE BANANEIRAS TIPO PRATA"
+        },
+        {
+          "doi": "10.1590/2176-9451.20.1.030-039.int",
+          "title": "An interview with Eiji Tanaka"
+        },
+        {
+          "doi": "10.1590/1807-2577.1058",
+          "title": "Conhecimento de alunos do Curso de Odontologia sobre o uso racional do flúor"
+        }
+      ]
+    },
+    {
+      "id": "funder_name",
+      "label": "Funder Name",
+      "category": "findable_essential",
+      "effort": "voluntary",
+      "crossref": 0.010799016764714005,
+      "openalex": 0.2182122271828825,
+      "gap": 0.2074132104181685,
+      "samples": [
+        {
+          "doi": "10.1590/0103-9016-2014-0056",
+          "title": "Seasonality of soil water exchange in the soybean growing season in southern Brazil"
+        },
+        {
+          "doi": "10.1590/0104-4060.39834",
+          "title": "Escola Itinerante: espaço de disputa e contradição"
+        },
+        {
+          "doi": "10.1590/s1984-29612015005",
+          "title": "Parasitological survey on birds at some selected brazilian zoos"
+        },
+        {
+          "doi": "10.1590/1516-1439.264814",
+          "title": "Evaluation of the Influence of MgO and La2O3 on the Fast Sintering of Mullite"
+        },
+        {
+          "doi": "10.1590/1678-457x.6472",
+          "title": "Peroxidase activity and sensory quality of ready to cook mixed vegetables for soup: combined effect of biopreservatives and refrigerated storage"
+        }
+      ]
+    },
+    {
+      "id": "container_title",
+      "label": "Container Title",
+      "category": "findable_essential",
+      "effort": "automatic",
+      "crossref": 1,
+      "openalex": 1,
+      "gap": 0,
+      "samples": []
+    },
+    {
+      "id": "language",
+      "label": "Language",
+      "category": "findable_essential",
+      "effort": "automatic",
+      "crossref": 0.022454221559366973,
+      "openalex": 0.9959086071295286,
+      "gap": 0.9734543855701616,
+      "samples": [
+        {
+          "doi": "10.1590/1678-7189",
+          "title": "Influência do Hormônio do Crescimento na concentração de testosterona plasmática e nas características seminais de touros jovens e adultos da raça Nelore"
+        },
+        {
+          "doi": "10.1590/s1519-99402015000100006",
+          "title": "Grupo genético e ordem de parto no desempenho produtivo e reprodutivo de matrizes suínas"
+        },
+        {
+          "doi": "10.1590/0100-2945-058/14",
+          "title": "CARACTERIZAÇÃO PÓS-COLHEITA E SENSORIAL DE GENÓTIPOS DE BANANEIRAS TIPO PRATA"
+        },
+        {
+          "doi": "10.1590/2176-9451.20.1.030-039.int",
+          "title": "An interview with Eiji Tanaka"
+        },
+        {
+          "doi": "10.1590/1807-2577.1058",
+          "title": "Conhecimento de alunos do Curso de Odontologia sobre o uso racional do flúor"
+        }
+      ]
+    },
+    {
+      "id": "author_orcid",
+      "label": "Author ORCID",
+      "category": "findable_support",
+      "effort": "voluntary",
+      "crossref": 0.5615074433120667,
+      "openalex": 0.9578282444330795,
+      "gap": 0.39632080112101276,
+      "samples": [
+        {
+          "doi": "10.1590/1678-7189",
+          "title": "Influência do Hormônio do Crescimento na concentração de testosterona plasmática e nas características seminais de touros jovens e adultos da raça Nelore"
+        },
+        {
+          "doi": "10.1590/s1519-99402015000100006",
+          "title": "Grupo genético e ordem de parto no desempenho produtivo e reprodutivo de matrizes suínas"
+        },
+        {
+          "doi": "10.1590/0100-2945-058/14",
+          "title": "CARACTERIZAÇÃO PÓS-COLHEITA E SENSORIAL DE GENÓTIPOS DE BANANEIRAS TIPO PRATA"
+        },
+        {
+          "doi": "10.1590/2176-9451.20.1.030-039.int",
+          "title": "An interview with Eiji Tanaka"
+        },
+        {
+          "doi": "10.1590/1807-2577.1058",
+          "title": "Conhecimento de alunos do Curso de Odontologia sobre o uso racional do flúor"
+        }
+      ]
+    },
+    {
+      "id": "all_authors_orcid",
+      "label": "All Authors ORCID",
+      "category": "findable_support",
+      "effort": "voluntary",
+      "crossref": 0.4806943408733118,
+      "openalex": 0.6199013089692731,
+      "gap": 0.13920696809596128,
+      "samples": [
+        {
+          "doi": "10.1590/0100-2945-058/14",
+          "title": "CARACTERIZAÇÃO PÓS-COLHEITA E SENSORIAL DE GENÓTIPOS DE BANANEIRAS TIPO PRATA"
+        },
+        {
+          "doi": "10.1590/2176-9451.20.1.030-039.int",
+          "title": "An interview with Eiji Tanaka"
+        },
+        {
+          "doi": "10.1590/1980-5497201500010001",
+          "title": "Sintomas depressivos em idosos residentes em áreas de abrangência das Unidades Básicas de Saúde da zona urbana de Bagé, RS"
+        },
+        {
+          "doi": "10.1590/001152582015",
+          "title": "O Topo da Distribui&amp;#231;&amp;#227;o de Renda no Brasil: Primeiras Estimativas com Dados Tribut&amp;#225;rios e Compara&amp;#231;&amp;#227;o com Pesquisas Domiciliares (2006-2012)"
+        },
+        {
+          "doi": "10.1590/0103-6513.011411",
+          "title": "Perfil e tendências da liderança em uma empresa brasileira líder mundial de mercado"
+        }
+      ]
+    },
+    {
+      "id": "funder_doi",
+      "label": "Funder DOI",
+      "category": "findable_support",
+      "effort": "voluntary",
+      "crossref": 0.008423785455851079,
+      "openalex": 0.2182122271828825,
+      "gap": 0.20978844172703143,
+      "samples": [
+        {
+          "doi": "10.1590/0103-9016-2014-0056",
+          "title": "Seasonality of soil water exchange in the soybean growing season in southern Brazil"
+        },
+        {
+          "doi": "10.1590/0104-4060.39834",
+          "title": "Escola Itinerante: espaço de disputa e contradição"
+        },
+        {
+          "doi": "10.1590/s1984-29612015005",
+          "title": "Parasitological survey on birds at some selected brazilian zoos"
+        },
+        {
+          "doi": "10.1590/1516-1439.264814",
+          "title": "Evaluation of the Influence of MgO and La2O3 on the Fast Sintering of Mullite"
+        },
+        {
+          "doi": "10.1590/1678-457x.6472",
+          "title": "Peroxidase activity and sensory quality of ready to cook mixed vegetables for soup: combined effect of biopreservatives and refrigerated storage"
+        }
+      ]
+    },
+    {
+      "id": "award_number",
+      "label": "Award Number",
+      "category": "findable_support",
+      "effort": "voluntary",
+      "crossref": 0.009072831220482228,
+      "openalex": 0.15258407397680623,
+      "gap": 0.14351124275632401,
+      "samples": [
+        {
+          "doi": "10.1590/0103-9016-2014-0056",
+          "title": "Seasonality of soil water exchange in the soybean growing season in southern Brazil"
+        },
+        {
+          "doi": "10.1590/0104-4060.39834",
+          "title": "Escola Itinerante: espaço de disputa e contradição"
+        },
+        {
+          "doi": "10.1590/s1984-29612015005",
+          "title": "Parasitological survey on birds at some selected brazilian zoos"
+        },
+        {
+          "doi": "10.1590/1516-1439.264814",
+          "title": "Evaluation of the Influence of MgO and La2O3 on the Fast Sintering of Mullite"
+        },
+        {
+          "doi": "10.1590/1679-78251772",
+          "title": "A Modified Computational Scheme for the Stochastic Perturbation Finite Element Method"
+        }
+      ]
+    },
+    {
+      "id": "issn",
+      "label": "ISSN",
+      "category": "findable_support",
+      "effort": "automatic",
+      "crossref": 0.9999171430938769,
+      "openalex": 1,
+      "gap": 0.0000828569061230855,
+      "samples": [
+        {
+          "doi": "10.21452/23580763.2018.5ne.ii-iii",
+          "title": "Editorial"
+        },
+        {
+          "doi": "10.17666/339611/2018",
+          "title": "OS BENEFÍCIOS NÃO CONTRIBUTIVOS EM DINÂMICAS SOCIAIS E ECONÔMICAS LOCAIS: ESTUDO DE CASO EM PASSA TEMPO (MG)"
+        },
+        {
+          "doi": "10.17666/339609/2018",
+          "title": "CASA GRANDE &amp; SENZALA A questão racial e o “colonialismo esclarecido” na França do Pós-Segunda Guerra Mundial"
+        },
+        {
+          "doi": "10.17666/329512/2017",
+          "title": "COMPRENDER LA BURBUJA INMOBILIARIA EN ESPAÑA Una visión mediatizada desde la publicidad"
+        },
+        {
+          "doi": "10.17666/329513/2017",
+          "title": "UMA RESPOSTA SÓLIDA A UM REGIME AGROALIMENTAR EM CRISE O fenômeno GAS na Itália"
+        }
+      ]
+    },
+    {
+      "id": "volume",
+      "label": "Volume",
+      "category": "findable_support",
+      "effort": "automatic",
+      "crossref": 0.9698953241085978,
+      "openalex": 0.9708626480711018,
+      "gap": 0.0009673239625039853,
+      "samples": [
+        {
+          "doi": "10.1016/j.rpped.2016.02.005",
+          "title": "Ângulo de fase e critérios da Organização Mundial de Saúde na avaliação do estado nutricional em crianças com osteogênese imperfeita"
+        },
+        {
+          "doi": "10.1016/j.rpped.2016.02.007",
+          "title": "Necessidades de assistência à criança com deficiência – Uso do Inventário de Avaliação Pediátrica de Incapacidade"
+        },
+        {
+          "doi": "10.1016/j.rpped.2016.03.007",
+          "title": "Quilotórax bilateral espontâneo após vômitos excessivos em criança"
+        },
+        {
+          "doi": "10.1016/j.rpped.2016.05.003",
+          "title": "Conhecimento do pediatra sobre o manejo da constipação intestinal funcional"
+        },
+        {
+          "doi": "10.1016/j.rpped.2016.03.005",
+          "title": "Estágios de mudança de comportamento para atividade física em adolescentes catarinenses: prevalência e fatores associados"
+        }
+      ]
+    },
+    {
+      "id": "issue",
+      "label": "Issue",
+      "category": "findable_support",
+      "effort": "automatic",
+      "crossref": 0.8869003231419339,
+      "openalex": 0.8879290088047881,
+      "gap": 0.0010286856628541896,
+      "samples": [
+        {
+          "doi": "10.1016/j.rpped.2016.02.005",
+          "title": "Ângulo de fase e critérios da Organização Mundial de Saúde na avaliação do estado nutricional em crianças com osteogênese imperfeita"
+        },
+        {
+          "doi": "10.1016/j.rpped.2016.02.007",
+          "title": "Necessidades de assistência à criança com deficiência – Uso do Inventário de Avaliação Pediátrica de Incapacidade"
+        },
+        {
+          "doi": "10.1016/j.rpped.2016.03.007",
+          "title": "Quilotórax bilateral espontâneo após vômitos excessivos em criança"
+        },
+        {
+          "doi": "10.1016/j.rpped.2016.05.003",
+          "title": "Conhecimento do pediatra sobre o manejo da constipação intestinal funcional"
+        },
+        {
+          "doi": "10.1016/j.rpped.2016.03.005",
+          "title": "Estágios de mudança de comportamento para atividade física em adolescentes catarinenses: prevalência e fatores associados"
+        }
+      ]
+    },
+    {
+      "id": "page",
+      "label": "Page",
+      "category": "findable_support",
+      "effort": "automatic",
+      "crossref": 0.7118374899881238,
+      "openalex": 0.7865426348017195,
+      "gap": 0.07470514481359569,
+      "samples": [
+        {
+          "doi": "10.5935/0101-2800.20150042",
+          "title": "Erythropoietin resistance in end-stage renal disease patient with gastric antral vascular ectasia"
+        },
+        {
+          "doi": "10.1590/1807-3107bor-2015.vol29.0092errata",
+          "title": "Erratum: Fluoride varnishes with calcium glycerophosphate: fluoride release and effect on in vitro enamel demineralization"
+        },
+        {
+          "doi": "10.5935/0101-2800.20150033",
+          "title": "Different induction therapies for kidney transplantation with living donor"
+        },
+        {
+          "doi": "10.1590/s0034-8910.2015049005380",
+          "title": "Violence against metropolitan bus drivers and fare collectors in Brazil"
+        },
+        {
+          "doi": "10.1590/s0034-8910.2015049005424",
+          "title": "Intimate partner violence after the diagnosis of sexually transmitted diseases"
+        }
+      ]
+    },
+    {
+      "id": "published_print_date",
+      "label": "Published Print Date",
+      "category": "findable_support",
+      "effort": "automatic",
+      "crossref": 0.2708039881790814,
+      "openalex": 1,
+      "gap": 0.7291960118209186,
+      "samples": [
+        {
+          "doi": "10.1590/0100-2945-058/14",
+          "title": "CARACTERIZAÇÃO PÓS-COLHEITA E SENSORIAL DE GENÓTIPOS DE BANANEIRAS TIPO PRATA"
+        },
+        {
+          "doi": "10.1590/1982-3703000112014",
+          "title": "Plantão Psicológico: Ficções e Reflexões"
+        },
+        {
+          "doi": "10.1590/001152582015",
+          "title": "O Topo da Distribui&amp;#231;&amp;#227;o de Renda no Brasil: Primeiras Estimativas com Dados Tribut&amp;#225;rios e Compara&amp;#231;&amp;#227;o com Pesquisas Domiciliares (2006-2012)"
+        },
+        {
+          "doi": "10.1590/s0100-83582015000100014",
+          "title": "Volunteer RR® corn management in roundup ready® soybean-corn succession system"
+        },
+        {
+          "doi": "10.1590/0103-6513.011411",
+          "title": "Perfil e tendências da liderança em uma empresa brasileira líder mundial de mercado"
+        }
+      ]
+    },
+    {
+      "id": "published_online_date",
+      "label": "Published Online Date",
+      "category": "findable_support",
+      "effort": "automatic",
+      "crossref": 0.7312260060209351,
+      "openalex": 1,
+      "gap": 0.2687739939790649,
+      "samples": [
+        {
+          "doi": "10.1590/1678-7189",
+          "title": "Influência do Hormônio do Crescimento na concentração de testosterona plasmática e nas características seminais de touros jovens e adultos da raça Nelore"
+        },
+        {
+          "doi": "10.1590/s1519-99402015000100006",
+          "title": "Grupo genético e ordem de parto no desempenho produtivo e reprodutivo de matrizes suínas"
+        },
+        {
+          "doi": "10.1590/2176-9451.20.1.030-039.int",
+          "title": "An interview with Eiji Tanaka"
+        },
+        {
+          "doi": "10.1590/1807-2577.1058",
+          "title": "Conhecimento de alunos do Curso de Odontologia sobre o uso racional do flúor"
+        },
+        {
+          "doi": "10.1590/0103-9016-2014-0056",
+          "title": "Seasonality of soil water exchange in the soybean growing season in southern Brazil"
+        }
+      ]
+    },
+    {
+      "id": "license",
+      "label": "License",
+      "category": "accessible_essential",
+      "effort": "automatic",
+      "crossref": 0.578727870301323,
+      "openalex": 0.994719891633378,
+      "gap": 0.41599202133205504,
+      "samples": [
+        {
+          "doi": "10.1590/1678-7189",
+          "title": "Influência do Hormônio do Crescimento na concentração de testosterona plasmática e nas características seminais de touros jovens e adultos da raça Nelore"
+        },
+        {
+          "doi": "10.1590/s1519-99402015000100006",
+          "title": "Grupo genético e ordem de parto no desempenho produtivo e reprodutivo de matrizes suínas"
+        },
+        {
+          "doi": "10.1590/0100-2945-058/14",
+          "title": "CARACTERIZAÇÃO PÓS-COLHEITA E SENSORIAL DE GENÓTIPOS DE BANANEIRAS TIPO PRATA"
+        },
+        {
+          "doi": "10.1590/2176-9451.20.1.030-039.int",
+          "title": "An interview with Eiji Tanaka"
+        },
+        {
+          "doi": "10.1590/1807-2577.1058",
+          "title": "Conhecimento de alunos do Curso de Odontologia sobre o uso racional do flúor"
+        }
+      ]
+    },
+    {
+      "id": "license_url",
+      "label": "License URL",
+      "category": "accessible_essential",
+      "effort": "automatic",
+      "crossref": 0.578727870301323,
+      "openalex": 0.994719891633378,
+      "gap": 0.41599202133205504,
+      "samples": [
+        {
+          "doi": "10.1590/1678-7189",
+          "title": "Influência do Hormônio do Crescimento na concentração de testosterona plasmática e nas características seminais de touros jovens e adultos da raça Nelore"
+        },
+        {
+          "doi": "10.1590/s1519-99402015000100006",
+          "title": "Grupo genético e ordem de parto no desempenho produtivo e reprodutivo de matrizes suínas"
+        },
+        {
+          "doi": "10.1590/0100-2945-058/14",
+          "title": "CARACTERIZAÇÃO PÓS-COLHEITA E SENSORIAL DE GENÓTIPOS DE BANANEIRAS TIPO PRATA"
+        },
+        {
+          "doi": "10.1590/2176-9451.20.1.030-039.int",
+          "title": "An interview with Eiji Tanaka"
+        },
+        {
+          "doi": "10.1590/1807-2577.1058",
+          "title": "Conhecimento de alunos do Curso de Odontologia sobre o uso racional do flúor"
+        }
+      ]
+    },
+    {
+      "id": "open_access_license",
+      "label": "Open Access License",
+      "category": "accessible_essential",
+      "effort": "voluntary",
+      "crossref": 0.5781064435053995,
+      "openalex": 0.9937661547818154,
+      "gap": 0.4156597112764159,
+      "samples": [
+        {
+          "doi": "10.1590/1678-7189",
+          "title": "Influência do Hormônio do Crescimento na concentração de testosterona plasmática e nas características seminais de touros jovens e adultos da raça Nelore"
+        },
+        {
+          "doi": "10.1590/s1519-99402015000100006",
+          "title": "Grupo genético e ordem de parto no desempenho produtivo e reprodutivo de matrizes suínas"
+        },
+        {
+          "doi": "10.1590/0100-2945-058/14",
+          "title": "CARACTERIZAÇÃO PÓS-COLHEITA E SENSORIAL DE GENÓTIPOS DE BANANEIRAS TIPO PRATA"
+        },
+        {
+          "doi": "10.1590/2176-9451.20.1.030-039.int",
+          "title": "An interview with Eiji Tanaka"
+        },
+        {
+          "doi": "10.1590/1807-2577.1058",
+          "title": "Conhecimento de alunos do Curso de Odontologia sobre o uso racional do flúor"
+        }
+      ]
+    },
+    {
+      "id": "full_text_links",
+      "label": "Full-text Links",
+      "category": "accessible_essential",
+      "effort": "automatic",
+      "crossref": 0.9388516032811335,
+      "openalex": 0.9417391184154146,
+      "gap": 0.0028875151342810934,
+      "samples": [
+        {
+          "doi": "10.1590/001152582015",
+          "title": "O Topo da Distribui&amp;#231;&amp;#227;o de Renda no Brasil: Primeiras Estimativas com Dados Tribut&amp;#225;rios e Compara&amp;#231;&amp;#227;o com Pesquisas Domiciliares (2006-2012)"
+        },
+        {
+          "doi": "10.21168/rbrh.v20n3.p785-794",
+          "title": "Avaliação da influência da mudança de variáveis de projeto de barragens sobre as alterações hidrológicas e componentes do regime de vazão natural"
+        },
+        {
+          "doi": "10.21168/rbrh.v20n1.p106-118",
+          "title": "Utilização do método Bávaro para avaliação das condições hidromorfológicas de uma bacia experimental no Nordeste Brasileiro"
+        },
+        {
+          "doi": "10.21168/rbrh.v20n4.p1019-1028",
+          "title": "Distribuição de hidrocarbonetos policíclicos aromáticos e alifáticos em sedimentos estuarinos / Distribution of aliphatic and polycyclic aromatics hydrocarbons in estuary sediments"
+        },
+        {
+          "doi": "10.21168/rbrh.v20n1.p237-248",
+          "title": "CICLAR: Modelo 0D para Dinâmica de Carbono em Lagos e Reservatórios"
+        }
+      ]
+    },
+    {
+      "id": "resource_url",
+      "label": "Resource URL",
+      "category": "accessible_essential",
+      "effort": "automatic",
+      "crossref": 1,
+      "openalex": 1,
+      "gap": 0,
+      "samples": []
+    },
+    {
+      "id": "references",
+      "label": "References",
+      "category": "accessible_essential",
+      "effort": "voluntary",
+      "crossref": 0.9264644958157262,
+      "openalex": 0.9429831230044093,
+      "gap": 0.016518627188683133,
+      "samples": [
+        {
+          "doi": "10.1590/001152582015",
+          "title": "O Topo da Distribui&amp;#231;&amp;#227;o de Renda no Brasil: Primeiras Estimativas com Dados Tribut&amp;#225;rios e Compara&amp;#231;&amp;#227;o com Pesquisas Domiciliares (2006-2012)"
+        },
+        {
+          "doi": "10.5935/0101-2800.20150042",
+          "title": "Erythropoietin resistance in end-stage renal disease patient with gastric antral vascular ectasia"
+        },
+        {
+          "doi": "10.21168/rbrh.v20n3.p785-794",
+          "title": "Avaliação da influência da mudança de variáveis de projeto de barragens sobre as alterações hidrológicas e componentes do regime de vazão natural"
+        },
+        {
+          "doi": "10.21168/rbrh.v20n1.p106-118",
+          "title": "Utilização do método Bávaro para avaliação das condições hidromorfológicas de uma bacia experimental no Nordeste Brasileiro"
+        },
+        {
+          "doi": "10.1590/s1806-66902015000100024",
+          "title": "Caracter&amp;#237;sticas morfog&amp;#234;nicas e estruturais de Urochloa spp. sob manejo convencional e consorciado com cereais1"
+        }
+      ]
+    },
+    {
+      "id": "references_count",
+      "label": "References Count",
+      "category": "accessible_essential",
+      "effort": "voluntary",
+      "crossref": 0.9264644958157262,
+      "openalex": 0.9429831230044093,
+      "gap": 0.016518627188683133,
+      "samples": [
+        {
+          "doi": "10.1590/001152582015",
+          "title": "O Topo da Distribui&amp;#231;&amp;#227;o de Renda no Brasil: Primeiras Estimativas com Dados Tribut&amp;#225;rios e Compara&amp;#231;&amp;#227;o com Pesquisas Domiciliares (2006-2012)"
+        },
+        {
+          "doi": "10.5935/0101-2800.20150042",
+          "title": "Erythropoietin resistance in end-stage renal disease patient with gastric antral vascular ectasia"
+        },
+        {
+          "doi": "10.21168/rbrh.v20n3.p785-794",
+          "title": "Avaliação da influência da mudança de variáveis de projeto de barragens sobre as alterações hidrológicas e componentes do regime de vazão natural"
+        },
+        {
+          "doi": "10.21168/rbrh.v20n1.p106-118",
+          "title": "Utilização do método Bávaro para avaliação das condições hidromorfológicas de uma bacia experimental no Nordeste Brasileiro"
+        },
+        {
+          "doi": "10.1590/s1806-66902015000100024",
+          "title": "Caracter&amp;#237;sticas morfog&amp;#234;nicas e estruturais de Urochloa spp. sob manejo convencional e consorciado com cereais1"
+        }
+      ]
+    },
+    {
+      "id": "is_referenced_by",
+      "label": "Is Referenced By",
+      "category": "accessible_essential",
+      "effort": "automatic",
+      "crossref": 0.7167674759024498,
+      "openalex": 0.791698342709442,
+      "gap": 0.07493086680699212,
+      "samples": [
+        {
+          "doi": "10.1590/s1519-99402015000100006",
+          "title": "Grupo genético e ordem de parto no desempenho produtivo e reprodutivo de matrizes suínas"
+        },
+        {
+          "doi": "10.1590/1807-2577.1058",
+          "title": "Conhecimento de alunos do Curso de Odontologia sobre o uso racional do flúor"
+        },
+        {
+          "doi": "10.1590/0103-6513.011411",
+          "title": "Perfil e tendências da liderança em uma empresa brasileira líder mundial de mercado"
+        },
+        {
+          "doi": "10.21168/rbrh.v20n3.p785-794",
+          "title": "Avaliação da influência da mudança de variáveis de projeto de barragens sobre as alterações hidrológicas e componentes do regime de vazão natural"
+        },
+        {
+          "doi": "10.1590/0100-69912015s01015",
+          "title": "SCIENTIFIC LEADERS FOR THE FUTURE: PRIMARY AND SECONDARY EDUCATION"
+        }
+      ]
+    },
+    {
+      "id": "author_sequence",
+      "label": "Author Sequence",
+      "category": "accessible_support",
+      "effort": "automatic",
+      "crossref": 0.9885105090175933,
+      "openalex": 0.9911675674181376,
+      "gap": 0.00265705840054431,
+      "samples": [
+        {
+          "doi": "10.1590/2176-9451.20.1.030-039.int",
+          "title": "An interview with Eiji Tanaka"
+        },
+        {
+          "doi": "10.1590/1807-3107bor-2015.vol29.0092errata",
+          "title": "Erratum: Fluoride varnishes with calcium glycerophosphate: fluoride release and effect on in vitro enamel demineralization"
+        },
+        {
+          "doi": "10.1590/s0034-8910.2013047004359err",
+          "title": "Erratum: Reflexões metodológicas sobre prevalência da fluorose dentária nos inquéritos de saúde bucal"
+        },
+        {
+          "doi": "10.1590/1807-57622015.0012",
+          "title": "Errata"
+        },
+        {
+          "doi": "10.1590/1807-57622015.001",
+          "title": "Errata"
+        }
+      ]
+    },
+    {
+      "id": "affiliation_ids_ror",
+      "label": "Affiliation IDs (ROR)",
+      "category": "accessible_support",
+      "effort": "voluntary",
+      "crossref": 0,
+      "openalex": 0.9704341576015592,
+      "gap": 0.9704341576015592,
+      "samples": [
+        {
+          "doi": "10.1590/1678-7189",
+          "title": "Influência do Hormônio do Crescimento na concentração de testosterona plasmática e nas características seminais de touros jovens e adultos da raça Nelore"
+        },
+        {
+          "doi": "10.1590/s1519-99402015000100006",
+          "title": "Grupo genético e ordem de parto no desempenho produtivo e reprodutivo de matrizes suínas"
+        },
+        {
+          "doi": "10.1590/0100-2945-058/14",
+          "title": "CARACTERIZAÇÃO PÓS-COLHEITA E SENSORIAL DE GENÓTIPOS DE BANANEIRAS TIPO PRATA"
+        },
+        {
+          "doi": "10.1590/1807-2577.1058",
+          "title": "Conhecimento de alunos do Curso de Odontologia sobre o uso racional do flúor"
+        },
+        {
+          "doi": "10.1590/0103-9016-2014-0056",
+          "title": "Seasonality of soil water exchange in the soybean growing season in southern Brazil"
+        }
+      ]
+    },
+    {
+      "id": "relations",
+      "label": "Relations",
+      "category": "accessible_support",
+      "effort": "voluntary",
+      "crossref": 0.07698787527273732,
+      "openalex": 0.9793357015494768,
+      "gap": 0.9023478262767395,
+      "samples": [
+        {
+          "doi": "10.1590/1678-7189",
+          "title": "Influência do Hormônio do Crescimento na concentração de testosterona plasmática e nas características seminais de touros jovens e adultos da raça Nelore"
+        },
+        {
+          "doi": "10.1590/s1519-99402015000100006",
+          "title": "Grupo genético e ordem de parto no desempenho produtivo e reprodutivo de matrizes suínas"
+        },
+        {
+          "doi": "10.1590/0100-2945-058/14",
+          "title": "CARACTERIZAÇÃO PÓS-COLHEITA E SENSORIAL DE GENÓTIPOS DE BANANEIRAS TIPO PRATA"
+        },
+        {
+          "doi": "10.1590/2176-9451.20.1.030-039.int",
+          "title": "An interview with Eiji Tanaka"
+        },
+        {
+          "doi": "10.1590/1807-2577.1058",
+          "title": "Conhecimento de alunos do Curso de Odontologia sobre o uso racional do flúor"
+        }
+      ]
+    },
+    {
+      "id": "author_given_family",
+      "label": "Complete Author Names",
+      "category": "evaluation_coara",
+      "effort": "automatic",
+      "crossref": 0.9782914905957412,
+      "openalex": 0.9908911219539165,
+      "gap": 0.012599631358175323,
+      "samples": [
+        {
+          "doi": "10.1590/2176-9451.20.1.030-039.int",
+          "title": "An interview with Eiji Tanaka"
+        },
+        {
+          "doi": "10.1590/1807-57622015.0012",
+          "title": "Errata"
+        },
+        {
+          "doi": "10.1590/1807-57622015.001",
+          "title": "Errata"
+        },
+        {
+          "doi": "10.1590/1678-4499.er7401",
+          "title": "Errata"
+        },
+        {
+          "doi": "10.1590/1516-1439.er1801",
+          "title": "Erratum"
+        }
+      ]
+    },
+    {
+      "id": "affiliation_ror",
+      "label": "Affiliation with ROR",
+      "category": "evaluation_coara",
+      "effort": "voluntary",
+      "crossref": 0,
+      "openalex": 0.9704341576015592,
+      "gap": 0.9704341576015592,
+      "samples": [
+        {
+          "doi": "10.1590/1678-7189",
+          "title": "Influência do Hormônio do Crescimento na concentração de testosterona plasmática e nas características seminais de touros jovens e adultos da raça Nelore"
+        },
+        {
+          "doi": "10.1590/s1519-99402015000100006",
+          "title": "Grupo genético e ordem de parto no desempenho produtivo e reprodutivo de matrizes suínas"
+        },
+        {
+          "doi": "10.1590/0100-2945-058/14",
+          "title": "CARACTERIZAÇÃO PÓS-COLHEITA E SENSORIAL DE GENÓTIPOS DE BANANEIRAS TIPO PRATA"
+        },
+        {
+          "doi": "10.1590/1807-2577.1058",
+          "title": "Conhecimento de alunos do Curso de Odontologia sobre o uso racional do flúor"
+        },
+        {
+          "doi": "10.1590/0103-9016-2014-0056",
+          "title": "Seasonality of soil water exchange in the soybean growing season in southern Brazil"
+        }
+      ]
+    },
+    {
+      "id": "funding_complete",
+      "label": "Complete Funding Info",
+      "category": "evaluation_coara",
+      "effort": "voluntary",
+      "crossref": 0.007015218051757947,
+      "openalex": 0.15258407397680623,
+      "gap": 0.14556885592504828,
+      "samples": [
+        {
+          "doi": "10.1590/0103-9016-2014-0056",
+          "title": "Seasonality of soil water exchange in the soybean growing season in southern Brazil"
+        },
+        {
+          "doi": "10.1590/0104-4060.39834",
+          "title": "Escola Itinerante: espaço de disputa e contradição"
+        },
+        {
+          "doi": "10.1590/s1984-29612015005",
+          "title": "Parasitological survey on birds at some selected brazilian zoos"
+        },
+        {
+          "doi": "10.1590/1516-1439.264814",
+          "title": "Evaluation of the Influence of MgO and La2O3 on the Fast Sintering of Mullite"
+        },
+        {
+          "doi": "10.1590/1679-78251772",
+          "title": "A Modified Computational Scheme for the Stochastic Perturbation Finite Element Method"
+        }
+      ]
+    },
+    {
+      "id": "preprint_version_link",
+      "label": "Preprint / Version Link",
+      "category": "evaluation_coara",
+      "effort": "voluntary",
+      "crossref": 0.0004419034993233353,
+      "openalex": 0.8470427246464953,
+      "gap": 0.846600821147172,
+      "samples": [
+        {
+          "doi": "10.1590/1678-7189",
+          "title": "Influência do Hormônio do Crescimento na concentração de testosterona plasmática e nas características seminais de touros jovens e adultos da raça Nelore"
+        },
+        {
+          "doi": "10.1590/s1519-99402015000100006",
+          "title": "Grupo genético e ordem de parto no desempenho produtivo e reprodutivo de matrizes suínas"
+        },
+        {
+          "doi": "10.1590/0100-2945-058/14",
+          "title": "CARACTERIZAÇÃO PÓS-COLHEITA E SENSORIAL DE GENÓTIPOS DE BANANEIRAS TIPO PRATA"
+        },
+        {
+          "doi": "10.1590/2176-9451.20.1.030-039.int",
+          "title": "An interview with Eiji Tanaka"
+        },
+        {
+          "doi": "10.1590/1807-2577.1058",
+          "title": "Conhecimento de alunos do Curso de Odontologia sobre o uso racional do flúor"
+        }
+      ]
+    },
+    {
+      "id": "open_access_status",
+      "label": "Open Access Status",
+      "category": "evaluation_coara",
+      "effort": "automatic",
+      "crossref": 0.5781064435053995,
+      "openalex": 1,
+      "gap": 0.4218935564946005,
+      "samples": [
+        {
+          "doi": "10.1590/1678-7189",
+          "title": "Influência do Hormônio do Crescimento na concentração de testosterona plasmática e nas características seminais de touros jovens e adultos da raça Nelore"
+        },
+        {
+          "doi": "10.1590/s1519-99402015000100006",
+          "title": "Grupo genético e ordem de parto no desempenho produtivo e reprodutivo de matrizes suínas"
+        },
+        {
+          "doi": "10.1590/0100-2945-058/14",
+          "title": "CARACTERIZAÇÃO PÓS-COLHEITA E SENSORIAL DE GENÓTIPOS DE BANANEIRAS TIPO PRATA"
+        },
+        {
+          "doi": "10.1590/2176-9451.20.1.030-039.int",
+          "title": "An interview with Eiji Tanaka"
+        },
+        {
+          "doi": "10.1590/1807-2577.1058",
+          "title": "Conhecimento de alunos do Curso de Odontologia sobre o uso racional do flúor"
+        }
+      ]
+    }
+  ]
+}

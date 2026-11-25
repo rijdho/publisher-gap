@@ -1,0 +1,914 @@
+[
+  {
+    "id": "title",
+    "label": "Title",
+    "category": "findable_essential",
+    "effort": "automatic",
+    "comparable": true,
+    "avgCrossref": 0.9983679186303449,
+    "avgOpenAlex": 0.9983640540918792,
+    "gap": -0.000003864538465681022,
+    "byPublisherCategory": {
+      "global_commercial": {
+        "crossref": 0.9999954545454546,
+        "openalex": 0.999995449788415
+      },
+      "global_oa": {
+        "crossref": 1,
+        "openalex": 1
+      },
+      "regional_latam": {
+        "crossref": 0.9954347176195111,
+        "openalex": 0.9954239016688471
+      }
+    }
+  },
+  {
+    "id": "abstract",
+    "label": "Abstract",
+    "category": "findable_essential",
+    "effort": "voluntary",
+    "comparable": true,
+    "avgCrossref": 0.526702089165609,
+    "avgOpenAlex": 0.790774981500711,
+    "gap": 0.264072892335102,
+    "byPublisherCategory": {
+      "global_commercial": {
+        "crossref": 0.3294850167357385,
+        "openalex": 0.5862825073105687
+      },
+      "global_oa": {
+        "crossref": 0.5408209706005005,
+        "openalex": 0.9343651668817198
+      },
+      "regional_latam": {
+        "crossref": 0.7126240564475663,
+        "openalex": 0.8803953073860467
+      }
+    }
+  },
+  {
+    "id": "author",
+    "label": "Author",
+    "category": "findable_essential",
+    "effort": "automatic",
+    "comparable": true,
+    "avgCrossref": 0.9583154570124689,
+    "avgOpenAlex": 0.9635143890235828,
+    "gap": 0.005198932011113877,
+    "byPublisherCategory": {
+      "global_commercial": {
+        "crossref": 0.924552490431726,
+        "openalex": 0.9292893178679551
+      },
+      "global_oa": {
+        "crossref": 0.9531558329858215,
+        "openalex": 0.9635765340694677
+      },
+      "regional_latam": {
+        "crossref": 0.9962061228145298,
+        "openalex": 0.997689744142502
+      }
+    }
+  },
+  {
+    "id": "author_affiliation",
+    "label": "Author Affiliation",
+    "category": "findable_essential",
+    "effort": "voluntary",
+    "comparable": true,
+    "avgCrossref": 0.37391030535402986,
+    "avgOpenAlex": 0.8690758333058533,
+    "gap": 0.4951655279518234,
+    "byPublisherCategory": {
+      "global_commercial": {
+        "crossref": 0.48966834835975775,
+        "openalex": 0.8520452423107351
+      },
+      "global_oa": {
+        "crossref": 0.4436865356547123,
+        "openalex": 0.9274603004725908
+      },
+      "regional_latam": {
+        "crossref": 0.20233127810775606,
+        "openalex": 0.8393988505675812
+      }
+    }
+  },
+  {
+    "id": "doi",
+    "label": "DOI",
+    "category": "findable_essential",
+    "effort": "automatic",
+    "comparable": true,
+    "avgCrossref": 1,
+    "avgOpenAlex": 1,
+    "gap": 0,
+    "byPublisherCategory": {
+      "global_commercial": {
+        "crossref": 1,
+        "openalex": 1
+      },
+      "global_oa": {
+        "crossref": 1,
+        "openalex": 1
+      },
+      "regional_latam": {
+        "crossref": 1,
+        "openalex": 1
+      }
+    }
+  },
+  {
+    "id": "publication_date",
+    "label": "Publication Date",
+    "category": "findable_essential",
+    "effort": "automatic",
+    "comparable": true,
+    "avgCrossref": 1,
+    "avgOpenAlex": 1,
+    "gap": 0,
+    "byPublisherCategory": {
+      "global_commercial": {
+        "crossref": 1,
+        "openalex": 1
+      },
+      "global_oa": {
+        "crossref": 1,
+        "openalex": 1
+      },
+      "regional_latam": {
+        "crossref": 1,
+        "openalex": 1
+      }
+    }
+  },
+  {
+    "id": "publisher",
+    "label": "Publisher",
+    "category": "findable_essential",
+    "effort": "automatic",
+    "comparable": true,
+    "avgCrossref": 1,
+    "avgOpenAlex": 0.8998658056071599,
+    "gap": -0.1001341943928401,
+    "byPublisherCategory": {
+      "global_commercial": {
+        "crossref": 1,
+        "openalex": 0.9915368604716776
+      },
+      "global_oa": {
+        "crossref": 1,
+        "openalex": 0.9983082529757441
+      },
+      "regional_latam": {
+        "crossref": 1,
+        "openalex": 0.729440792847775
+      }
+    }
+  },
+  {
+    "id": "resource_type",
+    "label": "Resource Type",
+    "category": "findable_essential",
+    "effort": "automatic",
+    "comparable": true,
+    "avgCrossref": 1,
+    "avgOpenAlex": 1,
+    "gap": 0,
+    "byPublisherCategory": {
+      "global_commercial": {
+        "crossref": 1,
+        "openalex": 1
+      },
+      "global_oa": {
+        "crossref": 1,
+        "openalex": 1
+      },
+      "regional_latam": {
+        "crossref": 1,
+        "openalex": 1
+      }
+    }
+  },
+  {
+    "id": "subject_keywords",
+    "label": "Subject / Keywords",
+    "category": "findable_essential",
+    "effort": "voluntary",
+    "comparable": true,
+    "avgCrossref": 0,
+    "avgOpenAlex": 0.9998254970367358,
+    "gap": 0.9998254970367358,
+    "byPublisherCategory": {
+      "global_commercial": {
+        "crossref": 0,
+        "openalex": 0.9997589040880637
+      },
+      "global_oa": {
+        "crossref": 0,
+        "openalex": 1
+      },
+      "regional_latam": {
+        "crossref": 0,
+        "openalex": 0.9997524876147965
+      }
+    }
+  },
+  {
+    "id": "funder_name",
+    "label": "Funder Name",
+    "category": "findable_essential",
+    "effort": "voluntary",
+    "comparable": true,
+    "avgCrossref": 0.2174440228728334,
+    "avgOpenAlex": 0.2759245972036865,
+    "gap": 0.0584805743308531,
+    "byPublisherCategory": {
+      "global_commercial": {
+        "crossref": 0.2828871177934931,
+        "openalex": 0.28687361198726874
+      },
+      "global_oa": {
+        "crossref": 0.4041400646371977,
+        "openalex": 0.5156010536280705
+      },
+      "regional_latam": {
+        "crossref": 0.0026440945406822646,
+        "openalex": 0.07323441728059714
+      }
+    }
+  },
+  {
+    "id": "container_title",
+    "label": "Container Title",
+    "category": "findable_essential",
+    "effort": "automatic",
+    "comparable": true,
+    "avgCrossref": 1,
+    "avgOpenAlex": 0.9855321029108789,
+    "gap": -0.014467897089121107,
+    "byPublisherCategory": {
+      "global_commercial": {
+        "crossref": 1,
+        "openalex": 0.9999203205390884
+      },
+      "global_oa": {
+        "crossref": 1,
+        "openalex": 1
+      },
+      "regional_latam": {
+        "crossref": 1,
+        "openalex": 0.9595695676113725
+      }
+    }
+  },
+  {
+    "id": "language",
+    "label": "Language",
+    "category": "findable_essential",
+    "effort": "automatic",
+    "comparable": true,
+    "avgCrossref": 0.592047084043277,
+    "avgOpenAlex": 0.9875996752223619,
+    "gap": 0.3955525911790849,
+    "byPublisherCategory": {
+      "global_commercial": {
+        "crossref": 0.9909014613469704,
+        "openalex": 0.9999840684585186
+      },
+      "global_oa": {
+        "crossref": 0.7510528304837365,
+        "openalex": 0.9999684510015373
+      },
+      "regional_latam": {
+        "crossref": 0.06598810958721561,
+        "openalex": 0.9653202613628651
+      }
+    }
+  },
+  {
+    "id": "author_orcid",
+    "label": "Author ORCID",
+    "category": "findable_support",
+    "effort": "voluntary",
+    "comparable": true,
+    "avgCrossref": 0.35467127218625466,
+    "avgOpenAlex": 0.8109933036346586,
+    "gap": 0.45632203144840394,
+    "byPublisherCategory": {
+      "global_commercial": {
+        "crossref": 0.38180791020040933,
+        "openalex": 0.8384222828711263
+      },
+      "global_oa": {
+        "crossref": 0.3829403409090909,
+        "openalex": 0.927890117239065
+      },
+      "regional_latam": {
+        "crossref": 0.3049193791938309,
+        "openalex": 0.6900468735146655
+      }
+    }
+  },
+  {
+    "id": "all_authors_orcid",
+    "label": "All Authors ORCID",
+    "category": "findable_support",
+    "effort": "voluntary",
+    "comparable": true,
+    "avgCrossref": 0.13416503822183967,
+    "avgOpenAlex": 0.3739006930667608,
+    "gap": 0.23973565484492115,
+    "byPublisherCategory": {
+      "global_commercial": {
+        "crossref": 0.08882454547785427,
+        "openalex": 0.3528986211683146
+      },
+      "global_oa": {
+        "crossref": 0.038139204545454546,
+        "openalex": 0.3213358732760132
+      },
+      "regional_latam": {
+        "crossref": 0.2563261979069331,
+        "openalex": 0.43695462079780506
+      }
+    }
+  },
+  {
+    "id": "funder_doi",
+    "label": "Funder DOI",
+    "category": "findable_support",
+    "effort": "voluntary",
+    "comparable": true,
+    "avgCrossref": 0.16185526198580388,
+    "avgOpenAlex": 0.2759245972036865,
+    "gap": 0.11406933521788262,
+    "byPublisherCategory": {
+      "global_commercial": {
+        "crossref": 0.22596974922031973,
+        "openalex": 0.28687361198726874
+      },
+      "global_oa": {
+        "crossref": 0.28162643348623856,
+        "openalex": 0.5156010536280705
+      },
+      "regional_latam": {
+        "crossref": 0.0019238375509403305,
+        "openalex": 0.07323441728059714
+      }
+    }
+  },
+  {
+    "id": "award_number",
+    "label": "Award Number",
+    "category": "findable_support",
+    "effort": "voluntary",
+    "comparable": true,
+    "avgCrossref": 0.16891831438007124,
+    "avgOpenAlex": 0.1956064574973902,
+    "gap": 0.026688143117318958,
+    "byPublisherCategory": {
+      "global_commercial": {
+        "crossref": 0.20986938501988242,
+        "openalex": 0.19595637413049175
+      },
+      "global_oa": {
+        "crossref": 0.326310310675563,
+        "openalex": 0.387162835079636
+      },
+      "regional_latam": {
+        "crossref": 0.0020536467038665606,
+        "openalex": 0.042011438798492104
+      }
+    }
+  },
+  {
+    "id": "issn",
+    "label": "ISSN",
+    "category": "findable_support",
+    "effort": "automatic",
+    "comparable": true,
+    "avgCrossref": 0.9567490133348461,
+    "avgOpenAlex": 0.977753169836414,
+    "gap": 0.02100415650156795,
+    "byPublisherCategory": {
+      "global_commercial": {
+        "crossref": 0.9998627054090466,
+        "openalex": 0.9998846584313019
+      },
+      "global_oa": {
+        "crossref": 1,
+        "openalex": 1
+      },
+      "regional_latam": {
+        "crossref": 0.8790345319285222,
+        "openalex": 0.9378242171106571
+      }
+    }
+  },
+  {
+    "id": "volume",
+    "label": "Volume",
+    "category": "findable_support",
+    "effort": "automatic",
+    "comparable": true,
+    "avgCrossref": 0.8933125171567804,
+    "avgOpenAlex": 0.8961216249959735,
+    "gap": 0.0028091078391930813,
+    "byPublisherCategory": {
+      "global_commercial": {
+        "crossref": 0.9741875593792393,
+        "openalex": 0.9809039549858621
+      },
+      "global_oa": {
+        "crossref": 0.9984278826105089,
+        "openalex": 0.9994117548708348
+      },
+      "regional_latam": {
+        "crossref": 0.7283451825713388,
+        "openalex": 0.7287071911061961
+      }
+    }
+  },
+  {
+    "id": "issue",
+    "label": "Issue",
+    "category": "findable_support",
+    "effort": "automatic",
+    "comparable": true,
+    "avgCrossref": 0.8084294899451748,
+    "avgOpenAlex": 0.8113892317160604,
+    "gap": 0.002959741770885538,
+    "byPublisherCategory": {
+      "global_commercial": {
+        "crossref": 0.833349081399089,
+        "openalex": 0.839983676455643
+      },
+      "global_oa": {
+        "crossref": 0.6804363792743953,
+        "openalex": 0.6813363781917956
+      },
+      "regional_latam": {
+        "crossref": 0.8859043870278847,
+        "openalex": 0.8868370697958896
+      }
+    }
+  },
+  {
+    "id": "page",
+    "label": "Page",
+    "category": "findable_support",
+    "effort": "automatic",
+    "comparable": true,
+    "avgCrossref": 0.7714621341083772,
+    "avgOpenAlex": 0.8689774197659675,
+    "gap": 0.09751528565759038,
+    "byPublisherCategory": {
+      "global_commercial": {
+        "crossref": 0.8354493338336961,
+        "openalex": 0.9186587840916763
+      },
+      "global_oa": {
+        "crossref": 0.7200971382402002,
+        "openalex": 0.9352368980930312
+      },
+      "regional_latam": {
+        "crossref": 0.7485669310775995,
+        "openalex": 0.7662884727786073
+      }
+    }
+  },
+  {
+    "id": "published_print_date",
+    "label": "Published Print Date",
+    "category": "findable_support",
+    "effort": "automatic",
+    "comparable": true,
+    "avgCrossref": 0.44174787124299375,
+    "avgOpenAlex": 1,
+    "gap": 0.5582521287570062,
+    "byPublisherCategory": {
+      "global_commercial": {
+        "crossref": 0.9354276263221932,
+        "openalex": 1
+      },
+      "global_oa": {
+        "crossref": 0.2544461530442035,
+        "openalex": 1
+      },
+      "regional_latam": {
+        "crossref": 0.09790949072282659,
+        "openalex": 1
+      }
+    }
+  },
+  {
+    "id": "published_online_date",
+    "label": "Published Online Date",
+    "category": "findable_support",
+    "effort": "automatic",
+    "comparable": true,
+    "avgCrossref": 0.8684536747333977,
+    "avgOpenAlex": 1,
+    "gap": 0.13154632526660226,
+    "byPublisherCategory": {
+      "global_commercial": {
+        "crossref": 0.7645225974425555,
+        "openalex": 1
+      },
+      "global_oa": {
+        "crossref": 0.9237932652210176,
+        "openalex": 1
+      },
+      "regional_latam": {
+        "crossref": 0.9281130796341444,
+        "openalex": 1
+      }
+    }
+  },
+  {
+    "id": "license",
+    "label": "License",
+    "category": "accessible_essential",
+    "effort": "automatic",
+    "comparable": true,
+    "avgCrossref": 0.6719994678368888,
+    "avgOpenAlex": 0.648519601679415,
+    "gap": -0.023479866157473772,
+    "byPublisherCategory": {
+      "global_commercial": {
+        "crossref": 0.6773649643841109,
+        "openalex": 0.26287399399240224
+      },
+      "global_oa": {
+        "crossref": 0.9271849979149291,
+        "openalex": 0.8372859928092028
+      },
+      "regional_latam": {
+        "crossref": 0.46248554722723423,
+        "openalex": 0.8831520964625975
+      }
+    }
+  },
+  {
+    "id": "license_url",
+    "label": "License URL",
+    "category": "accessible_essential",
+    "effort": "automatic",
+    "comparable": true,
+    "avgCrossref": 0.6719994678368888,
+    "avgOpenAlex": 0.648519601679415,
+    "gap": -0.023479866157473772,
+    "byPublisherCategory": {
+      "global_commercial": {
+        "crossref": 0.6773649643841109,
+        "openalex": 0.26287399399240224
+      },
+      "global_oa": {
+        "crossref": 0.9271849979149291,
+        "openalex": 0.8372859928092028
+      },
+      "regional_latam": {
+        "crossref": 0.46248554722723423,
+        "openalex": 0.8831520964625975
+      }
+    }
+  },
+  {
+    "id": "open_access_license",
+    "label": "Open Access License",
+    "category": "accessible_essential",
+    "effort": "voluntary",
+    "comparable": true,
+    "avgCrossref": 0.4555001031312827,
+    "avgOpenAlex": 0.6433971301059133,
+    "gap": 0.18789702697463057,
+    "byPublisherCategory": {
+      "global_commercial": {
+        "crossref": 0.20862228557043694,
+        "openalex": 0.25481698436143363
+      },
+      "global_oa": {
+        "crossref": 0.755848780233528,
+        "openalex": 0.8348272565888861
+      },
+      "regional_latam": {
+        "crossref": 0.46209897901033203,
+        "openalex": 0.8788331746640143
+      }
+    }
+  },
+  {
+    "id": "full_text_links",
+    "label": "Full-text Links",
+    "category": "accessible_essential",
+    "effort": "automatic",
+    "comparable": true,
+    "avgCrossref": 0.8737672756333007,
+    "avgOpenAlex": 0.6375049368475797,
+    "gap": -0.236262338785721,
+    "byPublisherCategory": {
+      "global_commercial": {
+        "crossref": 0.7989595535893265,
+        "openalex": 0.29693426688843705
+      },
+      "global_oa": {
+        "crossref": 0.9526927648040033,
+        "openalex": 0.7884299424436818
+      },
+      "regional_latam": {
+        "crossref": 0.885434606340713,
+        "openalex": 0.8573356023298405
+      }
+    }
+  },
+  {
+    "id": "resource_url",
+    "label": "Resource URL",
+    "category": "accessible_essential",
+    "effort": "automatic",
+    "comparable": true,
+    "avgCrossref": 1,
+    "avgOpenAlex": 1,
+    "gap": 0,
+    "byPublisherCategory": {
+      "global_commercial": {
+        "crossref": 1,
+        "openalex": 1
+      },
+      "global_oa": {
+        "crossref": 1,
+        "openalex": 1
+      },
+      "regional_latam": {
+        "crossref": 1,
+        "openalex": 1
+      }
+    }
+  },
+  {
+    "id": "references",
+    "label": "References",
+    "category": "accessible_essential",
+    "effort": "voluntary",
+    "comparable": true,
+    "avgCrossref": 0.635965572716179,
+    "avgOpenAlex": 0.7673985178819003,
+    "gap": 0.13143294516572124,
+    "byPublisherCategory": {
+      "global_commercial": {
+        "crossref": 0.7782222349902802,
+        "openalex": 0.782046756031405
+      },
+      "global_oa": {
+        "crossref": 0.9143015012510425,
+        "openalex": 0.9275056748545665
+      },
+      "regional_latam": {
+        "crossref": 0.27104016761418726,
+        "openalex": 0.6246645541542625
+      }
+    }
+  },
+  {
+    "id": "references_count",
+    "label": "References Count",
+    "category": "accessible_essential",
+    "effort": "voluntary",
+    "comparable": true,
+    "avgCrossref": 0.635965572716179,
+    "avgOpenAlex": 0.7673985178819003,
+    "gap": 0.13143294516572124,
+    "byPublisherCategory": {
+      "global_commercial": {
+        "crossref": 0.7782222349902802,
+        "openalex": 0.782046756031405
+      },
+      "global_oa": {
+        "crossref": 0.9143015012510425,
+        "openalex": 0.9275056748545665
+      },
+      "regional_latam": {
+        "crossref": 0.27104016761418726,
+        "openalex": 0.6246645541542625
+      }
+    }
+  },
+  {
+    "id": "is_referenced_by",
+    "label": "Is Referenced By",
+    "category": "accessible_essential",
+    "effort": "automatic",
+    "comparable": true,
+    "avgCrossref": 0.6172260698223769,
+    "avgOpenAlex": 0.668882189819066,
+    "gap": 0.051656119996689065,
+    "byPublisherCategory": {
+      "global_commercial": {
+        "crossref": 0.6526433205057083,
+        "openalex": 0.6832729319736376
+      },
+      "global_oa": {
+        "crossref": 0.8640767827356131,
+        "openalex": 0.8763845591138607
+      },
+      "regional_latam": {
+        "crossref": 0.3843282488084566,
+        "openalex": 0.48848955222865903
+      }
+    }
+  },
+  {
+    "id": "author_sequence",
+    "label": "Author Sequence",
+    "category": "accessible_support",
+    "effort": "automatic",
+    "comparable": true,
+    "avgCrossref": 0.95819220191226,
+    "avgOpenAlex": 0.9635134718380948,
+    "gap": 0.005321269925834815,
+    "byPublisherCategory": {
+      "global_commercial": {
+        "crossref": 0.9242410695721898,
+        "openalex": 0.929286749748589
+      },
+      "global_oa": {
+        "crossref": 0.9531359466221851,
+        "openalex": 0.9635765340694677
+      },
+      "regional_latam": {
+        "crossref": 0.9961883384843897,
+        "openalex": 0.997689744142502
+      }
+    }
+  },
+  {
+    "id": "affiliation_ids_ror",
+    "label": "Affiliation IDs (ROR)",
+    "category": "accessible_support",
+    "effort": "voluntary",
+    "comparable": true,
+    "avgCrossref": 0.0003928055762331001,
+    "avgOpenAlex": 0.8688724518845087,
+    "gap": 0.8684796463082756,
+    "byPublisherCategory": {
+      "global_commercial": {
+        "crossref": 0.00017954545454545456,
+        "openalex": 0.851931633424825
+      },
+      "global_oa": {
+        "crossref": 0,
+        "openalex": 0.9273141761183347
+      },
+      "regional_latam": {
+        "crossref": 0.0009203101589072258,
+        "openalex": 0.8390598909571313
+      }
+    }
+  },
+  {
+    "id": "relations",
+    "label": "Relations",
+    "category": "accessible_support",
+    "effort": "voluntary",
+    "comparable": true,
+    "avgCrossref": 0.021743871717636674,
+    "avgOpenAlex": 0.9614978417494106,
+    "gap": 0.9397539700317739,
+    "byPublisherCategory": {
+      "global_commercial": {
+        "crossref": 0.010308732186228211,
+        "openalex": 0.968830124905325
+      },
+      "global_oa": {
+        "crossref": 0.043792613636363636,
+        "openalex": 0.9781590288514418
+      },
+      "regional_latam": {
+        "crossref": 0.015540017714063565,
+        "openalex": 0.9408366089118709
+      }
+    }
+  },
+  {
+    "id": "author_given_family",
+    "label": "Complete Author Names",
+    "category": "evaluation_coara",
+    "effort": "automatic",
+    "comparable": true,
+    "avgCrossref": 0.9154214374007384,
+    "avgOpenAlex": 0.963355960077456,
+    "gap": 0.047934522676717606,
+    "byPublisherCategory": {
+      "global_commercial": {
+        "crossref": 0.9155129069138646,
+        "openalex": 0.9289683181963128
+      },
+      "global_oa": {
+        "crossref": 0.9416953450792326,
+        "openalex": 0.963492393713633
+      },
+      "regional_latam": {
+        "crossref": 0.8943108417448175,
+        "openalex": 0.9976344550496579
+      }
+    }
+  },
+  {
+    "id": "affiliation_ror",
+    "label": "Affiliation with ROR",
+    "category": "evaluation_coara",
+    "effort": "voluntary",
+    "comparable": true,
+    "avgCrossref": 0.0003928055762331001,
+    "avgOpenAlex": 0.8688724518845087,
+    "gap": 0.8684796463082756,
+    "byPublisherCategory": {
+      "global_commercial": {
+        "crossref": 0.00017954545454545456,
+        "openalex": 0.851931633424825
+      },
+      "global_oa": {
+        "crossref": 0,
+        "openalex": 0.9273141761183347
+      },
+      "regional_latam": {
+        "crossref": 0.0009203101589072258,
+        "openalex": 0.8390598909571313
+      }
+    }
+  },
+  {
+    "id": "funding_complete",
+    "label": "Complete Funding Info",
+    "category": "evaluation_coara",
+    "effort": "voluntary",
+    "comparable": true,
+    "avgCrossref": 0.12852545903394308,
+    "avgOpenAlex": 0.1956064574973902,
+    "gap": 0.06708099846344712,
+    "byPublisherCategory": {
+      "global_commercial": {
+        "crossref": 0.17308406433702703,
+        "openalex": 0.19595637413049175
+      },
+      "global_oa": {
+        "crossref": 0.2315846278148457,
+        "openalex": 0.387162835079636
+      },
+      "regional_latam": {
+        "crossref": 0.00151951870613703,
+        "openalex": 0.042011438798492104
+      }
+    }
+  },
+  {
+    "id": "preprint_version_link",
+    "label": "Preprint / Version Link",
+    "category": "evaluation_coara",
+    "effort": "voluntary",
+    "comparable": true,
+    "avgCrossref": 0.008034905926509293,
+    "avgOpenAlex": 0.5154882851580943,
+    "gap": 0.5074533792315851,
+    "byPublisherCategory": {
+      "global_commercial": {
+        "crossref": 0.003275,
+        "openalex": 0.33233105176851324
+      },
+      "global_oa": {
+        "crossref": 0.023792613636363636,
+        "openalex": 0.8268826577653349
+      },
+      "regional_latam": {
+        "crossref": 0.0001886456851351134,
+        "openalex": 0.44953002046188306
+      }
+    }
+  },
+  {
+    "id": "open_access_status",
+    "label": "Open Access Status",
+    "category": "evaluation_coara",
+    "effort": "automatic",
+    "comparable": true,
+    "avgCrossref": 0.4555001031312827,
+    "avgOpenAlex": 0.7398142488164609,
+    "gap": 0.28431414568517815,
+    "byPublisherCategory": {
+      "global_commercial": {
+        "crossref": 0.20862228557043694,
+        "openalex": 0.3924682713921519
+      },
+      "global_oa": {
+        "crossref": 0.755848780233528,
+        "openalex": 0.8775452264087533
+      },
+      "regional_latam": {
+        "crossref": 0.46209897901033203,
+        "openalex": 0.9769754441669359
+      }
+    }
+  }
+]

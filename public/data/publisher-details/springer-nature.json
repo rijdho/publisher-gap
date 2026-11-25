@@ -1,0 +1,3738 @@
+{
+  "id": "springer-nature",
+  "label": "Springer Nature",
+  "memberId": 297,
+  "category": "global_commercial",
+  "categoryLabel": "Commercial Hybrid/Subscription",
+  "totalWorksSampled": 88000,
+  "totalWorksMatched": 87933,
+  "totalWorksUniverse": 88000,
+  "crossref": {
+    "overall": 0.5382570471763085,
+    "categories": {
+      "findable_essential": 0.6993172348484848,
+      "findable_support": 0.5946198347107438,
+      "accessible_essential": 0.7247007575757576,
+      "accessible_support": 0.29930303030303035,
+      "evaluation_coara": 0.14081704545454546
+    },
+    "fields": {
+      "title": 1,
+      "abstract": 0.1708409090909091,
+      "author": 0.9179318181818181,
+      "author_affiliation": 0.004295454545454546,
+      "doi": 1,
+      "publication_date": 1,
+      "publisher": 1,
+      "resource_type": 1,
+      "subject_keywords": 0,
+      "funder_name": 0.3033409090909091,
+      "container_title": 1,
+      "language": 0.9953977272727272,
+      "author_orcid": 0.35701136363636365,
+      "all_authors_orcid": 0.05951136363636363,
+      "funder_doi": 0.23277272727272727,
+      "award_number": 0.2399318181818182,
+      "issn": 1,
+      "volume": 0.9575568181818181,
+      "issue": 0.9569318181818182,
+      "page": 0.6849318181818181,
+      "published_print_date": 0.8144545454545454,
+      "published_online_date": 0.9650568181818182,
+      "article_number": 0.2726590909090909,
+      "license": 0.46870454545454543,
+      "license_url": 0.46870454545454543,
+      "open_access_license": 0.2565909090909091,
+      "full_text_links": 0.9904090909090909,
+      "resource_url": 1,
+      "references": 0.8898181818181818,
+      "references_count": 0.8898181818181818,
+      "is_referenced_by": 0.6860681818181819,
+      "update_policy": 0.8721931818181818,
+      "jats_abstract": 0.1708409090909091,
+      "author_sequence": 0.9178522727272728,
+      "affiliation_ids_ror": 0.0008863636363636364,
+      "relations": 0.01496590909090909,
+      "assertions": 0.6895568181818181,
+      "archive": 0.0017159090909090909,
+      "credit_roles": 0,
+      "author_given_family": 0.8991704545454545,
+      "affiliation_ror": 0.0008863636363636364,
+      "funding_complete": 0.19119318181818182,
+      "data_availability": 0,
+      "preprint_version_link": 0.005170454545454546,
+      "peer_review_info": 0.0007272727272727272,
+      "clinical_trial": 0.0010113636363636364,
+      "abstract_structured": 0.05342045454545455,
+      "open_access_status": 0.2565909090909091
+    }
+  },
+  "openalex": {
+    "overall": 0.6027458899779872,
+    "categories": {
+      "findable_essential": 0.8683088260380063,
+      "findable_support": 0.6906808179367968,
+      "accessible_essential": 0.5420402149616437,
+      "accessible_support": 0.456254572610207,
+      "evaluation_coara": 0.28757804237317053
+    },
+    "fields": {
+      "title": 1,
+      "abstract": 0.29719218041008494,
+      "author": 0.9202802133442507,
+      "author_affiliation": 0.8585627693812334,
+      "doi": 1,
+      "publication_date": 1,
+      "publisher": 0.9949620733967908,
+      "resource_type": 1,
+      "subject_keywords": 0.9999431385259231,
+      "funder_name": 0.3487655373977915,
+      "container_title": 1,
+      "language": 1,
+      "author_orcid": 0.8250486165603357,
+      "all_authors_orcid": 0.31926580464671966,
+      "funder_doi": 0.3487655373977915,
+      "award_number": 0.2492807023529278,
+      "issn": 1,
+      "volume": 0.983896830541435,
+      "issue": 0.9832713543265895,
+      "page": 0.8879601514789669,
+      "published_print_date": 1,
+      "published_online_date": 1,
+      "article_number": 0,
+      "license": 0.3367563940727599,
+      "license_url": 0.3367563940727599,
+      "open_access_license": 0.33053574880875214,
+      "full_text_links": 0.39730249166979403,
+      "resource_url": 1,
+      "references": 0.8832633937202188,
+      "references_count": 0.8832633937202188,
+      "is_referenced_by": 0.7104841185902904,
+      "update_policy": 0,
+      "jats_abstract": 0,
+      "author_sequence": 0.9202802133442507,
+      "affiliation_ids_ror": 0.8584717910227104,
+      "relations": 0.9587754312942809,
+      "assertions": 0,
+      "archive": 0,
+      "credit_roles": 0,
+      "author_given_family": 0.92025746875462,
+      "affiliation_ror": 0.8584717910227104,
+      "funding_complete": 0.2492807023529278,
+      "data_availability": 0,
+      "preprint_version_link": 0.4077763751947506,
+      "peer_review_info": 0,
+      "clinical_trial": 0,
+      "abstract_structured": 0,
+      "open_access_status": 0.439994086406696
+    }
+  },
+  "gap": 0.06448884280167866,
+  "comparable": {
+    "crossref": {
+      "categories": {
+        "findable_essential": 0.6993172348484848,
+        "findable_support": 0.6268159090909091,
+        "accessible_essential": 0.7062642045454545,
+        "accessible_support": 0.3112348484848485,
+        "evaluation_coara": 0.2706022727272727
+      },
+      "overall": 0.5656275473484849
+    },
+    "openalex": {
+      "categories": {
+        "findable_essential": 0.8683088260380063,
+        "findable_support": 0.7597488997304765,
+        "accessible_essential": 0.6097952418318492,
+        "accessible_support": 0.912509145220414,
+        "evaluation_coara": 0.5751560847463411
+      },
+      "overall": 0.7331859247002452
+    },
+    "gap": 0.16755837735176038,
+    "fieldCount": 38,
+    "totalFieldCount": 48
+  },
+  "voluntary": {
+    "crossref": {
+      "categories": {
+        "findable_essential": 0.11961931818181819,
+        "findable_support": 0.2223068181818182,
+        "accessible_essential": 0.6787424242424244,
+        "accessible_support": 0.007926136363636363,
+        "evaluation_coara": 0.06574999999999999
+      },
+      "overall": 0.2528600378787879
+    },
+    "openalex": {
+      "categories": {
+        "findable_essential": 0.6261159064287583,
+        "findable_support": 0.43559016523944366,
+        "accessible_essential": 0.6990208454163965,
+        "accessible_support": 0.9086236111584957,
+        "evaluation_coara": 0.5051762895234629
+      },
+      "overall": 0.6198261270891853
+    },
+    "gap": 0.36696608921039736,
+    "fieldCount": 16
+  },
+  "automatic": {
+    "crossref": {
+      "categories": {
+        "findable_essential": 0.9891661931818182,
+        "findable_support": 0.8964886363636363,
+        "accessible_essential": 0.7227772727272728,
+        "accessible_support": 0.9178522727272728,
+        "evaluation_coara": 0.5778806818181819
+      },
+      "overall": 0.8192788352272727
+    },
+    "openalex": {
+      "categories": {
+        "findable_essential": 0.9894052858426302,
+        "findable_support": 0.9758547227244986,
+        "accessible_essential": 0.5562598796811209,
+        "accessible_support": 0.9202802133442507,
+        "evaluation_coara": 0.680125777580658
+      },
+      "overall": 0.8103179409323007
+    },
+    "gap": -0.008960894294972044,
+    "fieldCount": 22
+  },
+  "yearlyScores": [
+    {
+      "year": 2015,
+      "count": 8000,
+      "matched": 8000,
+      "universeSize": 314706,
+      "crossref": {
+        "overall": 0.4954552904040404,
+        "categories": {
+          "findable_essential": 0.6734791666666666,
+          "findable_support": 0.5535454545454545,
+          "accessible_essential": 0.6688055555555557,
+          "accessible_support": 0.20520833333333335,
+          "evaluation_coara": 0.11328750000000001
+        },
+        "fields": {
+          "title": 1,
+          "abstract": 0.05225,
+          "author": 0.93,
+          "author_affiliation": 0.003875,
+          "doi": 1,
+          "publication_date": 1,
+          "publisher": 1,
+          "resource_type": 1,
+          "subject_keywords": 0,
+          "funder_name": 0.1025,
+          "container_title": 1,
+          "language": 0.993125,
+          "author_orcid": 0.03825,
+          "all_authors_orcid": 0.00375,
+          "funder_doi": 0.068,
+          "award_number": 0.08675,
+          "issn": 1,
+          "volume": 0.99225,
+          "issue": 0.98975,
+          "page": 0.777,
+          "published_print_date": 0.936125,
+          "published_online_date": 0.982125,
+          "article_number": 0.215,
+          "license": 0.2045,
+          "license_url": 0.2045,
+          "open_access_license": 0.161875,
+          "full_text_links": 0.980875,
+          "resource_url": 1,
+          "references": 0.890625,
+          "references_count": 0.890625,
+          "is_referenced_by": 0.785,
+          "update_policy": 0.90125,
+          "jats_abstract": 0.05225,
+          "author_sequence": 0.929625,
+          "affiliation_ids_ror": 0,
+          "relations": 0.010125,
+          "assertions": 0.2365,
+          "archive": 0.00275,
+          "credit_roles": 0,
+          "author_given_family": 0.903375,
+          "affiliation_ror": 0,
+          "funding_complete": 0.060875,
+          "data_availability": 0,
+          "preprint_version_link": 0.00075,
+          "peer_review_info": 0.00125,
+          "clinical_trial": 0,
+          "abstract_structured": 0.00475,
+          "open_access_status": 0.161875
+        }
+      },
+      "openalex": {
+        "overall": 0.5917066287878788,
+        "categories": {
+          "findable_essential": 0.8608125000000001,
+          "findable_support": 0.6808636363636363,
+          "accessible_essential": 0.5230833333333333,
+          "accessible_support": 0.46175000000000005,
+          "evaluation_coara": 0.2719375
+        },
+        "fields": {
+          "title": 1,
+          "abstract": 0.232,
+          "author": 0.934,
+          "author_affiliation": 0.8505,
+          "doi": 1,
+          "publication_date": 1,
+          "publisher": 0.996875,
+          "resource_type": 1,
+          "subject_keywords": 1,
+          "funder_name": 0.316375,
+          "container_title": 1,
+          "language": 1,
+          "author_orcid": 0.81175,
+          "all_authors_orcid": 0.2875,
+          "funder_doi": 0.316375,
+          "award_number": 0.166,
+          "issn": 1,
+          "volume": 0.992875,
+          "issue": 0.990375,
+          "page": 0.924625,
+          "published_print_date": 1,
+          "published_online_date": 1,
+          "article_number": 0,
+          "license": 0.27325,
+          "license_url": 0.27325,
+          "open_access_license": 0.26225,
+          "full_text_links": 0.345625,
+          "resource_url": 1,
+          "references": 0.875125,
+          "references_count": 0.875125,
+          "is_referenced_by": 0.803125,
+          "update_policy": 0,
+          "jats_abstract": 0,
+          "author_sequence": 0.934,
+          "affiliation_ids_ror": 0.850375,
+          "relations": 0.986125,
+          "assertions": 0,
+          "archive": 0,
+          "credit_roles": 0,
+          "author_given_family": 0.934,
+          "affiliation_ror": 0.850375,
+          "funding_complete": 0.166,
+          "data_availability": 0,
+          "preprint_version_link": 0.378125,
+          "peer_review_info": 0,
+          "clinical_trial": 0,
+          "abstract_structured": 0,
+          "open_access_status": 0.390875
+        }
+      },
+      "comparable": {
+        "crossref": {
+          "categories": {
+            "findable_essential": 0.6734791666666666,
+            "findable_support": 0.5873999999999999,
+            "accessible_essential": 0.63975,
+            "accessible_support": 0.31325000000000003,
+            "evaluation_coara": 0.22537500000000002
+          },
+          "overall": 0.52649125
+        },
+        "openalex": {
+          "categories": {
+            "findable_essential": 0.8608125000000001,
+            "findable_support": 0.74895,
+            "accessible_essential": 0.58846875,
+            "accessible_support": 0.9235000000000001,
+            "evaluation_coara": 0.543875
+          },
+          "overall": 0.7188284375
+        },
+        "gap": 0.19233718750000006
+      },
+      "voluntary": {
+        "crossref": 0.18581666666666666,
+        "openalex": 0.5917265625
+      }
+    },
+    {
+      "year": 2016,
+      "count": 8000,
+      "matched": 7999,
+      "universeSize": 327111,
+      "crossref": {
+        "overall": 0.5089144318181817,
+        "categories": {
+          "findable_essential": 0.6909999999999998,
+          "findable_support": 0.5805795454545455,
+          "accessible_essential": 0.67425,
+          "accessible_support": 0.21087500000000003,
+          "evaluation_coara": 0.12438749999999998
+        },
+        "fields": {
+          "title": 1,
+          "abstract": 0.08775,
+          "author": 0.9375,
+          "author_affiliation": 0.003625,
+          "doi": 1,
+          "publication_date": 1,
+          "publisher": 1,
+          "resource_type": 1,
+          "subject_keywords": 0,
+          "funder_name": 0.271125,
+          "container_title": 1,
+          "language": 0.992,
+          "author_orcid": 0.103125,
+          "all_authors_orcid": 0.012125,
+          "funder_doi": 0.186375,
+          "award_number": 0.21775,
+          "issn": 1,
+          "volume": 0.992,
+          "issue": 0.991875,
+          "page": 0.75125,
+          "published_print_date": 0.906125,
+          "published_online_date": 0.985875,
+          "article_number": 0.239875,
+          "license": 0.202125,
+          "license_url": 0.202125,
+          "open_access_license": 0.167125,
+          "full_text_links": 0.984875,
+          "resource_url": 1,
+          "references": 0.900875,
+          "references_count": 0.900875,
+          "is_referenced_by": 0.7995,
+          "update_policy": 0.91075,
+          "jats_abstract": 0.08775,
+          "author_sequence": 0.937,
+          "affiliation_ids_ror": 0,
+          "relations": 0.013875,
+          "assertions": 0.225125,
+          "archive": 0.0015,
+          "credit_roles": 0,
+          "author_given_family": 0.911,
+          "affiliation_ror": 0,
+          "funding_complete": 0.159,
+          "data_availability": 0,
+          "preprint_version_link": 0.001125,
+          "peer_review_info": 0.001375,
+          "clinical_trial": 0.0005,
+          "abstract_structured": 0.00375,
+          "open_access_status": 0.167125
+        }
+      },
+      "openalex": {
+        "overall": 0.6027805117053773,
+        "categories": {
+          "findable_essential": 0.8689627870150435,
+          "findable_support": 0.698678243871393,
+          "accessible_essential": 0.535761414621272,
+          "accessible_support": 0.4628495228570238,
+          "evaluation_coara": 0.2853231653956744
+        },
+        "fields": {
+          "title": 1,
+          "abstract": 0.2526565820727591,
+          "author": 0.9391173896737092,
+          "author_affiliation": 0.852356544568071,
+          "doi": 1,
+          "publication_date": 1,
+          "publisher": 0.9979997499687461,
+          "resource_type": 1,
+          "subject_keywords": 1,
+          "funder_name": 0.3854231778972372,
+          "container_title": 1,
+          "language": 1,
+          "author_orcid": 0.8208526065758219,
+          "all_authors_orcid": 0.3045380672584073,
+          "funder_doi": 0.3854231778972372,
+          "award_number": 0.25565695711964,
+          "issn": 1,
+          "volume": 0.9938742342792849,
+          "issue": 0.9937492186523316,
+          "page": 0.9313664208026003,
+          "published_print_date": 1,
+          "published_online_date": 1,
+          "article_number": 0,
+          "license": 0.29141142642830353,
+          "license_url": 0.29141142642830353,
+          "open_access_license": 0.2830353794224278,
+          "full_text_links": 0.3614201775221903,
+          "resource_url": 1,
+          "references": 0.8891111388923616,
+          "references_count": 0.8891111388923616,
+          "is_referenced_by": 0.8163520440055007,
+          "update_policy": 0,
+          "jats_abstract": 0,
+          "author_sequence": 0.9391173896737092,
+          "affiliation_ids_ror": 0.852356544568071,
+          "relations": 0.9856232029003625,
+          "assertions": 0,
+          "archive": 0,
+          "credit_roles": 0,
+          "author_given_family": 0.9391173896737092,
+          "affiliation_ror": 0.852356544568071,
+          "funding_complete": 0.25565695711964,
+          "data_availability": 0,
+          "preprint_version_link": 0.3951743967995999,
+          "peer_review_info": 0,
+          "clinical_trial": 0,
+          "abstract_structured": 0,
+          "open_access_status": 0.41092636579572445
+        }
+      },
+      "comparable": {
+        "crossref": {
+          "categories": {
+            "findable_essential": 0.6909999999999998,
+            "findable_support": 0.61465,
+            "accessible_essential": 0.6446875,
+            "accessible_support": 0.31695833333333334,
+            "evaluation_coara": 0.24765
+          },
+          "overall": 0.5418952083333333
+        },
+        "openalex": {
+          "categories": {
+            "findable_essential": 0.8689627870150435,
+            "findable_support": 0.7685460682585323,
+            "accessible_essential": 0.6027315914489311,
+            "accessible_support": 0.9256990457140476,
+            "evaluation_coara": 0.5706463307913489
+          },
+          "overall": 0.7333528149352002
+        },
+        "gap": 0.19145760660186695
+      },
+      "voluntary": {
+        "crossref": 0.22210572916666665,
+        "openalex": 0.6169083635454433
+      }
+    },
+    {
+      "year": 2017,
+      "count": 8000,
+      "matched": 8000,
+      "universeSize": 342005,
+      "crossref": {
+        "overall": 0.5101569696969697,
+        "categories": {
+          "findable_essential": 0.6903541666666667,
+          "findable_support": 0.5929659090909091,
+          "accessible_essential": 0.6718333333333333,
+          "accessible_support": 0.21350000000000002,
+          "evaluation_coara": 0.1239875
+        },
+        "fields": {
+          "title": 1,
+          "abstract": 0.08775,
+          "author": 0.922375,
+          "author_affiliation": 0.005625,
+          "doi": 1,
+          "publication_date": 1,
+          "publisher": 1,
+          "resource_type": 1,
+          "subject_keywords": 0,
+          "funder_name": 0.274,
+          "container_title": 1,
+          "language": 0.9945,
+          "author_orcid": 0.238875,
+          "all_authors_orcid": 0.021125,
+          "funder_doi": 0.19725,
+          "award_number": 0.219375,
+          "issn": 1,
+          "volume": 0.989,
+          "issue": 0.985375,
+          "page": 0.746625,
+          "published_print_date": 0.902875,
+          "published_online_date": 0.9815,
+          "article_number": 0.240625,
+          "license": 0.210125,
+          "license_url": 0.210125,
+          "open_access_license": 0.17575,
+          "full_text_links": 0.985625,
+          "resource_url": 1,
+          "references": 0.89375,
+          "references_count": 0.89375,
+          "is_referenced_by": 0.784,
+          "update_policy": 0.893375,
+          "jats_abstract": 0.08775,
+          "author_sequence": 0.922375,
+          "affiliation_ids_ror": 0,
+          "relations": 0.014,
+          "assertions": 0.25425,
+          "archive": 0.002625,
+          "credit_roles": 0,
+          "author_given_family": 0.89525,
+          "affiliation_ror": 0,
+          "funding_complete": 0.16275,
+          "data_availability": 0,
+          "preprint_version_link": 0.003,
+          "peer_review_info": 0.001375,
+          "clinical_trial": 0.000625,
+          "abstract_structured": 0.001125,
+          "open_access_status": 0.17575
+        }
+      },
+      "openalex": {
+        "overall": 0.5999837626262626,
+        "categories": {
+          "findable_essential": 0.8668333333333332,
+          "findable_support": 0.6992954545454545,
+          "accessible_essential": 0.5318611111111111,
+          "accessible_support": 0.4585416666666667,
+          "evaluation_coara": 0.2811
+        },
+        "fields": {
+          "title": 1,
+          "abstract": 0.256,
+          "author": 0.924375,
+          "author_affiliation": 0.838875,
+          "doi": 1,
+          "publication_date": 1,
+          "publisher": 0.9985,
+          "resource_type": 1,
+          "subject_keywords": 1,
+          "funder_name": 0.38425,
+          "container_title": 1,
+          "language": 1,
+          "author_orcid": 0.816,
+          "all_authors_orcid": 0.32275,
+          "funder_doi": 0.38425,
+          "award_number": 0.25375,
+          "issn": 1,
+          "volume": 0.99425,
+          "issue": 0.990625,
+          "page": 0.930625,
+          "published_print_date": 1,
+          "published_online_date": 1,
+          "article_number": 0,
+          "license": 0.297375,
+          "license_url": 0.297375,
+          "open_access_license": 0.288375,
+          "full_text_links": 0.341,
+          "resource_url": 1,
+          "references": 0.8825,
+          "references_count": 0.8825,
+          "is_referenced_by": 0.797625,
+          "update_policy": 0,
+          "jats_abstract": 0,
+          "author_sequence": 0.924375,
+          "affiliation_ids_ror": 0.83875,
+          "relations": 0.988125,
+          "assertions": 0,
+          "archive": 0,
+          "credit_roles": 0,
+          "author_given_family": 0.92425,
+          "affiliation_ror": 0.83875,
+          "funding_complete": 0.25375,
+          "data_availability": 0,
+          "preprint_version_link": 0.3965,
+          "peer_review_info": 0,
+          "clinical_trial": 0,
+          "abstract_structured": 0,
+          "open_access_status": 0.39775
+        }
+      },
+      "comparable": {
+        "crossref": {
+          "categories": {
+            "findable_essential": 0.6903541666666667,
+            "findable_support": 0.6282,
+            "accessible_essential": 0.6441406249999999,
+            "accessible_support": 0.312125,
+            "evaluation_coara": 0.24735000000000001
+          },
+          "overall": 0.5430539062499999
+        },
+        "openalex": {
+          "categories": {
+            "findable_essential": 0.8668333333333332,
+            "findable_support": 0.7692249999999999,
+            "accessible_essential": 0.59834375,
+            "accessible_support": 0.9170833333333334,
+            "evaluation_coara": 0.5622
+          },
+          "overall": 0.7291680208333332
+        },
+        "gap": 0.18611411458333327
+      },
+      "voluntary": {
+        "crossref": 0.2282807291666667,
+        "openalex": 0.6142874999999999
+      }
+    },
+    {
+      "year": 2018,
+      "count": 8000,
+      "matched": 8000,
+      "universeSize": 351933,
+      "crossref": {
+        "overall": 0.5298585353535353,
+        "categories": {
+          "findable_essential": 0.6920208333333333,
+          "findable_support": 0.6136022727272726,
+          "accessible_essential": 0.6886527777777779,
+          "accessible_support": 0.3138125,
+          "evaluation_coara": 0.13333750000000003
+        },
+        "fields": {
+          "title": 1,
+          "abstract": 0.080875,
+          "author": 0.921625,
+          "author_affiliation": 0.0045,
+          "doi": 1,
+          "publication_date": 1,
+          "publisher": 1,
+          "resource_type": 1,
+          "subject_keywords": 0,
+          "funder_name": 0.3035,
+          "container_title": 1,
+          "language": 0.99375,
+          "author_orcid": 0.3575,
+          "all_authors_orcid": 0.037125,
+          "funder_doi": 0.232,
+          "award_number": 0.251,
+          "issn": 1,
+          "volume": 0.99,
+          "issue": 0.989875,
+          "page": 0.753,
+          "published_print_date": 0.920875,
+          "published_online_date": 0.98075,
+          "article_number": 0.2375,
+          "license": 0.269,
+          "license_url": 0.269,
+          "open_access_license": 0.231,
+          "full_text_links": 0.9895,
+          "resource_url": 1,
+          "references": 0.88625,
+          "references_count": 0.88625,
+          "is_referenced_by": 0.781875,
+          "update_policy": 0.885,
+          "jats_abstract": 0.080875,
+          "author_sequence": 0.921625,
+          "affiliation_ids_ror": 0,
+          "relations": 0.0125,
+          "assertions": 0.866,
+          "archive": 0.001875,
+          "credit_roles": 0,
+          "author_given_family": 0.893875,
+          "affiliation_ror": 0,
+          "funding_complete": 0.201125,
+          "data_availability": 0,
+          "preprint_version_link": 0.00275,
+          "peer_review_info": 0.000625,
+          "clinical_trial": 0.00125,
+          "abstract_structured": 0.00275,
+          "open_access_status": 0.231
+        }
+      },
+      "openalex": {
+        "overall": 0.6002436679292931,
+        "categories": {
+          "findable_essential": 0.86715625,
+          "findable_support": 0.7015795454545454,
+          "accessible_essential": 0.5286944444444445,
+          "accessible_support": 0.45993750000000005,
+          "evaluation_coara": 0.2834625
+        },
+        "fields": {
+          "title": 1,
+          "abstract": 0.252625,
+          "author": 0.924125,
+          "author_affiliation": 0.851,
+          "doi": 1,
+          "publication_date": 1,
+          "publisher": 0.998,
+          "resource_type": 1,
+          "subject_keywords": 1,
+          "funder_name": 0.380125,
+          "container_title": 1,
+          "language": 1,
+          "author_orcid": 0.819125,
+          "all_authors_orcid": 0.32975,
+          "funder_doi": 0.380125,
+          "award_number": 0.267,
+          "issn": 1,
+          "volume": 0.996375,
+          "issue": 0.99625,
+          "page": 0.92875,
+          "published_print_date": 1,
+          "published_online_date": 1,
+          "article_number": 0,
+          "license": 0.289125,
+          "license_url": 0.289125,
+          "open_access_license": 0.2825,
+          "full_text_links": 0.351,
+          "resource_url": 1,
+          "references": 0.87575,
+          "references_count": 0.87575,
+          "is_referenced_by": 0.795,
+          "update_policy": 0,
+          "jats_abstract": 0,
+          "author_sequence": 0.924125,
+          "affiliation_ids_ror": 0.851,
+          "relations": 0.9845,
+          "assertions": 0,
+          "archive": 0,
+          "credit_roles": 0,
+          "author_given_family": 0.924125,
+          "affiliation_ror": 0.851,
+          "funding_complete": 0.267,
+          "data_availability": 0,
+          "preprint_version_link": 0.397125,
+          "peer_review_info": 0,
+          "clinical_trial": 0,
+          "abstract_structured": 0,
+          "open_access_status": 0.395375
+        }
+      },
+      "comparable": {
+        "crossref": {
+          "categories": {
+            "findable_essential": 0.6920208333333333,
+            "findable_support": 0.6512125,
+            "accessible_essential": 0.6641093750000001,
+            "accessible_support": 0.311375,
+            "evaluation_coara": 0.26575000000000004
+          },
+          "overall": 0.55560296875
+        },
+        "openalex": {
+          "categories": {
+            "findable_essential": 0.86715625,
+            "findable_support": 0.7717375,
+            "accessible_essential": 0.59478125,
+            "accessible_support": 0.9198750000000001,
+            "evaluation_coara": 0.566925
+          },
+          "overall": 0.7299753124999999
+        },
+        "gap": 0.17437234374999988
+      },
+      "voluntary": {
+        "crossref": 0.24325156249999996,
+        "openalex": 0.6159145833333334
+      }
+    },
+    {
+      "year": 2019,
+      "count": 8000,
+      "matched": 7995,
+      "universeSize": 368703,
+      "crossref": {
+        "overall": 0.5403963320707071,
+        "categories": {
+          "findable_essential": 0.6991145833333334,
+          "findable_support": 0.6282954545454547,
+          "accessible_essential": 0.6985972222222222,
+          "accessible_support": 0.32958333333333334,
+          "evaluation_coara": 0.14405
+        },
+        "fields": {
+          "title": 1,
+          "abstract": 0.14575,
+          "author": 0.91825,
+          "author_affiliation": 0.00375,
+          "doi": 1,
+          "publication_date": 1,
+          "publisher": 1,
+          "resource_type": 1,
+          "subject_keywords": 0,
+          "funder_name": 0.326125,
+          "container_title": 1,
+          "language": 0.9955,
+          "author_orcid": 0.466375,
+          "all_authors_orcid": 0.05,
+          "funder_doi": 0.2685,
+          "award_number": 0.283125,
+          "issn": 1,
+          "volume": 0.984625,
+          "issue": 0.98425,
+          "page": 0.719,
+          "published_print_date": 0.90425,
+          "published_online_date": 0.984875,
+          "article_number": 0.26625,
+          "license": 0.295875,
+          "license_url": 0.295875,
+          "open_access_license": 0.258375,
+          "full_text_links": 0.99125,
+          "resource_url": 1,
+          "references": 0.884875,
+          "references_count": 0.884875,
+          "is_referenced_by": 0.785875,
+          "update_policy": 0.890375,
+          "jats_abstract": 0.14575,
+          "author_sequence": 0.91825,
+          "affiliation_ids_ror": 0,
+          "relations": 0.021375,
+          "assertions": 0.889875,
+          "archive": 0.00225,
+          "credit_roles": 0,
+          "author_given_family": 0.89675,
+          "affiliation_ror": 0,
+          "funding_complete": 0.23975,
+          "data_availability": 0,
+          "preprint_version_link": 0.01025,
+          "peer_review_info": 0.000375,
+          "clinical_trial": 0.000875,
+          "abstract_structured": 0.034125,
+          "open_access_status": 0.258375
+        }
+      },
+      "openalex": {
+        "overall": 0.6047072286340579,
+        "categories": {
+          "findable_essential": 0.8695955805711902,
+          "findable_support": 0.7052475979305247,
+          "accessible_essential": 0.5363491070808144,
+          "accessible_support": 0.4608296852199291,
+          "evaluation_coara": 0.28935584740462794
+        },
+        "fields": {
+          "title": 1,
+          "abstract": 0.26604127579737336,
+          "author": 0.9210756722951845,
+          "author_affiliation": 0.8594121325828643,
+          "doi": 1,
+          "publication_date": 1,
+          "publisher": 0.9983739837398374,
+          "resource_type": 1,
+          "subject_keywords": 1,
+          "funder_name": 0.3902439024390244,
+          "container_title": 1,
+          "language": 1,
+          "author_orcid": 0.83364602876798,
+          "all_authors_orcid": 0.3395872420262664,
+          "funder_doi": 0.3902439024390244,
+          "award_number": 0.2968105065666041,
+          "issn": 1,
+          "volume": 0.9929956222639149,
+          "issue": 0.992620387742339,
+          "page": 0.9118198874296435,
+          "published_print_date": 1,
+          "published_online_date": 1,
+          "article_number": 0,
+          "license": 0.30331457160725456,
+          "license_url": 0.30331457160725456,
+          "open_access_license": 0.2973108192620388,
+          "full_text_links": 0.3599749843652283,
+          "resource_url": 1,
+          "references": 0.8811757348342715,
+          "references_count": 0.8811757348342715,
+          "is_referenced_by": 0.8008755472170106,
+          "update_policy": 0,
+          "jats_abstract": 0,
+          "author_sequence": 0.9210756722951845,
+          "affiliation_ids_ror": 0.8594121325828643,
+          "relations": 0.9844903064415259,
+          "assertions": 0,
+          "archive": 0,
+          "credit_roles": 0,
+          "author_given_family": 0.9210756722951845,
+          "affiliation_ror": 0.8594121325828643,
+          "funding_complete": 0.2968105065666041,
+          "data_availability": 0,
+          "preprint_version_link": 0.4035021888680425,
+          "peer_review_info": 0,
+          "clinical_trial": 0,
+          "abstract_structured": 0,
+          "open_access_status": 0.41275797373358347
+        }
+      },
+      "comparable": {
+        "crossref": {
+          "categories": {
+            "findable_essential": 0.6991145833333334,
+            "findable_support": 0.6645000000000001,
+            "accessible_essential": 0.674625,
+            "accessible_support": 0.31320833333333337,
+            "evaluation_coara": 0.281025
+          },
+          "overall": 0.5655914583333335
+        },
+        "openalex": {
+          "categories": {
+            "findable_essential": 0.8695955805711902,
+            "findable_support": 0.7757723577235772,
+            "accessible_essential": 0.6033927454659163,
+            "accessible_support": 0.9216593704398582,
+            "evaluation_coara": 0.5787116948092559
+          },
+          "overall": 0.7360009902022097
+        },
+        "gap": 0.1704095318688762
+      },
+      "voluntary": {
+        "crossref": 0.2624677083333334,
+        "openalex": 0.6262533875338754
+      }
+    },
+    {
+      "year": 2020,
+      "count": 8000,
+      "matched": 7999,
+      "universeSize": 400624,
+      "crossref": {
+        "overall": 0.5478714204545454,
+        "categories": {
+          "findable_essential": 0.70928125,
+          "findable_support": 0.6279886363636363,
+          "accessible_essential": 0.702,
+          "accessible_support": 0.34956249999999994,
+          "evaluation_coara": 0.1521625
+        },
+        "fields": {
+          "title": 1,
+          "abstract": 0.252875,
+          "author": 0.923875,
+          "author_affiliation": 0.004125,
+          "doi": 1,
+          "publication_date": 1,
+          "publisher": 1,
+          "resource_type": 1,
+          "subject_keywords": 0,
+          "funder_name": 0.3355,
+          "container_title": 1,
+          "language": 0.995,
+          "author_orcid": 0.47775,
+          "all_authors_orcid": 0.064,
+          "funder_doi": 0.27375,
+          "award_number": 0.271375,
+          "issn": 1,
+          "volume": 0.97725,
+          "issue": 0.977125,
+          "page": 0.721875,
+          "published_print_date": 0.91375,
+          "published_online_date": 0.97625,
+          "article_number": 0.25475,
+          "license": 0.307375,
+          "license_url": 0.307375,
+          "open_access_license": 0.265625,
+          "full_text_links": 0.99125,
+          "resource_url": 1,
+          "references": 0.885625,
+          "references_count": 0.885625,
+          "is_referenced_by": 0.78375,
+          "update_policy": 0.891375,
+          "jats_abstract": 0.252875,
+          "author_sequence": 0.923875,
+          "affiliation_ids_ror": 0,
+          "relations": 0.02725,
+          "assertions": 0.891375,
+          "archive": 0.002,
+          "credit_roles": 0,
+          "author_given_family": 0.908625,
+          "affiliation_ror": 0,
+          "funding_complete": 0.23075,
+          "data_availability": 0,
+          "preprint_version_link": 0.017625,
+          "peer_review_info": 0.000875,
+          "clinical_trial": 0.000625,
+          "abstract_structured": 0.0975,
+          "open_access_status": 0.265625
+        }
+      },
+      "openalex": {
+        "overall": 0.6093342223333471,
+        "categories": {
+          "findable_essential": 0.8697545526524149,
+          "findable_support": 0.7025878234779347,
+          "accessible_essential": 0.5479990554374853,
+          "accessible_support": 0.4657248822769513,
+          "evaluation_coara": 0.29723715464433054
+        },
+        "fields": {
+          "title": 1,
+          "abstract": 0.28153519189898735,
+          "author": 0.9271158894861857,
+          "author_affiliation": 0.8812351543942993,
+          "doi": 1,
+          "publication_date": 1,
+          "publisher": 0.9984998124765596,
+          "resource_type": 1,
+          "subject_keywords": 1,
+          "funder_name": 0.3486685835729466,
+          "container_title": 1,
+          "language": 1,
+          "author_orcid": 0.8498562320290036,
+          "all_authors_orcid": 0.3556694586823353,
+          "funder_doi": 0.3486685835729466,
+          "award_number": 0.28028503562945367,
+          "issn": 1,
+          "volume": 0.9944993124140518,
+          "issue": 0.9943742967870984,
+          "page": 0.9051131391423928,
+          "published_print_date": 1,
+          "published_online_date": 1,
+          "article_number": 0,
+          "license": 0.32091511438929865,
+          "license_url": 0.32091511438929865,
+          "open_access_license": 0.3124140517564696,
+          "full_text_links": 0.39754969371171395,
+          "resource_url": 1,
+          "references": 0.8892361545193149,
+          "references_count": 0.8892361545193149,
+          "is_referenced_by": 0.8017252156519565,
+          "update_policy": 0,
+          "jats_abstract": 0,
+          "author_sequence": 0.9271158894861857,
+          "affiliation_ids_ror": 0.8811101387673459,
+          "relations": 0.9861232654081761,
+          "assertions": 0,
+          "archive": 0,
+          "credit_roles": 0,
+          "author_given_family": 0.9271158894861857,
+          "affiliation_ror": 0.8811101387673459,
+          "funding_complete": 0.28028503562945367,
+          "data_availability": 0,
+          "preprint_version_link": 0.43117889736217024,
+          "peer_review_info": 0,
+          "clinical_trial": 0,
+          "abstract_structured": 0,
+          "open_access_status": 0.45268158519814977
+        }
+      },
+      "comparable": {
+        "crossref": {
+          "categories": {
+            "findable_essential": 0.70928125,
+            "findable_support": 0.6653125,
+            "accessible_essential": 0.678328125,
+            "accessible_support": 0.31704166666666667,
+            "evaluation_coara": 0.28452500000000003
+          },
+          "overall": 0.5707724479166666
+        },
+        "openalex": {
+          "categories": {
+            "findable_essential": 0.8697545526524149,
+            "findable_support": 0.7728466058257282,
+            "accessible_essential": 0.616498937367171,
+            "accessible_support": 0.9314497645539026,
+            "evaluation_coara": 0.5944743092886611
+          },
+          "overall": 0.7430179293244988
+        },
+        "gap": 0.17224548140783225
+      },
+      "voluntary": {
+        "crossref": 0.27285572916666667,
+        "openalex": 0.6309246989206985
+      }
+    },
+    {
+      "year": 2021,
+      "count": 8000,
+      "matched": 7999,
+      "universeSize": 448675,
+      "crossref": {
+        "overall": 0.5471049747474748,
+        "categories": {
+          "findable_essential": 0.707375,
+          "findable_support": 0.6259090909090909,
+          "accessible_essential": 0.7091944444444445,
+          "accessible_support": 0.3398750000000001,
+          "evaluation_coara": 0.1486
+        },
+        "fields": {
+          "title": 1,
+          "abstract": 0.24875,
+          "author": 0.911375,
+          "author_affiliation": 0.00375,
+          "doi": 1,
+          "publication_date": 1,
+          "publisher": 1,
+          "resource_type": 1,
+          "subject_keywords": 0,
+          "funder_name": 0.32725,
+          "container_title": 1,
+          "language": 0.997375,
+          "author_orcid": 0.522125,
+          "all_authors_orcid": 0.08825,
+          "funder_doi": 0.260625,
+          "award_number": 0.249,
+          "issn": 1,
+          "volume": 0.964,
+          "issue": 0.964,
+          "page": 0.7115,
+          "published_print_date": 0.9055,
+          "published_online_date": 0.96725,
+          "article_number": 0.25275,
+          "license": 0.3655,
+          "license_url": 0.3655,
+          "open_access_license": 0.274,
+          "full_text_links": 0.993,
+          "resource_url": 1,
+          "references": 0.88725,
+          "references_count": 0.88725,
+          "is_referenced_by": 0.742375,
+          "update_policy": 0.867875,
+          "jats_abstract": 0.24875,
+          "author_sequence": 0.911375,
+          "affiliation_ids_ror": 0,
+          "relations": 0.009625,
+          "assertions": 0.867875,
+          "archive": 0.001625,
+          "credit_roles": 0,
+          "author_given_family": 0.9005,
+          "affiliation_ror": 0,
+          "funding_complete": 0.20675,
+          "data_availability": 0,
+          "preprint_version_link": 0.004625,
+          "peer_review_info": 0.000625,
+          "clinical_trial": 0.001625,
+          "abstract_structured": 0.097875,
+          "open_access_status": 0.274
+        }
+      },
+      "openalex": {
+        "overall": 0.6063118432733385,
+        "categories": {
+          "findable_essential": 0.8670354627661792,
+          "findable_support": 0.6947572992078556,
+          "accessible_essential": 0.5478462585600978,
+          "accessible_support": 0.4616618744009668,
+          "evaluation_coara": 0.29429928741092637
+        },
+        "fields": {
+          "title": 1,
+          "abstract": 0.29466183272909113,
+          "author": 0.9141142642830353,
+          "author_affiliation": 0.8676084510563821,
+          "doi": 1,
+          "publication_date": 1,
+          "publisher": 0.9992499062382798,
+          "resource_type": 1,
+          "subject_keywords": 1,
+          "funder_name": 0.3287910988873609,
+          "container_title": 1,
+          "language": 1,
+          "author_orcid": 0.8321040130016252,
+          "all_authors_orcid": 0.35504438054756843,
+          "funder_doi": 0.3287910988873609,
+          "award_number": 0.25365670708838606,
+          "issn": 1,
+          "volume": 0.9909988748593574,
+          "issue": 0.9909988748593574,
+          "page": 0.8907363420427553,
+          "published_print_date": 1,
+          "published_online_date": 1,
+          "article_number": 0,
+          "license": 0.33316664583072886,
+          "license_url": 0.33316664583072886,
+          "open_access_license": 0.3257907238404801,
+          "full_text_links": 0.41055131891486435,
+          "resource_url": 1,
+          "references": 0.88386048256032,
+          "references_count": 0.88386048256032,
+          "is_referenced_by": 0.760220027503438,
+          "update_policy": 0,
+          "jats_abstract": 0,
+          "author_sequence": 0.9141142642830353,
+          "affiliation_ids_ror": 0.8676084510563821,
+          "relations": 0.9882485310663833,
+          "assertions": 0,
+          "archive": 0,
+          "credit_roles": 0,
+          "author_given_family": 0.9141142642830353,
+          "affiliation_ror": 0.8676084510563821,
+          "funding_complete": 0.25365670708838606,
+          "data_availability": 0,
+          "preprint_version_link": 0.4420552569071134,
+          "peer_review_info": 0,
+          "clinical_trial": 0,
+          "abstract_structured": 0,
+          "open_access_status": 0.4655581947743468
+        }
+      },
+      "comparable": {
+        "crossref": {
+          "categories": {
+            "findable_essential": 0.707375,
+            "findable_support": 0.663225,
+            "accessible_essential": 0.689359375,
+            "accessible_support": 0.307,
+            "evaluation_coara": 0.27717500000000006
+          },
+          "overall": 0.57017109375
+        },
+        "openalex": {
+          "categories": {
+            "findable_essential": 0.8670354627661792,
+            "findable_support": 0.7642330291286411,
+            "accessible_essential": 0.61632704088011,
+            "accessible_support": 0.9233237488019336,
+            "evaluation_coara": 0.5885985748218527
+          },
+          "overall": 0.7388794432637413
+        },
+        "gap": 0.16870834951374136
+      },
+      "voluntary": {
+        "crossref": 0.27076249999999996,
+        "openalex": 0.6246629787056716
+      }
+    },
+    {
+      "year": 2022,
+      "count": 8000,
+      "matched": 8000,
+      "universeSize": 457300,
+      "crossref": {
+        "overall": 0.5480646527777777,
+        "categories": {
+          "findable_essential": 0.70603125,
+          "findable_support": 0.61175,
+          "accessible_essential": 0.7266111111111111,
+          "accessible_support": 0.33225,
+          "evaluation_coara": 0.14807499999999998
+        },
+        "fields": {
+          "title": 1,
+          "abstract": 0.24225,
+          "author": 0.896,
+          "author_affiliation": 0.002625,
+          "doi": 1,
+          "publication_date": 1,
+          "publisher": 1,
+          "resource_type": 1,
+          "subject_keywords": 0,
+          "funder_name": 0.336875,
+          "container_title": 1,
+          "language": 0.994625,
+          "author_orcid": 0.49125,
+          "all_authors_orcid": 0.089375,
+          "funder_doi": 0.272,
+          "award_number": 0.26225,
+          "issn": 1,
+          "volume": 0.952875,
+          "issue": 0.952875,
+          "page": 0.702375,
+          "published_print_date": 0.800125,
+          "published_online_date": 0.955375,
+          "article_number": 0.25075,
+          "license": 0.499875,
+          "license_url": 0.499875,
+          "open_access_license": 0.27275,
+          "full_text_links": 0.990125,
+          "resource_url": 1,
+          "references": 0.87375,
+          "references_count": 0.87375,
+          "is_referenced_by": 0.685875,
+          "update_policy": 0.8435,
+          "jats_abstract": 0.24225,
+          "author_sequence": 0.896,
+          "affiliation_ids_ror": 0,
+          "relations": 0.010375,
+          "assertions": 0.8435,
+          "archive": 0.001375,
+          "credit_roles": 0,
+          "author_given_family": 0.88325,
+          "affiliation_ror": 0,
+          "funding_complete": 0.221,
+          "data_availability": 0,
+          "preprint_version_link": 0.00175,
+          "peer_review_info": 0.000375,
+          "clinical_trial": 0.001375,
+          "abstract_structured": 0.10025,
+          "open_access_status": 0.27275
+        }
+      },
+      "openalex": {
+        "overall": 0.6009134659090909,
+        "categories": {
+          "findable_essential": 0.86421875,
+          "findable_support": 0.6922272727272727,
+          "accessible_essential": 0.5406666666666666,
+          "accessible_support": 0.4550208333333334,
+          "evaluation_coara": 0.28572499999999995
+        },
+        "fields": {
+          "title": 1,
+          "abstract": 0.2915,
+          "author": 0.899,
+          "author_affiliation": 0.84275,
+          "doi": 1,
+          "publication_date": 1,
+          "publisher": 0.99775,
+          "resource_type": 1,
+          "subject_keywords": 1,
+          "funder_name": 0.339625,
+          "container_title": 1,
+          "language": 1,
+          "author_orcid": 0.813875,
+          "all_authors_orcid": 0.3315,
+          "funder_doi": 0.339625,
+          "award_number": 0.263,
+          "issn": 1,
+          "volume": 0.98825,
+          "issue": 0.98825,
+          "page": 0.89,
+          "published_print_date": 1,
+          "published_online_date": 1,
+          "article_number": 0,
+          "license": 0.33425,
+          "license_url": 0.33425,
+          "open_access_license": 0.33,
+          "full_text_links": 0.411875,
+          "resource_url": 1,
+          "references": 0.86975,
+          "references_count": 0.86975,
+          "is_referenced_by": 0.716125,
+          "update_policy": 0,
+          "jats_abstract": 0,
+          "author_sequence": 0.899,
+          "affiliation_ids_ror": 0.84275,
+          "relations": 0.988375,
+          "assertions": 0,
+          "archive": 0,
+          "credit_roles": 0,
+          "author_given_family": 0.899,
+          "affiliation_ror": 0.84275,
+          "funding_complete": 0.263,
+          "data_availability": 0,
+          "preprint_version_link": 0.39775,
+          "peer_review_info": 0,
+          "clinical_trial": 0,
+          "abstract_structured": 0,
+          "open_access_status": 0.45475
+        }
+      },
+      "comparable": {
+        "crossref": {
+          "categories": {
+            "findable_essential": 0.70603125,
+            "findable_support": 0.64785,
+            "accessible_essential": 0.7120000000000001,
+            "accessible_support": 0.30212500000000003,
+            "evaluation_coara": 0.27575
+          },
+          "overall": 0.572349375
+        },
+        "openalex": {
+          "categories": {
+            "findable_essential": 0.86421875,
+            "findable_support": 0.76145,
+            "accessible_essential": 0.60825,
+            "accessible_support": 0.9100416666666667,
+            "evaluation_coara": 0.5714499999999999
+          },
+          "overall": 0.7308397916666666
+        },
+        "gap": 0.15849041666666652
+      },
+      "voluntary": {
+        "crossref": 0.2691619791666667,
+        "openalex": 0.6153385416666666
+      }
+    },
+    {
+      "year": 2023,
+      "count": 8000,
+      "matched": 7999,
+      "universeSize": 459852,
+      "crossref": {
+        "overall": 0.5700153598484847,
+        "categories": {
+          "findable_essential": 0.7083229166666666,
+          "findable_support": 0.5855454545454546,
+          "accessible_essential": 0.8253750000000001,
+          "accessible_support": 0.33522916666666663,
+          "evaluation_coara": 0.1491
+        },
+        "fields": {
+          "title": 1,
+          "abstract": 0.2605,
+          "author": 0.899875,
+          "author_affiliation": 0.003125,
+          "doi": 1,
+          "publication_date": 1,
+          "publisher": 1,
+          "resource_type": 1,
+          "subject_keywords": 0,
+          "funder_name": 0.338125,
+          "container_title": 1,
+          "language": 0.99825,
+          "author_orcid": 0.44825,
+          "all_authors_orcid": 0.09075,
+          "funder_doi": 0.266,
+          "award_number": 0.25925,
+          "issn": 1,
+          "volume": 0.93,
+          "issue": 0.93,
+          "page": 0.661875,
+          "published_print_date": 0.645,
+          "published_online_date": 0.9405,
+          "article_number": 0.269375,
+          "license": 0.94175,
+          "license_url": 0.94175,
+          "open_access_license": 0.29,
+          "full_text_links": 0.994625,
+          "resource_url": 1,
+          "references": 0.88775,
+          "references_count": 0.88775,
+          "is_referenced_by": 0.65275,
+          "update_policy": 0.832,
+          "jats_abstract": 0.2605,
+          "author_sequence": 0.899875,
+          "affiliation_ids_ror": 0.000125,
+          "relations": 0.016875,
+          "assertions": 0.832,
+          "archive": 0.002,
+          "credit_roles": 0,
+          "author_given_family": 0.885875,
+          "affiliation_ror": 0.000125,
+          "funding_complete": 0.211,
+          "data_availability": 0,
+          "preprint_version_link": 0.005875,
+          "peer_review_info": 0.00025,
+          "clinical_trial": 0.002,
+          "abstract_structured": 0.095875,
+          "open_access_status": 0.29
+        }
+      },
+      "openalex": {
+        "overall": 0.6062403128673913,
+        "categories": {
+          "findable_essential": 0.867754302621161,
+          "findable_support": 0.6892793417358988,
+          "accessible_essential": 0.5575419149615924,
+          "accessible_support": 0.45549443680460056,
+          "evaluation_coara": 0.2879359919989999
+        },
+        "fields": {
+          "title": 1,
+          "abstract": 0.32829103637954743,
+          "author": 0.9019877484685586,
+          "author_affiliation": 0.8501062632829104,
+          "doi": 1,
+          "publication_date": 1,
+          "publisher": 0.9953744218027254,
+          "resource_type": 1,
+          "subject_keywords": 1,
+          "funder_name": 0.33729216152019004,
+          "container_title": 1,
+          "language": 1,
+          "author_orcid": 0.8179772471558945,
+          "all_authors_orcid": 0.3219152394049256,
+          "funder_doi": 0.33729216152019004,
+          "award_number": 0.2587823477934742,
+          "issn": 1,
+          "volume": 0.9862482810351294,
+          "issue": 0.9862482810351294,
+          "page": 0.8736092011501437,
+          "published_print_date": 1,
+          "published_online_date": 1,
+          "article_number": 0,
+          "license": 0.3692961620202525,
+          "license_url": 0.3692961620202525,
+          "open_access_license": 0.36604575571946496,
+          "full_text_links": 0.44993124140517565,
+          "resource_url": 1,
+          "references": 0.8829853731716465,
+          "references_count": 0.8829853731716465,
+          "is_referenced_by": 0.6973371671458932,
+          "update_policy": 0,
+          "jats_abstract": 0,
+          "author_sequence": 0.9019877484685586,
+          "affiliation_ids_ror": 0.8501062632829104,
+          "relations": 0.9808726090761345,
+          "assertions": 0,
+          "archive": 0,
+          "credit_roles": 0,
+          "author_given_family": 0.9019877484685586,
+          "affiliation_ror": 0.8501062632829104,
+          "funding_complete": 0.2587823477934742,
+          "data_availability": 0,
+          "preprint_version_link": 0.40655081885235655,
+          "peer_review_info": 0,
+          "clinical_trial": 0,
+          "abstract_structured": 0,
+          "open_access_status": 0.4619327415926991
+        }
+      },
+      "comparable": {
+        "crossref": {
+          "categories": {
+            "findable_essential": 0.7083229166666666,
+            "findable_support": 0.6171625000000001,
+            "accessible_essential": 0.8245468750000001,
+            "accessible_support": 0.305625,
+            "evaluation_coara": 0.278575
+          },
+          "overall": 0.59748546875
+        },
+        "openalex": {
+          "categories": {
+            "findable_essential": 0.867754302621161,
+            "findable_support": 0.7582072759094887,
+            "accessible_essential": 0.6272346543317915,
+            "accessible_support": 0.9109888736092011,
+            "evaluation_coara": 0.5758719839979998
+          },
+          "overall": 0.7371393299162395
+        },
+        "gap": 0.13965386116623957
+      },
+      "voluntary": {
+        "crossref": 0.2724822916666667,
+        "openalex": 0.62402175271909
+      }
+    },
+    {
+      "year": 2024,
+      "count": 8000,
+      "matched": 8000,
+      "universeSize": 528174,
+      "crossref": {
+        "overall": 0.561940662878788,
+        "categories": {
+          "findable_essential": 0.7060729166666667,
+          "findable_support": 0.5711363636363637,
+          "accessible_essential": 0.8061666666666668,
+          "accessible_support": 0.32916666666666666,
+          "evaluation_coara": 0.14995
+        },
+        "fields": {
+          "title": 1,
+          "abstract": 0.227,
+          "author": 0.907125,
+          "author_affiliation": 0.00575,
+          "doi": 1,
+          "publication_date": 1,
+          "publisher": 1,
+          "resource_type": 1,
+          "subject_keywords": 0,
+          "funder_name": 0.335125,
+          "container_title": 1,
+          "language": 0.997875,
+          "author_orcid": 0.409375,
+          "all_authors_orcid": 0.099625,
+          "funder_doi": 0.258,
+          "award_number": 0.2505,
+          "issn": 1,
+          "volume": 0.905,
+          "issue": 0.905,
+          "page": 0.59875,
+          "published_print_date": 0.623875,
+          "published_online_date": 0.925125,
+          "article_number": 0.30725,
+          "license": 0.925,
+          "license_url": 0.925,
+          "open_access_license": 0.308875,
+          "full_text_links": 0.996375,
+          "resource_url": 1,
+          "references": 0.882125,
+          "references_count": 0.882125,
+          "is_referenced_by": 0.513,
+          "update_policy": 0.823,
+          "jats_abstract": 0.227,
+          "author_sequence": 0.907125,
+          "affiliation_ids_ror": 0.00375,
+          "relations": 0.013375,
+          "assertions": 0.823,
+          "archive": 0.00075,
+          "credit_roles": 0,
+          "author_given_family": 0.895625,
+          "affiliation_ror": 0.00375,
+          "funding_complete": 0.198,
+          "data_availability": 0,
+          "preprint_version_link": 0.004625,
+          "peer_review_info": 0.000375,
+          "clinical_trial": 0.00075,
+          "abstract_structured": 0.0875,
+          "open_access_status": 0.308875
+        }
+      },
+      "openalex": {
+        "overall": 0.6041680808080808,
+        "categories": {
+          "findable_essential": 0.8693125,
+          "findable_support": 0.6777159090909092,
+          "accessible_essential": 0.5535694444444444,
+          "accessible_support": 0.4580208333333333,
+          "evaluation_coara": 0.2876125
+        },
+        "fields": {
+          "title": 1,
+          "abstract": 0.35725,
+          "author": 0.908,
+          "author_affiliation": 0.85575,
+          "doi": 1,
+          "publication_date": 1,
+          "publisher": 0.989375,
+          "resource_type": 1,
+          "subject_keywords": 1,
+          "funder_name": 0.321375,
+          "container_title": 1,
+          "language": 1,
+          "author_orcid": 0.81225,
+          "all_authors_orcid": 0.286875,
+          "funder_doi": 0.321375,
+          "award_number": 0.236375,
+          "issn": 1,
+          "volume": 0.973875,
+          "issue": 0.973875,
+          "page": 0.85025,
+          "published_print_date": 1,
+          "published_online_date": 1,
+          "article_number": 0,
+          "license": 0.40175,
+          "license_url": 0.40175,
+          "open_access_license": 0.39925,
+          "full_text_links": 0.4565,
+          "resource_url": 1,
+          "references": 0.876625,
+          "references_count": 0.876625,
+          "is_referenced_by": 0.569625,
+          "update_policy": 0,
+          "jats_abstract": 0,
+          "author_sequence": 0.908,
+          "affiliation_ids_ror": 0.85575,
+          "relations": 0.984375,
+          "assertions": 0,
+          "archive": 0,
+          "credit_roles": 0,
+          "author_given_family": 0.907875,
+          "affiliation_ror": 0.85575,
+          "funding_complete": 0.236375,
+          "data_availability": 0,
+          "preprint_version_link": 0.404375,
+          "peer_review_info": 0,
+          "clinical_trial": 0,
+          "abstract_structured": 0,
+          "open_access_status": 0.47175
+        }
+      },
+      "comparable": {
+        "crossref": {
+          "categories": {
+            "findable_essential": 0.7060729166666667,
+            "findable_support": 0.5975250000000001,
+            "accessible_essential": 0.8040625000000001,
+            "accessible_support": 0.3080833333333333,
+            "evaluation_coara": 0.282175
+          },
+          "overall": 0.5897095833333335
+        },
+        "openalex": {
+          "categories": {
+            "findable_essential": 0.8693125,
+            "findable_support": 0.7454875000000001,
+            "accessible_essential": 0.622765625,
+            "accessible_support": 0.9160416666666666,
+            "evaluation_coara": 0.575225
+          },
+          "overall": 0.7349574479166667
+        },
+        "gap": 0.14524786458333327
+      },
+      "voluntary": {
+        "crossref": 0.26812187499999995,
+        "openalex": 0.6233588541666667
+      }
+    },
+    {
+      "year": 2025,
+      "count": 8000,
+      "matched": 7942,
+      "universeSize": 593099,
+      "crossref": {
+        "overall": 0.5610488888888889,
+        "categories": {
+          "findable_essential": 0.7094374999999999,
+          "findable_support": 0.5495,
+          "accessible_essential": 0.8002222222222222,
+          "accessible_support": 0.3332708333333333,
+          "evaluation_coara": 0.16204999999999997
+        },
+        "fields": {
+          "title": 1,
+          "abstract": 0.1935,
+          "author": 0.92925,
+          "author_affiliation": 0.0065,
+          "doi": 1,
+          "publication_date": 1,
+          "publisher": 1,
+          "resource_type": 1,
+          "subject_keywords": 0,
+          "funder_name": 0.386625,
+          "container_title": 1,
+          "language": 0.997375,
+          "author_orcid": 0.37425,
+          "all_authors_orcid": 0.0985,
+          "funder_doi": 0.278,
+          "award_number": 0.288875,
+          "issn": 1,
+          "volume": 0.856125,
+          "issue": 0.856125,
+          "page": 0.391,
+          "published_print_date": 0.5005,
+          "published_online_date": 0.936,
+          "article_number": 0.465125,
+          "license": 0.934625,
+          "license_url": 0.934625,
+          "open_access_license": 0.417125,
+          "full_text_links": 0.997,
+          "resource_url": 1,
+          "references": 0.915125,
+          "references_count": 0.915125,
+          "is_referenced_by": 0.23275,
+          "update_policy": 0.855625,
+          "jats_abstract": 0.1935,
+          "author_sequence": 0.92925,
+          "affiliation_ids_ror": 0.005875,
+          "relations": 0.01525,
+          "assertions": 0.855625,
+          "archive": 0.000125,
+          "credit_roles": 0,
+          "author_given_family": 0.91675,
+          "affiliation_ror": 0.005875,
+          "funding_complete": 0.212125,
+          "data_availability": 0,
+          "preprint_version_link": 0.0045,
+          "peer_review_info": 0.0005,
+          "clinical_trial": 0.0015,
+          "abstract_structured": 0.062125,
+          "open_access_status": 0.417125
+        }
+      },
+      "openalex": {
+        "overall": 0.6038258307069689,
+        "categories": {
+          "findable_essential": 0.8800470074708303,
+          "findable_support": 0.6550101874957076,
+          "accessible_essential": 0.5591930384174151,
+          "accessible_support": 0.41870225803743805,
+          "evaluation_coara": 0.29945857466633086
+        },
+        "fields": {
+          "title": 1,
+          "abstract": 0.457693276252833,
+          "author": 0.9302442709644926,
+          "author_affiliation": 0.8948627549735583,
+          "doi": 1,
+          "publication_date": 1,
+          "publisher": 0.9744396877360866,
+          "resource_type": 1,
+          "subject_keywords": 0.9993704356585243,
+          "funder_name": 0.3039536640644674,
+          "container_title": 1,
+          "language": 1,
+          "author_orcid": 0.8482749937043566,
+          "all_authors_orcid": 0.2765046587761269,
+          "funder_doi": 0.3039536640644674,
+          "award_number": 0.21052631578947367,
+          "issn": 1,
+          "volume": 0.9181566356081592,
+          "issue": 0.9181566356081592,
+          "page": 0.7295391589020398,
+          "published_print_date": 1,
+          "published_online_date": 1,
+          "article_number": 0,
+          "license": 0.49156383782422564,
+          "license_url": 0.49156383782422564,
+          "open_access_license": 0.49005288340468395,
+          "full_text_links": 0.48552002014605894,
+          "resource_url": 1,
+          "references": 0.909972299168975,
+          "references_count": 0.909972299168975,
+          "is_referenced_by": 0.254092168219592,
+          "update_policy": 0,
+          "jats_abstract": 0,
+          "author_sequence": 0.9302442709644926,
+          "affiliation_ids_ror": 0.8942331906320826,
+          "relations": 0.6877360866280534,
+          "assertions": 0,
+          "archive": 0,
+          "credit_roles": 0,
+          "author_given_family": 0.9302442709644926,
+          "affiliation_ror": 0.8942331906320826,
+          "funding_complete": 0.21052631578947367,
+          "data_availability": 0,
+          "preprint_version_link": 0.43339209267187107,
+          "peer_review_info": 0,
+          "clinical_trial": 0,
+          "abstract_structured": 0,
+          "open_access_status": 0.5261898766053891
+        }
+      },
+      "comparable": {
+        "crossref": {
+          "categories": {
+            "findable_essential": 0.7094374999999999,
+            "findable_support": 0.5579375,
+            "accessible_essential": 0.7932968749999999,
+            "accessible_support": 0.31679166666666664,
+            "evaluation_coara": 0.31127499999999997
+          },
+          "overall": 0.5887802604166665
+        },
+        "openalex": {
+          "categories": {
+            "findable_essential": 0.8800470074708303,
+            "findable_support": 0.7205112062452783,
+            "accessible_essential": 0.629092168219592,
+            "accessible_support": 0.8374045160748761,
+            "evaluation_coara": 0.5989171493326617
+          },
+          "overall": 0.7328877067069588
+        },
+        "gap": 0.14410744629029226
+      },
+      "voluntary": {
+        "crossref": 0.2861536458333333,
+        "openalex": 0.6348049399815328
+      }
+    }
+  ],
+  "fieldSamples": {
+    "title": [],
+    "abstract": [
+      {
+        "doi": "10.1186/s13660-015-0594-7",
+        "title": "Sturm comparison theorems for some elliptic type equations with damping and external forcing terms"
+      },
+      {
+        "doi": "10.1186/2045-8118-12-s1-o17",
+        "title": "Towards a better understanding of the cellular basis for cerebrospinal fluid shunt obstruction: report on construction of a bank of explanted hydrocephalus devices"
+      },
+      {
+        "doi": "10.1007/jhep02(2015)078",
+        "title": "Lifshitz scale anomalies"
+      },
+      {
+        "doi": "10.1186/2193-1801-4-9",
+        "title": "Women with large (≥3 cm) and locally advanced breast cancers (T3, 4, N1, 2, M0) receiving neoadjuvant chemotherapy (NAC: cyclophosphamide, doxorubicin, docetaxel): addition of capecitabine improves 4-year disease-free survival"
+      },
+      {
+        "doi": "10.1186/s12889-015-1677-6",
+        "title": "“I have never experienced any problem with my health. So far, it hasn’t been harmful”: older Greek-Australian smokers’ views on smoking: a qualitative study"
+      }
+    ],
+    "author": [
+      {
+        "doi": "10.1007/s13244-015-0390-4",
+        "title": "ECR 2015 Book of Abstracts - E - Authors’ Index"
+      },
+      {
+        "doi": "10.1007/s12054-015-0029-1",
+        "title": "Kurz und bündig"
+      },
+      {
+        "doi": "10.1007/s11837-015-1371-2",
+        "title": "TMS Foundation: growth through giving"
+      },
+      {
+        "doi": "10.1007/s40267-015-0190-4",
+        "title": "First reports of serious adverse drug reactions in recent weeks"
+      },
+      {
+        "doi": "10.1038/qsh.2015.52",
+        "title": "A sodium channel therapeutic target"
+      }
+    ],
+    "author_affiliation": [
+      {
+        "doi": "10.1007/s00108-015-3653-8",
+        "title": "53-jährige Urlauberin auf Hiddensee mit Schlangenbiss"
+      },
+      {
+        "doi": "10.1007/s10959-014-0591-7",
+        "title": "The Cameron–Martin Theorem for (p-)Slepian Processes"
+      },
+      {
+        "doi": "10.1007/s11657-015-0205-8",
+        "title": "Osteoporosis management and the utilization of FRAX®: a survey amongst health care professionals of the Asia-Pacific—response to comments by Lee and Ha"
+      },
+      {
+        "doi": "10.1007/s11623-015-0365-0",
+        "title": "Im Überwachungsstaat"
+      },
+      {
+        "doi": "10.1007/s00216-015-8519-3",
+        "title": "European Analytical Column No. 43"
+      }
+    ],
+    "doi": [],
+    "publication_date": [],
+    "publisher": [],
+    "resource_type": [],
+    "subject_keywords": [
+      {
+        "doi": "10.1007/s00108-015-3653-8",
+        "title": "53-jährige Urlauberin auf Hiddensee mit Schlangenbiss"
+      },
+      {
+        "doi": "10.1007/bf03653080",
+        "title": "Wem sollen wir noch glauben?"
+      },
+      {
+        "doi": "10.1007/bf03653084",
+        "title": "Gabapentin: Wirksam bei Alkoholabhängigkeit"
+      },
+      {
+        "doi": "10.1007/s10959-014-0591-7",
+        "title": "The Cameron–Martin Theorem for (p-)Slepian Processes"
+      },
+      {
+        "doi": "10.1007/bf03653095",
+        "title": "Stärkung hausärztlicher Kompetenzen statt Fragmentierung der Medizin"
+      }
+    ],
+    "funder_name": [
+      {
+        "doi": "10.1007/s11094-015-1192-1",
+        "title": "Effect of Succinic Acid and Chitosan Derivatives on Aconitate Hydratase Activity and Citrate Content in Rat Brain Tissues Under Ischemia/Reperfusion Conditions"
+      },
+      {
+        "doi": "10.1007/jhep02(2015)078",
+        "title": "Lifshitz scale anomalies"
+      },
+      {
+        "doi": "10.1186/2193-1801-4-9",
+        "title": "Women with large (≥3 cm) and locally advanced breast cancers (T3, 4, N1, 2, M0) receiving neoadjuvant chemotherapy (NAC: cyclophosphamide, doxorubicin, docetaxel): addition of capecitabine improves 4-year disease-free survival"
+      },
+      {
+        "doi": "10.1557/opl.2015.782",
+        "title": "Ab Initio Analysis of Charge Carrier Dynamics in Organic-Inorganic Lead Halide Perovskite Solar Cells"
+      },
+      {
+        "doi": "10.1186/cc14141",
+        "title": "Procalcitonin levels in patients undergoing left ventricular assist device implantation"
+      }
+    ],
+    "container_title": [],
+    "language": [
+      {
+        "doi": "10.1038/ndigest.2015.150210",
+        "title": "「プラチナ」ゲノムで疾患に迫れ"
+      },
+      {
+        "doi": "10.1515/chempap-2015-0059",
+        "title": "Morphological orders of spherulitic crystal textures in Belousov–Zhabotinsky-type oscillatory reaction system"
+      },
+      {
+        "doi": "10.1038/scientificamericansecrets0315-58",
+        "title": "Mortal Thoughts"
+      },
+      {
+        "doi": "10.1038/ndigest.2015.150204",
+        "title": "グラフェンの新たな利用価値：プロトン透過能と防弾性"
+      },
+      {
+        "doi": "10.1515/chempap-2015-0125",
+        "title": "A new procedure for the synthesis of 2-[(4-dodecyloxyphenyl)sulfonyl]butanoic acid"
+      }
+    ],
+    "author_orcid": [
+      {
+        "doi": "10.1007/s00108-015-3653-8",
+        "title": "53-jährige Urlauberin auf Hiddensee mit Schlangenbiss"
+      },
+      {
+        "doi": "10.1007/s11657-015-0205-8",
+        "title": "Osteoporosis management and the utilization of FRAX®: a survey amongst health care professionals of the Asia-Pacific—response to comments by Lee and Ha"
+      },
+      {
+        "doi": "10.1007/s00216-015-8519-3",
+        "title": "European Analytical Column No. 43"
+      },
+      {
+        "doi": "10.1186/s13660-015-0594-7",
+        "title": "Sturm comparison theorems for some elliptic type equations with damping and external forcing terms"
+      },
+      {
+        "doi": "10.1007/s00204-015-1499-4",
+        "title": "Commentary to Choi et al. (2015): CCR5 knockout mice with C57BL6 background are resistant to acetaminophen-mediated hepatotoxicity due to decreased macrophages migration into the liver"
+      }
+    ],
+    "all_authors_orcid": [
+      {
+        "doi": "10.1007/s00216-015-8519-3",
+        "title": "European Analytical Column No. 43"
+      },
+      {
+        "doi": "10.1007/s00204-015-1499-4",
+        "title": "Commentary to Choi et al. (2015): CCR5 knockout mice with C57BL6 background are resistant to acetaminophen-mediated hepatotoxicity due to decreased macrophages migration into the liver"
+      },
+      {
+        "doi": "10.1007/s11042-015-2523-7",
+        "title": "Aligning shapes for symbol classification and retrieval"
+      },
+      {
+        "doi": "10.1007/s11277-015-2428-9",
+        "title": "A Novel Delay- and Utility-Oriented Resource Allocation Algorithm for Mixed Services in OFDMA Systems"
+      },
+      {
+        "doi": "10.1007/s13160-015-0170-z",
+        "title": "Study of a degenerate elliptic equation in an optimal consumption problem under partial information"
+      }
+    ],
+    "funder_doi": [
+      {
+        "doi": "10.1007/s11094-015-1192-1",
+        "title": "Effect of Succinic Acid and Chitosan Derivatives on Aconitate Hydratase Activity and Citrate Content in Rat Brain Tissues Under Ischemia/Reperfusion Conditions"
+      },
+      {
+        "doi": "10.1007/jhep02(2015)078",
+        "title": "Lifshitz scale anomalies"
+      },
+      {
+        "doi": "10.1186/2193-1801-4-9",
+        "title": "Women with large (≥3 cm) and locally advanced breast cancers (T3, 4, N1, 2, M0) receiving neoadjuvant chemotherapy (NAC: cyclophosphamide, doxorubicin, docetaxel): addition of capecitabine improves 4-year disease-free survival"
+      },
+      {
+        "doi": "10.1557/opl.2015.782",
+        "title": "Ab Initio Analysis of Charge Carrier Dynamics in Organic-Inorganic Lead Halide Perovskite Solar Cells"
+      },
+      {
+        "doi": "10.1186/cc14141",
+        "title": "Procalcitonin levels in patients undergoing left ventricular assist device implantation"
+      }
+    ],
+    "award_number": [
+      {
+        "doi": "10.1007/jhep02(2015)078",
+        "title": "Lifshitz scale anomalies"
+      },
+      {
+        "doi": "10.1186/cc14141",
+        "title": "Procalcitonin levels in patients undergoing left ventricular assist device implantation"
+      },
+      {
+        "doi": "10.1186/s13073-015-0130-x",
+        "title": "Using inactivating mutations to provide insight into drug action"
+      },
+      {
+        "doi": "10.1186/s13018-015-0160-5",
+        "title": "The effect of void creation prior to vertebroplasty on intravertebral pressure and cement distribution in cadaveric spines with simulated metastases"
+      },
+      {
+        "doi": "10.1186/1471-2105-16-s3-a8",
+        "title": "Hybrid approaches for the detection of networks of critical residues involved in functional motions in protein families"
+      }
+    ],
+    "issn": [],
+    "volume": [
+      {
+        "doi": "10.7759/cureus.249",
+        "title": "Unilateral Pedicle Screw Fixation is Associated with Reduced Cost and Similar Outcomes in Selected Patients Undergoing Minimally Invasive Transforaminal Lumbar Interbody Fusion for L4-5 Degenerative Spondylolisthesis"
+      },
+      {
+        "doi": "10.7759/cureus.259",
+        "title": "Deep Brain Stimulation for Obesity"
+      },
+      {
+        "doi": "10.7759/cureus.298",
+        "title": "18F-FDG PET/CT Imaging of Gallbladder Adenocarcinoma - A Pictorial Review"
+      },
+      {
+        "doi": "10.7759/cureus.293",
+        "title": "Predictors of Neurocognitive Syndromes in Combat Veterans"
+      },
+      {
+        "doi": "10.7759/cureus.433",
+        "title": "Ongoing Remission Nineteen Years after High-dose Chemotherapy for Oligometastatic Breast Cancer; What Can We Learn from this Patient?"
+      }
+    ],
+    "issue": [
+      {
+        "doi": "10.7759/cureus.249",
+        "title": "Unilateral Pedicle Screw Fixation is Associated with Reduced Cost and Similar Outcomes in Selected Patients Undergoing Minimally Invasive Transforaminal Lumbar Interbody Fusion for L4-5 Degenerative Spondylolisthesis"
+      },
+      {
+        "doi": "10.7759/cureus.259",
+        "title": "Deep Brain Stimulation for Obesity"
+      },
+      {
+        "doi": "10.7759/cureus.298",
+        "title": "18F-FDG PET/CT Imaging of Gallbladder Adenocarcinoma - A Pictorial Review"
+      },
+      {
+        "doi": "10.7759/cureus.293",
+        "title": "Predictors of Neurocognitive Syndromes in Combat Veterans"
+      },
+      {
+        "doi": "10.7759/cureus.433",
+        "title": "Ongoing Remission Nineteen Years after High-dose Chemotherapy for Oligometastatic Breast Cancer; What Can We Learn from this Patient?"
+      }
+    ],
+    "page": [
+      {
+        "doi": "10.1007/s11657-015-0205-8",
+        "title": "Osteoporosis management and the utilization of FRAX®: a survey amongst health care professionals of the Asia-Pacific—response to comments by Lee and Ha"
+      },
+      {
+        "doi": "10.1186/2193-1801-4-9",
+        "title": "Women with large (≥3 cm) and locally advanced breast cancers (T3, 4, N1, 2, M0) receiving neoadjuvant chemotherapy (NAC: cyclophosphamide, doxorubicin, docetaxel): addition of capecitabine improves 4-year disease-free survival"
+      },
+      {
+        "doi": "10.1186/s12889-015-1677-6",
+        "title": "“I have never experienced any problem with my health. So far, it hasn’t been harmful”: older Greek-Australian smokers’ views on smoking: a qualitative study"
+      },
+      {
+        "doi": "10.1186/s13073-015-0130-x",
+        "title": "Using inactivating mutations to provide insight into drug action"
+      },
+      {
+        "doi": "10.1038/srep07864",
+        "title": "Ion Selectivity in the Selectivity Filters of Acid-Sensing Ion Channels"
+      }
+    ],
+    "published_print_date": [
+      {
+        "doi": "10.1186/cc14270",
+        "title": "Positive fluid balance is an independent risk factor for acute kidney injury in critically ill patients: results of a prospective, cross-sectional study"
+      },
+      {
+        "doi": "10.1186/cc14266",
+        "title": "Return on investment for implementation of perioperative goal-directed therapy in major surgery: a nationwide database study"
+      },
+      {
+        "doi": "10.1186/cc14083",
+        "title": "Usefulness of sepsis screening tools and education in recognising the burden of sepsis on hospital wards"
+      },
+      {
+        "doi": "10.1186/cc14391",
+        "title": "In-depth study of road accidents in Florence: understanding the biomechanical effects in major trauma involving vulnerable road users"
+      },
+      {
+        "doi": "10.1186/cc14202",
+        "title": "Intrathecal administration of colistin, vancomycin and amikacin for central nervous system infections in ICU neurosurgical patients"
+      }
+    ],
+    "published_online_date": [
+      {
+        "doi": "10.1038/ndigest.2015.150210",
+        "title": "「プラチナ」ゲノムで疾患に迫れ"
+      },
+      {
+        "doi": "10.1186/2045-8118-12-s1-o17",
+        "title": "Towards a better understanding of the cellular basis for cerebrospinal fluid shunt obstruction: report on construction of a bank of explanted hydrocephalus devices"
+      },
+      {
+        "doi": "10.1016/s0415-6412(15)30066-7",
+        "title": "Allergie und das Mikrobiom des Darms - Teil 2"
+      },
+      {
+        "doi": "10.1016/s0894-9166(15)60010-6",
+        "title": "The effects of cod bone gelatin on trabecular microstructure and mechanical properties of cancellous bone"
+      },
+      {
+        "doi": "10.1186/s13018-015-0160-5",
+        "title": "The effect of void creation prior to vertebroplasty on intravertebral pressure and cement distribution in cadaveric spines with simulated metastases"
+      }
+    ],
+    "license": [
+      {
+        "doi": "10.1186/2045-8118-12-s1-o17",
+        "title": "Towards a better understanding of the cellular basis for cerebrospinal fluid shunt obstruction: report on construction of a bank of explanted hydrocephalus devices"
+      },
+      {
+        "doi": "10.1007/jhep02(2015)078",
+        "title": "Lifshitz scale anomalies"
+      },
+      {
+        "doi": "10.1007/s11227-014-1369-5",
+        "title": "Oblivious user management for cloud-based data synchronization"
+      },
+      {
+        "doi": "10.3758/s13421-015-0506-6",
+        "title": "When orthography is not enough: The effect of lexical stress in lexical decision"
+      },
+      {
+        "doi": "10.1007/s00221-015-4236-6",
+        "title": "Blindsight is sensitive to stimulus numerosity and configuration: evidence from the redundant signal effect"
+      }
+    ],
+    "license_url": [
+      {
+        "doi": "10.1186/2045-8118-12-s1-o17",
+        "title": "Towards a better understanding of the cellular basis for cerebrospinal fluid shunt obstruction: report on construction of a bank of explanted hydrocephalus devices"
+      },
+      {
+        "doi": "10.1007/jhep02(2015)078",
+        "title": "Lifshitz scale anomalies"
+      },
+      {
+        "doi": "10.1007/s11227-014-1369-5",
+        "title": "Oblivious user management for cloud-based data synchronization"
+      },
+      {
+        "doi": "10.3758/s13421-015-0506-6",
+        "title": "When orthography is not enough: The effect of lexical stress in lexical decision"
+      },
+      {
+        "doi": "10.1007/s00221-015-4236-6",
+        "title": "Blindsight is sensitive to stimulus numerosity and configuration: evidence from the redundant signal effect"
+      }
+    ],
+    "open_access_license": [
+      {
+        "doi": "10.1186/2045-8118-12-s1-o17",
+        "title": "Towards a better understanding of the cellular basis for cerebrospinal fluid shunt obstruction: report on construction of a bank of explanted hydrocephalus devices"
+      },
+      {
+        "doi": "10.1007/jhep02(2015)078",
+        "title": "Lifshitz scale anomalies"
+      },
+      {
+        "doi": "10.1007/s11227-014-1369-5",
+        "title": "Oblivious user management for cloud-based data synchronization"
+      },
+      {
+        "doi": "10.1186/cc14270",
+        "title": "Positive fluid balance is an independent risk factor for acute kidney injury in critically ill patients: results of a prospective, cross-sectional study"
+      },
+      {
+        "doi": "10.1186/cc14266",
+        "title": "Return on investment for implementation of perioperative goal-directed therapy in major surgery: a nationwide database study"
+      }
+    ],
+    "full_text_links": [
+      {
+        "doi": "10.1186/2045-8118-12-s1-o17",
+        "title": "Towards a better understanding of the cellular basis for cerebrospinal fluid shunt obstruction: report on construction of a bank of explanted hydrocephalus devices"
+      },
+      {
+        "doi": "10.1186/1476-9255-12-s1-o2",
+        "title": "Sharing the love: networking amongst cytometrists"
+      },
+      {
+        "doi": "10.1186/2197-425x-3-s1-a975",
+        "title": "CHLORIDE ADMINISTRATION IN THE INTENSIVE CARE UNIT, AN INDEPENDENT PREDICTOR OF MORTALITY"
+      },
+      {
+        "doi": "10.1186/2050-5736-3-s1-o18",
+        "title": "Neurotrophic delivery in Alzheimer’s-model mice"
+      },
+      {
+        "doi": "10.1186/1758-5996-7-s1-a189",
+        "title": "Reuse of disposable syringes and needles in patients with type 2 diabetes"
+      }
+    ],
+    "resource_url": [],
+    "references": [
+      {
+        "doi": "10.1186/cc14141",
+        "title": "Procalcitonin levels in patients undergoing left ventricular assist device implantation"
+      },
+      {
+        "doi": "10.15352/afa/06-2-16",
+        "title": "A new look at the crossed products of pro-$C^{\\ast}$-algebras"
+      },
+      {
+        "doi": "10.1007/s13244-015-0390-4",
+        "title": "ECR 2015 Book of Abstracts - E - Authors’ Index"
+      },
+      {
+        "doi": "10.15352/bjma/09-3-17",
+        "title": "Determinantal inequalities for Hadamard product of M-matrices and inverse M-matrices"
+      },
+      {
+        "doi": "10.15352/afa/06-3-19",
+        "title": "Weyl type theorems for algebraically Quasi-$\\mathcal{HNP}$ operators"
+      }
+    ],
+    "references_count": [
+      {
+        "doi": "10.1186/cc14141",
+        "title": "Procalcitonin levels in patients undergoing left ventricular assist device implantation"
+      },
+      {
+        "doi": "10.15352/afa/06-2-16",
+        "title": "A new look at the crossed products of pro-$C^{\\ast}$-algebras"
+      },
+      {
+        "doi": "10.1007/s13244-015-0390-4",
+        "title": "ECR 2015 Book of Abstracts - E - Authors’ Index"
+      },
+      {
+        "doi": "10.15352/bjma/09-3-17",
+        "title": "Determinantal inequalities for Hadamard product of M-matrices and inverse M-matrices"
+      },
+      {
+        "doi": "10.15352/afa/06-3-19",
+        "title": "Weyl type theorems for algebraically Quasi-$\\mathcal{HNP}$ operators"
+      }
+    ],
+    "is_referenced_by": [
+      {
+        "doi": "10.1007/s35148-015-0350-9",
+        "title": "Integrierte Bewertung aktiver Fußgängerschutzsysteme"
+      },
+      {
+        "doi": "10.1186/2045-8118-12-s1-o17",
+        "title": "Towards a better understanding of the cellular basis for cerebrospinal fluid shunt obstruction: report on construction of a bank of explanted hydrocephalus devices"
+      },
+      {
+        "doi": "10.1007/s12312-014-1240-x",
+        "title": "Mammographiescreening – wo stehen wir?"
+      },
+      {
+        "doi": "10.1007/s00706-014-1393-4",
+        "title": "Theoretical study of cation–π interactions of Li+, Na+, and K+ with [6]helicene"
+      },
+      {
+        "doi": "10.1007/s00296-015-3254-9",
+        "title": "Meat consumption and gout: Friend, foe or neither?"
+      }
+    ],
+    "author_sequence": [
+      {
+        "doi": "10.1007/s13244-015-0390-4",
+        "title": "ECR 2015 Book of Abstracts - E - Authors’ Index"
+      },
+      {
+        "doi": "10.1055/s-0041-100416",
+        "title": "31. AGA-Kongress von 18.-20.9.2014 in Innsbruck"
+      },
+      {
+        "doi": "10.1007/s12054-015-0029-1",
+        "title": "Kurz und bündig"
+      },
+      {
+        "doi": "10.1007/s11837-015-1371-2",
+        "title": "TMS Foundation: growth through giving"
+      },
+      {
+        "doi": "10.1007/s40267-015-0190-4",
+        "title": "First reports of serious adverse drug reactions in recent weeks"
+      }
+    ],
+    "affiliation_ids_ror": [
+      {
+        "doi": "10.1007/s00108-015-3653-8",
+        "title": "53-jährige Urlauberin auf Hiddensee mit Schlangenbiss"
+      },
+      {
+        "doi": "10.1007/s10959-014-0591-7",
+        "title": "The Cameron–Martin Theorem for (p-)Slepian Processes"
+      },
+      {
+        "doi": "10.1007/s11657-015-0205-8",
+        "title": "Osteoporosis management and the utilization of FRAX®: a survey amongst health care professionals of the Asia-Pacific—response to comments by Lee and Ha"
+      },
+      {
+        "doi": "10.1007/s11623-015-0365-0",
+        "title": "Im Überwachungsstaat"
+      },
+      {
+        "doi": "10.1007/s00216-015-8519-3",
+        "title": "European Analytical Column No. 43"
+      }
+    ],
+    "relations": [
+      {
+        "doi": "10.1007/s00108-015-3653-8",
+        "title": "53-jährige Urlauberin auf Hiddensee mit Schlangenbiss"
+      },
+      {
+        "doi": "10.1007/bf03653080",
+        "title": "Wem sollen wir noch glauben?"
+      },
+      {
+        "doi": "10.1007/bf03653084",
+        "title": "Gabapentin: Wirksam bei Alkoholabhängigkeit"
+      },
+      {
+        "doi": "10.1007/bf03653095",
+        "title": "Stärkung hausärztlicher Kompetenzen statt Fragmentierung der Medizin"
+      },
+      {
+        "doi": "10.1007/s11657-015-0205-8",
+        "title": "Osteoporosis management and the utilization of FRAX®: a survey amongst health care professionals of the Asia-Pacific—response to comments by Lee and Ha"
+      }
+    ],
+    "author_given_family": [
+      {
+        "doi": "10.1007/s12426-015-0006-5",
+        "title": "Ambulancedrone redt levens bij hartstilstand"
+      },
+      {
+        "doi": "10.1007/s15011-015-0086-6",
+        "title": "Neue Option für die Behandlung von Patienten mit Psoriasis und Psoriasis-Arthritis"
+      },
+      {
+        "doi": "10.1007/s00058-015-1243-8",
+        "title": "Stipendium für Spitzen-Azubis"
+      },
+      {
+        "doi": "10.1007/s00350-015-3944-z",
+        "title": "Anforderungen an eine Vertretervereinbarung in Wahlarztverträgen"
+      },
+      {
+        "doi": "10.1007/s12480-015-0020-1",
+        "title": "Vakbeurs Totale Voetverzorging"
+      }
+    ],
+    "affiliation_ror": [
+      {
+        "doi": "10.1007/s00108-015-3653-8",
+        "title": "53-jährige Urlauberin auf Hiddensee mit Schlangenbiss"
+      },
+      {
+        "doi": "10.1007/s10959-014-0591-7",
+        "title": "The Cameron–Martin Theorem for (p-)Slepian Processes"
+      },
+      {
+        "doi": "10.1007/s11657-015-0205-8",
+        "title": "Osteoporosis management and the utilization of FRAX®: a survey amongst health care professionals of the Asia-Pacific—response to comments by Lee and Ha"
+      },
+      {
+        "doi": "10.1007/s11623-015-0365-0",
+        "title": "Im Überwachungsstaat"
+      },
+      {
+        "doi": "10.1007/s00216-015-8519-3",
+        "title": "European Analytical Column No. 43"
+      }
+    ],
+    "funding_complete": [
+      {
+        "doi": "10.1007/jhep02(2015)078",
+        "title": "Lifshitz scale anomalies"
+      },
+      {
+        "doi": "10.1186/cc14141",
+        "title": "Procalcitonin levels in patients undergoing left ventricular assist device implantation"
+      },
+      {
+        "doi": "10.1186/s13073-015-0130-x",
+        "title": "Using inactivating mutations to provide insight into drug action"
+      },
+      {
+        "doi": "10.1186/s13018-015-0160-5",
+        "title": "The effect of void creation prior to vertebroplasty on intravertebral pressure and cement distribution in cadaveric spines with simulated metastases"
+      },
+      {
+        "doi": "10.1186/1471-2105-16-s3-a8",
+        "title": "Hybrid approaches for the detection of networks of critical residues involved in functional motions in protein families"
+      }
+    ],
+    "preprint_version_link": [
+      {
+        "doi": "10.1007/s10959-014-0591-7",
+        "title": "The Cameron–Martin Theorem for (p-)Slepian Processes"
+      },
+      {
+        "doi": "10.1007/s11042-015-2523-7",
+        "title": "Aligning shapes for symbol classification and retrieval"
+      },
+      {
+        "doi": "10.1186/2045-8118-12-s1-o17",
+        "title": "Towards a better understanding of the cellular basis for cerebrospinal fluid shunt obstruction: report on construction of a bank of explanted hydrocephalus devices"
+      },
+      {
+        "doi": "10.1007/s00373-014-1501-6",
+        "title": "A New Zero-divisor Graph Contradicting Beck’s Conjecture, and the Classification for a Family of Polynomial Quotients"
+      },
+      {
+        "doi": "10.1007/jhep02(2015)078",
+        "title": "Lifshitz scale anomalies"
+      }
+    ],
+    "open_access_status": [
+      {
+        "doi": "10.1007/bf03653084",
+        "title": "Gabapentin: Wirksam bei Alkoholabhängigkeit"
+      },
+      {
+        "doi": "10.1007/s10959-014-0591-7",
+        "title": "The Cameron–Martin Theorem for (p-)Slepian Processes"
+      },
+      {
+        "doi": "10.1007/bf03653095",
+        "title": "Stärkung hausärztlicher Kompetenzen statt Fragmentierung der Medizin"
+      },
+      {
+        "doi": "10.1007/s11623-015-0365-0",
+        "title": "Im Überwachungsstaat"
+      },
+      {
+        "doi": "10.1007/s00216-015-8519-3",
+        "title": "European Analytical Column No. 43"
+      }
+    ]
+  },
+  "sampleWorks": [
+    {
+      "doi": "10.1007/s00108-015-3653-8",
+      "title": "53-jährige Urlauberin auf Hiddensee mit Schlangenbiss",
+      "year": 2015,
+      "crossrefScore": 0.5789473684210527,
+      "openalexScore": 0.6842105263157895,
+      "gap": 6,
+      "openalexAdds": [
+        "author_affiliation",
+        "subject_keywords",
+        "author_orcid",
+        "affiliation_ids_ror",
+        "relations",
+        "affiliation_ror"
+      ]
+    },
+    {
+      "doi": "10.1007/s10959-014-0591-7",
+      "title": "The Cameron–Martin Theorem for (p-)Slepian Processes",
+      "year": 2015,
+      "crossrefScore": 0.5789473684210527,
+      "openalexScore": 0.7105263157894737,
+      "gap": 6,
+      "openalexAdds": [
+        "author_affiliation",
+        "subject_keywords",
+        "affiliation_ids_ror",
+        "affiliation_ror",
+        "preprint_version_link",
+        "open_access_status"
+      ]
+    },
+    {
+      "doi": "10.1007/s11657-015-0205-8",
+      "title": "Osteoporosis management and the utilization of FRAX®: a survey amongst health care professionals of the Asia-Pacific—response to comments by Lee and Ha",
+      "year": 2015,
+      "crossrefScore": 0.5526315789473685,
+      "openalexScore": 0.6578947368421053,
+      "gap": 7,
+      "openalexAdds": [
+        "author_affiliation",
+        "subject_keywords",
+        "author_orcid",
+        "page",
+        "affiliation_ids_ror",
+        "relations",
+        "affiliation_ror"
+      ]
+    },
+    {
+      "doi": "10.1007/s11623-015-0365-0",
+      "title": "Im Überwachungsstaat",
+      "year": 2015,
+      "crossrefScore": 0.5,
+      "openalexScore": 0.631578947368421,
+      "gap": 6,
+      "openalexAdds": [
+        "author_affiliation",
+        "subject_keywords",
+        "affiliation_ids_ror",
+        "relations",
+        "affiliation_ror",
+        "open_access_status"
+      ]
+    },
+    {
+      "doi": "10.1038/ndigest.2015.150210",
+      "title": "「プラチナ」ゲノムで疾患に迫れ",
+      "year": 2015,
+      "crossrefScore": 0.39473684210526316,
+      "openalexScore": 0.5,
+      "gap": 4,
+      "openalexAdds": [
+        "subject_keywords",
+        "language",
+        "published_online_date",
+        "relations"
+      ]
+    },
+    {
+      "doi": "10.1007/s00216-015-8519-3",
+      "title": "European Analytical Column No. 43",
+      "year": 2015,
+      "crossrefScore": 0.5263157894736842,
+      "openalexScore": 0.7368421052631579,
+      "gap": 8,
+      "openalexAdds": [
+        "author_affiliation",
+        "subject_keywords",
+        "author_orcid",
+        "all_authors_orcid",
+        "affiliation_ids_ror",
+        "relations",
+        "affiliation_ror",
+        "open_access_status"
+      ]
+    },
+    {
+      "doi": "10.1186/s13660-015-0594-7",
+      "title": "Sturm comparison theorems for some elliptic type equations with damping and external forcing terms",
+      "year": 2015,
+      "crossrefScore": 0.6842105263157895,
+      "openalexScore": 0.8157894736842105,
+      "gap": 7,
+      "openalexAdds": [
+        "abstract",
+        "author_affiliation",
+        "subject_keywords",
+        "author_orcid",
+        "affiliation_ids_ror",
+        "relations",
+        "affiliation_ror"
+      ]
+    },
+    {
+      "doi": "10.1007/s00204-015-1499-4",
+      "title": "Commentary to Choi et al. (2015): CCR5 knockout mice with C57BL6 background are resistant to acetaminophen-mediated hepatotoxicity due to decreased macrophages migration into the liver",
+      "year": 2015,
+      "crossrefScore": 0.5789473684210527,
+      "openalexScore": 0.7105263157894737,
+      "gap": 7,
+      "openalexAdds": [
+        "author_affiliation",
+        "subject_keywords",
+        "author_orcid",
+        "all_authors_orcid",
+        "affiliation_ids_ror",
+        "relations",
+        "affiliation_ror"
+      ]
+    },
+    {
+      "doi": "10.1007/s13370-015-0320-0",
+      "title": "I–V fuzzy set theory applied on po-LA-semigroups",
+      "year": 2015,
+      "crossrefScore": 0.5789473684210527,
+      "openalexScore": 0.6842105263157895,
+      "gap": 6,
+      "openalexAdds": [
+        "author_affiliation",
+        "subject_keywords",
+        "author_orcid",
+        "affiliation_ids_ror",
+        "relations",
+        "affiliation_ror"
+      ]
+    },
+    {
+      "doi": "10.1007/s11042-015-2523-7",
+      "title": "Aligning shapes for symbol classification and retrieval",
+      "year": 2015,
+      "crossrefScore": 0.5789473684210527,
+      "openalexScore": 0.7368421052631579,
+      "gap": 8,
+      "openalexAdds": [
+        "author_affiliation",
+        "subject_keywords",
+        "author_orcid",
+        "all_authors_orcid",
+        "affiliation_ids_ror",
+        "relations",
+        "affiliation_ror",
+        "preprint_version_link"
+      ]
+    }
+  ],
+  "fieldDetails": [
+    {
+      "id": "title",
+      "label": "Title",
+      "category": "findable_essential",
+      "effort": "automatic",
+      "crossref": 1,
+      "openalex": 1,
+      "gap": 0,
+      "samples": []
+    },
+    {
+      "id": "abstract",
+      "label": "Abstract",
+      "category": "findable_essential",
+      "effort": "voluntary",
+      "crossref": 0.1708409090909091,
+      "openalex": 0.29719218041008494,
+      "gap": 0.12635127131917584,
+      "samples": [
+        {
+          "doi": "10.1186/s13660-015-0594-7",
+          "title": "Sturm comparison theorems for some elliptic type equations with damping and external forcing terms"
+        },
+        {
+          "doi": "10.1186/2045-8118-12-s1-o17",
+          "title": "Towards a better understanding of the cellular basis for cerebrospinal fluid shunt obstruction: report on construction of a bank of explanted hydrocephalus devices"
+        },
+        {
+          "doi": "10.1007/jhep02(2015)078",
+          "title": "Lifshitz scale anomalies"
+        },
+        {
+          "doi": "10.1186/2193-1801-4-9",
+          "title": "Women with large (≥3 cm) and locally advanced breast cancers (T3, 4, N1, 2, M0) receiving neoadjuvant chemotherapy (NAC: cyclophosphamide, doxorubicin, docetaxel): addition of capecitabine improves 4-year disease-free survival"
+        },
+        {
+          "doi": "10.1186/s12889-015-1677-6",
+          "title": "“I have never experienced any problem with my health. So far, it hasn’t been harmful”: older Greek-Australian smokers’ views on smoking: a qualitative study"
+        }
+      ]
+    },
+    {
+      "id": "author",
+      "label": "Author",
+      "category": "findable_essential",
+      "effort": "automatic",
+      "crossref": 0.9179318181818181,
+      "openalex": 0.9202802133442507,
+      "gap": 0.0023483951624325705,
+      "samples": [
+        {
+          "doi": "10.1007/s13244-015-0390-4",
+          "title": "ECR 2015 Book of Abstracts - E - Authors’ Index"
+        },
+        {
+          "doi": "10.1007/s12054-015-0029-1",
+          "title": "Kurz und bündig"
+        },
+        {
+          "doi": "10.1007/s11837-015-1371-2",
+          "title": "TMS Foundation: growth through giving"
+        },
+        {
+          "doi": "10.1007/s40267-015-0190-4",
+          "title": "First reports of serious adverse drug reactions in recent weeks"
+        },
+        {
+          "doi": "10.1038/qsh.2015.52",
+          "title": "A sodium channel therapeutic target"
+        }
+      ]
+    },
+    {
+      "id": "author_affiliation",
+      "label": "Author Affiliation",
+      "category": "findable_essential",
+      "effort": "voluntary",
+      "crossref": 0.004295454545454546,
+      "openalex": 0.8585627693812334,
+      "gap": 0.8542673148357789,
+      "samples": [
+        {
+          "doi": "10.1007/s00108-015-3653-8",
+          "title": "53-jährige Urlauberin auf Hiddensee mit Schlangenbiss"
+        },
+        {
+          "doi": "10.1007/s10959-014-0591-7",
+          "title": "The Cameron–Martin Theorem for (p-)Slepian Processes"
+        },
+        {
+          "doi": "10.1007/s11657-015-0205-8",
+          "title": "Osteoporosis management and the utilization of FRAX®: a survey amongst health care professionals of the Asia-Pacific—response to comments by Lee and Ha"
+        },
+        {
+          "doi": "10.1007/s11623-015-0365-0",
+          "title": "Im Überwachungsstaat"
+        },
+        {
+          "doi": "10.1007/s00216-015-8519-3",
+          "title": "European Analytical Column No. 43"
+        }
+      ]
+    },
+    {
+      "id": "doi",
+      "label": "DOI",
+      "category": "findable_essential",
+      "effort": "automatic",
+      "crossref": 1,
+      "openalex": 1,
+      "gap": 0,
+      "samples": []
+    },
+    {
+      "id": "publication_date",
+      "label": "Publication Date",
+      "category": "findable_essential",
+      "effort": "automatic",
+      "crossref": 1,
+      "openalex": 1,
+      "gap": 0,
+      "samples": []
+    },
+    {
+      "id": "publisher",
+      "label": "Publisher",
+      "category": "findable_essential",
+      "effort": "automatic",
+      "crossref": 1,
+      "openalex": 0.9949620733967908,
+      "gap": -0.005037926603209231,
+      "samples": []
+    },
+    {
+      "id": "resource_type",
+      "label": "Resource Type",
+      "category": "findable_essential",
+      "effort": "automatic",
+      "crossref": 1,
+      "openalex": 1,
+      "gap": 0,
+      "samples": []
+    },
+    {
+      "id": "subject_keywords",
+      "label": "Subject / Keywords",
+      "category": "findable_essential",
+      "effort": "voluntary",
+      "crossref": 0,
+      "openalex": 0.9999431385259231,
+      "gap": 0.9999431385259231,
+      "samples": [
+        {
+          "doi": "10.1007/s00108-015-3653-8",
+          "title": "53-jährige Urlauberin auf Hiddensee mit Schlangenbiss"
+        },
+        {
+          "doi": "10.1007/bf03653080",
+          "title": "Wem sollen wir noch glauben?"
+        },
+        {
+          "doi": "10.1007/bf03653084",
+          "title": "Gabapentin: Wirksam bei Alkoholabhängigkeit"
+        },
+        {
+          "doi": "10.1007/s10959-014-0591-7",
+          "title": "The Cameron–Martin Theorem for (p-)Slepian Processes"
+        },
+        {
+          "doi": "10.1007/bf03653095",
+          "title": "Stärkung hausärztlicher Kompetenzen statt Fragmentierung der Medizin"
+        }
+      ]
+    },
+    {
+      "id": "funder_name",
+      "label": "Funder Name",
+      "category": "findable_essential",
+      "effort": "voluntary",
+      "crossref": 0.3033409090909091,
+      "openalex": 0.3487655373977915,
+      "gap": 0.045424628306882375,
+      "samples": [
+        {
+          "doi": "10.1007/s11094-015-1192-1",
+          "title": "Effect of Succinic Acid and Chitosan Derivatives on Aconitate Hydratase Activity and Citrate Content in Rat Brain Tissues Under Ischemia/Reperfusion Conditions"
+        },
+        {
+          "doi": "10.1007/jhep02(2015)078",
+          "title": "Lifshitz scale anomalies"
+        },
+        {
+          "doi": "10.1186/2193-1801-4-9",
+          "title": "Women with large (≥3 cm) and locally advanced breast cancers (T3, 4, N1, 2, M0) receiving neoadjuvant chemotherapy (NAC: cyclophosphamide, doxorubicin, docetaxel): addition of capecitabine improves 4-year disease-free survival"
+        },
+        {
+          "doi": "10.1557/opl.2015.782",
+          "title": "Ab Initio Analysis of Charge Carrier Dynamics in Organic-Inorganic Lead Halide Perovskite Solar Cells"
+        },
+        {
+          "doi": "10.1186/cc14141",
+          "title": "Procalcitonin levels in patients undergoing left ventricular assist device implantation"
+        }
+      ]
+    },
+    {
+      "id": "container_title",
+      "label": "Container Title",
+      "category": "findable_essential",
+      "effort": "automatic",
+      "crossref": 1,
+      "openalex": 1,
+      "gap": 0,
+      "samples": []
+    },
+    {
+      "id": "language",
+      "label": "Language",
+      "category": "findable_essential",
+      "effort": "automatic",
+      "crossref": 0.9953977272727272,
+      "openalex": 1,
+      "gap": 0.00460227272727276,
+      "samples": [
+        {
+          "doi": "10.1038/ndigest.2015.150210",
+          "title": "「プラチナ」ゲノムで疾患に迫れ"
+        },
+        {
+          "doi": "10.1515/chempap-2015-0059",
+          "title": "Morphological orders of spherulitic crystal textures in Belousov–Zhabotinsky-type oscillatory reaction system"
+        },
+        {
+          "doi": "10.1038/scientificamericansecrets0315-58",
+          "title": "Mortal Thoughts"
+        },
+        {
+          "doi": "10.1038/ndigest.2015.150204",
+          "title": "グラフェンの新たな利用価値：プロトン透過能と防弾性"
+        },
+        {
+          "doi": "10.1515/chempap-2015-0125",
+          "title": "A new procedure for the synthesis of 2-[(4-dodecyloxyphenyl)sulfonyl]butanoic acid"
+        }
+      ]
+    },
+    {
+      "id": "author_orcid",
+      "label": "Author ORCID",
+      "category": "findable_support",
+      "effort": "voluntary",
+      "crossref": 0.35701136363636365,
+      "openalex": 0.8250486165603357,
+      "gap": 0.468037252923972,
+      "samples": [
+        {
+          "doi": "10.1007/s00108-015-3653-8",
+          "title": "53-jährige Urlauberin auf Hiddensee mit Schlangenbiss"
+        },
+        {
+          "doi": "10.1007/s11657-015-0205-8",
+          "title": "Osteoporosis management and the utilization of FRAX®: a survey amongst health care professionals of the Asia-Pacific—response to comments by Lee and Ha"
+        },
+        {
+          "doi": "10.1007/s00216-015-8519-3",
+          "title": "European Analytical Column No. 43"
+        },
+        {
+          "doi": "10.1186/s13660-015-0594-7",
+          "title": "Sturm comparison theorems for some elliptic type equations with damping and external forcing terms"
+        },
+        {
+          "doi": "10.1007/s00204-015-1499-4",
+          "title": "Commentary to Choi et al. (2015): CCR5 knockout mice with C57BL6 background are resistant to acetaminophen-mediated hepatotoxicity due to decreased macrophages migration into the liver"
+        }
+      ]
+    },
+    {
+      "id": "all_authors_orcid",
+      "label": "All Authors ORCID",
+      "category": "findable_support",
+      "effort": "voluntary",
+      "crossref": 0.05951136363636363,
+      "openalex": 0.31926580464671966,
+      "gap": 0.25975444101035605,
+      "samples": [
+        {
+          "doi": "10.1007/s00216-015-8519-3",
+          "title": "European Analytical Column No. 43"
+        },
+        {
+          "doi": "10.1007/s00204-015-1499-4",
+          "title": "Commentary to Choi et al. (2015): CCR5 knockout mice with C57BL6 background are resistant to acetaminophen-mediated hepatotoxicity due to decreased macrophages migration into the liver"
+        },
+        {
+          "doi": "10.1007/s11042-015-2523-7",
+          "title": "Aligning shapes for symbol classification and retrieval"
+        },
+        {
+          "doi": "10.1007/s11277-015-2428-9",
+          "title": "A Novel Delay- and Utility-Oriented Resource Allocation Algorithm for Mixed Services in OFDMA Systems"
+        },
+        {
+          "doi": "10.1007/s13160-015-0170-z",
+          "title": "Study of a degenerate elliptic equation in an optimal consumption problem under partial information"
+        }
+      ]
+    },
+    {
+      "id": "funder_doi",
+      "label": "Funder DOI",
+      "category": "findable_support",
+      "effort": "voluntary",
+      "crossref": 0.23277272727272727,
+      "openalex": 0.3487655373977915,
+      "gap": 0.11599281012506421,
+      "samples": [
+        {
+          "doi": "10.1007/s11094-015-1192-1",
+          "title": "Effect of Succinic Acid and Chitosan Derivatives on Aconitate Hydratase Activity and Citrate Content in Rat Brain Tissues Under Ischemia/Reperfusion Conditions"
+        },
+        {
+          "doi": "10.1007/jhep02(2015)078",
+          "title": "Lifshitz scale anomalies"
+        },
+        {
+          "doi": "10.1186/2193-1801-4-9",
+          "title": "Women with large (≥3 cm) and locally advanced breast cancers (T3, 4, N1, 2, M0) receiving neoadjuvant chemotherapy (NAC: cyclophosphamide, doxorubicin, docetaxel): addition of capecitabine improves 4-year disease-free survival"
+        },
+        {
+          "doi": "10.1557/opl.2015.782",
+          "title": "Ab Initio Analysis of Charge Carrier Dynamics in Organic-Inorganic Lead Halide Perovskite Solar Cells"
+        },
+        {
+          "doi": "10.1186/cc14141",
+          "title": "Procalcitonin levels in patients undergoing left ventricular assist device implantation"
+        }
+      ]
+    },
+    {
+      "id": "award_number",
+      "label": "Award Number",
+      "category": "findable_support",
+      "effort": "voluntary",
+      "crossref": 0.2399318181818182,
+      "openalex": 0.2492807023529278,
+      "gap": 0.0093488841711096,
+      "samples": [
+        {
+          "doi": "10.1007/jhep02(2015)078",
+          "title": "Lifshitz scale anomalies"
+        },
+        {
+          "doi": "10.1186/cc14141",
+          "title": "Procalcitonin levels in patients undergoing left ventricular assist device implantation"
+        },
+        {
+          "doi": "10.1186/s13073-015-0130-x",
+          "title": "Using inactivating mutations to provide insight into drug action"
+        },
+        {
+          "doi": "10.1186/s13018-015-0160-5",
+          "title": "The effect of void creation prior to vertebroplasty on intravertebral pressure and cement distribution in cadaveric spines with simulated metastases"
+        },
+        {
+          "doi": "10.1186/1471-2105-16-s3-a8",
+          "title": "Hybrid approaches for the detection of networks of critical residues involved in functional motions in protein families"
+        }
+      ]
+    },
+    {
+      "id": "issn",
+      "label": "ISSN",
+      "category": "findable_support",
+      "effort": "automatic",
+      "crossref": 1,
+      "openalex": 1,
+      "gap": 0,
+      "samples": []
+    },
+    {
+      "id": "volume",
+      "label": "Volume",
+      "category": "findable_support",
+      "effort": "automatic",
+      "crossref": 0.9575568181818181,
+      "openalex": 0.983896830541435,
+      "gap": 0.026340012359616805,
+      "samples": [
+        {
+          "doi": "10.7759/cureus.249",
+          "title": "Unilateral Pedicle Screw Fixation is Associated with Reduced Cost and Similar Outcomes in Selected Patients Undergoing Minimally Invasive Transforaminal Lumbar Interbody Fusion for L4-5 Degenerative Spondylolisthesis"
+        },
+        {
+          "doi": "10.7759/cureus.259",
+          "title": "Deep Brain Stimulation for Obesity"
+        },
+        {
+          "doi": "10.7759/cureus.298",
+          "title": "18F-FDG PET/CT Imaging of Gallbladder Adenocarcinoma - A Pictorial Review"
+        },
+        {
+          "doi": "10.7759/cureus.293",
+          "title": "Predictors of Neurocognitive Syndromes in Combat Veterans"
+        },
+        {
+          "doi": "10.7759/cureus.433",
+          "title": "Ongoing Remission Nineteen Years after High-dose Chemotherapy for Oligometastatic Breast Cancer; What Can We Learn from this Patient?"
+        }
+      ]
+    },
+    {
+      "id": "issue",
+      "label": "Issue",
+      "category": "findable_support",
+      "effort": "automatic",
+      "crossref": 0.9569318181818182,
+      "openalex": 0.9832713543265895,
+      "gap": 0.02633953614477136,
+      "samples": [
+        {
+          "doi": "10.7759/cureus.249",
+          "title": "Unilateral Pedicle Screw Fixation is Associated with Reduced Cost and Similar Outcomes in Selected Patients Undergoing Minimally Invasive Transforaminal Lumbar Interbody Fusion for L4-5 Degenerative Spondylolisthesis"
+        },
+        {
+          "doi": "10.7759/cureus.259",
+          "title": "Deep Brain Stimulation for Obesity"
+        },
+        {
+          "doi": "10.7759/cureus.298",
+          "title": "18F-FDG PET/CT Imaging of Gallbladder Adenocarcinoma - A Pictorial Review"
+        },
+        {
+          "doi": "10.7759/cureus.293",
+          "title": "Predictors of Neurocognitive Syndromes in Combat Veterans"
+        },
+        {
+          "doi": "10.7759/cureus.433",
+          "title": "Ongoing Remission Nineteen Years after High-dose Chemotherapy for Oligometastatic Breast Cancer; What Can We Learn from this Patient?"
+        }
+      ]
+    },
+    {
+      "id": "page",
+      "label": "Page",
+      "category": "findable_support",
+      "effort": "automatic",
+      "crossref": 0.6849318181818181,
+      "openalex": 0.8879601514789669,
+      "gap": 0.20302833329714876,
+      "samples": [
+        {
+          "doi": "10.1007/s11657-015-0205-8",
+          "title": "Osteoporosis management and the utilization of FRAX®: a survey amongst health care professionals of the Asia-Pacific—response to comments by Lee and Ha"
+        },
+        {
+          "doi": "10.1186/2193-1801-4-9",
+          "title": "Women with large (≥3 cm) and locally advanced breast cancers (T3, 4, N1, 2, M0) receiving neoadjuvant chemotherapy (NAC: cyclophosphamide, doxorubicin, docetaxel): addition of capecitabine improves 4-year disease-free survival"
+        },
+        {
+          "doi": "10.1186/s12889-015-1677-6",
+          "title": "“I have never experienced any problem with my health. So far, it hasn’t been harmful”: older Greek-Australian smokers’ views on smoking: a qualitative study"
+        },
+        {
+          "doi": "10.1186/s13073-015-0130-x",
+          "title": "Using inactivating mutations to provide insight into drug action"
+        },
+        {
+          "doi": "10.1038/srep07864",
+          "title": "Ion Selectivity in the Selectivity Filters of Acid-Sensing Ion Channels"
+        }
+      ]
+    },
+    {
+      "id": "published_print_date",
+      "label": "Published Print Date",
+      "category": "findable_support",
+      "effort": "automatic",
+      "crossref": 0.8144545454545454,
+      "openalex": 1,
+      "gap": 0.18554545454545457,
+      "samples": [
+        {
+          "doi": "10.1186/cc14270",
+          "title": "Positive fluid balance is an independent risk factor for acute kidney injury in critically ill patients: results of a prospective, cross-sectional study"
+        },
+        {
+          "doi": "10.1186/cc14266",
+          "title": "Return on investment for implementation of perioperative goal-directed therapy in major surgery: a nationwide database study"
+        },
+        {
+          "doi": "10.1186/cc14083",
+          "title": "Usefulness of sepsis screening tools and education in recognising the burden of sepsis on hospital wards"
+        },
+        {
+          "doi": "10.1186/cc14391",
+          "title": "In-depth study of road accidents in Florence: understanding the biomechanical effects in major trauma involving vulnerable road users"
+        },
+        {
+          "doi": "10.1186/cc14202",
+          "title": "Intrathecal administration of colistin, vancomycin and amikacin for central nervous system infections in ICU neurosurgical patients"
+        }
+      ]
+    },
+    {
+      "id": "published_online_date",
+      "label": "Published Online Date",
+      "category": "findable_support",
+      "effort": "automatic",
+      "crossref": 0.9650568181818182,
+      "openalex": 1,
+      "gap": 0.03494318181818179,
+      "samples": [
+        {
+          "doi": "10.1038/ndigest.2015.150210",
+          "title": "「プラチナ」ゲノムで疾患に迫れ"
+        },
+        {
+          "doi": "10.1186/2045-8118-12-s1-o17",
+          "title": "Towards a better understanding of the cellular basis for cerebrospinal fluid shunt obstruction: report on construction of a bank of explanted hydrocephalus devices"
+        },
+        {
+          "doi": "10.1016/s0415-6412(15)30066-7",
+          "title": "Allergie und das Mikrobiom des Darms - Teil 2"
+        },
+        {
+          "doi": "10.1016/s0894-9166(15)60010-6",
+          "title": "The effects of cod bone gelatin on trabecular microstructure and mechanical properties of cancellous bone"
+        },
+        {
+          "doi": "10.1186/s13018-015-0160-5",
+          "title": "The effect of void creation prior to vertebroplasty on intravertebral pressure and cement distribution in cadaveric spines with simulated metastases"
+        }
+      ]
+    },
+    {
+      "id": "license",
+      "label": "License",
+      "category": "accessible_essential",
+      "effort": "automatic",
+      "crossref": 0.46870454545454543,
+      "openalex": 0.3367563940727599,
+      "gap": -0.1319481513817855,
+      "samples": [
+        {
+          "doi": "10.1186/2045-8118-12-s1-o17",
+          "title": "Towards a better understanding of the cellular basis for cerebrospinal fluid shunt obstruction: report on construction of a bank of explanted hydrocephalus devices"
+        },
+        {
+          "doi": "10.1007/jhep02(2015)078",
+          "title": "Lifshitz scale anomalies"
+        },
+        {
+          "doi": "10.1007/s11227-014-1369-5",
+          "title": "Oblivious user management for cloud-based data synchronization"
+        },
+        {
+          "doi": "10.3758/s13421-015-0506-6",
+          "title": "When orthography is not enough: The effect of lexical stress in lexical decision"
+        },
+        {
+          "doi": "10.1007/s00221-015-4236-6",
+          "title": "Blindsight is sensitive to stimulus numerosity and configuration: evidence from the redundant signal effect"
+        }
+      ]
+    },
+    {
+      "id": "license_url",
+      "label": "License URL",
+      "category": "accessible_essential",
+      "effort": "automatic",
+      "crossref": 0.46870454545454543,
+      "openalex": 0.3367563940727599,
+      "gap": -0.1319481513817855,
+      "samples": [
+        {
+          "doi": "10.1186/2045-8118-12-s1-o17",
+          "title": "Towards a better understanding of the cellular basis for cerebrospinal fluid shunt obstruction: report on construction of a bank of explanted hydrocephalus devices"
+        },
+        {
+          "doi": "10.1007/jhep02(2015)078",
+          "title": "Lifshitz scale anomalies"
+        },
+        {
+          "doi": "10.1007/s11227-014-1369-5",
+          "title": "Oblivious user management for cloud-based data synchronization"
+        },
+        {
+          "doi": "10.3758/s13421-015-0506-6",
+          "title": "When orthography is not enough: The effect of lexical stress in lexical decision"
+        },
+        {
+          "doi": "10.1007/s00221-015-4236-6",
+          "title": "Blindsight is sensitive to stimulus numerosity and configuration: evidence from the redundant signal effect"
+        }
+      ]
+    },
+    {
+      "id": "open_access_license",
+      "label": "Open Access License",
+      "category": "accessible_essential",
+      "effort": "voluntary",
+      "crossref": 0.2565909090909091,
+      "openalex": 0.33053574880875214,
+      "gap": 0.07394483971784305,
+      "samples": [
+        {
+          "doi": "10.1186/2045-8118-12-s1-o17",
+          "title": "Towards a better understanding of the cellular basis for cerebrospinal fluid shunt obstruction: report on construction of a bank of explanted hydrocephalus devices"
+        },
+        {
+          "doi": "10.1007/jhep02(2015)078",
+          "title": "Lifshitz scale anomalies"
+        },
+        {
+          "doi": "10.1007/s11227-014-1369-5",
+          "title": "Oblivious user management for cloud-based data synchronization"
+        },
+        {
+          "doi": "10.1186/cc14270",
+          "title": "Positive fluid balance is an independent risk factor for acute kidney injury in critically ill patients: results of a prospective, cross-sectional study"
+        },
+        {
+          "doi": "10.1186/cc14266",
+          "title": "Return on investment for implementation of perioperative goal-directed therapy in major surgery: a nationwide database study"
+        }
+      ]
+    },
+    {
+      "id": "full_text_links",
+      "label": "Full-text Links",
+      "category": "accessible_essential",
+      "effort": "automatic",
+      "crossref": 0.9904090909090909,
+      "openalex": 0.39730249166979403,
+      "gap": -0.5931065992392969,
+      "samples": [
+        {
+          "doi": "10.1186/2045-8118-12-s1-o17",
+          "title": "Towards a better understanding of the cellular basis for cerebrospinal fluid shunt obstruction: report on construction of a bank of explanted hydrocephalus devices"
+        },
+        {
+          "doi": "10.1186/1476-9255-12-s1-o2",
+          "title": "Sharing the love: networking amongst cytometrists"
+        },
+        {
+          "doi": "10.1186/2197-425x-3-s1-a975",
+          "title": "CHLORIDE ADMINISTRATION IN THE INTENSIVE CARE UNIT, AN INDEPENDENT PREDICTOR OF MORTALITY"
+        },
+        {
+          "doi": "10.1186/2050-5736-3-s1-o18",
+          "title": "Neurotrophic delivery in Alzheimer’s-model mice"
+        },
+        {
+          "doi": "10.1186/1758-5996-7-s1-a189",
+          "title": "Reuse of disposable syringes and needles in patients with type 2 diabetes"
+        }
+      ]
+    },
+    {
+      "id": "resource_url",
+      "label": "Resource URL",
+      "category": "accessible_essential",
+      "effort": "automatic",
+      "crossref": 1,
+      "openalex": 1,
+      "gap": 0,
+      "samples": []
+    },
+    {
+      "id": "references",
+      "label": "References",
+      "category": "accessible_essential",
+      "effort": "voluntary",
+      "crossref": 0.8898181818181818,
+      "openalex": 0.8832633937202188,
+      "gap": -0.00655478809796306,
+      "samples": [
+        {
+          "doi": "10.1186/cc14141",
+          "title": "Procalcitonin levels in patients undergoing left ventricular assist device implantation"
+        },
+        {
+          "doi": "10.15352/afa/06-2-16",
+          "title": "A new look at the crossed products of pro-$C^{\\ast}$-algebras"
+        },
+        {
+          "doi": "10.1007/s13244-015-0390-4",
+          "title": "ECR 2015 Book of Abstracts - E - Authors’ Index"
+        },
+        {
+          "doi": "10.15352/bjma/09-3-17",
+          "title": "Determinantal inequalities for Hadamard product of M-matrices and inverse M-matrices"
+        },
+        {
+          "doi": "10.15352/afa/06-3-19",
+          "title": "Weyl type theorems for algebraically Quasi-$\\mathcal{HNP}$ operators"
+        }
+      ]
+    },
+    {
+      "id": "references_count",
+      "label": "References Count",
+      "category": "accessible_essential",
+      "effort": "voluntary",
+      "crossref": 0.8898181818181818,
+      "openalex": 0.8832633937202188,
+      "gap": -0.00655478809796306,
+      "samples": [
+        {
+          "doi": "10.1186/cc14141",
+          "title": "Procalcitonin levels in patients undergoing left ventricular assist device implantation"
+        },
+        {
+          "doi": "10.15352/afa/06-2-16",
+          "title": "A new look at the crossed products of pro-$C^{\\ast}$-algebras"
+        },
+        {
+          "doi": "10.1007/s13244-015-0390-4",
+          "title": "ECR 2015 Book of Abstracts - E - Authors’ Index"
+        },
+        {
+          "doi": "10.15352/bjma/09-3-17",
+          "title": "Determinantal inequalities for Hadamard product of M-matrices and inverse M-matrices"
+        },
+        {
+          "doi": "10.15352/afa/06-3-19",
+          "title": "Weyl type theorems for algebraically Quasi-$\\mathcal{HNP}$ operators"
+        }
+      ]
+    },
+    {
+      "id": "is_referenced_by",
+      "label": "Is Referenced By",
+      "category": "accessible_essential",
+      "effort": "automatic",
+      "crossref": 0.6860681818181819,
+      "openalex": 0.7104841185902904,
+      "gap": 0.024415936772108515,
+      "samples": [
+        {
+          "doi": "10.1007/s35148-015-0350-9",
+          "title": "Integrierte Bewertung aktiver Fußgängerschutzsysteme"
+        },
+        {
+          "doi": "10.1186/2045-8118-12-s1-o17",
+          "title": "Towards a better understanding of the cellular basis for cerebrospinal fluid shunt obstruction: report on construction of a bank of explanted hydrocephalus devices"
+        },
+        {
+          "doi": "10.1007/s12312-014-1240-x",
+          "title": "Mammographiescreening – wo stehen wir?"
+        },
+        {
+          "doi": "10.1007/s00706-014-1393-4",
+          "title": "Theoretical study of cation–π interactions of Li+, Na+, and K+ with [6]helicene"
+        },
+        {
+          "doi": "10.1007/s00296-015-3254-9",
+          "title": "Meat consumption and gout: Friend, foe or neither?"
+        }
+      ]
+    },
+    {
+      "id": "author_sequence",
+      "label": "Author Sequence",
+      "category": "accessible_support",
+      "effort": "automatic",
+      "crossref": 0.9178522727272728,
+      "openalex": 0.9202802133442507,
+      "gap": 0.0024279406169779305,
+      "samples": [
+        {
+          "doi": "10.1007/s13244-015-0390-4",
+          "title": "ECR 2015 Book of Abstracts - E - Authors’ Index"
+        },
+        {
+          "doi": "10.1055/s-0041-100416",
+          "title": "31. AGA-Kongress von 18.-20.9.2014 in Innsbruck"
+        },
+        {
+          "doi": "10.1007/s12054-015-0029-1",
+          "title": "Kurz und bündig"
+        },
+        {
+          "doi": "10.1007/s11837-015-1371-2",
+          "title": "TMS Foundation: growth through giving"
+        },
+        {
+          "doi": "10.1007/s40267-015-0190-4",
+          "title": "First reports of serious adverse drug reactions in recent weeks"
+        }
+      ]
+    },
+    {
+      "id": "affiliation_ids_ror",
+      "label": "Affiliation IDs (ROR)",
+      "category": "accessible_support",
+      "effort": "voluntary",
+      "crossref": 0.0008863636363636364,
+      "openalex": 0.8584717910227104,
+      "gap": 0.8575854273863468,
+      "samples": [
+        {
+          "doi": "10.1007/s00108-015-3653-8",
+          "title": "53-jährige Urlauberin auf Hiddensee mit Schlangenbiss"
+        },
+        {
+          "doi": "10.1007/s10959-014-0591-7",
+          "title": "The Cameron–Martin Theorem for (p-)Slepian Processes"
+        },
+        {
+          "doi": "10.1007/s11657-015-0205-8",
+          "title": "Osteoporosis management and the utilization of FRAX®: a survey amongst health care professionals of the Asia-Pacific—response to comments by Lee and Ha"
+        },
+        {
+          "doi": "10.1007/s11623-015-0365-0",
+          "title": "Im Überwachungsstaat"
+        },
+        {
+          "doi": "10.1007/s00216-015-8519-3",
+          "title": "European Analytical Column No. 43"
+        }
+      ]
+    },
+    {
+      "id": "relations",
+      "label": "Relations",
+      "category": "accessible_support",
+      "effort": "voluntary",
+      "crossref": 0.01496590909090909,
+      "openalex": 0.9587754312942809,
+      "gap": 0.9438095222033718,
+      "samples": [
+        {
+          "doi": "10.1007/s00108-015-3653-8",
+          "title": "53-jährige Urlauberin auf Hiddensee mit Schlangenbiss"
+        },
+        {
+          "doi": "10.1007/bf03653080",
+          "title": "Wem sollen wir noch glauben?"
+        },
+        {
+          "doi": "10.1007/bf03653084",
+          "title": "Gabapentin: Wirksam bei Alkoholabhängigkeit"
+        },
+        {
+          "doi": "10.1007/bf03653095",
+          "title": "Stärkung hausärztlicher Kompetenzen statt Fragmentierung der Medizin"
+        },
+        {
+          "doi": "10.1007/s11657-015-0205-8",
+          "title": "Osteoporosis management and the utilization of FRAX®: a survey amongst health care professionals of the Asia-Pacific—response to comments by Lee and Ha"
+        }
+      ]
+    },
+    {
+      "id": "author_given_family",
+      "label": "Complete Author Names",
+      "category": "evaluation_coara",
+      "effort": "automatic",
+      "crossref": 0.8991704545454545,
+      "openalex": 0.92025746875462,
+      "gap": 0.021087014209165478,
+      "samples": [
+        {
+          "doi": "10.1007/s12426-015-0006-5",
+          "title": "Ambulancedrone redt levens bij hartstilstand"
+        },
+        {
+          "doi": "10.1007/s15011-015-0086-6",
+          "title": "Neue Option für die Behandlung von Patienten mit Psoriasis und Psoriasis-Arthritis"
+        },
+        {
+          "doi": "10.1007/s00058-015-1243-8",
+          "title": "Stipendium für Spitzen-Azubis"
+        },
+        {
+          "doi": "10.1007/s00350-015-3944-z",
+          "title": "Anforderungen an eine Vertretervereinbarung in Wahlarztverträgen"
+        },
+        {
+          "doi": "10.1007/s12480-015-0020-1",
+          "title": "Vakbeurs Totale Voetverzorging"
+        }
+      ]
+    },
+    {
+      "id": "affiliation_ror",
+      "label": "Affiliation with ROR",
+      "category": "evaluation_coara",
+      "effort": "voluntary",
+      "crossref": 0.0008863636363636364,
+      "openalex": 0.8584717910227104,
+      "gap": 0.8575854273863468,
+      "samples": [
+        {
+          "doi": "10.1007/s00108-015-3653-8",
+          "title": "53-jährige Urlauberin auf Hiddensee mit Schlangenbiss"
+        },
+        {
+          "doi": "10.1007/s10959-014-0591-7",
+          "title": "The Cameron–Martin Theorem for (p-)Slepian Processes"
+        },
+        {
+          "doi": "10.1007/s11657-015-0205-8",
+          "title": "Osteoporosis management and the utilization of FRAX®: a survey amongst health care professionals of the Asia-Pacific—response to comments by Lee and Ha"
+        },
+        {
+          "doi": "10.1007/s11623-015-0365-0",
+          "title": "Im Überwachungsstaat"
+        },
+        {
+          "doi": "10.1007/s00216-015-8519-3",
+          "title": "European Analytical Column No. 43"
+        }
+      ]
+    },
+    {
+      "id": "funding_complete",
+      "label": "Complete Funding Info",
+      "category": "evaluation_coara",
+      "effort": "voluntary",
+      "crossref": 0.19119318181818182,
+      "openalex": 0.2492807023529278,
+      "gap": 0.05808752053474597,
+      "samples": [
+        {
+          "doi": "10.1007/jhep02(2015)078",
+          "title": "Lifshitz scale anomalies"
+        },
+        {
+          "doi": "10.1186/cc14141",
+          "title": "Procalcitonin levels in patients undergoing left ventricular assist device implantation"
+        },
+        {
+          "doi": "10.1186/s13073-015-0130-x",
+          "title": "Using inactivating mutations to provide insight into drug action"
+        },
+        {
+          "doi": "10.1186/s13018-015-0160-5",
+          "title": "The effect of void creation prior to vertebroplasty on intravertebral pressure and cement distribution in cadaveric spines with simulated metastases"
+        },
+        {
+          "doi": "10.1186/1471-2105-16-s3-a8",
+          "title": "Hybrid approaches for the detection of networks of critical residues involved in functional motions in protein families"
+        }
+      ]
+    },
+    {
+      "id": "preprint_version_link",
+      "label": "Preprint / Version Link",
+      "category": "evaluation_coara",
+      "effort": "voluntary",
+      "crossref": 0.005170454545454546,
+      "openalex": 0.4077763751947506,
+      "gap": 0.402605920649296,
+      "samples": [
+        {
+          "doi": "10.1007/s10959-014-0591-7",
+          "title": "The Cameron–Martin Theorem for (p-)Slepian Processes"
+        },
+        {
+          "doi": "10.1007/s11042-015-2523-7",
+          "title": "Aligning shapes for symbol classification and retrieval"
+        },
+        {
+          "doi": "10.1186/2045-8118-12-s1-o17",
+          "title": "Towards a better understanding of the cellular basis for cerebrospinal fluid shunt obstruction: report on construction of a bank of explanted hydrocephalus devices"
+        },
+        {
+          "doi": "10.1007/s00373-014-1501-6",
+          "title": "A New Zero-divisor Graph Contradicting Beck’s Conjecture, and the Classification for a Family of Polynomial Quotients"
+        },
+        {
+          "doi": "10.1007/jhep02(2015)078",
+          "title": "Lifshitz scale anomalies"
+        }
+      ]
+    },
+    {
+      "id": "open_access_status",
+      "label": "Open Access Status",
+      "category": "evaluation_coara",
+      "effort": "automatic",
+      "crossref": 0.2565909090909091,
+      "openalex": 0.439994086406696,
+      "gap": 0.18340317731578692,
+      "samples": [
+        {
+          "doi": "10.1007/bf03653084",
+          "title": "Gabapentin: Wirksam bei Alkoholabhängigkeit"
+        },
+        {
+          "doi": "10.1007/s10959-014-0591-7",
+          "title": "The Cameron–Martin Theorem for (p-)Slepian Processes"
+        },
+        {
+          "doi": "10.1007/bf03653095",
+          "title": "Stärkung hausärztlicher Kompetenzen statt Fragmentierung der Medizin"
+        },
+        {
+          "doi": "10.1007/s11623-015-0365-0",
+          "title": "Im Überwachungsstaat"
+        },
+        {
+          "doi": "10.1007/s00216-015-8519-3",
+          "title": "European Analytical Column No. 43"
+        }
+      ]
+    }
+  ]
+}

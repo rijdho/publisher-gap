@@ -1,0 +1,3810 @@
+{
+  "id": "frontiers",
+  "label": "Frontiers",
+  "memberId": 1965,
+  "category": "global_oa",
+  "categoryLabel": "Commercial OA",
+  "totalWorksSampled": 88000,
+  "totalWorksMatched": 87166,
+  "totalWorksUniverse": 88000,
+  "crossref": {
+    "overall": 0.532647074150597,
+    "categories": {
+      "findable_essential": 0.6490984848484849,
+      "findable_support": 0.3956601239669421,
+      "accessible_essential": 0.8513510101010101,
+      "accessible_support": 0.2439280303030303,
+      "evaluation_coara": 0.20668977272727274
+    },
+    "fields": {
+      "title": 1,
+      "abstract": 0.4370340909090909,
+      "author": 0.9984772727272727,
+      "author_affiliation": 0.011920454545454545,
+      "doi": 1,
+      "publication_date": 1,
+      "publisher": 1,
+      "resource_type": 1,
+      "subject_keywords": 0,
+      "funder_name": 0.32786363636363636,
+      "container_title": 1,
+      "language": 0.013886363636363636,
+      "author_orcid": 0.005636363636363636,
+      "all_authors_orcid": 0.0006704545454545455,
+      "funder_doi": 0.3249431818181818,
+      "award_number": 0.19772727272727272,
+      "issn": 1,
+      "volume": 0.9987840909090909,
+      "issue": 0.01659090909090909,
+      "page": 0.01589772727272727,
+      "published_print_date": 0.01509090909090909,
+      "published_online_date": 0.9986704545454546,
+      "article_number": 0.77825,
+      "license": 0.7255227272727273,
+      "license_url": 0.7255227272727273,
+      "open_access_license": 0.7161363636363637,
+      "full_text_links": 0.8368181818181818,
+      "resource_url": 1,
+      "references": 0.9285795454545455,
+      "references_count": 0.9285795454545455,
+      "is_referenced_by": 0.8854090909090909,
+      "update_policy": 0.9155909090909091,
+      "jats_abstract": 0.4370340909090909,
+      "author_sequence": 0.9983977272727272,
+      "affiliation_ids_ror": 0,
+      "relations": 0.02168181818181818,
+      "assertions": 0.001681818181818182,
+      "archive": 0.004772727272727273,
+      "credit_roles": 0,
+      "author_given_family": 0.9926477272727273,
+      "affiliation_ror": 0,
+      "funding_complete": 0.19543181818181818,
+      "data_availability": 0,
+      "preprint_version_link": 0.010352272727272727,
+      "peer_review_info": 0.0008636363636363636,
+      "clinical_trial": 0,
+      "abstract_structured": 0.1514659090909091,
+      "open_access_status": 0.7161363636363637
+    }
+  },
+  "openalex": {
+    "overall": 0.7369166830640341,
+    "categories": {
+      "findable_essential": 0.9659672349310512,
+      "findable_support": 0.6615715468708608,
+      "accessible_essential": 0.8431625990766023,
+      "accessible_support": 0.4892102425257554,
+      "evaluation_coara": 0.4408955326618177
+    },
+    "fields": {
+      "title": 1,
+      "abstract": 0.9857627974210128,
+      "author": 0.9988183466030333,
+      "author_affiliation": 0.9656402725833467,
+      "doi": 1,
+      "publication_date": 1,
+      "publisher": 1,
+      "resource_type": 1,
+      "subject_keywords": 1,
+      "funder_name": 0.6415115985590712,
+      "container_title": 1,
+      "language": 0.9998738040061492,
+      "author_orcid": 0.9719615446389648,
+      "all_authors_orcid": 0.32784571966133585,
+      "funder_doi": 0.6415115985590712,
+      "award_number": 0.4896060390519239,
+      "issn": 1,
+      "volume": 0.999931165821536,
+      "issue": 0.018826147809925888,
+      "page": 0.8276048000367116,
+      "published_print_date": 1,
+      "published_online_date": 1,
+      "article_number": 0,
+      "license": 0.9878737122272445,
+      "license_url": 0.9878737122272445,
+      "open_access_license": 0.9875295413349242,
+      "full_text_links": 0.8394786958217654,
+      "resource_url": 1,
+      "references": 0.9453571346625979,
+      "references_count": 0.9453571346625979,
+      "is_referenced_by": 0.8949934607530459,
+      "update_policy": 0,
+      "jats_abstract": 0,
+      "author_sequence": 0.9988183466030333,
+      "affiliation_ids_ror": 0.9655370213156506,
+      "relations": 0.9709060872358488,
+      "assertions": 0,
+      "archive": 0,
+      "credit_roles": 0,
+      "author_given_family": 0.9988183466030333,
+      "affiliation_ror": 0.9655370213156506,
+      "funding_complete": 0.4896060390519239,
+      "data_availability": 0,
+      "preprint_version_link": 0.9595255030631209,
+      "peer_review_info": 0,
+      "clinical_trial": 0,
+      "abstract_structured": 0,
+      "open_access_status": 0.9954684165844481
+    }
+  },
+  "gap": 0.20426960891343715,
+  "comparable": {
+    "crossref": {
+      "categories": {
+        "findable_essential": 0.6490984848484849,
+        "findable_support": 0.35740113636363635,
+        "accessible_essential": 0.8433210227272727,
+        "accessible_support": 0.34002651515151516,
+        "evaluation_coara": 0.3829136363636364
+      },
+      "overall": 0.5697553503787879
+    },
+    "openalex": {
+      "categories": {
+        "findable_essential": 0.9659672349310512,
+        "findable_support": 0.727728701557947,
+        "accessible_essential": 0.9485579239611776,
+        "accessible_support": 0.9784204850515108,
+        "evaluation_coara": 0.8817910653236354
+      },
+      "overall": 0.91028921827318
+    },
+    "gap": 0.3405338678943921,
+    "fieldCount": 38,
+    "totalFieldCount": 48
+  },
+  "voluntary": {
+    "crossref": {
+      "categories": {
+        "findable_essential": 0.19420454545454546,
+        "findable_support": 0.13224431818181817,
+        "accessible_essential": 0.8577651515151515,
+        "accessible_support": 0.01084090909090909,
+        "evaluation_coara": 0.06859469696969697
+      },
+      "overall": 0.3073423295454546
+    },
+    "openalex": {
+      "categories": {
+        "findable_essential": 0.8982286671408577,
+        "findable_support": 0.607731225477824,
+        "accessible_essential": 0.9594146035533733,
+        "accessible_support": 0.9682215542757497,
+        "evaluation_coara": 0.8048895211435653
+      },
+      "overall": 0.8582819945085624
+    },
+    "gap": 0.5509396649631078,
+    "fieldCount": 16
+  },
+  "automatic": {
+    "crossref": {
+      "categories": {
+        "findable_essential": 0.8765454545454546,
+        "findable_support": 0.5075056818181819,
+        "accessible_essential": 0.8346545454545454,
+        "accessible_support": 0.9983977272727272,
+        "evaluation_coara": 0.8543920454545455
+      },
+      "overall": 0.8184713068181819
+    },
+    "openalex": {
+      "categories": {
+        "findable_essential": 0.9998365188261478,
+        "findable_support": 0.8077270189446956,
+        "accessible_essential": 0.9420439162058599,
+        "accessible_support": 0.9988183466030333,
+        "evaluation_coara": 0.9971433815937407
+      },
+      "overall": 0.9559314985200651
+    },
+    "gap": 0.13746019170188317,
+    "fieldCount": 22
+  },
+  "yearlyScores": [
+    {
+      "year": 2015,
+      "count": 8000,
+      "matched": 7939,
+      "universeSize": 15391,
+      "crossref": {
+        "overall": 0.37625675505050504,
+        "categories": {
+          "findable_essential": 0.6038333333333333,
+          "findable_support": 0.31006818181818185,
+          "accessible_essential": 0.4353194444444444,
+          "accessible_support": 0.17266666666666666,
+          "evaluation_coara": 0.1125
+        },
+        "fields": {
+          "title": 1,
+          "abstract": 0.0215,
+          "author": 0.995375,
+          "author_affiliation": 0.02975,
+          "doi": 1,
+          "publication_date": 1,
+          "publisher": 1,
+          "resource_type": 1,
+          "subject_keywords": 0,
+          "funder_name": 0.163375,
+          "container_title": 1,
+          "language": 0.036,
+          "author_orcid": 0.001,
+          "all_authors_orcid": 0,
+          "funder_doi": 0.15,
+          "award_number": 0.131625,
+          "issn": 1,
+          "volume": 0.999,
+          "issue": 0.043375,
+          "page": 0.042125,
+          "published_print_date": 0.0385,
+          "published_online_date": 0.9975,
+          "article_number": 0.007625,
+          "license": 0.032625,
+          "license_url": 0.032625,
+          "open_access_license": 0.008,
+          "full_text_links": 0.03875,
+          "resource_url": 1,
+          "references": 0.756,
+          "references_count": 0.756,
+          "is_referenced_by": 0.89975,
+          "update_policy": 0.394125,
+          "jats_abstract": 0.0215,
+          "author_sequence": 0.99525,
+          "affiliation_ids_ror": 0,
+          "relations": 0.0105,
+          "assertions": 0.0015,
+          "archive": 0.00725,
+          "credit_roles": 0,
+          "author_given_family": 0.992125,
+          "affiliation_ror": 0,
+          "funding_complete": 0.12175,
+          "data_availability": 0,
+          "preprint_version_link": 0.001875,
+          "peer_review_info": 0.00125,
+          "clinical_trial": 0,
+          "abstract_structured": 0,
+          "open_access_status": 0.008
+        }
+      },
+      "openalex": {
+        "overall": 0.7280313527007065,
+        "categories": {
+          "findable_essential": 0.9591888147121804,
+          "findable_support": 0.6547767637325516,
+          "accessible_essential": 0.8313809463828359,
+          "accessible_support": 0.48723600789352145,
+          "evaluation_coara": 0.4274467817105429
+        },
+        "fields": {
+          "title": 1,
+          "abstract": 0.9876558760549188,
+          "author": 0.9965990678926817,
+          "author_affiliation": 0.9282025444010581,
+          "doi": 1,
+          "publication_date": 1,
+          "publisher": 1,
+          "resource_type": 1,
+          "subject_keywords": 1,
+          "funder_name": 0.597808288197506,
+          "container_title": 1,
+          "language": 1,
+          "author_orcid": 0.9219045219800982,
+          "all_authors_orcid": 0.3554603854389722,
+          "funder_doi": 0.597808288197506,
+          "award_number": 0.44942687995969266,
+          "issn": 1,
+          "volume": 1,
+          "issue": 0.0450938405340723,
+          "page": 0.8328504849477264,
+          "published_print_date": 1,
+          "published_online_date": 1,
+          "article_number": 0,
+          "license": 0.9693916110341353,
+          "license_url": 0.9693916110341353,
+          "open_access_license": 0.9686358483436202,
+          "full_text_links": 0.8700088172313893,
+          "resource_url": 1,
+          "references": 0.8969643531930974,
+          "references_count": 0.8969643531930974,
+          "is_referenced_by": 0.9110719234160474,
+          "update_policy": 0,
+          "jats_abstract": 0,
+          "author_sequence": 0.9965990678926817,
+          "affiliation_ids_ror": 0.9278246630558005,
+          "relations": 0.9989923164126464,
+          "assertions": 0,
+          "archive": 0,
+          "credit_roles": 0,
+          "author_given_family": 0.9965990678926817,
+          "affiliation_ror": 0.9278246630558005,
+          "funding_complete": 0.44942687995969266,
+          "data_availability": 0,
+          "preprint_version_link": 0.9144728555233657,
+          "peer_review_info": 0,
+          "clinical_trial": 0,
+          "abstract_structured": 0,
+          "open_access_status": 0.9861443506738884
+        }
+      },
+      "comparable": {
+        "crossref": {
+          "categories": {
+            "findable_essential": 0.6038333333333333,
+            "findable_support": 0.3403125,
+            "accessible_essential": 0.44046875,
+            "accessible_support": 0.33525,
+            "evaluation_coara": 0.22475
+          },
+          "overall": 0.4207890625
+        },
+        "openalex": {
+          "categories": {
+            "findable_essential": 0.9591888147121804,
+            "findable_support": 0.7202544401058067,
+            "accessible_essential": 0.9353035646806903,
+            "accessible_support": 0.9744720157870429,
+            "evaluation_coara": 0.8548935634210858
+          },
+          "overall": 0.8980466158626191
+        },
+        "gap": 0.47725755336261916
+      },
+      "voluntary": {
+        "crossref": 0.16212864583333333,
+        "openalex": 0.8300336944199521
+      }
+    },
+    {
+      "year": 2016,
+      "count": 8000,
+      "matched": 7937,
+      "universeSize": 20342,
+      "crossref": {
+        "overall": 0.4164815151515151,
+        "categories": {
+          "findable_essential": 0.6260208333333334,
+          "findable_support": 0.35395454545454547,
+          "accessible_essential": 0.5241666666666667,
+          "accessible_support": 0.17485416666666667,
+          "evaluation_coara": 0.135275
+        },
+        "fields": {
+          "title": 1,
+          "abstract": 0.026,
+          "author": 0.9955,
+          "author_affiliation": 0.02425,
+          "doi": 1,
+          "publication_date": 1,
+          "publisher": 1,
+          "resource_type": 1,
+          "subject_keywords": 0,
+          "funder_name": 0.4345,
+          "container_title": 1,
+          "language": 0.032,
+          "author_orcid": 0.001375,
+          "all_authors_orcid": 0.00025,
+          "funder_doi": 0.426125,
+          "award_number": 0.35225,
+          "issn": 1,
+          "volume": 0.998875,
+          "issue": 0.0385,
+          "page": 0.0345,
+          "published_print_date": 0.033625,
+          "published_online_date": 0.998375,
+          "article_number": 0.009625,
+          "license": 0.032875,
+          "license_url": 0.032875,
+          "open_access_license": 0.00925,
+          "full_text_links": 0.27225,
+          "resource_url": 1,
+          "references": 0.837125,
+          "references_count": 0.837125,
+          "is_referenced_by": 0.852875,
+          "update_policy": 0.843125,
+          "jats_abstract": 0.026,
+          "author_sequence": 0.994875,
+          "affiliation_ids_ror": 0,
+          "relations": 0.014625,
+          "assertions": 0.002875,
+          "archive": 0.01075,
+          "credit_roles": 0,
+          "author_given_family": 0.992625,
+          "affiliation_ror": 0,
+          "funding_complete": 0.344875,
+          "data_availability": 0,
+          "preprint_version_link": 0.002625,
+          "peer_review_info": 0.002625,
+          "clinical_trial": 0,
+          "abstract_structured": 0.00075,
+          "open_access_status": 0.00925
+        }
+      },
+      "openalex": {
+        "overall": 0.7197546015783386,
+        "categories": {
+          "findable_essential": 0.9564801982277099,
+          "findable_support": 0.6564422096739093,
+          "accessible_essential": 0.810633740708076,
+          "accessible_support": 0.47618747637646464,
+          "evaluation_coara": 0.4203351392213682
+        },
+        "fields": {
+          "title": 1,
+          "abstract": 0.989164671790349,
+          "author": 0.995968249968502,
+          "author_affiliation": 0.8619125614211919,
+          "doi": 1,
+          "publication_date": 1,
+          "publisher": 1,
+          "resource_type": 1,
+          "subject_keywords": 1,
+          "funder_name": 0.6307168955524758,
+          "container_title": 1,
+          "language": 1,
+          "author_orcid": 0.9339800932342195,
+          "all_authors_orcid": 0.32493385410104575,
+          "funder_doi": 0.6307168955524758,
+          "award_number": 0.5156860274662971,
+          "issn": 1,
+          "volume": 0.9998740078115157,
+          "issue": 0.0405694846919491,
+          "page": 0.7751039435554996,
+          "published_print_date": 1,
+          "published_online_date": 1,
+          "article_number": 0,
+          "license": 0.9700138591407332,
+          "license_url": 0.9700138591407332,
+          "open_access_license": 0.9697618747637646,
+          "full_text_links": 0.8228549829910545,
+          "resource_url": 1,
+          "references": 0.8469194909915585,
+          "references_count": 0.8469194909915585,
+          "is_referenced_by": 0.8692201083532821,
+          "update_policy": 0,
+          "jats_abstract": 0,
+          "author_sequence": 0.995968249968502,
+          "affiliation_ids_ror": 0.8617865692327076,
+          "relations": 0.9993700390575785,
+          "assertions": 0,
+          "archive": 0,
+          "credit_roles": 0,
+          "author_given_family": 0.995968249968502,
+          "affiliation_ror": 0.8617865692327076,
+          "funding_complete": 0.5156860274662971,
+          "data_availability": 0,
+          "preprint_version_link": 0.8421317878291545,
+          "peer_review_info": 0,
+          "clinical_trial": 0,
+          "abstract_structured": 0,
+          "open_access_status": 0.9877787577170215
+        }
+      },
+      "comparable": {
+        "crossref": {
+          "categories": {
+            "findable_essential": 0.6260208333333334,
+            "findable_support": 0.3883875,
+            "accessible_essential": 0.484296875,
+            "accessible_support": 0.3365,
+            "evaluation_coara": 0.269875
+          },
+          "overall": 0.45476359375000003
+        },
+        "openalex": {
+          "categories": {
+            "findable_essential": 0.9564801982277099,
+            "findable_support": 0.7220864306413002,
+            "accessible_essential": 0.9119629582965856,
+            "accessible_support": 0.9523749527529293,
+            "evaluation_coara": 0.8406702784427365
+          },
+          "overall": 0.8866193146024947
+        },
+        "gap": 0.43185572085249463
+      },
+      "voluntary": {
+        "crossref": 0.22979583333333334,
+        "openalex": 0.8143321364075427
+      }
+    },
+    {
+      "year": 2017,
+      "count": 8000,
+      "matched": 7917,
+      "universeSize": 21760,
+      "crossref": {
+        "overall": 0.46239214646464644,
+        "categories": {
+          "findable_essential": 0.6285416666666666,
+          "findable_support": 0.4247272727272727,
+          "accessible_essential": 0.6558472222222221,
+          "accessible_support": 0.1743125,
+          "evaluation_coara": 0.1436375
+        },
+        "fields": {
+          "title": 1,
+          "abstract": 0.020125,
+          "author": 0.996,
+          "author_affiliation": 0.022375,
+          "doi": 1,
+          "publication_date": 1,
+          "publisher": 1,
+          "resource_type": 1,
+          "subject_keywords": 0,
+          "funder_name": 0.4765,
+          "container_title": 1,
+          "language": 0.0275,
+          "author_orcid": 0.008,
+          "all_authors_orcid": 0.00025,
+          "funder_doi": 0.47375,
+          "award_number": 0.40225,
+          "issn": 1,
+          "volume": 0.999375,
+          "issue": 0.0345,
+          "page": 0.03175,
+          "published_print_date": 0.03075,
+          "published_online_date": 0.99675,
+          "article_number": 0.694625,
+          "license": 0.047625,
+          "license_url": 0.047625,
+          "open_access_license": 0.029375,
+          "full_text_links": 0.9685,
+          "resource_url": 1,
+          "references": 0.9465,
+          "references_count": 0.9465,
+          "is_referenced_by": 0.966,
+          "update_policy": 0.9505,
+          "jats_abstract": 0.020125,
+          "author_sequence": 0.995875,
+          "affiliation_ids_ror": 0,
+          "relations": 0.01825,
+          "assertions": 0.001625,
+          "archive": 0.01,
+          "credit_roles": 0,
+          "author_given_family": 0.99225,
+          "affiliation_ror": 0,
+          "funding_complete": 0.400125,
+          "data_availability": 0,
+          "preprint_version_link": 0.004625,
+          "peer_review_info": 0.0015,
+          "clinical_trial": 0,
+          "abstract_structured": 0.0085,
+          "open_access_status": 0.029375
+        }
+      },
+      "openalex": {
+        "overall": 0.7504380804380805,
+        "categories": {
+          "findable_essential": 0.9732642836091112,
+          "findable_support": 0.6877375498065154,
+          "accessible_essential": 0.8626864833761385,
+          "accessible_support": 0.4952423055871331,
+          "evaluation_coara": 0.4505115574081091
+        },
+        "fields": {
+          "title": 1,
+          "abstract": 0.9919161298471644,
+          "author": 0.9972211696349628,
+          "author_affiliation": 0.9761273209549072,
+          "doi": 1,
+          "publication_date": 1,
+          "publisher": 1,
+          "resource_type": 1,
+          "subject_keywords": 1,
+          "funder_name": 0.7139067828723001,
+          "container_title": 1,
+          "language": 1,
+          "author_orcid": 0.9786535303776683,
+          "all_authors_orcid": 0.3623847416950865,
+          "funder_doi": 0.7139067828723001,
+          "award_number": 0.5891120373878994,
+          "issn": 1,
+          "volume": 0.9998736895288619,
+          "issue": 0.037261588985726915,
+          "page": 0.8839206770241252,
+          "published_print_date": 1,
+          "published_online_date": 1,
+          "article_number": 0,
+          "license": 0.975748389541493,
+          "license_url": 0.975748389541493,
+          "open_access_license": 0.9746115953012505,
+          "full_text_links": 0.940634078565113,
+          "resource_url": 1,
+          "references": 0.9626121005431351,
+          "references_count": 0.9626121005431351,
+          "is_referenced_by": 0.9722116963496273,
+          "update_policy": 0,
+          "jats_abstract": 0,
+          "author_sequence": 0.9972211696349628,
+          "affiliation_ids_ror": 0.9760010104837691,
+          "relations": 0.9982316534040672,
+          "assertions": 0,
+          "archive": 0,
+          "credit_roles": 0,
+          "author_given_family": 0.9972211696349628,
+          "affiliation_ror": 0.9760010104837691,
+          "funding_complete": 0.5891120373878994,
+          "data_availability": 0,
+          "preprint_version_link": 0.9511178476695719,
+          "peer_review_info": 0,
+          "clinical_trial": 0,
+          "abstract_structured": 0,
+          "open_access_status": 0.9916635089048882
+        }
+      },
+      "comparable": {
+        "crossref": {
+          "categories": {
+            "findable_essential": 0.6285416666666666,
+            "findable_support": 0.39773749999999997,
+            "accessible_essential": 0.619015625,
+            "accessible_support": 0.33804166666666663,
+            "evaluation_coara": 0.285275
+          },
+          "overall": 0.4938361979166666
+        },
+        "openalex": {
+          "categories": {
+            "findable_essential": 0.9732642836091112,
+            "findable_support": 0.7565113047871669,
+            "accessible_essential": 0.9705222937981558,
+            "accessible_support": 0.9904846111742662,
+            "evaluation_coara": 0.9010231148162182
+          },
+          "overall": 0.9273396383310176
+        },
+        "gap": 0.433503440414351
+      },
+      "voluntary": {
+        "crossref": 0.26017812500000004,
+        "openalex": 0.8834117510841649
+      }
+    },
+    {
+      "year": 2018,
+      "count": 8000,
+      "matched": 7897,
+      "universeSize": 30202,
+      "crossref": {
+        "overall": 0.5504018749999999,
+        "categories": {
+          "findable_essential": 0.6235937500000001,
+          "findable_support": 0.43700000000000006,
+          "accessible_essential": 0.9391250000000001,
+          "accessible_support": 0.17550000000000002,
+          "evaluation_coara": 0.22721249999999998
+        },
+        "fields": {
+          "title": 1,
+          "abstract": 0.01525,
+          "author": 0.999375,
+          "author_affiliation": 0.013,
+          "doi": 1,
+          "publication_date": 1,
+          "publisher": 1,
+          "resource_type": 1,
+          "subject_keywords": 0,
+          "funder_name": 0.440625,
+          "container_title": 1,
+          "language": 0.014875,
+          "author_orcid": 0.0095,
+          "all_authors_orcid": 0.00125,
+          "funder_doi": 0.439375,
+          "award_number": 0.363875,
+          "issn": 1,
+          "volume": 0.999375,
+          "issue": 0.018125,
+          "page": 0.019,
+          "published_print_date": 0.017125,
+          "published_online_date": 0.997625,
+          "article_number": 0.94175,
+          "license": 0.908125,
+          "license_url": 0.908125,
+          "open_access_license": 0.899,
+          "full_text_links": 0.9595,
+          "resource_url": 1,
+          "references": 0.93875,
+          "references_count": 0.93875,
+          "is_referenced_by": 0.951125,
+          "update_policy": 0.94875,
+          "jats_abstract": 0.01525,
+          "author_sequence": 0.999375,
+          "affiliation_ids_ror": 0,
+          "relations": 0.0285,
+          "assertions": 0.003625,
+          "archive": 0.00625,
+          "credit_roles": 0,
+          "author_given_family": 0.993875,
+          "affiliation_ror": 0,
+          "funding_complete": 0.36325,
+          "data_availability": 0,
+          "preprint_version_link": 0.0105,
+          "peer_review_info": 0.001375,
+          "clinical_trial": 0,
+          "abstract_structured": 0.004125,
+          "open_access_status": 0.899
+        }
+      },
+      "openalex": {
+        "overall": 0.7428925061684337,
+        "categories": {
+          "findable_essential": 0.9721835296104006,
+          "findable_support": 0.685277493179228,
+          "accessible_essential": 0.8375754505930523,
+          "accessible_support": 0.4926343337132244,
+          "evaluation_coara": 0.4489426364442193
+        },
+        "fields": {
+          "title": 1,
+          "abstract": 0.9940483727997974,
+          "author": 0.999493478536153,
+          "author_affiliation": 0.9569456755730024,
+          "doi": 1,
+          "publication_date": 1,
+          "publisher": 1,
+          "resource_type": 1,
+          "subject_keywords": 1,
+          "funder_name": 0.7157148284158541,
+          "container_title": 1,
+          "language": 1,
+          "author_orcid": 0.9834114220590098,
+          "all_authors_orcid": 0.3695074078764088,
+          "funder_doi": 0.7157148284158541,
+          "award_number": 0.5885779409902495,
+          "issn": 1,
+          "volume": 1,
+          "issue": 0.021527162213498797,
+          "page": 0.8593136634164873,
+          "published_print_date": 1,
+          "published_online_date": 1,
+          "article_number": 0,
+          "license": 0.9870837026719007,
+          "license_url": 0.9870837026719007,
+          "open_access_license": 0.9860706597442067,
+          "full_text_links": 0.7310371026972268,
+          "resource_url": 1,
+          "references": 0.9455489426364442,
+          "references_count": 0.9455489426364442,
+          "is_referenced_by": 0.9558060022793465,
+          "update_policy": 0,
+          "jats_abstract": 0,
+          "author_sequence": 0.999493478536153,
+          "affiliation_ids_ror": 0.9569456755730024,
+          "relations": 0.9993668481701912,
+          "assertions": 0,
+          "archive": 0,
+          "credit_roles": 0,
+          "author_given_family": 0.999493478536153,
+          "affiliation_ror": 0.9569456755730024,
+          "funding_complete": 0.5885779409902495,
+          "data_availability": 0,
+          "preprint_version_link": 0.9482081803216411,
+          "peer_review_info": 0,
+          "clinical_trial": 0,
+          "abstract_structured": 0,
+          "open_access_status": 0.9962010890211472
+        }
+      },
+      "comparable": {
+        "crossref": {
+          "categories": {
+            "findable_essential": 0.6235937500000001,
+            "findable_support": 0.38652500000000006,
+            "accessible_essential": 0.937921875,
+            "accessible_support": 0.342625,
+            "evaluation_coara": 0.453325
+          },
+          "overall": 0.60446484375
+        },
+        "openalex": {
+          "categories": {
+            "findable_essential": 0.9721835296104006,
+            "findable_support": 0.7538052424971509,
+            "accessible_essential": 0.9422723819171838,
+            "accessible_support": 0.9852686674264488,
+            "evaluation_coara": 0.8978852728884386
+          },
+          "overall": 0.9183978620573213
+        },
+        "gap": 0.31393301830732134
+      },
+      "voluntary": {
+        "crossref": 0.3234072916666667,
+        "openalex": 0.8784770587987
+      }
+    },
+    {
+      "year": 2019,
+      "count": 8000,
+      "matched": 7897,
+      "universeSize": 34788,
+      "crossref": {
+        "overall": 0.5494406123737373,
+        "categories": {
+          "findable_essential": 0.6201145833333334,
+          "findable_support": 0.4167045454545454,
+          "accessible_essential": 0.9610138888888891,
+          "accessible_support": 0.17677083333333335,
+          "evaluation_coara": 0.21484999999999999
+        },
+        "fields": {
+          "title": 1,
+          "abstract": 0.017125,
+          "author": 0.9985,
+          "author_affiliation": 0.013375,
+          "doi": 1,
+          "publication_date": 1,
+          "publisher": 1,
+          "resource_type": 1,
+          "subject_keywords": 0,
+          "funder_name": 0.39675,
+          "container_title": 1,
+          "language": 0.015625,
+          "author_orcid": 0.014,
+          "all_authors_orcid": 0.00275,
+          "funder_doi": 0.39625,
+          "award_number": 0.17225,
+          "issn": 1,
+          "volume": 0.997,
+          "issue": 0.0185,
+          "page": 0.01875,
+          "published_print_date": 0.017875,
+          "published_online_date": 0.99775,
+          "article_number": 0.948625,
+          "license": 0.964875,
+          "license_url": 0.964875,
+          "open_access_license": 0.955375,
+          "full_text_links": 0.968875,
+          "resource_url": 1,
+          "references": 0.942375,
+          "references_count": 0.942375,
+          "is_referenced_by": 0.9545,
+          "update_policy": 0.955875,
+          "jats_abstract": 0.017125,
+          "author_sequence": 0.9985,
+          "affiliation_ids_ror": 0,
+          "relations": 0.0355,
+          "assertions": 0.00275,
+          "archive": 0.00675,
+          "credit_roles": 0,
+          "author_given_family": 0.994,
+          "affiliation_ror": 0,
+          "funding_complete": 0.172,
+          "data_availability": 0,
+          "preprint_version_link": 0.021125,
+          "peer_review_info": 0.001125,
+          "clinical_trial": 0,
+          "abstract_structured": 0.004875,
+          "open_access_status": 0.955375
+        }
+      },
+      "openalex": {
+        "overall": 0.7427129596586353,
+        "categories": {
+          "findable_essential": 0.9731965725380946,
+          "findable_support": 0.681939056258418,
+          "accessible_essential": 0.8387995441306824,
+          "accessible_support": 0.4937740070068802,
+          "evaluation_coara": 0.44692921362542737
+        },
+        "fields": {
+          "title": 1,
+          "abstract": 0.9949347853615297,
+          "author": 0.9988603267063442,
+          "author_affiliation": 0.9647967582626313,
+          "doi": 1,
+          "publication_date": 1,
+          "publisher": 1,
+          "resource_type": 1,
+          "subject_keywords": 1,
+          "funder_name": 0.7197670001266304,
+          "container_title": 1,
+          "language": 1,
+          "author_orcid": 0.9845510953526656,
+          "all_authors_orcid": 0.38369000886412563,
+          "funder_doi": 0.7197670001266304,
+          "award_number": 0.5538812207167279,
+          "issn": 1,
+          "volume": 0.9998733696340383,
+          "issue": 0.023933139166772192,
+          "page": 0.8356337849816386,
+          "published_print_date": 1,
+          "published_online_date": 1,
+          "article_number": 0,
+          "license": 0.9858173990122832,
+          "license_url": 0.9858173990122832,
+          "open_access_license": 0.9858173990122832,
+          "full_text_links": 0.7343294922122325,
+          "resource_url": 1,
+          "references": 0.9484614410535647,
+          "references_count": 0.9484614410535647,
+          "is_referenced_by": 0.9604913258199316,
+          "update_policy": 0,
+          "jats_abstract": 0,
+          "author_sequence": 0.9988603267063442,
+          "affiliation_ids_ror": 0.9647967582626313,
+          "relations": 0.9989869570723059,
+          "assertions": 0,
+          "archive": 0,
+          "credit_roles": 0,
+          "author_given_family": 0.9988603267063442,
+          "affiliation_ror": 0.9647967582626313,
+          "funding_complete": 0.5538812207167279,
+          "data_availability": 0,
+          "preprint_version_link": 0.9554261111814614,
+          "peer_review_info": 0,
+          "clinical_trial": 0,
+          "abstract_structured": 0,
+          "open_access_status": 0.9963277193871091
+        }
+      },
+      "comparable": {
+        "crossref": {
+          "categories": {
+            "findable_essential": 0.6201145833333334,
+            "findable_support": 0.36351249999999996,
+            "accessible_essential": 0.9616562500000001,
+            "accessible_support": 0.3446666666666667,
+            "evaluation_coara": 0.4285
+          },
+          "overall": 0.6011419791666667
+        },
+        "openalex": {
+          "categories": {
+            "findable_essential": 0.9731965725380946,
+            "findable_support": 0.7501329618842598,
+            "accessible_essential": 0.9436494871470177,
+            "accessible_support": 0.9875480140137604,
+            "evaluation_coara": 0.8938584272508547
+          },
+          "overall": 0.9179177746823688
+        },
+        "gap": 0.3167757955157021
+      },
+      "voluntary": {
+        "crossref": 0.3053177083333333,
+        "openalex": 0.878391055675151
+      }
+    },
+    {
+      "year": 2020,
+      "count": 8000,
+      "matched": 7873,
+      "universeSize": 49150,
+      "crossref": {
+        "overall": 0.5627377904040404,
+        "categories": {
+          "findable_essential": 0.6317083333333334,
+          "findable_support": 0.42104545454545456,
+          "accessible_essential": 0.9875138888888889,
+          "accessible_support": 0.19574999999999998,
+          "evaluation_coara": 0.21807499999999996
+        },
+        "fields": {
+          "title": 1,
+          "abstract": 0.131625,
+          "author": 0.999,
+          "author_affiliation": 0.0125,
+          "doi": 1,
+          "publication_date": 1,
+          "publisher": 1,
+          "resource_type": 1,
+          "subject_keywords": 0,
+          "funder_name": 0.423375,
+          "container_title": 1,
+          "language": 0.014,
+          "author_orcid": 0.014,
+          "all_authors_orcid": 0.00175,
+          "funder_doi": 0.42175,
+          "award_number": 0.168375,
+          "issn": 1,
+          "volume": 0.998,
+          "issue": 0.01625,
+          "page": 0.01575,
+          "published_print_date": 0.0155,
+          "published_online_date": 0.9985,
+          "article_number": 0.981625,
+          "license": 0.99675,
+          "license_url": 0.99675,
+          "open_access_license": 0.986875,
+          "full_text_links": 0.998375,
+          "resource_url": 1,
+          "references": 0.972,
+          "references_count": 0.972,
+          "is_referenced_by": 0.9755,
+          "update_policy": 0.989375,
+          "jats_abstract": 0.131625,
+          "author_sequence": 0.999,
+          "affiliation_ids_ror": 0,
+          "relations": 0.035,
+          "assertions": 0.00275,
+          "archive": 0.006125,
+          "credit_roles": 0,
+          "author_given_family": 0.994375,
+          "affiliation_ror": 0,
+          "funding_complete": 0.167125,
+          "data_availability": 0,
+          "preprint_version_link": 0.021125,
+          "peer_review_info": 0.000875,
+          "clinical_trial": 0,
+          "abstract_structured": 0.010375,
+          "open_access_status": 0.986875
+        }
+      },
+      "openalex": {
+        "overall": 0.7478169860679706,
+        "categories": {
+          "findable_essential": 0.9757187010457683,
+          "findable_support": 0.6832557763587866,
+          "accessible_essential": 0.8486670336028903,
+          "accessible_support": 0.49832761759600325,
+          "evaluation_coara": 0.4530674457004954
+        },
+        "fields": {
+          "title": 1,
+          "abstract": 0.9925060332782929,
+          "author": 0.9993649180744316,
+          "author_affiliation": 0.9923790168931792,
+          "doi": 1,
+          "publication_date": 1,
+          "publisher": 1,
+          "resource_type": 1,
+          "subject_keywords": 1,
+          "funder_name": 0.7243744443033151,
+          "container_title": 1,
+          "language": 1,
+          "author_orcid": 0.9895846564206783,
+          "all_authors_orcid": 0.3741902705449003,
+          "funder_doi": 0.7243744443033151,
+          "award_number": 0.5579829798043948,
+          "issn": 1,
+          "volume": 1,
+          "issue": 0.01917947415216563,
+          "page": 0.8505017147211991,
+          "published_print_date": 1,
+          "published_online_date": 1,
+          "article_number": 0,
+          "license": 0.9879334434142004,
+          "license_url": 0.9879334434142004,
+          "open_access_license": 0.9875523942588594,
+          "full_text_links": 0.7422837546043439,
+          "resource_url": 1,
+          "references": 0.9765019687539692,
+          "references_count": 0.9765019687539692,
+          "is_referenced_by": 0.9792963292264703,
+          "update_policy": 0,
+          "jats_abstract": 0,
+          "author_sequence": 0.9993649180744316,
+          "affiliation_ids_ror": 0.9923790168931792,
+          "relations": 0.9982217706084084,
+          "assertions": 0,
+          "archive": 0,
+          "credit_roles": 0,
+          "author_given_family": 0.9993649180744316,
+          "affiliation_ror": 0.9923790168931792,
+          "funding_complete": 0.5579829798043948,
+          "data_availability": 0,
+          "preprint_version_link": 0.9852660993268132,
+          "peer_review_info": 0,
+          "clinical_trial": 0,
+          "abstract_structured": 0,
+          "open_access_status": 0.9956814429061349
+        }
+      },
+      "comparable": {
+        "crossref": {
+          "categories": {
+            "findable_essential": 0.6317083333333334,
+            "findable_support": 0.36498749999999996,
+            "accessible_essential": 0.9872812499999999,
+            "accessible_support": 0.3446666666666667,
+            "evaluation_coara": 0.43390000000000006
+          },
+          "overall": 0.6123276041666668
+        },
+        "openalex": {
+          "categories": {
+            "findable_essential": 0.9757187010457683,
+            "findable_support": 0.7515813539946653,
+            "accessible_essential": 0.9547504128032516,
+            "accessible_support": 0.9966552351920065,
+            "evaluation_coara": 0.9061348914009908
+          },
+          "overall": 0.9250329184131421
+        },
+        "gap": 0.3127053142464753
+      },
+      "voluntary": {
+        "crossref": 0.3238223958333333,
+        "openalex": 0.8910426986747957
+      }
+    },
+    {
+      "year": 2021,
+      "count": 8000,
+      "matched": 7867,
+      "universeSize": 86510,
+      "crossref": {
+        "overall": 0.595568226010101,
+        "categories": {
+          "findable_essential": 0.6939687500000001,
+          "findable_support": 0.4143636363636363,
+          "accessible_essential": 0.9896805555555555,
+          "accessible_support": 0.32935416666666667,
+          "evaluation_coara": 0.22433750000000002
+        },
+        "fields": {
+          "title": 1,
+          "abstract": 0.93675,
+          "author": 0.99975,
+          "author_affiliation": 0.006125,
+          "doi": 1,
+          "publication_date": 1,
+          "publisher": 1,
+          "resource_type": 1,
+          "subject_keywords": 0,
+          "funder_name": 0.378125,
+          "container_title": 1,
+          "language": 0.006875,
+          "author_orcid": 0.00625,
+          "all_authors_orcid": 0.000625,
+          "funder_doi": 0.377875,
+          "award_number": 0.161875,
+          "issn": 1,
+          "volume": 0.99875,
+          "issue": 0.00725,
+          "page": 0.007,
+          "published_print_date": 0.007,
+          "published_online_date": 0.999875,
+          "article_number": 0.9915,
+          "license": 0.999,
+          "license_url": 0.999,
+          "open_access_license": 0.99475,
+          "full_text_links": 0.99975,
+          "resource_url": 1,
+          "references": 0.97725,
+          "references_count": 0.97725,
+          "is_referenced_by": 0.966,
+          "update_policy": 0.994125,
+          "jats_abstract": 0.93675,
+          "author_sequence": 0.99975,
+          "affiliation_ids_ror": 0,
+          "relations": 0.03375,
+          "assertions": 0.001625,
+          "archive": 0.00425,
+          "credit_roles": 0,
+          "author_given_family": 0.993125,
+          "affiliation_ror": 0,
+          "funding_complete": 0.16175,
+          "data_availability": 0,
+          "preprint_version_link": 0.022625,
+          "peer_review_info": 0.00075,
+          "clinical_trial": 0,
+          "abstract_structured": 0.070375,
+          "open_access_status": 0.99475
+        }
+      },
+      "openalex": {
+        "overall": 0.747789282169605,
+        "categories": {
+          "findable_essential": 0.9752129147070039,
+          "findable_support": 0.676854986884223,
+          "accessible_essential": 0.8517294464923802,
+          "accessible_support": 0.49855938307698827,
+          "evaluation_coara": 0.4545442989703826
+        },
+        "fields": {
+          "title": 1,
+          "abstract": 0.9916105249777551,
+          "author": 0.9997457734841744,
+          "author_affiliation": 0.993008770814796,
+          "doi": 1,
+          "publication_date": 1,
+          "publisher": 1,
+          "resource_type": 1,
+          "subject_keywords": 1,
+          "funder_name": 0.7181899072073217,
+          "container_title": 1,
+          "language": 1,
+          "author_orcid": 0.9876700139824584,
+          "all_authors_orcid": 0.34129909749586884,
+          "funder_doi": 0.7181899072073217,
+          "award_number": 0.5633659590695309,
+          "issn": 1,
+          "volume": 0.9997457734841744,
+          "issue": 0.00889792805389602,
+          "page": 0.826236176433202,
+          "published_print_date": 1,
+          "published_online_date": 1,
+          "article_number": 0,
+          "license": 0.9952968094572264,
+          "license_url": 0.9952968094572264,
+          "open_access_license": 0.9950425829414008,
+          "full_text_links": 0.7507309012329986,
+          "resource_url": 1,
+          "references": 0.9785178594127367,
+          "references_count": 0.9785178594127367,
+          "is_referenced_by": 0.9721621965170968,
+          "update_policy": 0,
+          "jats_abstract": 0,
+          "author_sequence": 0.9997457734841744,
+          "affiliation_ids_ror": 0.993008770814796,
+          "relations": 0.9986017541629592,
+          "assertions": 0,
+          "archive": 0,
+          "credit_roles": 0,
+          "author_given_family": 0.9997457734841744,
+          "affiliation_ror": 0.993008770814796,
+          "funding_complete": 0.5633659590695309,
+          "data_availability": 0,
+          "preprint_version_link": 0.9921189780094064,
+          "peer_review_info": 0,
+          "clinical_trial": 0,
+          "abstract_structured": 0,
+          "open_access_status": 0.9972035083259184
+        }
+      },
+      "comparable": {
+        "crossref": {
+          "categories": {
+            "findable_essential": 0.6939687500000001,
+            "findable_support": 0.35665,
+            "accessible_essential": 0.9891249999999999,
+            "accessible_support": 0.34450000000000003,
+            "evaluation_coara": 0.43445
+          },
+          "overall": 0.6303093750000001
+        },
+        "openalex": {
+          "categories": {
+            "findable_essential": 0.9752129147070039,
+            "findable_support": 0.7445404855726453,
+            "accessible_essential": 0.9581956273039278,
+            "accessible_support": 0.9971187661539765,
+            "evaluation_coara": 0.9090885979407652
+          },
+          "overall": 0.9253234502775306
+        },
+        "gap": 0.29501407527753054
+      },
+      "voluntary": {
+        "crossref": 0.37932343749999997,
+        "openalex": 0.891092008813186
+      }
+    },
+    {
+      "year": 2022,
+      "count": 8000,
+      "matched": 7917,
+      "universeSize": 126841,
+      "crossref": {
+        "overall": 0.5960165151515152,
+        "categories": {
+          "findable_essential": 0.6914583333333334,
+          "findable_support": 0.41245454545454546,
+          "accessible_essential": 0.9852083333333334,
+          "accessible_support": 0.3248125,
+          "evaluation_coara": 0.2396375
+        },
+        "fields": {
+          "title": 1,
+          "abstract": 0.92525,
+          "author": 0.99975,
+          "author_affiliation": 0.00175,
+          "doi": 1,
+          "publication_date": 1,
+          "publisher": 1,
+          "resource_type": 1,
+          "subject_keywords": 0,
+          "funder_name": 0.368375,
+          "container_title": 1,
+          "language": 0.002375,
+          "author_orcid": 0.00275,
+          "all_authors_orcid": 0.000375,
+          "funder_doi": 0.367875,
+          "award_number": 0.1625,
+          "issn": 1,
+          "volume": 0.998875,
+          "issue": 0.00325,
+          "page": 0.00325,
+          "published_print_date": 0.00325,
+          "published_online_date": 0.999,
+          "article_number": 0.995875,
+          "license": 0.998875,
+          "license_url": 0.998875,
+          "open_access_license": 0.997625,
+          "full_text_links": 0.999,
+          "resource_url": 1,
+          "references": 0.9705,
+          "references_count": 0.9705,
+          "is_referenced_by": 0.93375,
+          "update_policy": 0.99775,
+          "jats_abstract": 0.92525,
+          "author_sequence": 0.99975,
+          "affiliation_ids_ror": 0,
+          "relations": 0.022,
+          "assertions": 0.001125,
+          "archive": 0.00075,
+          "credit_roles": 0,
+          "author_given_family": 0.9945,
+          "affiliation_ror": 0,
+          "funding_complete": 0.162125,
+          "data_availability": 0,
+          "preprint_version_link": 0.011375,
+          "peer_review_info": 0,
+          "clinical_trial": 0,
+          "abstract_structured": 0.23075,
+          "open_access_status": 0.997625
+        }
+      },
+      "openalex": {
+        "overall": 0.7430407395924638,
+        "categories": {
+          "findable_essential": 0.9715380405035577,
+          "findable_support": 0.665874355529528,
+          "accessible_essential": 0.8477257097946754,
+          "accessible_support": 0.4979579807166014,
+          "evaluation_coara": 0.44985474295819117
+        },
+        "fields": {
+          "title": 1,
+          "abstract": 0.9843375015788809,
+          "author": 0.9997473790577239,
+          "author_affiliation": 0.9895162308955412,
+          "doi": 1,
+          "publication_date": 1,
+          "publisher": 1,
+          "resource_type": 1,
+          "subject_keywords": 1,
+          "funder_name": 0.6848553745105469,
+          "container_title": 1,
+          "language": 1,
+          "author_orcid": 0.9854742958191234,
+          "all_authors_orcid": 0.31666035114310975,
+          "funder_doi": 0.6848553745105469,
+          "award_number": 0.5209043829733485,
+          "issn": 1,
+          "volume": 1,
+          "issue": 0.0049261083743842365,
+          "page": 0.8117973980042945,
+          "published_print_date": 1,
+          "published_online_date": 1,
+          "article_number": 0,
+          "license": 0.997852721990653,
+          "license_url": 0.997852721990653,
+          "open_access_license": 0.997852721990653,
+          "full_text_links": 0.7449791587722622,
+          "resource_url": 1,
+          "references": 0.9710749021093849,
+          "references_count": 0.9710749021093849,
+          "is_referenced_by": 0.9488442591890868,
+          "update_policy": 0,
+          "jats_abstract": 0,
+          "author_sequence": 0.9997473790577239,
+          "affiliation_ids_ror": 0.9895162308955412,
+          "relations": 0.9984842743463433,
+          "assertions": 0,
+          "archive": 0,
+          "credit_roles": 0,
+          "author_given_family": 0.9997473790577239,
+          "affiliation_ror": 0.9895162308955412,
+          "funding_complete": 0.5209043829733485,
+          "data_availability": 0,
+          "preprint_version_link": 0.9892636099532651,
+          "peer_review_info": 0,
+          "clinical_trial": 0,
+          "abstract_structured": 0,
+          "open_access_status": 0.9991158267020336
+        }
+      },
+      "comparable": {
+        "crossref": {
+          "categories": {
+            "findable_essential": 0.6914583333333334,
+            "findable_support": 0.3541125,
+            "accessible_essential": 0.983640625,
+            "accessible_support": 0.3405833333333333,
+            "evaluation_coara": 0.433125
+          },
+          "overall": 0.6271478645833333
+        },
+        "openalex": {
+          "categories": {
+            "findable_essential": 0.9715380405035577,
+            "findable_support": 0.7324617910824808,
+            "accessible_essential": 0.9536914235190098,
+            "accessible_support": 0.9959159614332028,
+            "evaluation_coara": 0.8997094859163823
+          },
+          "overall": 0.9192870300197886
+        },
+        "gap": 0.29213916543645535
+      },
+      "voluntary": {
+        "crossref": 0.3747114583333333,
+        "openalex": 0.8794950738916256
+      }
+    },
+    {
+      "year": 2023,
+      "count": 8000,
+      "matched": 7960,
+      "universeSize": 91710,
+      "crossref": {
+        "overall": 0.5877520075757576,
+        "categories": {
+          "findable_essential": 0.6771041666666666,
+          "findable_support": 0.3954772727272726,
+          "accessible_essential": 0.9767500000000001,
+          "accessible_support": 0.3174166666666667,
+          "evaluation_coara": 0.24684999999999996
+        },
+        "fields": {
+          "title": 1,
+          "abstract": 0.88725,
+          "author": 1,
+          "author_affiliation": 0.00325,
+          "doi": 1,
+          "publication_date": 1,
+          "publisher": 1,
+          "resource_type": 1,
+          "subject_keywords": 0,
+          "funder_name": 0.23125,
+          "container_title": 1,
+          "language": 0.0035,
+          "author_orcid": 0.005125,
+          "all_authors_orcid": 0.000125,
+          "funder_doi": 0.230625,
+          "award_number": 0.113625,
+          "issn": 1,
+          "volume": 0.997375,
+          "issue": 0.00275,
+          "page": 0.00275,
+          "published_print_date": 0.002375,
+          "published_online_date": 1,
+          "article_number": 0.9955,
+          "license": 1,
+          "license_url": 1,
+          "open_access_license": 0.99725,
+          "full_text_links": 1,
+          "resource_url": 1,
+          "references": 0.953875,
+          "references_count": 0.953875,
+          "is_referenced_by": 0.887875,
+          "update_policy": 0.997875,
+          "jats_abstract": 0.88725,
+          "author_sequence": 1,
+          "affiliation_ids_ror": 0,
+          "relations": 0.01625,
+          "assertions": 0.000625,
+          "archive": 0.000375,
+          "credit_roles": 0,
+          "author_given_family": 0.990375,
+          "affiliation_ror": 0,
+          "funding_complete": 0.113125,
+          "data_availability": 0,
+          "preprint_version_link": 0.00675,
+          "peer_review_info": 0,
+          "clinical_trial": 0,
+          "abstract_structured": 0.361,
+          "open_access_status": 0.99725
+        }
+      },
+      "openalex": {
+        "overall": 0.7429556113902849,
+        "categories": {
+          "findable_essential": 0.9659547738693468,
+          "findable_support": 0.6518844221105528,
+          "accessible_essential": 0.8674204355108878,
+          "accessible_support": 0.498429648241206,
+          "evaluation_coara": 0.44344221105527637
+        },
+        "fields": {
+          "title": 1,
+          "abstract": 0.9762562814070351,
+          "author": 1,
+          "author_affiliation": 0.9905778894472361,
+          "doi": 1,
+          "publication_date": 1,
+          "publisher": 1,
+          "resource_type": 1,
+          "subject_keywords": 1,
+          "funder_name": 0.6246231155778894,
+          "container_title": 1,
+          "language": 1,
+          "author_orcid": 0.9847989949748743,
+          "all_authors_orcid": 0.30201005025125627,
+          "funder_doi": 0.6246231155778894,
+          "award_number": 0.453894472361809,
+          "issn": 1,
+          "volume": 0.9998743718592965,
+          "issue": 0.005778894472361809,
+          "page": 0.799748743718593,
+          "published_print_date": 1,
+          "published_online_date": 1,
+          "article_number": 0,
+          "license": 0.9973618090452261,
+          "license_url": 0.9973618090452261,
+          "open_access_license": 0.9973618090452261,
+          "full_text_links": 0.9992462311557789,
+          "resource_url": 1,
+          "references": 0.9547738693467337,
+          "references_count": 0.9547738693467337,
+          "is_referenced_by": 0.9059045226130653,
+          "update_policy": 0,
+          "jats_abstract": 0,
+          "author_sequence": 1,
+          "affiliation_ids_ror": 0.9905778894472361,
+          "relations": 1,
+          "assertions": 0,
+          "archive": 0,
+          "credit_roles": 0,
+          "author_given_family": 1,
+          "affiliation_ror": 0.9905778894472361,
+          "funding_complete": 0.453894472361809,
+          "data_availability": 0,
+          "preprint_version_link": 0.9899497487437185,
+          "peer_review_info": 0,
+          "clinical_trial": 0,
+          "abstract_structured": 0,
+          "open_access_status": 1
+        }
+      },
+      "comparable": {
+        "crossref": {
+          "categories": {
+            "findable_essential": 0.6771041666666666,
+            "findable_support": 0.3354749999999999,
+            "accessible_essential": 0.974109375,
+            "accessible_support": 0.33875000000000005,
+            "evaluation_coara": 0.4215
+          },
+          "overall": 0.6151548437500001
+        },
+        "openalex": {
+          "categories": {
+            "findable_essential": 0.9659547738693468,
+            "findable_support": 0.7170728643216081,
+            "accessible_essential": 0.9758479899497488,
+            "accessible_support": 0.996859296482412,
+            "evaluation_coara": 0.8868844221105527
+          },
+          "overall": 0.9183721733668342
+        },
+        "gap": 0.3032173296168341
+      },
+      "voluntary": {
+        "crossref": 0.348125,
+        "openalex": 0.8621252093802345
+      }
+    },
+    {
+      "year": 2024,
+      "count": 8000,
+      "matched": 7977,
+      "universeSize": 72561,
+      "crossref": {
+        "overall": 0.5844103156565656,
+        "categories": {
+          "findable_essential": 0.6712291666666667,
+          "findable_support": 0.38438636363636364,
+          "accessible_essential": 0.9731527777777776,
+          "accessible_support": 0.3201041666666667,
+          "evaluation_coara": 0.250425
+        },
+        "fields": {
+          "title": 1,
+          "abstract": 0.904125,
+          "author": 1,
+          "author_affiliation": 0.000125,
+          "doi": 1,
+          "publication_date": 1,
+          "publisher": 1,
+          "resource_type": 1,
+          "subject_keywords": 0,
+          "funder_name": 0.1505,
+          "container_title": 1,
+          "language": 0,
+          "author_orcid": 0,
+          "all_authors_orcid": 0,
+          "funder_doi": 0.1505,
+          "award_number": 0.07775,
+          "issn": 1,
+          "volume": 1,
+          "issue": 0,
+          "page": 0,
+          "published_print_date": 0,
+          "published_online_date": 1,
+          "article_number": 1,
+          "license": 1,
+          "license_url": 1,
+          "open_access_license": 1,
+          "full_text_links": 1,
+          "resource_url": 1,
+          "references": 0.957875,
+          "references_count": 0.957875,
+          "is_referenced_by": 0.842625,
+          "update_policy": 1,
+          "jats_abstract": 0.904125,
+          "author_sequence": 1,
+          "affiliation_ids_ror": 0,
+          "relations": 0.0165,
+          "assertions": 0,
+          "archive": 0,
+          "credit_roles": 0,
+          "author_given_family": 0.99025,
+          "affiliation_ror": 0,
+          "funding_complete": 0.07775,
+          "data_availability": 0,
+          "preprint_version_link": 0.0075,
+          "peer_review_info": 0,
+          "clinical_trial": 0,
+          "abstract_structured": 0.42875,
+          "open_access_status": 1
+        }
+      },
+      "openalex": {
+        "overall": 0.7320247732432764,
+        "categories": {
+          "findable_essential": 0.9566879779365677,
+          "findable_support": 0.6261524610527995,
+          "accessible_essential": 0.8590809688966892,
+          "accessible_support": 0.49726296435585643,
+          "evaluation_coara": 0.4329948602231415
+        },
+        "fields": {
+          "title": 1,
+          "abstract": 0.9761815218753918,
+          "author": 1,
+          "author_affiliation": 0.9838285069575028,
+          "doi": 1,
+          "publication_date": 1,
+          "publisher": 1,
+          "resource_type": 1,
+          "subject_keywords": 1,
+          "funder_name": 0.520245706405917,
+          "container_title": 1,
+          "language": 1,
+          "author_orcid": 0.9736743136517487,
+          "all_authors_orcid": 0.24457816221637207,
+          "funder_doi": 0.520245706405917,
+          "award_number": 0.3538924407672057,
+          "issn": 1,
+          "volume": 1,
+          "issue": 0.00012536041118214867,
+          "page": 0.795161088128369,
+          "published_print_date": 1,
+          "published_online_date": 1,
+          "article_number": 0,
+          "license": 1,
+          "license_url": 1,
+          "open_access_license": 1,
+          "full_text_links": 0.9559984956750658,
+          "resource_url": 1,
+          "references": 0.9571267393757051,
+          "references_count": 0.9571267393757051,
+          "is_referenced_by": 0.8614767456437257,
+          "update_policy": 0,
+          "jats_abstract": 0,
+          "author_sequence": 1,
+          "affiliation_ids_ror": 0.9838285069575028,
+          "relations": 0.9997492791776357,
+          "assertions": 0,
+          "archive": 0,
+          "credit_roles": 0,
+          "author_given_family": 1,
+          "affiliation_ror": 0.9838285069575028,
+          "funding_complete": 0.3538924407672057,
+          "data_availability": 0,
+          "preprint_version_link": 0.9922276545067068,
+          "peer_review_info": 0,
+          "clinical_trial": 0,
+          "abstract_structured": 0,
+          "open_access_status": 1
+        }
+      },
+      "comparable": {
+        "crossref": {
+          "categories": {
+            "findable_essential": 0.6712291666666667,
+            "findable_support": 0.32282500000000003,
+            "accessible_essential": 0.9697968749999999,
+            "accessible_support": 0.3388333333333333,
+            "evaluation_coara": 0.41509999999999997
+          },
+          "overall": 0.6091450520833332
+        },
+        "openalex": {
+          "categories": {
+            "findable_essential": 0.9566879779365677,
+            "findable_support": 0.6887677071580794,
+            "accessible_essential": 0.9664660900087753,
+            "accessible_support": 0.9945259287117129,
+            "evaluation_coara": 0.865989720446283
+          },
+          "overall": 0.9045886089173039
+        },
+        "gap": 0.2954435568339706
+      },
+      "voluntary": {
+        "crossref": 0.337153125,
+        "openalex": 0.8368470811917595
+      }
+    },
+    {
+      "year": 2025,
+      "count": 8000,
+      "matched": 7985,
+      "universeSize": 85351,
+      "crossref": {
+        "overall": 0.5776600568181818,
+        "categories": {
+          "findable_essential": 0.6725104166666668,
+          "findable_support": 0.3820795454545454,
+          "accessible_essential": 0.9370833333333333,
+          "accessible_support": 0.32166666666666666,
+          "evaluation_coara": 0.2607875
+        },
+        "fields": {
+          "title": 1,
+          "abstract": 0.922375,
+          "author": 1,
+          "author_affiliation": 0.004625,
+          "doi": 1,
+          "publication_date": 1,
+          "publisher": 1,
+          "resource_type": 1,
+          "subject_keywords": 0,
+          "funder_name": 0.143125,
+          "container_title": 1,
+          "language": 0,
+          "author_orcid": 0,
+          "all_authors_orcid": 0,
+          "funder_doi": 0.14025,
+          "award_number": 0.068625,
+          "issn": 1,
+          "volume": 1,
+          "issue": 0,
+          "page": 0,
+          "published_print_date": 0,
+          "published_online_date": 1,
+          "article_number": 0.994,
+          "license": 1,
+          "license_url": 1,
+          "open_access_license": 1,
+          "full_text_links": 1,
+          "resource_url": 1,
+          "references": 0.962125,
+          "references_count": 0.962125,
+          "is_referenced_by": 0.5095,
+          "update_policy": 1,
+          "jats_abstract": 0.922375,
+          "author_sequence": 1,
+          "affiliation_ids_ror": 0,
+          "relations": 0.007625,
+          "assertions": 0,
+          "archive": 0,
+          "credit_roles": 0,
+          "author_given_family": 0.991625,
+          "affiliation_ror": 0,
+          "funding_complete": 0.065875,
+          "data_availability": 0,
+          "preprint_version_link": 0.00375,
+          "peer_review_info": 0,
+          "clinical_trial": 0,
+          "abstract_structured": 0.546625,
+          "open_access_status": 1
+        }
+      },
+      "openalex": {
+        "overall": 0.7090968735571115,
+        "categories": {
+          "findable_essential": 0.9466395324566896,
+          "findable_support": 0.6082313428587693,
+          "accessible_essential": 0.8192165866555347,
+          "accessible_support": 0.4461281569609685,
+          "evaluation_coara": 0.4222667501565436
+        },
+        "fields": {
+          "title": 1,
+          "abstract": 0.965184721352536,
+          "author": 1,
+          "author_affiliation": 0.9849718221665623,
+          "doi": 1,
+          "publication_date": 1,
+          "publisher": 1,
+          "resource_type": 1,
+          "subject_keywords": 1,
+          "funder_name": 0.41089542892924236,
+          "container_title": 1,
+          "language": 0.9986224170319349,
+          "author_orcid": 0.9683155917345022,
+          "all_authors_orcid": 0.23368816530995618,
+          "funder_doi": 0.41089542892924236,
+          "award_number": 0.24358171571696932,
+          "issn": 1,
+          "volume": 1,
+          "issue": 0,
+          "page": 0.8340638697557922,
+          "published_print_date": 1,
+          "published_online_date": 1,
+          "article_number": 0,
+          "license": 1,
+          "license_url": 1,
+          "open_access_license": 1,
+          "full_text_links": 0.9378835316217908,
+          "resource_url": 1,
+          "references": 0.960926737633062,
+          "references_count": 0.960926737633062,
+          "is_referenced_by": 0.5132122730118973,
+          "update_policy": 0,
+          "jats_abstract": 0,
+          "author_sequence": 1,
+          "affiliation_ids_ror": 0.9844708829054477,
+          "relations": 0.6922980588603632,
+          "assertions": 0,
+          "archive": 0,
+          "credit_roles": 0,
+          "author_given_family": 1,
+          "affiliation_ror": 0.9844708829054477,
+          "funding_complete": 0.24358171571696932,
+          "data_availability": 0,
+          "preprint_version_link": 0.9946149029430181,
+          "peer_review_info": 0,
+          "clinical_trial": 0,
+          "abstract_structured": 0,
+          "open_access_status": 1
+        }
+      },
+      "comparable": {
+        "crossref": {
+          "categories": {
+            "findable_essential": 0.6725104166666668,
+            "findable_support": 0.3208875,
+            "accessible_essential": 0.9292187500000001,
+            "accessible_support": 0.335875,
+            "evaluation_coara": 0.41224999999999995
+          },
+          "overall": 0.5982284375000001
+        },
+        "openalex": {
+          "categories": {
+            "findable_essential": 0.9466395324566896,
+            "findable_support": 0.6690544771446463,
+            "accessible_essential": 0.9216186599874765,
+            "accessible_support": 0.892256313921937,
+            "evaluation_coara": 0.8445335003130872
+          },
+          "overall": 0.8728870277603842
+        },
+        "gap": 0.2746585902603841
+      },
+      "voluntary": {
+        "crossref": 0.33680260416666663,
+        "openalex": 0.7972010018785223
+      }
+    }
+  ],
+  "fieldSamples": {
+    "title": [],
+    "abstract": [
+      {
+        "doi": "10.3389/fnbeh.2015.00001",
+        "title": "Shining light on motivation, emotion, and memory processes"
+      },
+      {
+        "doi": "10.3389/conf.fninf.2015.19.00018",
+        "title": "DMN function, attention shifting and attention holding compared across humans and monkeys"
+      },
+      {
+        "doi": "10.3389/fnint.2015.00024",
+        "title": "Perception of biological motion from size-invariant body representations"
+      },
+      {
+        "doi": "10.3389/conf.fnhum.2015.219.00051",
+        "title": "The Psychophysiology of Sport and Exercise"
+      },
+      {
+        "doi": "10.3389/fnhum.2015.00128",
+        "title": "Objective and personalized longitudinal assessment of a pregnant patient with post severe brain trauma"
+      }
+    ],
+    "author": [
+      {
+        "doi": "10.1111/tri.12494",
+        "title": "Author index"
+      },
+      {
+        "doi": "10.1111/tri.12493",
+        "title": "Oral communications"
+      },
+      {
+        "doi": "10.3389/fpsyg.2015.00437",
+        "title": "Erratum on: Emotionality differences between a native and foreign language: theoretical implications"
+      },
+      {
+        "doi": "10.3389/fnhum.2015.00226",
+        "title": "Erratum on: Habit and embodiment in Merleau-Ponty"
+      },
+      {
+        "doi": "10.3389/fnins.2015.00233",
+        "title": "Erratum on: Methamphetamine and the hypothalamic-pituitary-adrenal axis"
+      }
+    ],
+    "author_affiliation": [
+      {
+        "doi": "10.3389/fnbeh.2015.00001",
+        "title": "Shining light on motivation, emotion, and memory processes"
+      },
+      {
+        "doi": "10.3389/fnint.2015.00024",
+        "title": "Perception of biological motion from size-invariant body representations"
+      },
+      {
+        "doi": "10.3389/fnhum.2015.00128",
+        "title": "Objective and personalized longitudinal assessment of a pregnant patient with post severe brain trauma"
+      },
+      {
+        "doi": "10.3389/conf.fmars.2015.03.00142",
+        "title": "Fish otolith biomineralization process: first investigations about organic matrix and growth of Triglidae (Scorpaeniformes) otoliths"
+      },
+      {
+        "doi": "10.3389/fict.2015.00017",
+        "title": "EyeFrame: real-time memory aid improves human multitasking via domain-general eye tracking procedures"
+      }
+    ],
+    "doi": [],
+    "publication_date": [],
+    "publisher": [],
+    "resource_type": [],
+    "subject_keywords": [
+      {
+        "doi": "10.3389/fnbeh.2015.00001",
+        "title": "Shining light on motivation, emotion, and memory processes"
+      },
+      {
+        "doi": "10.3389/conf.fninf.2015.19.00018",
+        "title": "DMN function, attention shifting and attention holding compared across humans and monkeys"
+      },
+      {
+        "doi": "10.3389/fnint.2015.00024",
+        "title": "Perception of biological motion from size-invariant body representations"
+      },
+      {
+        "doi": "10.3389/conf.fnhum.2015.219.00051",
+        "title": "The Psychophysiology of Sport and Exercise"
+      },
+      {
+        "doi": "10.3389/fnhum.2015.00128",
+        "title": "Objective and personalized longitudinal assessment of a pregnant patient with post severe brain trauma"
+      }
+    ],
+    "funder_name": [
+      {
+        "doi": "10.3389/fict.2015.00017",
+        "title": "EyeFrame: real-time memory aid improves human multitasking via domain-general eye tracking procedures"
+      },
+      {
+        "doi": "10.3389/fenrg.2015.00011",
+        "title": "Thermal-Hydraulic Analysis of SWAMUP Facility Using ATHLET-SC Code"
+      },
+      {
+        "doi": "10.1111/tri.12558",
+        "title": "Is it time to revisit contraindications to organ donation from donors with a JAK-2 mutation? Safe use of a liver allograft from a donor with essential thrombocythaemia"
+      },
+      {
+        "doi": "10.3389/fpsyg.2014.01495",
+        "title": "Assessing factorial invariance of two-way rating designs using three-way methods"
+      },
+      {
+        "doi": "10.3389/fpsyg.2015.00352",
+        "title": "Commentary on: â€œNumber-space mapping in the newborn chick resembles humans' mental number lineâ€"
+      }
+    ],
+    "container_title": [],
+    "language": [
+      {
+        "doi": "10.3389/fnbeh.2015.00001",
+        "title": "Shining light on motivation, emotion, and memory processes"
+      },
+      {
+        "doi": "10.3389/conf.fninf.2015.19.00018",
+        "title": "DMN function, attention shifting and attention holding compared across humans and monkeys"
+      },
+      {
+        "doi": "10.3389/fnint.2015.00024",
+        "title": "Perception of biological motion from size-invariant body representations"
+      },
+      {
+        "doi": "10.3389/conf.fnhum.2015.219.00051",
+        "title": "The Psychophysiology of Sport and Exercise"
+      },
+      {
+        "doi": "10.3389/fnhum.2015.00128",
+        "title": "Objective and personalized longitudinal assessment of a pregnant patient with post severe brain trauma"
+      }
+    ],
+    "author_orcid": [
+      {
+        "doi": "10.3389/fnbeh.2015.00001",
+        "title": "Shining light on motivation, emotion, and memory processes"
+      },
+      {
+        "doi": "10.3389/conf.fninf.2015.19.00018",
+        "title": "DMN function, attention shifting and attention holding compared across humans and monkeys"
+      },
+      {
+        "doi": "10.3389/fnint.2015.00024",
+        "title": "Perception of biological motion from size-invariant body representations"
+      },
+      {
+        "doi": "10.3389/conf.fnhum.2015.219.00051",
+        "title": "The Psychophysiology of Sport and Exercise"
+      },
+      {
+        "doi": "10.3389/fnhum.2015.00128",
+        "title": "Objective and personalized longitudinal assessment of a pregnant patient with post severe brain trauma"
+      }
+    ],
+    "all_authors_orcid": [
+      {
+        "doi": "10.3389/conf.fnhum.2015.219.00051",
+        "title": "The Psychophysiology of Sport and Exercise"
+      },
+      {
+        "doi": "10.3389/fnhum.2015.00128",
+        "title": "Objective and personalized longitudinal assessment of a pregnant patient with post severe brain trauma"
+      },
+      {
+        "doi": "10.3389/fict.2015.00017",
+        "title": "EyeFrame: real-time memory aid improves human multitasking via domain-general eye tracking procedures"
+      },
+      {
+        "doi": "10.3389/conf.fnins.2015.90.00002",
+        "title": "The dynamical response properties of cortical neurons"
+      },
+      {
+        "doi": "10.3389/conf.fmars.2015.03.00192",
+        "title": "Phylogeny of Gobioidei and the origin of European gobies"
+      }
+    ],
+    "funder_doi": [
+      {
+        "doi": "10.3389/fict.2015.00017",
+        "title": "EyeFrame: real-time memory aid improves human multitasking via domain-general eye tracking procedures"
+      },
+      {
+        "doi": "10.3389/fenrg.2015.00011",
+        "title": "Thermal-Hydraulic Analysis of SWAMUP Facility Using ATHLET-SC Code"
+      },
+      {
+        "doi": "10.1111/tri.12558",
+        "title": "Is it time to revisit contraindications to organ donation from donors with a JAK-2 mutation? Safe use of a liver allograft from a donor with essential thrombocythaemia"
+      },
+      {
+        "doi": "10.3389/fpsyg.2014.01495",
+        "title": "Assessing factorial invariance of two-way rating designs using three-way methods"
+      },
+      {
+        "doi": "10.3389/fpsyg.2015.00352",
+        "title": "Commentary on: â€œNumber-space mapping in the newborn chick resembles humans' mental number lineâ€"
+      }
+    ],
+    "award_number": [
+      {
+        "doi": "10.3389/fict.2015.00017",
+        "title": "EyeFrame: real-time memory aid improves human multitasking via domain-general eye tracking procedures"
+      },
+      {
+        "doi": "10.3389/fenrg.2015.00011",
+        "title": "Thermal-Hydraulic Analysis of SWAMUP Facility Using ATHLET-SC Code"
+      },
+      {
+        "doi": "10.3389/fpsyg.2015.00352",
+        "title": "Commentary on: â€œNumber-space mapping in the newborn chick resembles humans' mental number lineâ€"
+      },
+      {
+        "doi": "10.3389/feart.2015.00005",
+        "title": "Measurement of dynamic magnetization induced by a pulsed field: Proposal for a new rock magnetism method"
+      },
+      {
+        "doi": "10.3389/fncom.2015.00035",
+        "title": "Competition improves robustness against loss of information"
+      }
+    ],
+    "issn": [],
+    "volume": [
+      {
+        "doi": "10.4081/oncol.2015.261",
+        "title": "Rare cytogenetic abnormalities and alteration of microRNAs in acute myeloid leukemia and response to therapy"
+      },
+      {
+        "doi": "10.3389/fpsyg.2015.00993",
+        "title": "Interoception and stress"
+      },
+      {
+        "doi": "10.4081/oncol.2015.263",
+        "title": "Whole-body vibration as a modality for the rehabilitation of peripheral neuropathies: implications for cancer survivors suffering from chemotherapy-induced peripheral neuropathy"
+      },
+      {
+        "doi": "10.3389/fpsyg.2015.00395",
+        "title": "Beyond fluid intelligence and personality traits in social support: the role of ability based emotional intelligence"
+      },
+      {
+        "doi": "10.4081/oncol.2015.274",
+        "title": "Surgery for non-Hodgkin’s lymphoma"
+      }
+    ],
+    "issue": [
+      {
+        "doi": "10.4081/oncol.2015.261",
+        "title": "Rare cytogenetic abnormalities and alteration of microRNAs in acute myeloid leukemia and response to therapy"
+      },
+      {
+        "doi": "10.4081/oncol.2015.263",
+        "title": "Whole-body vibration as a modality for the rehabilitation of peripheral neuropathies: implications for cancer survivors suffering from chemotherapy-induced peripheral neuropathy"
+      },
+      {
+        "doi": "10.3389/fpsyg.2015.00454",
+        "title": "Gaze cuing of attention in snake phobic women: the influence of facial expression"
+      },
+      {
+        "doi": "10.3389/fpsyg.2015.00559",
+        "title": "An other-race effect for configural and featural processing of faces: upper and lower face regions play different roles"
+      },
+      {
+        "doi": "10.3389/fmicb.2015.00321",
+        "title": "Metabolic pathways of Pseudomonas aeruginosa involved in competition with respiratory bacterial pathogens"
+      }
+    ],
+    "page": [
+      {
+        "doi": "10.3389/fnbeh.2015.00001",
+        "title": "Shining light on motivation, emotion, and memory processes"
+      },
+      {
+        "doi": "10.3389/fnint.2015.00024",
+        "title": "Perception of biological motion from size-invariant body representations"
+      },
+      {
+        "doi": "10.3389/fnhum.2015.00128",
+        "title": "Objective and personalized longitudinal assessment of a pregnant patient with post severe brain trauma"
+      },
+      {
+        "doi": "10.3389/fncom.2015.00010",
+        "title": "Architectural constraints are a major factor reducing path integration accuracy in the rat head direction cell system"
+      },
+      {
+        "doi": "10.3389/fonc.2014.00362",
+        "title": "Carboplatin-Pemetrexed in Treatment of Patients with Recurrent/Metastatic Cancers of the Head and Neck; Superior Outcomes in Oropharyngeal Primaries"
+      }
+    ],
+    "published_print_date": [
+      {
+        "doi": "10.3389/fnbeh.2015.00001",
+        "title": "Shining light on motivation, emotion, and memory processes"
+      },
+      {
+        "doi": "10.3389/conf.fninf.2015.19.00018",
+        "title": "DMN function, attention shifting and attention holding compared across humans and monkeys"
+      },
+      {
+        "doi": "10.3389/fnint.2015.00024",
+        "title": "Perception of biological motion from size-invariant body representations"
+      },
+      {
+        "doi": "10.3389/conf.fnhum.2015.219.00051",
+        "title": "The Psychophysiology of Sport and Exercise"
+      },
+      {
+        "doi": "10.3389/fnhum.2015.00128",
+        "title": "Objective and personalized longitudinal assessment of a pregnant patient with post severe brain trauma"
+      }
+    ],
+    "published_online_date": [
+      {
+        "doi": "10.4149/av_2015_04_434",
+        "title": "The prevalence of human papillomavirus in patients with oral lichen planus and normal oral mucosa"
+      },
+      {
+        "doi": "10.4149/av_2015_01_3",
+        "title": "Next generation sequencing technologies: Tool to study avian virus diversity"
+      },
+      {
+        "doi": "10.4149/av_2015_01_27",
+        "title": "Molecular epidemiology of avian influenza virus and incidence of H5 and H9 virus subtypes among poultry in Egypt in 2009–2011"
+      },
+      {
+        "doi": "10.4149/av_2015_03_284",
+        "title": "Molecular characterization and fluorescence analysis of HCV non-structural proteins NS3, NS3-4A and NS4A of genotype 3a"
+      },
+      {
+        "doi": "10.4149/av_2015_01_98",
+        "title": "Comparison of bronchiolitis of human metapneumovirus and human respiratory syncytial virus"
+      }
+    ],
+    "license": [
+      {
+        "doi": "10.3389/fnbeh.2015.00001",
+        "title": "Shining light on motivation, emotion, and memory processes"
+      },
+      {
+        "doi": "10.3389/conf.fninf.2015.19.00018",
+        "title": "DMN function, attention shifting and attention holding compared across humans and monkeys"
+      },
+      {
+        "doi": "10.3389/fnint.2015.00024",
+        "title": "Perception of biological motion from size-invariant body representations"
+      },
+      {
+        "doi": "10.3389/conf.fnhum.2015.219.00051",
+        "title": "The Psychophysiology of Sport and Exercise"
+      },
+      {
+        "doi": "10.3389/fnhum.2015.00128",
+        "title": "Objective and personalized longitudinal assessment of a pregnant patient with post severe brain trauma"
+      }
+    ],
+    "license_url": [
+      {
+        "doi": "10.3389/fnbeh.2015.00001",
+        "title": "Shining light on motivation, emotion, and memory processes"
+      },
+      {
+        "doi": "10.3389/conf.fninf.2015.19.00018",
+        "title": "DMN function, attention shifting and attention holding compared across humans and monkeys"
+      },
+      {
+        "doi": "10.3389/fnint.2015.00024",
+        "title": "Perception of biological motion from size-invariant body representations"
+      },
+      {
+        "doi": "10.3389/conf.fnhum.2015.219.00051",
+        "title": "The Psychophysiology of Sport and Exercise"
+      },
+      {
+        "doi": "10.3389/fnhum.2015.00128",
+        "title": "Objective and personalized longitudinal assessment of a pregnant patient with post severe brain trauma"
+      }
+    ],
+    "open_access_license": [
+      {
+        "doi": "10.3389/fnbeh.2015.00001",
+        "title": "Shining light on motivation, emotion, and memory processes"
+      },
+      {
+        "doi": "10.3389/conf.fninf.2015.19.00018",
+        "title": "DMN function, attention shifting and attention holding compared across humans and monkeys"
+      },
+      {
+        "doi": "10.3389/fnint.2015.00024",
+        "title": "Perception of biological motion from size-invariant body representations"
+      },
+      {
+        "doi": "10.3389/conf.fnhum.2015.219.00051",
+        "title": "The Psychophysiology of Sport and Exercise"
+      },
+      {
+        "doi": "10.3389/fnhum.2015.00128",
+        "title": "Objective and personalized longitudinal assessment of a pregnant patient with post severe brain trauma"
+      }
+    ],
+    "full_text_links": [
+      {
+        "doi": "10.3389/fnbeh.2015.00001",
+        "title": "Shining light on motivation, emotion, and memory processes"
+      },
+      {
+        "doi": "10.3389/fnint.2015.00024",
+        "title": "Perception of biological motion from size-invariant body representations"
+      },
+      {
+        "doi": "10.3389/fnhum.2015.00128",
+        "title": "Objective and personalized longitudinal assessment of a pregnant patient with post severe brain trauma"
+      },
+      {
+        "doi": "10.3389/fict.2015.00017",
+        "title": "EyeFrame: real-time memory aid improves human multitasking via domain-general eye tracking procedures"
+      },
+      {
+        "doi": "10.3389/fenrg.2015.00011",
+        "title": "Thermal-Hydraulic Analysis of SWAMUP Facility Using ATHLET-SC Code"
+      }
+    ],
+    "resource_url": [],
+    "references": [
+      {
+        "doi": "10.3389/fict.2015.00017",
+        "title": "EyeFrame: real-time memory aid improves human multitasking via domain-general eye tracking procedures"
+      },
+      {
+        "doi": "10.4149/av_2015_04_434",
+        "title": "The prevalence of human papillomavirus in patients with oral lichen planus and normal oral mucosa"
+      },
+      {
+        "doi": "10.3389/fmicb.2015.00853",
+        "title": "The diversity of PAH-degrading bacteria in a deep-sea water column above the Southwest Indian Ridge"
+      },
+      {
+        "doi": "10.4081/oncol.2015.261",
+        "title": "Rare cytogenetic abnormalities and alteration of microRNAs in acute myeloid leukemia and response to therapy"
+      },
+      {
+        "doi": "10.4149/av_2015_01_3",
+        "title": "Next generation sequencing technologies: Tool to study avian virus diversity"
+      }
+    ],
+    "references_count": [
+      {
+        "doi": "10.3389/fict.2015.00017",
+        "title": "EyeFrame: real-time memory aid improves human multitasking via domain-general eye tracking procedures"
+      },
+      {
+        "doi": "10.4149/av_2015_04_434",
+        "title": "The prevalence of human papillomavirus in patients with oral lichen planus and normal oral mucosa"
+      },
+      {
+        "doi": "10.3389/fmicb.2015.00853",
+        "title": "The diversity of PAH-degrading bacteria in a deep-sea water column above the Southwest Indian Ridge"
+      },
+      {
+        "doi": "10.4081/oncol.2015.261",
+        "title": "Rare cytogenetic abnormalities and alteration of microRNAs in acute myeloid leukemia and response to therapy"
+      },
+      {
+        "doi": "10.4149/av_2015_01_3",
+        "title": "Next generation sequencing technologies: Tool to study avian virus diversity"
+      }
+    ],
+    "is_referenced_by": [
+      {
+        "doi": "10.1111/tri.12558",
+        "title": "Is it time to revisit contraindications to organ donation from donors with a JAK-2 mutation? Safe use of a liver allograft from a donor with essential thrombocythaemia"
+      },
+      {
+        "doi": "10.3389/conf.fncom.2015.56.00003",
+        "title": "Orthogonal Connectivity Factorization: Interpretable Decomposition of Variability in Correlation Matrices"
+      },
+      {
+        "doi": "10.3389/conf.fnhum.2015.217.00012",
+        "title": "Oscillatory activity in the auditory cortex determines auditory temporal resolution"
+      },
+      {
+        "doi": "10.3389/conf.fmars.2015.03.00084",
+        "title": "Comparative population genetic structure and demographic patterns of two killifish species (Aphanius baeticus and Aphanius iberus) at the Iberian Peninsula"
+      },
+      {
+        "doi": "10.3389/conf.fimmu.2015.05.00066",
+        "title": "OUABAIN IMPROVES THE RESPONSE TO MELANOMA (B16) IN MICE BY MODULATING B AND T LYMPHOCYTES"
+      }
+    ],
+    "author_sequence": [
+      {
+        "doi": "10.1111/tri.12494",
+        "title": "Author index"
+      },
+      {
+        "doi": "10.1111/tri.12493",
+        "title": "Oral communications"
+      },
+      {
+        "doi": "10.3389/fpsyg.2015.00010",
+        "title": "Erratum on: The other-race and other-species effects in face perceptionâ€”a subordinate-level analysis"
+      },
+      {
+        "doi": "10.3389/fpsyg.2015.00437",
+        "title": "Erratum on: Emotionality differences between a native and foreign language: theoretical implications"
+      },
+      {
+        "doi": "10.3389/fnhum.2015.00226",
+        "title": "Erratum on: Habit and embodiment in Merleau-Ponty"
+      }
+    ],
+    "affiliation_ids_ror": [
+      {
+        "doi": "10.3389/fnbeh.2015.00001",
+        "title": "Shining light on motivation, emotion, and memory processes"
+      },
+      {
+        "doi": "10.3389/fnint.2015.00024",
+        "title": "Perception of biological motion from size-invariant body representations"
+      },
+      {
+        "doi": "10.3389/fnhum.2015.00128",
+        "title": "Objective and personalized longitudinal assessment of a pregnant patient with post severe brain trauma"
+      },
+      {
+        "doi": "10.3389/conf.fmars.2015.03.00142",
+        "title": "Fish otolith biomineralization process: first investigations about organic matrix and growth of Triglidae (Scorpaeniformes) otoliths"
+      },
+      {
+        "doi": "10.3389/fict.2015.00017",
+        "title": "EyeFrame: real-time memory aid improves human multitasking via domain-general eye tracking procedures"
+      }
+    ],
+    "relations": [
+      {
+        "doi": "10.3389/fnbeh.2015.00001",
+        "title": "Shining light on motivation, emotion, and memory processes"
+      },
+      {
+        "doi": "10.3389/conf.fninf.2015.19.00018",
+        "title": "DMN function, attention shifting and attention holding compared across humans and monkeys"
+      },
+      {
+        "doi": "10.3389/fnint.2015.00024",
+        "title": "Perception of biological motion from size-invariant body representations"
+      },
+      {
+        "doi": "10.3389/conf.fnhum.2015.219.00051",
+        "title": "The Psychophysiology of Sport and Exercise"
+      },
+      {
+        "doi": "10.3389/fnhum.2015.00128",
+        "title": "Objective and personalized longitudinal assessment of a pregnant patient with post severe brain trauma"
+      }
+    ],
+    "author_given_family": [
+      {
+        "doi": "10.3389/fonc.2015.00064",
+        "title": "Image-Guided Radiotherapy and -Brachytherapy for Cervical Cancer"
+      },
+      {
+        "doi": "10.1111/tri.12494",
+        "title": "Author index"
+      },
+      {
+        "doi": "10.3389/fpsyg.2014.01485",
+        "title": "Psychosocial screening and assessment in oncology and palliative care settings"
+      },
+      {
+        "doi": "10.1111/tri.12493",
+        "title": "Oral communications"
+      },
+      {
+        "doi": "10.3389/fpsyg.2015.00010",
+        "title": "Erratum on: The other-race and other-species effects in face perceptionâ€”a subordinate-level analysis"
+      }
+    ],
+    "affiliation_ror": [
+      {
+        "doi": "10.3389/fnbeh.2015.00001",
+        "title": "Shining light on motivation, emotion, and memory processes"
+      },
+      {
+        "doi": "10.3389/fnint.2015.00024",
+        "title": "Perception of biological motion from size-invariant body representations"
+      },
+      {
+        "doi": "10.3389/fnhum.2015.00128",
+        "title": "Objective and personalized longitudinal assessment of a pregnant patient with post severe brain trauma"
+      },
+      {
+        "doi": "10.3389/conf.fmars.2015.03.00142",
+        "title": "Fish otolith biomineralization process: first investigations about organic matrix and growth of Triglidae (Scorpaeniformes) otoliths"
+      },
+      {
+        "doi": "10.3389/fict.2015.00017",
+        "title": "EyeFrame: real-time memory aid improves human multitasking via domain-general eye tracking procedures"
+      }
+    ],
+    "funding_complete": [
+      {
+        "doi": "10.3389/fict.2015.00017",
+        "title": "EyeFrame: real-time memory aid improves human multitasking via domain-general eye tracking procedures"
+      },
+      {
+        "doi": "10.3389/fenrg.2015.00011",
+        "title": "Thermal-Hydraulic Analysis of SWAMUP Facility Using ATHLET-SC Code"
+      },
+      {
+        "doi": "10.3389/fpsyg.2015.00352",
+        "title": "Commentary on: â€œNumber-space mapping in the newborn chick resembles humans' mental number lineâ€"
+      },
+      {
+        "doi": "10.3389/feart.2015.00005",
+        "title": "Measurement of dynamic magnetization induced by a pulsed field: Proposal for a new rock magnetism method"
+      },
+      {
+        "doi": "10.3389/fncom.2015.00035",
+        "title": "Competition improves robustness against loss of information"
+      }
+    ],
+    "preprint_version_link": [
+      {
+        "doi": "10.3389/fnbeh.2015.00001",
+        "title": "Shining light on motivation, emotion, and memory processes"
+      },
+      {
+        "doi": "10.3389/fnint.2015.00024",
+        "title": "Perception of biological motion from size-invariant body representations"
+      },
+      {
+        "doi": "10.3389/fnhum.2015.00128",
+        "title": "Objective and personalized longitudinal assessment of a pregnant patient with post severe brain trauma"
+      },
+      {
+        "doi": "10.3389/conf.fmars.2015.03.00142",
+        "title": "Fish otolith biomineralization process: first investigations about organic matrix and growth of Triglidae (Scorpaeniformes) otoliths"
+      },
+      {
+        "doi": "10.3389/conf.fmars.2015.03.00116",
+        "title": "Excrement examination with blood detection tests as a novel method to study the postmetamorphic feeding in lampreys"
+      }
+    ],
+    "open_access_status": [
+      {
+        "doi": "10.3389/fnbeh.2015.00001",
+        "title": "Shining light on motivation, emotion, and memory processes"
+      },
+      {
+        "doi": "10.3389/conf.fninf.2015.19.00018",
+        "title": "DMN function, attention shifting and attention holding compared across humans and monkeys"
+      },
+      {
+        "doi": "10.3389/fnint.2015.00024",
+        "title": "Perception of biological motion from size-invariant body representations"
+      },
+      {
+        "doi": "10.3389/conf.fnhum.2015.219.00051",
+        "title": "The Psychophysiology of Sport and Exercise"
+      },
+      {
+        "doi": "10.3389/fnhum.2015.00128",
+        "title": "Objective and personalized longitudinal assessment of a pregnant patient with post severe brain trauma"
+      }
+    ]
+  },
+  "sampleWorks": [
+    {
+      "doi": "10.3389/fnbeh.2015.00001",
+      "title": "Shining light on motivation, emotion, and memory processes",
+      "year": 2015,
+      "crossrefScore": 0.42105263157894735,
+      "openalexScore": 0.8421052631578947,
+      "gap": 16,
+      "openalexAdds": [
+        "abstract",
+        "author_affiliation",
+        "subject_keywords",
+        "language",
+        "author_orcid",
+        "page",
+        "published_print_date",
+        "license",
+        "license_url",
+        "open_access_license",
+        "full_text_links",
+        "affiliation_ids_ror",
+        "relations",
+        "affiliation_ror",
+        "preprint_version_link",
+        "open_access_status"
+      ]
+    },
+    {
+      "doi": "10.3389/conf.fninf.2015.19.00018",
+      "title": "DMN function, attention shifting and attention holding compared across humans and monkeys",
+      "year": 2015,
+      "crossrefScore": 0.34210526315789475,
+      "openalexScore": 0.6052631578947368,
+      "gap": 10,
+      "openalexAdds": [
+        "abstract",
+        "subject_keywords",
+        "language",
+        "author_orcid",
+        "published_print_date",
+        "license",
+        "license_url",
+        "open_access_license",
+        "relations",
+        "open_access_status"
+      ]
+    },
+    {
+      "doi": "10.3389/fnint.2015.00024",
+      "title": "Perception of biological motion from size-invariant body representations",
+      "year": 2015,
+      "crossrefScore": 0.42105263157894735,
+      "openalexScore": 0.8421052631578947,
+      "gap": 16,
+      "openalexAdds": [
+        "abstract",
+        "author_affiliation",
+        "subject_keywords",
+        "language",
+        "author_orcid",
+        "page",
+        "published_print_date",
+        "license",
+        "license_url",
+        "open_access_license",
+        "full_text_links",
+        "affiliation_ids_ror",
+        "relations",
+        "affiliation_ror",
+        "preprint_version_link",
+        "open_access_status"
+      ]
+    },
+    {
+      "doi": "10.3389/conf.fnhum.2015.219.00051",
+      "title": "The Psychophysiology of Sport and Exercise",
+      "year": 2015,
+      "crossrefScore": 0.34210526315789475,
+      "openalexScore": 0.631578947368421,
+      "gap": 11,
+      "openalexAdds": [
+        "abstract",
+        "subject_keywords",
+        "language",
+        "author_orcid",
+        "all_authors_orcid",
+        "published_print_date",
+        "license",
+        "license_url",
+        "open_access_license",
+        "relations",
+        "open_access_status"
+      ]
+    },
+    {
+      "doi": "10.3389/fnhum.2015.00128",
+      "title": "Objective and personalized longitudinal assessment of a pregnant patient with post severe brain trauma",
+      "year": 2015,
+      "crossrefScore": 0.42105263157894735,
+      "openalexScore": 0.868421052631579,
+      "gap": 17,
+      "openalexAdds": [
+        "abstract",
+        "author_affiliation",
+        "subject_keywords",
+        "language",
+        "author_orcid",
+        "all_authors_orcid",
+        "page",
+        "published_print_date",
+        "license",
+        "license_url",
+        "open_access_license",
+        "full_text_links",
+        "affiliation_ids_ror",
+        "relations",
+        "affiliation_ror",
+        "preprint_version_link",
+        "open_access_status"
+      ]
+    },
+    {
+      "doi": "10.3389/conf.fmars.2015.03.00142",
+      "title": "Fish otolith biomineralization process: first investigations about organic matrix and growth of Triglidae (Scorpaeniformes) otoliths",
+      "year": 2015,
+      "crossrefScore": 0.3684210526315789,
+      "openalexScore": 0.7368421052631579,
+      "gap": 14,
+      "openalexAdds": [
+        "abstract",
+        "author_affiliation",
+        "subject_keywords",
+        "language",
+        "author_orcid",
+        "published_print_date",
+        "license",
+        "license_url",
+        "open_access_license",
+        "affiliation_ids_ror",
+        "relations",
+        "affiliation_ror",
+        "preprint_version_link",
+        "open_access_status"
+      ]
+    },
+    {
+      "doi": "10.3389/conf.fimmu.2015.05.00356",
+      "title": "Bovines immunized with Babesia bigemina surface-exposed peptides containing conserved B-cell epitopes elicit an improved Th1 response when supplemented with live, probiotic yeasts.",
+      "year": 2015,
+      "crossrefScore": 0.34210526315789475,
+      "openalexScore": 0.5789473684210527,
+      "gap": 9,
+      "openalexAdds": [
+        "abstract",
+        "subject_keywords",
+        "language",
+        "published_print_date",
+        "license",
+        "license_url",
+        "open_access_license",
+        "relations",
+        "open_access_status"
+      ]
+    },
+    {
+      "doi": "10.3389/fict.2015.00017",
+      "title": "EyeFrame: real-time memory aid improves human multitasking via domain-general eye tracking procedures",
+      "year": 2015,
+      "crossrefScore": 0.3684210526315789,
+      "openalexScore": 0.9210526315789473,
+      "gap": 21,
+      "openalexAdds": [
+        "abstract",
+        "author_affiliation",
+        "subject_keywords",
+        "funder_name",
+        "language",
+        "author_orcid",
+        "all_authors_orcid",
+        "funder_doi",
+        "award_number",
+        "published_print_date",
+        "license",
+        "license_url",
+        "open_access_license",
+        "full_text_links",
+        "references",
+        "references_count",
+        "affiliation_ids_ror",
+        "relations",
+        "affiliation_ror",
+        "funding_complete",
+        "open_access_status"
+      ]
+    },
+    {
+      "doi": "10.3389/conf.fimmu.2015.05.00301",
+      "title": "Fatty acids, cytokines and chemokines profile in exhaled breath condensate (EBC) from tuberculosis patients",
+      "year": 2015,
+      "crossrefScore": 0.34210526315789475,
+      "openalexScore": 0.5789473684210527,
+      "gap": 9,
+      "openalexAdds": [
+        "abstract",
+        "subject_keywords",
+        "language",
+        "published_print_date",
+        "license",
+        "license_url",
+        "open_access_license",
+        "relations",
+        "open_access_status"
+      ]
+    },
+    {
+      "doi": "10.3389/conf.fmars.2015.03.00116",
+      "title": "Excrement examination with blood detection tests as a novel method to study the postmetamorphic feeding in lampreys",
+      "year": 2015,
+      "crossrefScore": 0.34210526315789475,
+      "openalexScore": 0.7105263157894737,
+      "gap": 14,
+      "openalexAdds": [
+        "abstract",
+        "author_affiliation",
+        "subject_keywords",
+        "language",
+        "author_orcid",
+        "published_print_date",
+        "license",
+        "license_url",
+        "open_access_license",
+        "affiliation_ids_ror",
+        "relations",
+        "affiliation_ror",
+        "preprint_version_link",
+        "open_access_status"
+      ]
+    }
+  ],
+  "fieldDetails": [
+    {
+      "id": "title",
+      "label": "Title",
+      "category": "findable_essential",
+      "effort": "automatic",
+      "crossref": 1,
+      "openalex": 1,
+      "gap": 0,
+      "samples": []
+    },
+    {
+      "id": "abstract",
+      "label": "Abstract",
+      "category": "findable_essential",
+      "effort": "voluntary",
+      "crossref": 0.4370340909090909,
+      "openalex": 0.9857627974210128,
+      "gap": 0.548728706511922,
+      "samples": [
+        {
+          "doi": "10.3389/fnbeh.2015.00001",
+          "title": "Shining light on motivation, emotion, and memory processes"
+        },
+        {
+          "doi": "10.3389/conf.fninf.2015.19.00018",
+          "title": "DMN function, attention shifting and attention holding compared across humans and monkeys"
+        },
+        {
+          "doi": "10.3389/fnint.2015.00024",
+          "title": "Perception of biological motion from size-invariant body representations"
+        },
+        {
+          "doi": "10.3389/conf.fnhum.2015.219.00051",
+          "title": "The Psychophysiology of Sport and Exercise"
+        },
+        {
+          "doi": "10.3389/fnhum.2015.00128",
+          "title": "Objective and personalized longitudinal assessment of a pregnant patient with post severe brain trauma"
+        }
+      ]
+    },
+    {
+      "id": "author",
+      "label": "Author",
+      "category": "findable_essential",
+      "effort": "automatic",
+      "crossref": 0.9984772727272727,
+      "openalex": 0.9988183466030333,
+      "gap": 0.0003410738757605447,
+      "samples": [
+        {
+          "doi": "10.1111/tri.12494",
+          "title": "Author index"
+        },
+        {
+          "doi": "10.1111/tri.12493",
+          "title": "Oral communications"
+        },
+        {
+          "doi": "10.3389/fpsyg.2015.00437",
+          "title": "Erratum on: Emotionality differences between a native and foreign language: theoretical implications"
+        },
+        {
+          "doi": "10.3389/fnhum.2015.00226",
+          "title": "Erratum on: Habit and embodiment in Merleau-Ponty"
+        },
+        {
+          "doi": "10.3389/fnins.2015.00233",
+          "title": "Erratum on: Methamphetamine and the hypothalamic-pituitary-adrenal axis"
+        }
+      ]
+    },
+    {
+      "id": "author_affiliation",
+      "label": "Author Affiliation",
+      "category": "findable_essential",
+      "effort": "voluntary",
+      "crossref": 0.011920454545454545,
+      "openalex": 0.9656402725833467,
+      "gap": 0.9537198180378922,
+      "samples": [
+        {
+          "doi": "10.3389/fnbeh.2015.00001",
+          "title": "Shining light on motivation, emotion, and memory processes"
+        },
+        {
+          "doi": "10.3389/fnint.2015.00024",
+          "title": "Perception of biological motion from size-invariant body representations"
+        },
+        {
+          "doi": "10.3389/fnhum.2015.00128",
+          "title": "Objective and personalized longitudinal assessment of a pregnant patient with post severe brain trauma"
+        },
+        {
+          "doi": "10.3389/conf.fmars.2015.03.00142",
+          "title": "Fish otolith biomineralization process: first investigations about organic matrix and growth of Triglidae (Scorpaeniformes) otoliths"
+        },
+        {
+          "doi": "10.3389/fict.2015.00017",
+          "title": "EyeFrame: real-time memory aid improves human multitasking via domain-general eye tracking procedures"
+        }
+      ]
+    },
+    {
+      "id": "doi",
+      "label": "DOI",
+      "category": "findable_essential",
+      "effort": "automatic",
+      "crossref": 1,
+      "openalex": 1,
+      "gap": 0,
+      "samples": []
+    },
+    {
+      "id": "publication_date",
+      "label": "Publication Date",
+      "category": "findable_essential",
+      "effort": "automatic",
+      "crossref": 1,
+      "openalex": 1,
+      "gap": 0,
+      "samples": []
+    },
+    {
+      "id": "publisher",
+      "label": "Publisher",
+      "category": "findable_essential",
+      "effort": "automatic",
+      "crossref": 1,
+      "openalex": 1,
+      "gap": 0,
+      "samples": []
+    },
+    {
+      "id": "resource_type",
+      "label": "Resource Type",
+      "category": "findable_essential",
+      "effort": "automatic",
+      "crossref": 1,
+      "openalex": 1,
+      "gap": 0,
+      "samples": []
+    },
+    {
+      "id": "subject_keywords",
+      "label": "Subject / Keywords",
+      "category": "findable_essential",
+      "effort": "voluntary",
+      "crossref": 0,
+      "openalex": 1,
+      "gap": 1,
+      "samples": [
+        {
+          "doi": "10.3389/fnbeh.2015.00001",
+          "title": "Shining light on motivation, emotion, and memory processes"
+        },
+        {
+          "doi": "10.3389/conf.fninf.2015.19.00018",
+          "title": "DMN function, attention shifting and attention holding compared across humans and monkeys"
+        },
+        {
+          "doi": "10.3389/fnint.2015.00024",
+          "title": "Perception of biological motion from size-invariant body representations"
+        },
+        {
+          "doi": "10.3389/conf.fnhum.2015.219.00051",
+          "title": "The Psychophysiology of Sport and Exercise"
+        },
+        {
+          "doi": "10.3389/fnhum.2015.00128",
+          "title": "Objective and personalized longitudinal assessment of a pregnant patient with post severe brain trauma"
+        }
+      ]
+    },
+    {
+      "id": "funder_name",
+      "label": "Funder Name",
+      "category": "findable_essential",
+      "effort": "voluntary",
+      "crossref": 0.32786363636363636,
+      "openalex": 0.6415115985590712,
+      "gap": 0.3136479621954349,
+      "samples": [
+        {
+          "doi": "10.3389/fict.2015.00017",
+          "title": "EyeFrame: real-time memory aid improves human multitasking via domain-general eye tracking procedures"
+        },
+        {
+          "doi": "10.3389/fenrg.2015.00011",
+          "title": "Thermal-Hydraulic Analysis of SWAMUP Facility Using ATHLET-SC Code"
+        },
+        {
+          "doi": "10.1111/tri.12558",
+          "title": "Is it time to revisit contraindications to organ donation from donors with a JAK-2 mutation? Safe use of a liver allograft from a donor with essential thrombocythaemia"
+        },
+        {
+          "doi": "10.3389/fpsyg.2014.01495",
+          "title": "Assessing factorial invariance of two-way rating designs using three-way methods"
+        },
+        {
+          "doi": "10.3389/fpsyg.2015.00352",
+          "title": "Commentary on: â€œNumber-space mapping in the newborn chick resembles humans' mental number lineâ€"
+        }
+      ]
+    },
+    {
+      "id": "container_title",
+      "label": "Container Title",
+      "category": "findable_essential",
+      "effort": "automatic",
+      "crossref": 1,
+      "openalex": 1,
+      "gap": 0,
+      "samples": []
+    },
+    {
+      "id": "language",
+      "label": "Language",
+      "category": "findable_essential",
+      "effort": "automatic",
+      "crossref": 0.013886363636363636,
+      "openalex": 0.9998738040061492,
+      "gap": 0.9859874403697856,
+      "samples": [
+        {
+          "doi": "10.3389/fnbeh.2015.00001",
+          "title": "Shining light on motivation, emotion, and memory processes"
+        },
+        {
+          "doi": "10.3389/conf.fninf.2015.19.00018",
+          "title": "DMN function, attention shifting and attention holding compared across humans and monkeys"
+        },
+        {
+          "doi": "10.3389/fnint.2015.00024",
+          "title": "Perception of biological motion from size-invariant body representations"
+        },
+        {
+          "doi": "10.3389/conf.fnhum.2015.219.00051",
+          "title": "The Psychophysiology of Sport and Exercise"
+        },
+        {
+          "doi": "10.3389/fnhum.2015.00128",
+          "title": "Objective and personalized longitudinal assessment of a pregnant patient with post severe brain trauma"
+        }
+      ]
+    },
+    {
+      "id": "author_orcid",
+      "label": "Author ORCID",
+      "category": "findable_support",
+      "effort": "voluntary",
+      "crossref": 0.005636363636363636,
+      "openalex": 0.9719615446389648,
+      "gap": 0.9663251810026011,
+      "samples": [
+        {
+          "doi": "10.3389/fnbeh.2015.00001",
+          "title": "Shining light on motivation, emotion, and memory processes"
+        },
+        {
+          "doi": "10.3389/conf.fninf.2015.19.00018",
+          "title": "DMN function, attention shifting and attention holding compared across humans and monkeys"
+        },
+        {
+          "doi": "10.3389/fnint.2015.00024",
+          "title": "Perception of biological motion from size-invariant body representations"
+        },
+        {
+          "doi": "10.3389/conf.fnhum.2015.219.00051",
+          "title": "The Psychophysiology of Sport and Exercise"
+        },
+        {
+          "doi": "10.3389/fnhum.2015.00128",
+          "title": "Objective and personalized longitudinal assessment of a pregnant patient with post severe brain trauma"
+        }
+      ]
+    },
+    {
+      "id": "all_authors_orcid",
+      "label": "All Authors ORCID",
+      "category": "findable_support",
+      "effort": "voluntary",
+      "crossref": 0.0006704545454545455,
+      "openalex": 0.32784571966133585,
+      "gap": 0.3271752651158813,
+      "samples": [
+        {
+          "doi": "10.3389/conf.fnhum.2015.219.00051",
+          "title": "The Psychophysiology of Sport and Exercise"
+        },
+        {
+          "doi": "10.3389/fnhum.2015.00128",
+          "title": "Objective and personalized longitudinal assessment of a pregnant patient with post severe brain trauma"
+        },
+        {
+          "doi": "10.3389/fict.2015.00017",
+          "title": "EyeFrame: real-time memory aid improves human multitasking via domain-general eye tracking procedures"
+        },
+        {
+          "doi": "10.3389/conf.fnins.2015.90.00002",
+          "title": "The dynamical response properties of cortical neurons"
+        },
+        {
+          "doi": "10.3389/conf.fmars.2015.03.00192",
+          "title": "Phylogeny of Gobioidei and the origin of European gobies"
+        }
+      ]
+    },
+    {
+      "id": "funder_doi",
+      "label": "Funder DOI",
+      "category": "findable_support",
+      "effort": "voluntary",
+      "crossref": 0.3249431818181818,
+      "openalex": 0.6415115985590712,
+      "gap": 0.3165684167408894,
+      "samples": [
+        {
+          "doi": "10.3389/fict.2015.00017",
+          "title": "EyeFrame: real-time memory aid improves human multitasking via domain-general eye tracking procedures"
+        },
+        {
+          "doi": "10.3389/fenrg.2015.00011",
+          "title": "Thermal-Hydraulic Analysis of SWAMUP Facility Using ATHLET-SC Code"
+        },
+        {
+          "doi": "10.1111/tri.12558",
+          "title": "Is it time to revisit contraindications to organ donation from donors with a JAK-2 mutation? Safe use of a liver allograft from a donor with essential thrombocythaemia"
+        },
+        {
+          "doi": "10.3389/fpsyg.2014.01495",
+          "title": "Assessing factorial invariance of two-way rating designs using three-way methods"
+        },
+        {
+          "doi": "10.3389/fpsyg.2015.00352",
+          "title": "Commentary on: â€œNumber-space mapping in the newborn chick resembles humans' mental number lineâ€"
+        }
+      ]
+    },
+    {
+      "id": "award_number",
+      "label": "Award Number",
+      "category": "findable_support",
+      "effort": "voluntary",
+      "crossref": 0.19772727272727272,
+      "openalex": 0.4896060390519239,
+      "gap": 0.29187876632465115,
+      "samples": [
+        {
+          "doi": "10.3389/fict.2015.00017",
+          "title": "EyeFrame: real-time memory aid improves human multitasking via domain-general eye tracking procedures"
+        },
+        {
+          "doi": "10.3389/fenrg.2015.00011",
+          "title": "Thermal-Hydraulic Analysis of SWAMUP Facility Using ATHLET-SC Code"
+        },
+        {
+          "doi": "10.3389/fpsyg.2015.00352",
+          "title": "Commentary on: â€œNumber-space mapping in the newborn chick resembles humans' mental number lineâ€"
+        },
+        {
+          "doi": "10.3389/feart.2015.00005",
+          "title": "Measurement of dynamic magnetization induced by a pulsed field: Proposal for a new rock magnetism method"
+        },
+        {
+          "doi": "10.3389/fncom.2015.00035",
+          "title": "Competition improves robustness against loss of information"
+        }
+      ]
+    },
+    {
+      "id": "issn",
+      "label": "ISSN",
+      "category": "findable_support",
+      "effort": "automatic",
+      "crossref": 1,
+      "openalex": 1,
+      "gap": 0,
+      "samples": []
+    },
+    {
+      "id": "volume",
+      "label": "Volume",
+      "category": "findable_support",
+      "effort": "automatic",
+      "crossref": 0.9987840909090909,
+      "openalex": 0.999931165821536,
+      "gap": 0.0011470749124450341,
+      "samples": [
+        {
+          "doi": "10.4081/oncol.2015.261",
+          "title": "Rare cytogenetic abnormalities and alteration of microRNAs in acute myeloid leukemia and response to therapy"
+        },
+        {
+          "doi": "10.3389/fpsyg.2015.00993",
+          "title": "Interoception and stress"
+        },
+        {
+          "doi": "10.4081/oncol.2015.263",
+          "title": "Whole-body vibration as a modality for the rehabilitation of peripheral neuropathies: implications for cancer survivors suffering from chemotherapy-induced peripheral neuropathy"
+        },
+        {
+          "doi": "10.3389/fpsyg.2015.00395",
+          "title": "Beyond fluid intelligence and personality traits in social support: the role of ability based emotional intelligence"
+        },
+        {
+          "doi": "10.4081/oncol.2015.274",
+          "title": "Surgery for non-Hodgkin’s lymphoma"
+        }
+      ]
+    },
+    {
+      "id": "issue",
+      "label": "Issue",
+      "category": "findable_support",
+      "effort": "automatic",
+      "crossref": 0.01659090909090909,
+      "openalex": 0.018826147809925888,
+      "gap": 0.002235238719016798,
+      "samples": [
+        {
+          "doi": "10.4081/oncol.2015.261",
+          "title": "Rare cytogenetic abnormalities and alteration of microRNAs in acute myeloid leukemia and response to therapy"
+        },
+        {
+          "doi": "10.4081/oncol.2015.263",
+          "title": "Whole-body vibration as a modality for the rehabilitation of peripheral neuropathies: implications for cancer survivors suffering from chemotherapy-induced peripheral neuropathy"
+        },
+        {
+          "doi": "10.3389/fpsyg.2015.00454",
+          "title": "Gaze cuing of attention in snake phobic women: the influence of facial expression"
+        },
+        {
+          "doi": "10.3389/fpsyg.2015.00559",
+          "title": "An other-race effect for configural and featural processing of faces: upper and lower face regions play different roles"
+        },
+        {
+          "doi": "10.3389/fmicb.2015.00321",
+          "title": "Metabolic pathways of Pseudomonas aeruginosa involved in competition with respiratory bacterial pathogens"
+        }
+      ]
+    },
+    {
+      "id": "page",
+      "label": "Page",
+      "category": "findable_support",
+      "effort": "automatic",
+      "crossref": 0.01589772727272727,
+      "openalex": 0.8276048000367116,
+      "gap": 0.8117070727639842,
+      "samples": [
+        {
+          "doi": "10.3389/fnbeh.2015.00001",
+          "title": "Shining light on motivation, emotion, and memory processes"
+        },
+        {
+          "doi": "10.3389/fnint.2015.00024",
+          "title": "Perception of biological motion from size-invariant body representations"
+        },
+        {
+          "doi": "10.3389/fnhum.2015.00128",
+          "title": "Objective and personalized longitudinal assessment of a pregnant patient with post severe brain trauma"
+        },
+        {
+          "doi": "10.3389/fncom.2015.00010",
+          "title": "Architectural constraints are a major factor reducing path integration accuracy in the rat head direction cell system"
+        },
+        {
+          "doi": "10.3389/fonc.2014.00362",
+          "title": "Carboplatin-Pemetrexed in Treatment of Patients with Recurrent/Metastatic Cancers of the Head and Neck; Superior Outcomes in Oropharyngeal Primaries"
+        }
+      ]
+    },
+    {
+      "id": "published_print_date",
+      "label": "Published Print Date",
+      "category": "findable_support",
+      "effort": "automatic",
+      "crossref": 0.01509090909090909,
+      "openalex": 1,
+      "gap": 0.984909090909091,
+      "samples": [
+        {
+          "doi": "10.3389/fnbeh.2015.00001",
+          "title": "Shining light on motivation, emotion, and memory processes"
+        },
+        {
+          "doi": "10.3389/conf.fninf.2015.19.00018",
+          "title": "DMN function, attention shifting and attention holding compared across humans and monkeys"
+        },
+        {
+          "doi": "10.3389/fnint.2015.00024",
+          "title": "Perception of biological motion from size-invariant body representations"
+        },
+        {
+          "doi": "10.3389/conf.fnhum.2015.219.00051",
+          "title": "The Psychophysiology of Sport and Exercise"
+        },
+        {
+          "doi": "10.3389/fnhum.2015.00128",
+          "title": "Objective and personalized longitudinal assessment of a pregnant patient with post severe brain trauma"
+        }
+      ]
+    },
+    {
+      "id": "published_online_date",
+      "label": "Published Online Date",
+      "category": "findable_support",
+      "effort": "automatic",
+      "crossref": 0.9986704545454546,
+      "openalex": 1,
+      "gap": 0.0013295454545454444,
+      "samples": [
+        {
+          "doi": "10.4149/av_2015_04_434",
+          "title": "The prevalence of human papillomavirus in patients with oral lichen planus and normal oral mucosa"
+        },
+        {
+          "doi": "10.4149/av_2015_01_3",
+          "title": "Next generation sequencing technologies: Tool to study avian virus diversity"
+        },
+        {
+          "doi": "10.4149/av_2015_01_27",
+          "title": "Molecular epidemiology of avian influenza virus and incidence of H5 and H9 virus subtypes among poultry in Egypt in 2009–2011"
+        },
+        {
+          "doi": "10.4149/av_2015_03_284",
+          "title": "Molecular characterization and fluorescence analysis of HCV non-structural proteins NS3, NS3-4A and NS4A of genotype 3a"
+        },
+        {
+          "doi": "10.4149/av_2015_01_98",
+          "title": "Comparison of bronchiolitis of human metapneumovirus and human respiratory syncytial virus"
+        }
+      ]
+    },
+    {
+      "id": "license",
+      "label": "License",
+      "category": "accessible_essential",
+      "effort": "automatic",
+      "crossref": 0.7255227272727273,
+      "openalex": 0.9878737122272445,
+      "gap": 0.26235098495451725,
+      "samples": [
+        {
+          "doi": "10.3389/fnbeh.2015.00001",
+          "title": "Shining light on motivation, emotion, and memory processes"
+        },
+        {
+          "doi": "10.3389/conf.fninf.2015.19.00018",
+          "title": "DMN function, attention shifting and attention holding compared across humans and monkeys"
+        },
+        {
+          "doi": "10.3389/fnint.2015.00024",
+          "title": "Perception of biological motion from size-invariant body representations"
+        },
+        {
+          "doi": "10.3389/conf.fnhum.2015.219.00051",
+          "title": "The Psychophysiology of Sport and Exercise"
+        },
+        {
+          "doi": "10.3389/fnhum.2015.00128",
+          "title": "Objective and personalized longitudinal assessment of a pregnant patient with post severe brain trauma"
+        }
+      ]
+    },
+    {
+      "id": "license_url",
+      "label": "License URL",
+      "category": "accessible_essential",
+      "effort": "automatic",
+      "crossref": 0.7255227272727273,
+      "openalex": 0.9878737122272445,
+      "gap": 0.26235098495451725,
+      "samples": [
+        {
+          "doi": "10.3389/fnbeh.2015.00001",
+          "title": "Shining light on motivation, emotion, and memory processes"
+        },
+        {
+          "doi": "10.3389/conf.fninf.2015.19.00018",
+          "title": "DMN function, attention shifting and attention holding compared across humans and monkeys"
+        },
+        {
+          "doi": "10.3389/fnint.2015.00024",
+          "title": "Perception of biological motion from size-invariant body representations"
+        },
+        {
+          "doi": "10.3389/conf.fnhum.2015.219.00051",
+          "title": "The Psychophysiology of Sport and Exercise"
+        },
+        {
+          "doi": "10.3389/fnhum.2015.00128",
+          "title": "Objective and personalized longitudinal assessment of a pregnant patient with post severe brain trauma"
+        }
+      ]
+    },
+    {
+      "id": "open_access_license",
+      "label": "Open Access License",
+      "category": "accessible_essential",
+      "effort": "voluntary",
+      "crossref": 0.7161363636363637,
+      "openalex": 0.9875295413349242,
+      "gap": 0.27139317769856053,
+      "samples": [
+        {
+          "doi": "10.3389/fnbeh.2015.00001",
+          "title": "Shining light on motivation, emotion, and memory processes"
+        },
+        {
+          "doi": "10.3389/conf.fninf.2015.19.00018",
+          "title": "DMN function, attention shifting and attention holding compared across humans and monkeys"
+        },
+        {
+          "doi": "10.3389/fnint.2015.00024",
+          "title": "Perception of biological motion from size-invariant body representations"
+        },
+        {
+          "doi": "10.3389/conf.fnhum.2015.219.00051",
+          "title": "The Psychophysiology of Sport and Exercise"
+        },
+        {
+          "doi": "10.3389/fnhum.2015.00128",
+          "title": "Objective and personalized longitudinal assessment of a pregnant patient with post severe brain trauma"
+        }
+      ]
+    },
+    {
+      "id": "full_text_links",
+      "label": "Full-text Links",
+      "category": "accessible_essential",
+      "effort": "automatic",
+      "crossref": 0.8368181818181818,
+      "openalex": 0.8394786958217654,
+      "gap": 0.0026605140035835806,
+      "samples": [
+        {
+          "doi": "10.3389/fnbeh.2015.00001",
+          "title": "Shining light on motivation, emotion, and memory processes"
+        },
+        {
+          "doi": "10.3389/fnint.2015.00024",
+          "title": "Perception of biological motion from size-invariant body representations"
+        },
+        {
+          "doi": "10.3389/fnhum.2015.00128",
+          "title": "Objective and personalized longitudinal assessment of a pregnant patient with post severe brain trauma"
+        },
+        {
+          "doi": "10.3389/fict.2015.00017",
+          "title": "EyeFrame: real-time memory aid improves human multitasking via domain-general eye tracking procedures"
+        },
+        {
+          "doi": "10.3389/fenrg.2015.00011",
+          "title": "Thermal-Hydraulic Analysis of SWAMUP Facility Using ATHLET-SC Code"
+        }
+      ]
+    },
+    {
+      "id": "resource_url",
+      "label": "Resource URL",
+      "category": "accessible_essential",
+      "effort": "automatic",
+      "crossref": 1,
+      "openalex": 1,
+      "gap": 0,
+      "samples": []
+    },
+    {
+      "id": "references",
+      "label": "References",
+      "category": "accessible_essential",
+      "effort": "voluntary",
+      "crossref": 0.9285795454545455,
+      "openalex": 0.9453571346625979,
+      "gap": 0.01677758920805239,
+      "samples": [
+        {
+          "doi": "10.3389/fict.2015.00017",
+          "title": "EyeFrame: real-time memory aid improves human multitasking via domain-general eye tracking procedures"
+        },
+        {
+          "doi": "10.4149/av_2015_04_434",
+          "title": "The prevalence of human papillomavirus in patients with oral lichen planus and normal oral mucosa"
+        },
+        {
+          "doi": "10.3389/fmicb.2015.00853",
+          "title": "The diversity of PAH-degrading bacteria in a deep-sea water column above the Southwest Indian Ridge"
+        },
+        {
+          "doi": "10.4081/oncol.2015.261",
+          "title": "Rare cytogenetic abnormalities and alteration of microRNAs in acute myeloid leukemia and response to therapy"
+        },
+        {
+          "doi": "10.4149/av_2015_01_3",
+          "title": "Next generation sequencing technologies: Tool to study avian virus diversity"
+        }
+      ]
+    },
+    {
+      "id": "references_count",
+      "label": "References Count",
+      "category": "accessible_essential",
+      "effort": "voluntary",
+      "crossref": 0.9285795454545455,
+      "openalex": 0.9453571346625979,
+      "gap": 0.01677758920805239,
+      "samples": [
+        {
+          "doi": "10.3389/fict.2015.00017",
+          "title": "EyeFrame: real-time memory aid improves human multitasking via domain-general eye tracking procedures"
+        },
+        {
+          "doi": "10.4149/av_2015_04_434",
+          "title": "The prevalence of human papillomavirus in patients with oral lichen planus and normal oral mucosa"
+        },
+        {
+          "doi": "10.3389/fmicb.2015.00853",
+          "title": "The diversity of PAH-degrading bacteria in a deep-sea water column above the Southwest Indian Ridge"
+        },
+        {
+          "doi": "10.4081/oncol.2015.261",
+          "title": "Rare cytogenetic abnormalities and alteration of microRNAs in acute myeloid leukemia and response to therapy"
+        },
+        {
+          "doi": "10.4149/av_2015_01_3",
+          "title": "Next generation sequencing technologies: Tool to study avian virus diversity"
+        }
+      ]
+    },
+    {
+      "id": "is_referenced_by",
+      "label": "Is Referenced By",
+      "category": "accessible_essential",
+      "effort": "automatic",
+      "crossref": 0.8854090909090909,
+      "openalex": 0.8949934607530459,
+      "gap": 0.009584369843954943,
+      "samples": [
+        {
+          "doi": "10.1111/tri.12558",
+          "title": "Is it time to revisit contraindications to organ donation from donors with a JAK-2 mutation? Safe use of a liver allograft from a donor with essential thrombocythaemia"
+        },
+        {
+          "doi": "10.3389/conf.fncom.2015.56.00003",
+          "title": "Orthogonal Connectivity Factorization: Interpretable Decomposition of Variability in Correlation Matrices"
+        },
+        {
+          "doi": "10.3389/conf.fnhum.2015.217.00012",
+          "title": "Oscillatory activity in the auditory cortex determines auditory temporal resolution"
+        },
+        {
+          "doi": "10.3389/conf.fmars.2015.03.00084",
+          "title": "Comparative population genetic structure and demographic patterns of two killifish species (Aphanius baeticus and Aphanius iberus) at the Iberian Peninsula"
+        },
+        {
+          "doi": "10.3389/conf.fimmu.2015.05.00066",
+          "title": "OUABAIN IMPROVES THE RESPONSE TO MELANOMA (B16) IN MICE BY MODULATING B AND T LYMPHOCYTES"
+        }
+      ]
+    },
+    {
+      "id": "author_sequence",
+      "label": "Author Sequence",
+      "category": "accessible_support",
+      "effort": "automatic",
+      "crossref": 0.9983977272727272,
+      "openalex": 0.9988183466030333,
+      "gap": 0.0004206193303060157,
+      "samples": [
+        {
+          "doi": "10.1111/tri.12494",
+          "title": "Author index"
+        },
+        {
+          "doi": "10.1111/tri.12493",
+          "title": "Oral communications"
+        },
+        {
+          "doi": "10.3389/fpsyg.2015.00010",
+          "title": "Erratum on: The other-race and other-species effects in face perceptionâ€”a subordinate-level analysis"
+        },
+        {
+          "doi": "10.3389/fpsyg.2015.00437",
+          "title": "Erratum on: Emotionality differences between a native and foreign language: theoretical implications"
+        },
+        {
+          "doi": "10.3389/fnhum.2015.00226",
+          "title": "Erratum on: Habit and embodiment in Merleau-Ponty"
+        }
+      ]
+    },
+    {
+      "id": "affiliation_ids_ror",
+      "label": "Affiliation IDs (ROR)",
+      "category": "accessible_support",
+      "effort": "voluntary",
+      "crossref": 0,
+      "openalex": 0.9655370213156506,
+      "gap": 0.9655370213156506,
+      "samples": [
+        {
+          "doi": "10.3389/fnbeh.2015.00001",
+          "title": "Shining light on motivation, emotion, and memory processes"
+        },
+        {
+          "doi": "10.3389/fnint.2015.00024",
+          "title": "Perception of biological motion from size-invariant body representations"
+        },
+        {
+          "doi": "10.3389/fnhum.2015.00128",
+          "title": "Objective and personalized longitudinal assessment of a pregnant patient with post severe brain trauma"
+        },
+        {
+          "doi": "10.3389/conf.fmars.2015.03.00142",
+          "title": "Fish otolith biomineralization process: first investigations about organic matrix and growth of Triglidae (Scorpaeniformes) otoliths"
+        },
+        {
+          "doi": "10.3389/fict.2015.00017",
+          "title": "EyeFrame: real-time memory aid improves human multitasking via domain-general eye tracking procedures"
+        }
+      ]
+    },
+    {
+      "id": "relations",
+      "label": "Relations",
+      "category": "accessible_support",
+      "effort": "voluntary",
+      "crossref": 0.02168181818181818,
+      "openalex": 0.9709060872358488,
+      "gap": 0.9492242690540307,
+      "samples": [
+        {
+          "doi": "10.3389/fnbeh.2015.00001",
+          "title": "Shining light on motivation, emotion, and memory processes"
+        },
+        {
+          "doi": "10.3389/conf.fninf.2015.19.00018",
+          "title": "DMN function, attention shifting and attention holding compared across humans and monkeys"
+        },
+        {
+          "doi": "10.3389/fnint.2015.00024",
+          "title": "Perception of biological motion from size-invariant body representations"
+        },
+        {
+          "doi": "10.3389/conf.fnhum.2015.219.00051",
+          "title": "The Psychophysiology of Sport and Exercise"
+        },
+        {
+          "doi": "10.3389/fnhum.2015.00128",
+          "title": "Objective and personalized longitudinal assessment of a pregnant patient with post severe brain trauma"
+        }
+      ]
+    },
+    {
+      "id": "author_given_family",
+      "label": "Complete Author Names",
+      "category": "evaluation_coara",
+      "effort": "automatic",
+      "crossref": 0.9926477272727273,
+      "openalex": 0.9988183466030333,
+      "gap": 0.006170619330305938,
+      "samples": [
+        {
+          "doi": "10.3389/fonc.2015.00064",
+          "title": "Image-Guided Radiotherapy and -Brachytherapy for Cervical Cancer"
+        },
+        {
+          "doi": "10.1111/tri.12494",
+          "title": "Author index"
+        },
+        {
+          "doi": "10.3389/fpsyg.2014.01485",
+          "title": "Psychosocial screening and assessment in oncology and palliative care settings"
+        },
+        {
+          "doi": "10.1111/tri.12493",
+          "title": "Oral communications"
+        },
+        {
+          "doi": "10.3389/fpsyg.2015.00010",
+          "title": "Erratum on: The other-race and other-species effects in face perceptionâ€”a subordinate-level analysis"
+        }
+      ]
+    },
+    {
+      "id": "affiliation_ror",
+      "label": "Affiliation with ROR",
+      "category": "evaluation_coara",
+      "effort": "voluntary",
+      "crossref": 0,
+      "openalex": 0.9655370213156506,
+      "gap": 0.9655370213156506,
+      "samples": [
+        {
+          "doi": "10.3389/fnbeh.2015.00001",
+          "title": "Shining light on motivation, emotion, and memory processes"
+        },
+        {
+          "doi": "10.3389/fnint.2015.00024",
+          "title": "Perception of biological motion from size-invariant body representations"
+        },
+        {
+          "doi": "10.3389/fnhum.2015.00128",
+          "title": "Objective and personalized longitudinal assessment of a pregnant patient with post severe brain trauma"
+        },
+        {
+          "doi": "10.3389/conf.fmars.2015.03.00142",
+          "title": "Fish otolith biomineralization process: first investigations about organic matrix and growth of Triglidae (Scorpaeniformes) otoliths"
+        },
+        {
+          "doi": "10.3389/fict.2015.00017",
+          "title": "EyeFrame: real-time memory aid improves human multitasking via domain-general eye tracking procedures"
+        }
+      ]
+    },
+    {
+      "id": "funding_complete",
+      "label": "Complete Funding Info",
+      "category": "evaluation_coara",
+      "effort": "voluntary",
+      "crossref": 0.19543181818181818,
+      "openalex": 0.4896060390519239,
+      "gap": 0.2941742208701057,
+      "samples": [
+        {
+          "doi": "10.3389/fict.2015.00017",
+          "title": "EyeFrame: real-time memory aid improves human multitasking via domain-general eye tracking procedures"
+        },
+        {
+          "doi": "10.3389/fenrg.2015.00011",
+          "title": "Thermal-Hydraulic Analysis of SWAMUP Facility Using ATHLET-SC Code"
+        },
+        {
+          "doi": "10.3389/fpsyg.2015.00352",
+          "title": "Commentary on: â€œNumber-space mapping in the newborn chick resembles humans' mental number lineâ€"
+        },
+        {
+          "doi": "10.3389/feart.2015.00005",
+          "title": "Measurement of dynamic magnetization induced by a pulsed field: Proposal for a new rock magnetism method"
+        },
+        {
+          "doi": "10.3389/fncom.2015.00035",
+          "title": "Competition improves robustness against loss of information"
+        }
+      ]
+    },
+    {
+      "id": "preprint_version_link",
+      "label": "Preprint / Version Link",
+      "category": "evaluation_coara",
+      "effort": "voluntary",
+      "crossref": 0.010352272727272727,
+      "openalex": 0.9595255030631209,
+      "gap": 0.9491732303358482,
+      "samples": [
+        {
+          "doi": "10.3389/fnbeh.2015.00001",
+          "title": "Shining light on motivation, emotion, and memory processes"
+        },
+        {
+          "doi": "10.3389/fnint.2015.00024",
+          "title": "Perception of biological motion from size-invariant body representations"
+        },
+        {
+          "doi": "10.3389/fnhum.2015.00128",
+          "title": "Objective and personalized longitudinal assessment of a pregnant patient with post severe brain trauma"
+        },
+        {
+          "doi": "10.3389/conf.fmars.2015.03.00142",
+          "title": "Fish otolith biomineralization process: first investigations about organic matrix and growth of Triglidae (Scorpaeniformes) otoliths"
+        },
+        {
+          "doi": "10.3389/conf.fmars.2015.03.00116",
+          "title": "Excrement examination with blood detection tests as a novel method to study the postmetamorphic feeding in lampreys"
+        }
+      ]
+    },
+    {
+      "id": "open_access_status",
+      "label": "Open Access Status",
+      "category": "evaluation_coara",
+      "effort": "automatic",
+      "crossref": 0.7161363636363637,
+      "openalex": 0.9954684165844481,
+      "gap": 0.2793320529480844,
+      "samples": [
+        {
+          "doi": "10.3389/fnbeh.2015.00001",
+          "title": "Shining light on motivation, emotion, and memory processes"
+        },
+        {
+          "doi": "10.3389/conf.fninf.2015.19.00018",
+          "title": "DMN function, attention shifting and attention holding compared across humans and monkeys"
+        },
+        {
+          "doi": "10.3389/fnint.2015.00024",
+          "title": "Perception of biological motion from size-invariant body representations"
+        },
+        {
+          "doi": "10.3389/conf.fnhum.2015.219.00051",
+          "title": "The Psychophysiology of Sport and Exercise"
+        },
+        {
+          "doi": "10.3389/fnhum.2015.00128",
+          "title": "Objective and personalized longitudinal assessment of a pregnant patient with post severe brain trauma"
+        }
+      ]
+    }
+  ]
+}

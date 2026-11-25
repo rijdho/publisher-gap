@@ -1,0 +1,149 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* The chrome reads the house style (src/house/house.css, imported before this file): surfaces, text,
+   borders and the violet accent, in light and dark. The colours below it are this tool's own and
+   encode data: the two sources, the five categories, the level of a score. */
+:root {
+  --color-bg: var(--paper);
+  --color-surface: var(--surface);
+  --color-surface-alt: var(--surface-2);
+  --color-border: var(--hairline);
+  --color-text: var(--ink);
+  --color-text-muted: var(--ink-2);
+  --color-accent: var(--brand);
+  --color-accent-dim: var(--brand-soft);
+  --color-btn-active-bg: var(--brand);
+  --color-btn-active-border: var(--brand);
+  --color-btn-active-glow: transparent;
+  --color-contrast-text: var(--accent-ink);
+
+  --color-crossref: #d97706;
+  --color-openalex: #059669;
+  --color-gap-positive: #059669;
+  --color-gap-negative: #dc2626;
+
+  --color-cat-findable-ess: #1e40af;
+  --color-cat-findable-sup: #0369a1;
+  --color-cat-accessible-ess: #047857;
+  --color-cat-accessible-sup: #15803d;
+  --color-cat-evaluation: #7c3aed;
+
+  --color-score-high: #059669;
+  --color-score-mid: #d97706;
+  --color-score-low: #dc2626;
+
+  --color-voluntary: #d97706;
+  --color-voluntary-dim: rgba(217, 119, 6, 0.12);
+  --color-automatic-indicator: #94a3b8;
+  --color-enrichment: #059669;
+
+  --color-overlay: rgba(0, 0, 0, 0.4);
+  --color-shadow: rgba(0, 0, 0, 0.1);
+  --color-chart-aggregate: #64748b;
+
+  --color-keyfinding-start: rgba(217, 119, 6, 0.06);
+  --color-keyfinding-end: rgba(5, 150, 105, 0.06);
+  --color-keyfinding-border: rgba(217, 119, 6, 0.3);
+}
+
+:root[data-theme="dark"] {
+  --color-crossref: #f59e0b;
+  --color-openalex: #10b981;
+  --color-gap-positive: #10b981;
+  --color-gap-negative: #ef4444;
+
+  --color-cat-findable-ess: #3b82f6;
+  --color-cat-findable-sup: #38bdf8;
+  --color-cat-accessible-ess: #10b981;
+  --color-cat-accessible-sup: #4ade80;
+  --color-cat-evaluation: #a855f7;
+
+  --color-score-high: #10b981;
+  --color-score-mid: #f59e0b;
+  --color-score-low: #ef4444;
+
+  --color-voluntary: #f59e0b;
+  --color-voluntary-dim: rgba(245, 158, 11, 0.2);
+  --color-automatic-indicator: #64748b;
+  --color-enrichment: #10b981;
+
+  --color-overlay: rgba(0, 0, 0, 0.6);
+  --color-shadow: rgba(0, 0, 0, 0.4);
+  --color-chart-aggregate: #94a3b8;
+
+  --color-keyfinding-start: rgba(245, 158, 11, 0.08);
+  --color-keyfinding-end: rgba(16, 185, 129, 0.08);
+  --color-keyfinding-border: rgba(245, 158, 11, 0.25);
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --color-crossref: #f59e0b;
+    --color-openalex: #10b981;
+    --color-gap-positive: #10b981;
+    --color-gap-negative: #ef4444;
+
+    --color-cat-findable-ess: #3b82f6;
+    --color-cat-findable-sup: #38bdf8;
+    --color-cat-accessible-ess: #10b981;
+    --color-cat-accessible-sup: #4ade80;
+    --color-cat-evaluation: #a855f7;
+
+    --color-score-high: #10b981;
+    --color-score-mid: #f59e0b;
+    --color-score-low: #ef4444;
+
+    --color-voluntary: #f59e0b;
+    --color-voluntary-dim: rgba(245, 158, 11, 0.2);
+    --color-automatic-indicator: #64748b;
+    --color-enrichment: #10b981;
+
+    --color-overlay: rgba(0, 0, 0, 0.6);
+    --color-shadow: rgba(0, 0, 0, 0.4);
+    --color-chart-aggregate: #94a3b8;
+
+    --color-keyfinding-start: rgba(245, 158, 11, 0.08);
+    --color-keyfinding-end: rgba(16, 185, 129, 0.08);
+    --color-keyfinding-border: rgba(245, 158, 11, 0.25);
+  }
+}
+
+/* The charts and the heatmap need more width than the 980px of a text column. */
+.content-inner.pg-wide { max-width: 1240px; }
+
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(8px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+.fade-in {
+  animation: fadeIn 0.3s ease-out;
+}
+
+/* Range slider track */
+input[type="range"] { -webkit-appearance: none; appearance: none; background: transparent; }
+input[type="range"]::-webkit-slider-runnable-track { height: 6px; border-radius: 3px; background: var(--color-border); }
+input[type="range"]::-moz-range-track { height: 6px; border-radius: 3px; background: var(--color-border); }
+input[type="range"]::-webkit-slider-thumb { -webkit-appearance: none; width: 16px; height: 16px; border-radius: 50%; background: var(--color-accent); margin-top: -5px; cursor: pointer; }
+input[type="range"]::-moz-range-thumb { width: 16px; height: 16px; border-radius: 50%; background: var(--color-accent); border: none; cursor: pointer; }
+
+.recharts-tooltip-wrapper {
+  outline: none !important;
+}
+.recharts-default-tooltip {
+  background: var(--color-surface) !important;
+  border: 1px solid var(--color-border) !important;
+  border-radius: 8px !important;
+  box-shadow: 0 4px 12px var(--color-shadow) !important;
+}
+.recharts-tooltip-label {
+  color: var(--color-text) !important;
+  font-family: var(--sans) !important;
+  font-weight: 600 !important;
+  font-size: 13px !important;
+}
+.recharts-tooltip-item {
+  color: var(--color-text-muted) !important;
+  font-size: 12px !important;
+}

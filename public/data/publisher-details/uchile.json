@@ -1,0 +1,3686 @@
+{
+  "id": "uchile",
+  "label": "Universidad de Chile",
+  "memberId": 3330,
+  "category": "regional_latam",
+  "categoryLabel": "Regional / Latin America",
+  "totalWorksSampled": 11715,
+  "totalWorksMatched": 11696,
+  "totalWorksUniverse": 11715,
+  "crossref": {
+    "overall": 0.38502117633871796,
+    "categories": {
+      "findable_essential": 0.6350618864703371,
+      "findable_support": 0.4370542816125403,
+      "accessible_essential": 0.30975482524778297,
+      "accessible_support": 0.2615877080665813,
+      "evaluation_coara": 0.12673495518565941
+    },
+    "fields": {
+      "title": 0.9863422962014511,
+      "abstract": 0.5703798548868971,
+      "author": 0.9991463935125907,
+      "author_affiliation": 0,
+      "doi": 1,
+      "publication_date": 1,
+      "publisher": 1,
+      "resource_type": 1,
+      "subject_keywords": 0,
+      "funder_name": 0,
+      "container_title": 1,
+      "language": 0.06487409304310712,
+      "author_orcid": 0.2664105847204439,
+      "all_authors_orcid": 0.24498506188647035,
+      "funder_doi": 0,
+      "award_number": 0,
+      "issn": 1,
+      "volume": 0.7335894152795561,
+      "issue": 0.8990183525394793,
+      "page": 0.6635936833119932,
+      "published_print_date": 0,
+      "published_online_date": 1,
+      "article_number": 0,
+      "license": 0.26880068288518993,
+      "license_url": 0.26880068288518993,
+      "open_access_license": 0.268715322236449,
+      "full_text_links": 0.7544174135723432,
+      "resource_url": 1,
+      "references": 0,
+      "references_count": 0,
+      "is_referenced_by": 0.22705932565087494,
+      "update_policy": 0,
+      "jats_abstract": 0.5703798548868971,
+      "author_sequence": 0.9991463935125907,
+      "affiliation_ids_ror": 0,
+      "relations": 0,
+      "assertions": 0,
+      "archive": 0,
+      "credit_roles": 0,
+      "author_given_family": 0.9986342296201451,
+      "affiliation_ror": 0,
+      "funding_complete": 0,
+      "data_availability": 0,
+      "preprint_version_link": 0,
+      "peer_review_info": 0,
+      "clinical_trial": 0,
+      "abstract_structured": 0,
+      "open_access_status": 0.268715322236449
+    }
+  },
+  "openalex": {
+    "overall": 0.6084211083129517,
+    "categories": {
+      "findable_essential": 0.8494285795713635,
+      "findable_support": 0.5709488869543589,
+      "accessible_essential": 0.6367324061407509,
+      "accessible_support": 0.46580027359781123,
+      "evaluation_coara": 0.31093536251709986
+    },
+    "fields": {
+      "title": 0.9863201094391245,
+      "abstract": 0.7662448700410397,
+      "author": 0.9992305061559508,
+      "author_affiliation": 0.8655095759233926,
+      "doi": 1,
+      "publication_date": 1,
+      "publisher": 0.6071306429548564,
+      "resource_type": 1,
+      "subject_keywords": 0.9994870041039672,
+      "funder_name": 0.016757865937072503,
+      "container_title": 1,
+      "language": 0.9524623803009576,
+      "author_orcid": 0.5430916552667578,
+      "all_authors_orcid": 0.41330369357045144,
+      "funder_doi": 0.016757865937072503,
+      "award_number": 0.005728454172366621,
+      "issn": 1,
+      "volume": 0.7348666210670315,
+      "issue": 0.9001367989056087,
+      "page": 0.6665526675786594,
+      "published_print_date": 1,
+      "published_online_date": 1,
+      "article_number": 0,
+      "license": 0.8282318741450069,
+      "license_url": 0.8282318741450069,
+      "open_access_license": 0.827718878248974,
+      "full_text_links": 0.9444254445964432,
+      "resource_url": 1,
+      "references": 0.472640218878249,
+      "references_count": 0.472640218878249,
+      "is_referenced_by": 0.356703146374829,
+      "update_policy": 0,
+      "jats_abstract": 0,
+      "author_sequence": 0.9992305061559508,
+      "affiliation_ids_ror": 0.8651675786593708,
+      "relations": 0.9304035567715458,
+      "assertions": 0,
+      "archive": 0,
+      "credit_roles": 0,
+      "author_given_family": 0.9992305061559508,
+      "affiliation_ror": 0.8651675786593708,
+      "funding_complete": 0.005728454172366621,
+      "data_availability": 0,
+      "preprint_version_link": 0.239312585499316,
+      "peer_review_info": 0,
+      "clinical_trial": 0,
+      "abstract_structured": 0,
+      "open_access_status": 0.9999145006839946
+    }
+  },
+  "gap": 0.22339993197423375,
+  "comparable": {
+    "crossref": {
+      "categories": {
+        "findable_essential": 0.6350618864703371,
+        "findable_support": 0.48075970977379434,
+        "accessible_essential": 0.34847417840375583,
+        "accessible_support": 0.3330487978375302,
+        "evaluation_coara": 0.25346991037131883
+      },
+      "overall": 0.433749928866126
+    },
+    "openalex": {
+      "categories": {
+        "findable_essential": 0.8494285795713635,
+        "findable_support": 0.6280437756497947,
+        "accessible_essential": 0.7163239569083447,
+        "accessible_support": 0.9316005471956225,
+        "evaluation_coara": 0.6218707250341997
+      },
+      "overall": 0.7456503291723666
+    },
+    "gap": 0.3119004003062406,
+    "fieldCount": 38,
+    "totalFieldCount": 48
+  },
+  "voluntary": {
+    "crossref": {
+      "categories": {
+        "findable_essential": 0.14259496372172428,
+        "findable_support": 0.12784891165172857,
+        "accessible_essential": 0.08957177407881634,
+        "accessible_support": 0,
+        "evaluation_coara": 0
+      },
+      "overall": 0.08434876938398066
+    },
+    "openalex": {
+      "categories": {
+        "findable_essential": 0.661999829001368,
+        "findable_support": 0.2447204172366621,
+        "accessible_essential": 0.590999772001824,
+        "accessible_support": 0.8977855677154583,
+        "evaluation_coara": 0.37006953944368454
+      },
+      "overall": 0.5468504189466484
+    },
+    "gap": 0.46250164956266776,
+    "fieldCount": 16
+  },
+  "automatic": {
+    "crossref": {
+      "categories": {
+        "findable_essential": 0.8812953478446436,
+        "findable_support": 0.7160335751885047,
+        "accessible_essential": 0.5038156209987196,
+        "accessible_support": 0.9991463935125907,
+        "evaluation_coara": 0.633674775928297
+      },
+      "overall": 0.7243971404182672
+    },
+    "openalex": {
+      "categories": {
+        "findable_essential": 0.9431429548563611,
+        "findable_support": 0.8835926812585498,
+        "accessible_essential": 0.7915184678522572,
+        "accessible_support": 0.9992305061559508,
+        "evaluation_coara": 0.9995725034199727
+      },
+      "overall": 0.9131989569083448
+    },
+    "gap": 0.18880181649007766,
+    "fieldCount": 22
+  },
+  "yearlyScores": [
+    {
+      "year": 2015,
+      "count": 947,
+      "matched": 946,
+      "universeSize": 947,
+      "crossref": {
+        "overall": 0.33322944332448035,
+        "categories": {
+          "findable_essential": 0.6147483280535023,
+          "findable_support": 0.38417970624940007,
+          "accessible_essential": 0.19629238531033677,
+          "accessible_support": 0.2147131291798662,
+          "evaluation_coara": 0.10316789862724392
+        },
+        "fields": {
+          "title": 1,
+          "abstract": 0.2914466737064414,
+          "author": 0.996832101372756,
+          "author_affiliation": 0,
+          "doi": 1,
+          "publication_date": 1,
+          "publisher": 1,
+          "resource_type": 1,
+          "subject_keywords": 0,
+          "funder_name": 0,
+          "container_title": 1,
+          "language": 0.08870116156282999,
+          "author_orcid": 0.0021119324181626186,
+          "all_authors_orcid": 0.0010559662090813093,
+          "funder_doi": 0,
+          "award_number": 0,
+          "issn": 1,
+          "volume": 0.8996832101372756,
+          "issue": 0.9609292502639916,
+          "page": 0.36219640971488914,
+          "published_print_date": 0,
+          "published_online_date": 1,
+          "article_number": 0,
+          "license": 0.03484688489968321,
+          "license_url": 0.03484688489968321,
+          "open_access_license": 0.03484688489968321,
+          "full_text_links": 0.3812038014783527,
+          "resource_url": 1,
+          "references": 0,
+          "references_count": 0,
+          "is_referenced_by": 0.2808870116156283,
+          "update_policy": 0,
+          "jats_abstract": 0.2914466737064414,
+          "author_sequence": 0.996832101372756,
+          "affiliation_ids_ror": 0,
+          "relations": 0,
+          "assertions": 0,
+          "archive": 0,
+          "credit_roles": 0,
+          "author_given_family": 0.996832101372756,
+          "affiliation_ror": 0,
+          "funding_complete": 0,
+          "data_availability": 0,
+          "preprint_version_link": 0,
+          "peer_review_info": 0,
+          "clinical_trial": 0,
+          "abstract_structured": 0,
+          "open_access_status": 0.03484688489968321
+        }
+      },
+      "openalex": {
+        "overall": 0.6108409144297093,
+        "categories": {
+          "findable_essential": 0.8644291754756871,
+          "findable_support": 0.5431481837401498,
+          "accessible_essential": 0.6459948320413438,
+          "accessible_support": 0.47040169133192383,
+          "evaluation_coara": 0.30750528541226213
+        },
+        "fields": {
+          "title": 1,
+          "abstract": 0.7959830866807611,
+          "author": 0.9968287526427061,
+          "author_affiliation": 0.861522198731501,
+          "doi": 1,
+          "publication_date": 1,
+          "publisher": 0.718816067653277,
+          "resource_type": 1,
+          "subject_keywords": 0.9989429175475687,
+          "funder_name": 0.016913319238900635,
+          "container_title": 1,
+          "language": 0.9841437632135307,
+          "author_orcid": 0.4260042283298097,
+          "all_authors_orcid": 0.2959830866807611,
+          "funder_doi": 0.016913319238900635,
+          "award_number": 0.004228329809725159,
+          "issn": 1,
+          "volume": 0.9006342494714588,
+          "issue": 0.9608879492600423,
+          "page": 0.3699788583509514,
+          "published_print_date": 1,
+          "published_online_date": 1,
+          "article_number": 0,
+          "license": 0.8446088794926004,
+          "license_url": 0.8446088794926004,
+          "open_access_license": 0.8446088794926004,
+          "full_text_links": 0.9725158562367865,
+          "resource_url": 1,
+          "references": 0.4492600422832981,
+          "references_count": 0.4492600422832981,
+          "is_referenced_by": 0.4090909090909091,
+          "update_policy": 0,
+          "jats_abstract": 0,
+          "author_sequence": 0.9968287526427061,
+          "affiliation_ids_ror": 0.861522198731501,
+          "relations": 0.9640591966173362,
+          "assertions": 0,
+          "archive": 0,
+          "credit_roles": 0,
+          "author_given_family": 0.9968287526427061,
+          "affiliation_ror": 0.861522198731501,
+          "funding_complete": 0.004228329809725159,
+          "data_availability": 0,
+          "preprint_version_link": 0.2124735729386892,
+          "peer_review_info": 0,
+          "clinical_trial": 0,
+          "abstract_structured": 0,
+          "open_access_status": 1
+        }
+      },
+      "comparable": {
+        "crossref": {
+          "categories": {
+            "findable_essential": 0.6147483280535023,
+            "findable_support": 0.4225976768743401,
+            "accessible_essential": 0.22082893347412885,
+            "accessible_support": 0.332277367124252,
+            "evaluation_coara": 0.20633579725448783
+          },
+          "overall": 0.37751627947905664
+        },
+        "openalex": {
+          "categories": {
+            "findable_essential": 0.8644291754756871,
+            "findable_support": 0.5974630021141649,
+            "accessible_essential": 0.7267441860465117,
+            "accessible_support": 0.9408033826638477,
+            "evaluation_coara": 0.6150105708245243
+          },
+          "overall": 0.7477167019027484
+        },
+        "gap": 0.3702004224236918
+      },
+      "voluntary": {
+        "crossref": 0.024881203801478353,
+        "openalex": 0.5367908738548274
+      }
+    },
+    {
+      "year": 2016,
+      "count": 2516,
+      "matched": 2514,
+      "universeSize": 2516,
+      "crossref": {
+        "overall": 0.319795008912656,
+        "categories": {
+          "findable_essential": 0.6010863804981452,
+          "findable_support": 0.36656308715132246,
+          "accessible_essential": 0.17726550079491254,
+          "accessible_support": 0.19667461579226284,
+          "evaluation_coara": 0.1025039745627981
+        },
+        "fields": {
+          "title": 1,
+          "abstract": 0.18044515103338632,
+          "author": 0.9996025437201908,
+          "author_affiliation": 0,
+          "doi": 1,
+          "publication_date": 1,
+          "publisher": 1,
+          "resource_type": 1,
+          "subject_keywords": 0,
+          "funder_name": 0,
+          "container_title": 1,
+          "language": 0.03298887122416534,
+          "author_orcid": 0.000397456279809221,
+          "all_authors_orcid": 0.000397456279809221,
+          "funder_doi": 0,
+          "award_number": 0,
+          "issn": 1,
+          "volume": 0.8676470588235294,
+          "issue": 0.8493640699523053,
+          "page": 0.3143879173290938,
+          "published_print_date": 0,
+          "published_online_date": 1,
+          "article_number": 0,
+          "license": 0.025437201907790145,
+          "license_url": 0.025437201907790145,
+          "open_access_license": 0.025437201907790145,
+          "full_text_links": 0.390302066772655,
+          "resource_url": 1,
+          "references": 0,
+          "references_count": 0,
+          "is_referenced_by": 0.1287758346581876,
+          "update_policy": 0,
+          "jats_abstract": 0.18044515103338632,
+          "author_sequence": 0.9996025437201908,
+          "affiliation_ids_ror": 0,
+          "relations": 0,
+          "assertions": 0,
+          "archive": 0,
+          "credit_roles": 0,
+          "author_given_family": 0.9996025437201908,
+          "affiliation_ror": 0,
+          "funding_complete": 0,
+          "data_availability": 0,
+          "preprint_version_link": 0,
+          "peer_review_info": 0,
+          "clinical_trial": 0,
+          "abstract_structured": 0,
+          "open_access_status": 0.025437201907790145
+        }
+      },
+      "openalex": {
+        "overall": 0.5556994366898902,
+        "categories": {
+          "findable_essential": 0.8280297003447362,
+          "findable_support": 0.5020611846387503,
+          "accessible_essential": 0.5175461858039424,
+          "accessible_support": 0.4529965526385575,
+          "evaluation_coara": 0.28647573587907715
+        },
+        "fields": {
+          "title": 1,
+          "abstract": 0.5469371519490851,
+          "author": 1,
+          "author_affiliation": 0.7430389817024662,
+          "doi": 1,
+          "publication_date": 1,
+          "publisher": 0.637629276054097,
+          "resource_type": 1,
+          "subject_keywords": 1,
+          "funder_name": 0.008750994431185362,
+          "container_title": 1,
+          "language": 1,
+          "author_orcid": 0.26650755767700873,
+          "all_authors_orcid": 0.20405727923627684,
+          "funder_doi": 0.008750994431185362,
+          "award_number": 0.0015910898965791568,
+          "issn": 1,
+          "volume": 0.8707239459029436,
+          "issue": 0.8536197295147175,
+          "page": 0.31742243436754175,
+          "published_print_date": 1,
+          "published_online_date": 1,
+          "article_number": 0,
+          "license": 0.6837708830548926,
+          "license_url": 0.6837708830548926,
+          "open_access_license": 0.6833731105807478,
+          "full_text_links": 0.9220365950676214,
+          "resource_url": 1,
+          "references": 0.21837708830548927,
+          "references_count": 0.21837708830548927,
+          "is_referenced_by": 0.24821002386634844,
+          "update_policy": 0,
+          "jats_abstract": 0,
+          "author_sequence": 1,
+          "affiliation_ids_ror": 0.7430389817024662,
+          "relations": 0.9749403341288783,
+          "assertions": 0,
+          "archive": 0,
+          "credit_roles": 0,
+          "author_given_family": 1,
+          "affiliation_ror": 0.7430389817024662,
+          "funding_complete": 0.0015910898965791568,
+          "data_availability": 0,
+          "preprint_version_link": 0.12012728719172633,
+          "peer_review_info": 0,
+          "clinical_trial": 0,
+          "abstract_structured": 0,
+          "open_access_status": 1
+        }
+      },
+      "comparable": {
+        "crossref": {
+          "categories": {
+            "findable_essential": 0.6010863804981452,
+            "findable_support": 0.4032193958664547,
+            "accessible_essential": 0.19942368839427663,
+            "accessible_support": 0.33320084790673027,
+            "evaluation_coara": 0.2050079491255962
+          },
+          "overall": 0.36498642024377326
+        },
+        "openalex": {
+          "categories": {
+            "findable_essential": 0.8280297003447362,
+            "findable_support": 0.5522673031026253,
+            "accessible_essential": 0.5822394590294352,
+            "accessible_support": 0.905993105277115,
+            "evaluation_coara": 0.5729514717581543
+          },
+          "overall": 0.6819984752055159
+        },
+        "gap": 0.3170120549617427
+      },
+      "voluntary": {
+        "crossref": 0.015682962374138843,
+        "openalex": 0.42733194112967376
+      }
+    },
+    {
+      "year": 2017,
+      "count": 971,
+      "matched": 971,
+      "universeSize": 971,
+      "crossref": {
+        "overall": 0.35095845166391,
+        "categories": {
+          "findable_essential": 0.6289907312049434,
+          "findable_support": 0.38554442467933714,
+          "accessible_essential": 0.23801350268909482,
+          "accessible_support": 0.24287675935461725,
+          "evaluation_coara": 0.1031925849639547
+        },
+        "fields": {
+          "title": 0.9989701338825953,
+          "abstract": 0.45829042224510813,
+          "author": 0.9989701338825953,
+          "author_affiliation": 0,
+          "doi": 1,
+          "publication_date": 1,
+          "publisher": 1,
+          "resource_type": 1,
+          "subject_keywords": 0,
+          "funder_name": 0,
+          "container_title": 1,
+          "language": 0.09165808444902163,
+          "author_orcid": 0.012358393408856848,
+          "all_authors_orcid": 0.005149330587023687,
+          "funder_doi": 0,
+          "award_number": 0,
+          "issn": 1,
+          "volume": 0.7662203913491246,
+          "issue": 0.9052523171987642,
+          "page": 0.5520082389289392,
+          "published_print_date": 0,
+          "published_online_date": 1,
+          "article_number": 0,
+          "license": 0.03398558187435633,
+          "license_url": 0.03398558187435633,
+          "open_access_license": 0.03398558187435633,
+          "full_text_links": 0.7868177136972193,
+          "resource_url": 1,
+          "references": 0,
+          "references_count": 0,
+          "is_referenced_by": 0.2533470648815654,
+          "update_policy": 0,
+          "jats_abstract": 0.45829042224510813,
+          "author_sequence": 0.9989701338825953,
+          "affiliation_ids_ror": 0,
+          "relations": 0,
+          "assertions": 0,
+          "archive": 0,
+          "credit_roles": 0,
+          "author_given_family": 0.9979402677651905,
+          "affiliation_ror": 0,
+          "funding_complete": 0,
+          "data_availability": 0,
+          "preprint_version_link": 0,
+          "peer_review_info": 0,
+          "clinical_trial": 0,
+          "abstract_structured": 0,
+          "open_access_status": 0.03398558187435633
+        }
+      },
+      "openalex": {
+        "overall": 0.6134542125685277,
+        "categories": {
+          "findable_essential": 0.8609680741503604,
+          "findable_support": 0.5443310551446494,
+          "accessible_essential": 0.6411488728687493,
+          "accessible_support": 0.482835564709921,
+          "evaluation_coara": 0.3247167868177137
+        },
+        "fields": {
+          "title": 0.9989701338825953,
+          "abstract": 0.6920700308959835,
+          "author": 0.9989701338825953,
+          "author_affiliation": 0.9289392378990731,
+          "doi": 1,
+          "publication_date": 1,
+          "publisher": 0.694129763130793,
+          "resource_type": 1,
+          "subject_keywords": 1,
+          "funder_name": 0.018537590113285273,
+          "container_title": 1,
+          "language": 1,
+          "author_orcid": 0.4294541709577755,
+          "all_authors_orcid": 0.28733264675592174,
+          "funder_doi": 0.018537590113285273,
+          "award_number": 0.007209062821833162,
+          "issn": 1,
+          "volume": 0.7703398558187435,
+          "issue": 0.9093717816683831,
+          "page": 0.5653964984552008,
+          "published_print_date": 1,
+          "published_online_date": 1,
+          "article_number": 0,
+          "license": 0.831101956745623,
+          "license_url": 0.831101956745623,
+          "open_access_license": 0.8300720906282183,
+          "full_text_links": 0.9309989701338826,
+          "resource_url": 1,
+          "references": 0.4737384140061792,
+          "references_count": 0.4737384140061792,
+          "is_referenced_by": 0.3995880535530381,
+          "update_policy": 0,
+          "jats_abstract": 0,
+          "author_sequence": 0.9989701338825953,
+          "affiliation_ids_ror": 0.9279093717816684,
+          "relations": 0.9701338825952626,
+          "assertions": 0,
+          "archive": 0,
+          "credit_roles": 0,
+          "author_given_family": 0.9989701338825953,
+          "affiliation_ror": 0.9279093717816684,
+          "funding_complete": 0.007209062821833162,
+          "data_availability": 0,
+          "preprint_version_link": 0.31307929969104015,
+          "peer_review_info": 0,
+          "clinical_trial": 0,
+          "abstract_structured": 0,
+          "open_access_status": 1
+        }
+      },
+      "comparable": {
+        "crossref": {
+          "categories": {
+            "findable_essential": 0.6289907312049434,
+            "findable_support": 0.42409886714727085,
+            "accessible_essential": 0.2677651905252317,
+            "accessible_support": 0.33299004462753173,
+            "evaluation_coara": 0.2063851699279094
+          },
+          "overall": 0.39382938551321667
+        },
+        "openalex": {
+          "categories": {
+            "findable_essential": 0.8609680741503604,
+            "findable_support": 0.5987641606591143,
+            "accessible_essential": 0.721292481977343,
+            "accessible_support": 0.965671129419842,
+            "evaluation_coara": 0.6494335736354274
+          },
+          "overall": 0.7548819945073807
+        },
+        "gap": 0.361052608994164
+      },
+      "voluntary": {
+        "crossref": 0.03786045314109166,
+        "openalex": 0.5520554411259869
+      }
+    },
+    {
+      "year": 2018,
+      "count": 787,
+      "matched": 787,
+      "universeSize": 787,
+      "crossref": {
+        "overall": 0.3796399830580262,
+        "categories": {
+          "findable_essential": 0.6465480728504871,
+          "findable_support": 0.4155019059720457,
+          "accessible_essential": 0.29224904701397714,
+          "accessible_support": 0.2746717492587887,
+          "evaluation_coara": 0.11410419313850065
+        },
+        "fields": {
+          "title": 0.98856416772554,
+          "abstract": 0.6543837357052097,
+          "author": 0.9936467598475223,
+          "author_affiliation": 0,
+          "doi": 1,
+          "publication_date": 1,
+          "publisher": 1,
+          "resource_type": 1,
+          "subject_keywords": 0,
+          "funder_name": 0,
+          "container_title": 1,
+          "language": 0.12198221092757307,
+          "author_orcid": 0.052096569250317665,
+          "all_authors_orcid": 0.03430749682337993,
+          "funder_doi": 0,
+          "award_number": 0,
+          "issn": 1,
+          "volume": 0.6581956797966964,
+          "issue": 0.9123252858958069,
+          "page": 0.9135959339263025,
+          "published_print_date": 0,
+          "published_online_date": 1,
+          "article_number": 0,
+          "license": 0.1473951715374841,
+          "license_url": 0.1473951715374841,
+          "open_access_license": 0.1473951715374841,
+          "full_text_links": 0.8691232528589581,
+          "resource_url": 1,
+          "references": 0,
+          "references_count": 0,
+          "is_referenced_by": 0.3189326556543837,
+          "update_policy": 0,
+          "jats_abstract": 0.6543837357052097,
+          "author_sequence": 0.9936467598475223,
+          "affiliation_ids_ror": 0,
+          "relations": 0,
+          "assertions": 0,
+          "archive": 0,
+          "credit_roles": 0,
+          "author_given_family": 0.9936467598475223,
+          "affiliation_ror": 0,
+          "funding_complete": 0,
+          "data_availability": 0,
+          "preprint_version_link": 0,
+          "peer_review_info": 0,
+          "clinical_trial": 0,
+          "abstract_structured": 0,
+          "open_access_status": 0.1473951715374841
+        }
+      },
+      "openalex": {
+        "overall": 0.6247324579980235,
+        "categories": {
+          "findable_essential": 0.8500635324015248,
+          "findable_support": 0.5756035578144854,
+          "accessible_essential": 0.6773965833686292,
+          "accessible_support": 0.47670478610758155,
+          "evaluation_coara": 0.33176620076238883
+        },
+        "fields": {
+          "title": 0.98856416772554,
+          "abstract": 0.8030495552731893,
+          "author": 0.9936467598475223,
+          "author_affiliation": 0.8843710292249047,
+          "doi": 1,
+          "publication_date": 1,
+          "publisher": 0.5158831003811944,
+          "resource_type": 1,
+          "subject_keywords": 1,
+          "funder_name": 0.017789072426937738,
+          "container_title": 1,
+          "language": 0.9974587039390089,
+          "author_orcid": 0.49047013977128334,
+          "all_authors_orcid": 0.33672172808132145,
+          "funder_doi": 0.017789072426937738,
+          "award_number": 0.0025412960609911056,
+          "issn": 1,
+          "volume": 0.6581956797966964,
+          "issue": 0.9123252858958069,
+          "page": 0.9135959339263025,
+          "published_print_date": 1,
+          "published_online_date": 1,
+          "article_number": 0,
+          "license": 0.8538754764930114,
+          "license_url": 0.8538754764930114,
+          "open_access_license": 0.8513341804320204,
+          "full_text_links": 0.9212198221092758,
+          "resource_url": 1,
+          "references": 0.5590851334180432,
+          "references_count": 0.5590851334180432,
+          "is_referenced_by": 0.49809402795425667,
+          "update_policy": 0,
+          "jats_abstract": 0,
+          "author_sequence": 0.9936467598475223,
+          "affiliation_ids_ror": 0.8843710292249047,
+          "relations": 0.9822109275730623,
+          "assertions": 0,
+          "archive": 0,
+          "credit_roles": 0,
+          "author_given_family": 0.9936467598475223,
+          "affiliation_ror": 0.8843710292249047,
+          "funding_complete": 0.0025412960609911056,
+          "data_availability": 0,
+          "preprint_version_link": 0.4371029224904701,
+          "peer_review_info": 0,
+          "clinical_trial": 0,
+          "abstract_structured": 0,
+          "open_access_status": 1
+        }
+      },
+      "comparable": {
+        "crossref": {
+          "categories": {
+            "findable_essential": 0.6465480728504871,
+            "findable_support": 0.4570520965692503,
+            "accessible_essential": 0.3287801778907243,
+            "accessible_support": 0.3312155866158408,
+            "evaluation_coara": 0.2282083862770013
+          },
+          "overall": 0.42348051673019904
+        },
+        "openalex": {
+          "categories": {
+            "findable_essential": 0.8500635324015248,
+            "findable_support": 0.6331639135959339,
+            "accessible_essential": 0.7620711562897078,
+            "accessible_support": 0.9534095722151631,
+            "evaluation_coara": 0.6635324015247777
+          },
+          "overall": 0.7685588733587463
+        },
+        "gap": 0.34507835662854724
+      },
+      "voluntary": {
+        "crossref": 0.0646018636171114,
+        "openalex": 0.5803949597628124
+      }
+    },
+    {
+      "year": 2019,
+      "count": 755,
+      "matched": 754,
+      "universeSize": 755,
+      "crossref": {
+        "overall": 0.3902477088768479,
+        "categories": {
+          "findable_essential": 0.6449227373068432,
+          "findable_support": 0.40830824804334737,
+          "accessible_essential": 0.3330389992641648,
+          "accessible_support": 0.271523178807947,
+          "evaluation_coara": 0.12556291390728477
+        },
+        "fields": {
+          "title": 0.9827814569536424,
+          "abstract": 0.6291390728476821,
+          "author": 1,
+          "author_affiliation": 0,
+          "doi": 1,
+          "publication_date": 1,
+          "publisher": 1,
+          "resource_type": 1,
+          "subject_keywords": 0,
+          "funder_name": 0,
+          "container_title": 1,
+          "language": 0.1271523178807947,
+          "author_orcid": 0.12317880794701987,
+          "all_authors_orcid": 0.08609271523178808,
+          "funder_doi": 0,
+          "award_number": 0,
+          "issn": 1,
+          "volume": 0.6357615894039735,
+          "issue": 0.8754966887417218,
+          "page": 0.7708609271523179,
+          "published_print_date": 0,
+          "published_online_date": 1,
+          "article_number": 0,
+          "license": 0.2556291390728477,
+          "license_url": 0.2556291390728477,
+          "open_access_license": 0.2556291390728477,
+          "full_text_links": 0.8728476821192053,
+          "resource_url": 1,
+          "references": 0,
+          "references_count": 0,
+          "is_referenced_by": 0.3576158940397351,
+          "update_policy": 0,
+          "jats_abstract": 0.6291390728476821,
+          "author_sequence": 1,
+          "affiliation_ids_ror": 0,
+          "relations": 0,
+          "assertions": 0,
+          "archive": 0,
+          "credit_roles": 0,
+          "author_given_family": 1,
+          "affiliation_ror": 0,
+          "funding_complete": 0,
+          "data_availability": 0,
+          "preprint_version_link": 0,
+          "peer_review_info": 0,
+          "clinical_trial": 0,
+          "abstract_structured": 0,
+          "open_access_status": 0.2556291390728477
+        }
+      },
+      "openalex": {
+        "overall": 0.6303170966964069,
+        "categories": {
+          "findable_essential": 0.8505747126436779,
+          "findable_support": 0.5712563298770195,
+          "accessible_essential": 0.71131741821397,
+          "accessible_support": 0.47038019451812557,
+          "evaluation_coara": 0.32294429708222816
+        },
+        "fields": {
+          "title": 0.9827586206896551,
+          "abstract": 0.7997347480106101,
+          "author": 1,
+          "author_affiliation": 0.8474801061007957,
+          "doi": 1,
+          "publication_date": 1,
+          "publisher": 0.5649867374005305,
+          "resource_type": 1,
+          "subject_keywords": 1,
+          "funder_name": 0.01989389920424403,
+          "container_title": 1,
+          "language": 0.9920424403183024,
+          "author_orcid": 0.5742705570291777,
+          "all_authors_orcid": 0.3925729442970822,
+          "funder_doi": 0.01989389920424403,
+          "award_number": 0.006631299734748011,
+          "issn": 1,
+          "volume": 0.6352785145888594,
+          "issue": 0.8753315649867374,
+          "page": 0.7798408488063661,
+          "published_print_date": 1,
+          "published_online_date": 1,
+          "article_number": 0,
+          "license": 0.8938992042440318,
+          "license_url": 0.8938992042440318,
+          "open_access_license": 0.8938992042440318,
+          "full_text_links": 0.9350132625994695,
+          "resource_url": 1,
+          "references": 0.6458885941644562,
+          "references_count": 0.6458885941644562,
+          "is_referenced_by": 0.493368700265252,
+          "update_policy": 0,
+          "jats_abstract": 0,
+          "author_sequence": 1,
+          "affiliation_ids_ror": 0.8461538461538461,
+          "relations": 0.9761273209549072,
+          "assertions": 0,
+          "archive": 0,
+          "credit_roles": 0,
+          "author_given_family": 1,
+          "affiliation_ror": 0.8461538461538461,
+          "funding_complete": 0.006631299734748011,
+          "data_availability": 0,
+          "preprint_version_link": 0.376657824933687,
+          "peer_review_info": 0,
+          "clinical_trial": 0,
+          "abstract_structured": 0,
+          "open_access_status": 1
+        }
+      },
+      "comparable": {
+        "crossref": {
+          "categories": {
+            "findable_essential": 0.6449227373068432,
+            "findable_support": 0.4491390728476821,
+            "accessible_essential": 0.3746688741721854,
+            "accessible_support": 0.3333333333333333,
+            "evaluation_coara": 0.25112582781456955
+          },
+          "overall": 0.4380733995584989
+        },
+        "openalex": {
+          "categories": {
+            "findable_essential": 0.8505747126436779,
+            "findable_support": 0.6283819628647215,
+            "accessible_essential": 0.8002320954907163,
+            "accessible_support": 0.9407603890362511,
+            "evaluation_coara": 0.6458885941644563
+          },
+          "overall": 0.7727414898320071
+        },
+        "gap": 0.3346680902735082
+      },
+      "voluntary": {
+        "crossref": 0.07633554083885209,
+        "openalex": 0.5925011052166225
+      }
+    },
+    {
+      "year": 2020,
+      "count": 947,
+      "matched": 945,
+      "universeSize": 947,
+      "crossref": {
+        "overall": 0.3928529753714548,
+        "categories": {
+          "findable_essential": 0.6407074973600845,
+          "findable_support": 0.4470576941537871,
+          "accessible_essential": 0.3230083304000939,
+          "accessible_support": 0.28352692713833155,
+          "evaluation_coara": 0.12238648363252376
+        },
+        "fields": {
+          "title": 0.8743400211193242,
+          "abstract": 0.7011615628299894,
+          "author": 1,
+          "author_affiliation": 0,
+          "doi": 1,
+          "publication_date": 1,
+          "publisher": 1,
+          "resource_type": 1,
+          "subject_keywords": 0,
+          "funder_name": 0,
+          "container_title": 1,
+          "language": 0.11298838437170011,
+          "author_orcid": 0.19746568109820486,
+          "all_authors_orcid": 0.1573389651531151,
+          "funder_doi": 0,
+          "award_number": 0,
+          "issn": 1,
+          "volume": 0.6884899683210137,
+          "issue": 0.9429778247096093,
+          "page": 0.9313621964097148,
+          "published_print_date": 0,
+          "published_online_date": 1,
+          "article_number": 0,
+          "license": 0.2249208025343189,
+          "license_url": 0.2249208025343189,
+          "open_access_license": 0.2238648363252376,
+          "full_text_links": 0.877507919746568,
+          "resource_url": 1,
+          "references": 0,
+          "references_count": 0,
+          "is_referenced_by": 0.3558606124604013,
+          "update_policy": 0,
+          "jats_abstract": 0.7011615628299894,
+          "author_sequence": 1,
+          "affiliation_ids_ror": 0,
+          "relations": 0,
+          "assertions": 0,
+          "archive": 0,
+          "credit_roles": 0,
+          "author_given_family": 1,
+          "affiliation_ror": 0,
+          "funding_complete": 0,
+          "data_availability": 0,
+          "preprint_version_link": 0,
+          "peer_review_info": 0,
+          "clinical_trial": 0,
+          "abstract_structured": 0,
+          "open_access_status": 0.2238648363252376
+        }
+      },
+      "openalex": {
+        "overall": 0.6396205440649884,
+        "categories": {
+          "findable_essential": 0.8447971781305114,
+          "findable_support": 0.6043290043290044,
+          "accessible_essential": 0.7193415637860081,
+          "accessible_support": 0.4860670194003527,
+          "evaluation_coara": 0.33544973544973544
+        },
+        "fields": {
+          "title": 0.8740740740740741,
+          "abstract": 0.8412698412698413,
+          "author": 1,
+          "author_affiliation": 0.928042328042328,
+          "doi": 1,
+          "publication_date": 1,
+          "publisher": 0.4962962962962963,
+          "resource_type": 1,
+          "subject_keywords": 1,
+          "funder_name": 0.01164021164021164,
+          "container_title": 1,
+          "language": 0.9862433862433863,
+          "author_orcid": 0.6211640211640211,
+          "all_authors_orcid": 0.4486772486772487,
+          "funder_doi": 0.01164021164021164,
+          "award_number": 0.0021164021164021165,
+          "issn": 1,
+          "volume": 0.6878306878306878,
+          "issue": 0.9428571428571428,
+          "page": 0.9333333333333333,
+          "published_print_date": 1,
+          "published_online_date": 1,
+          "article_number": 0,
+          "license": 0.8931216931216931,
+          "license_url": 0.8931216931216931,
+          "open_access_license": 0.8920634920634921,
+          "full_text_links": 0.9238095238095239,
+          "resource_url": 1,
+          "references": 0.6751322751322751,
+          "references_count": 0.6751322751322751,
+          "is_referenced_by": 0.5216931216931217,
+          "update_policy": 0,
+          "jats_abstract": 0,
+          "author_sequence": 1,
+          "affiliation_ids_ror": 0.928042328042328,
+          "relations": 0.9883597883597883,
+          "assertions": 0,
+          "archive": 0,
+          "credit_roles": 0,
+          "author_given_family": 1,
+          "affiliation_ror": 0.928042328042328,
+          "funding_complete": 0.0021164021164021165,
+          "data_availability": 0,
+          "preprint_version_link": 0.42433862433862435,
+          "peer_review_info": 0,
+          "clinical_trial": 0,
+          "abstract_structured": 0,
+          "open_access_status": 1
+        }
+      },
+      "comparable": {
+        "crossref": {
+          "categories": {
+            "findable_essential": 0.6407074973600845,
+            "findable_support": 0.4917634635691658,
+            "accessible_essential": 0.3633843717001056,
+            "accessible_support": 0.3333333333333333,
+            "evaluation_coara": 0.24477296726504752
+          },
+          "overall": 0.4391107884547694
+        },
+        "openalex": {
+          "categories": {
+            "findable_essential": 0.8447971781305114,
+            "findable_support": 0.6647619047619048,
+            "accessible_essential": 0.8092592592592591,
+            "accessible_support": 0.9721340388007054,
+            "evaluation_coara": 0.6708994708994709
+          },
+          "overall": 0.7868615520282185
+        },
+        "gap": 0.3477507635734491
+      },
+      "voluntary": {
+        "crossref": 0.08454769447377683,
+        "openalex": 0.6221869488536156
+      }
+    },
+    {
+      "year": 2021,
+      "count": 1038,
+      "matched": 1037,
+      "universeSize": 1038,
+      "crossref": {
+        "overall": 0.4115079990658025,
+        "categories": {
+          "findable_essential": 0.6511721258831086,
+          "findable_support": 0.4605885444035733,
+          "accessible_essential": 0.36576750160565186,
+          "accessible_support": 0.28323699421965315,
+          "evaluation_coara": 0.13651252408477843
+        },
+        "fields": {
+          "title": 0.9826589595375722,
+          "abstract": 0.6994219653179191,
+          "author": 1,
+          "author_affiliation": 0,
+          "doi": 1,
+          "publication_date": 1,
+          "publisher": 1,
+          "resource_type": 1,
+          "subject_keywords": 0,
+          "funder_name": 0,
+          "container_title": 1,
+          "language": 0.13198458574181118,
+          "author_orcid": 0.29383429672447015,
+          "all_authors_orcid": 0.2610789980732177,
+          "funder_doi": 0,
+          "award_number": 0,
+          "issn": 1,
+          "volume": 0.6695568400770713,
+          "issue": 0.9344894026974951,
+          "page": 0.9075144508670521,
+          "published_print_date": 0,
+          "published_online_date": 1,
+          "article_number": 0,
+          "license": 0.3651252408477842,
+          "license_url": 0.3651252408477842,
+          "open_access_license": 0.3651252408477842,
+          "full_text_links": 0.850674373795761,
+          "resource_url": 1,
+          "references": 0,
+          "references_count": 0,
+          "is_referenced_by": 0.34585741811175336,
+          "update_policy": 0,
+          "jats_abstract": 0.6994219653179191,
+          "author_sequence": 1,
+          "affiliation_ids_ror": 0,
+          "relations": 0,
+          "assertions": 0,
+          "archive": 0,
+          "credit_roles": 0,
+          "author_given_family": 1,
+          "affiliation_ror": 0,
+          "funding_complete": 0,
+          "data_availability": 0,
+          "preprint_version_link": 0,
+          "peer_review_info": 0,
+          "clinical_trial": 0,
+          "abstract_structured": 0,
+          "open_access_status": 0.3651252408477842
+        }
+      },
+      "openalex": {
+        "overall": 0.6450889804506005,
+        "categories": {
+          "findable_essential": 0.8588878174220508,
+          "findable_support": 0.6173402296835276,
+          "accessible_essential": 0.7348119575699132,
+          "accessible_support": 0.4816779170684667,
+          "evaluation_coara": 0.3147540983606557
+        },
+        "fields": {
+          "title": 0.982642237222758,
+          "abstract": 0.8592092574734812,
+          "author": 1,
+          "author_affiliation": 0.9026036644165863,
+          "doi": 1,
+          "publication_date": 1,
+          "publisher": 0.5554484088717454,
+          "resource_type": 1,
+          "subject_keywords": 1,
+          "funder_name": 0.01832208293153327,
+          "container_title": 1,
+          "language": 0.9884281581485053,
+          "author_orcid": 0.7203471552555448,
+          "all_authors_orcid": 0.5342333654773385,
+          "funder_doi": 0.01832208293153327,
+          "award_number": 0.0057859209257473485,
+          "issn": 1,
+          "volume": 0.6692381870781099,
+          "issue": 0.9344262295081968,
+          "page": 0.9083895853423336,
+          "published_print_date": 1,
+          "published_online_date": 1,
+          "article_number": 0,
+          "license": 0.892960462873674,
+          "license_url": 0.892960462873674,
+          "open_access_license": 0.8919961427193829,
+          "full_text_links": 0.9257473481195757,
+          "resource_url": 1,
+          "references": 0.742526518804243,
+          "references_count": 0.742526518804243,
+          "is_referenced_by": 0.5245901639344263,
+          "update_policy": 0,
+          "jats_abstract": 0,
+          "author_sequence": 1,
+          "affiliation_ids_ror": 0.9026036644165863,
+          "relations": 0.9874638379942141,
+          "assertions": 0,
+          "archive": 0,
+          "credit_roles": 0,
+          "author_given_family": 1,
+          "affiliation_ror": 0.9026036644165863,
+          "funding_complete": 0.0057859209257473485,
+          "data_availability": 0,
+          "preprint_version_link": 0.2391513982642237,
+          "peer_review_info": 0,
+          "clinical_trial": 0,
+          "abstract_structured": 0,
+          "open_access_status": 1
+        }
+      },
+      "comparable": {
+        "crossref": {
+          "categories": {
+            "findable_essential": 0.6511721258831086,
+            "findable_support": 0.5066473988439306,
+            "accessible_essential": 0.41148843930635837,
+            "accessible_support": 0.3333333333333333,
+            "evaluation_coara": 0.27302504816955686
+          },
+          "overall": 0.4621592003853564
+        },
+        "openalex": {
+          "categories": {
+            "findable_essential": 0.8588878174220508,
+            "findable_support": 0.6790742526518805,
+            "accessible_essential": 0.8266634522661523,
+            "accessible_support": 0.9633558341369334,
+            "evaluation_coara": 0.6295081967213114
+          },
+          "overall": 0.7884305689488911
+        },
+        "gap": 0.32627136856353467
+      },
+      "voluntary": {
+        "crossref": 0.10369299935773924,
+        "openalex": 0.6255544840887174
+      }
+    },
+    {
+      "year": 2022,
+      "count": 849,
+      "matched": 848,
+      "universeSize": 849,
+      "crossref": {
+        "overall": 0.43187100688867475,
+        "categories": {
+          "findable_essential": 0.6511582253631724,
+          "findable_support": 0.4906306885105472,
+          "accessible_essential": 0.41382018060463294,
+          "accessible_support": 0.2948566941499804,
+          "evaluation_coara": 0.14994110718492343
+        },
+        "fields": {
+          "title": 1,
+          "abstract": 0.7691401648998822,
+          "author": 1,
+          "author_affiliation": 0,
+          "doi": 1,
+          "publication_date": 1,
+          "publisher": 1,
+          "resource_type": 1,
+          "subject_keywords": 0,
+          "funder_name": 0,
+          "container_title": 1,
+          "language": 0.0447585394581861,
+          "author_orcid": 0.5017667844522968,
+          "all_authors_orcid": 0.46054181389870436,
+          "funder_doi": 0,
+          "award_number": 0,
+          "issn": 1,
+          "volume": 0.6972909305064782,
+          "issue": 0.9646643109540636,
+          "page": 0.7726737338044759,
+          "published_print_date": 0,
+          "published_online_date": 1,
+          "article_number": 0,
+          "license": 0.4994110718492344,
+          "license_url": 0.4994110718492344,
+          "open_access_license": 0.4994110718492344,
+          "full_text_links": 0.9517078916372202,
+          "resource_url": 1,
+          "references": 0,
+          "references_count": 0,
+          "is_referenced_by": 0.2744405182567727,
+          "update_policy": 0,
+          "jats_abstract": 0.7691401648998822,
+          "author_sequence": 1,
+          "affiliation_ids_ror": 0,
+          "relations": 0,
+          "assertions": 0,
+          "archive": 0,
+          "credit_roles": 0,
+          "author_given_family": 1,
+          "affiliation_ror": 0,
+          "funding_complete": 0,
+          "data_availability": 0,
+          "preprint_version_link": 0,
+          "peer_review_info": 0,
+          "clinical_trial": 0,
+          "abstract_structured": 0,
+          "open_access_status": 0.4994110718492344
+        }
+      },
+      "openalex": {
+        "overall": 0.647877358490566,
+        "categories": {
+          "findable_essential": 0.8655660377358491,
+          "findable_support": 0.6226415094339622,
+          "accessible_essential": 0.7228773584905661,
+          "accessible_support": 0.4829009433962264,
+          "evaluation_coara": 0.3290094339622641
+        },
+        "fields": {
+          "title": 1,
+          "abstract": 0.8466981132075472,
+          "author": 1,
+          "author_affiliation": 0.9139150943396226,
+          "doi": 1,
+          "publication_date": 1,
+          "publisher": 0.6049528301886793,
+          "resource_type": 1,
+          "subject_keywords": 1,
+          "funder_name": 0.02122641509433962,
+          "container_title": 1,
+          "language": 1,
+          "author_orcid": 0.7617924528301887,
+          "all_authors_orcid": 0.6238207547169812,
+          "funder_doi": 0.02122641509433962,
+          "award_number": 0.008254716981132075,
+          "issn": 1,
+          "volume": 0.6969339622641509,
+          "issue": 0.964622641509434,
+          "page": 0.7724056603773585,
+          "published_print_date": 1,
+          "published_online_date": 1,
+          "article_number": 0,
+          "license": 0.8549528301886793,
+          "license_url": 0.8549528301886793,
+          "open_access_license": 0.8549528301886793,
+          "full_text_links": 0.9882075471698113,
+          "resource_url": 1,
+          "references": 0.7429245283018868,
+          "references_count": 0.7429245283018868,
+          "is_referenced_by": 0.4669811320754717,
+          "update_policy": 0,
+          "jats_abstract": 0,
+          "author_sequence": 1,
+          "affiliation_ids_ror": 0.9139150943396226,
+          "relations": 0.9834905660377359,
+          "assertions": 0,
+          "archive": 0,
+          "credit_roles": 0,
+          "author_given_family": 1,
+          "affiliation_ror": 0.9139150943396226,
+          "funding_complete": 0.008254716981132075,
+          "data_availability": 0,
+          "preprint_version_link": 0.36792452830188677,
+          "peer_review_info": 0,
+          "clinical_trial": 0,
+          "abstract_structured": 0,
+          "open_access_status": 1
+        }
+      },
+      "comparable": {
+        "crossref": {
+          "categories": {
+            "findable_essential": 0.6511582253631724,
+            "findable_support": 0.5396937573616019,
+            "accessible_essential": 0.46554770318021205,
+            "accessible_support": 0.3333333333333333,
+            "evaluation_coara": 0.29988221436984686
+          },
+          "overall": 0.48599823321554764
+        },
+        "openalex": {
+          "categories": {
+            "findable_essential": 0.8655660377358491,
+            "findable_support": 0.6849056603773584,
+            "accessible_essential": 0.8132370283018869,
+            "accessible_support": 0.9658018867924528,
+            "evaluation_coara": 0.6580188679245282
+          },
+          "overall": 0.793898879716981
+        },
+        "gap": 0.3079006465014334
+      },
+      "voluntary": {
+        "crossref": 0.13538967412642322,
+        "openalex": 0.6376474056603774
+      }
+    },
+    {
+      "year": 2023,
+      "count": 1031,
+      "matched": 1030,
+      "universeSize": 1031,
+      "crossref": {
+        "overall": 0.4356711636246069,
+        "categories": {
+          "findable_essential": 0.6505011315874556,
+          "findable_support": 0.49184375275548897,
+          "accessible_essential": 0.4248302618816683,
+          "accessible_support": 0.2961526026511478,
+          "evaluation_coara": 0.15460717749757516
+        },
+        "fields": {
+          "title": 1,
+          "abstract": 0.7769156159068865,
+          "author": 1,
+          "author_affiliation": 0,
+          "doi": 1,
+          "publication_date": 1,
+          "publisher": 1,
+          "resource_type": 1,
+          "subject_keywords": 0,
+          "funder_name": 0,
+          "container_title": 1,
+          "language": 0.029097963142580018,
+          "author_orcid": 0.5596508244422891,
+          "all_authors_orcid": 0.5227934044616876,
+          "funder_doi": 0,
+          "award_number": 0,
+          "issn": 1,
+          "volume": 0.6178467507274491,
+          "issue": 0.8991270611057226,
+          "page": 0.8108632395732299,
+          "published_print_date": 0,
+          "published_online_date": 1,
+          "article_number": 0,
+          "license": 0.5460717749757517,
+          "license_url": 0.5460717749757517,
+          "open_access_license": 0.5460717749757517,
+          "full_text_links": 0.967992240543162,
+          "resource_url": 1,
+          "references": 0,
+          "references_count": 0,
+          "is_referenced_by": 0.21726479146459748,
+          "update_policy": 0,
+          "jats_abstract": 0.7769156159068865,
+          "author_sequence": 1,
+          "affiliation_ids_ror": 0,
+          "relations": 0,
+          "assertions": 0,
+          "archive": 0,
+          "credit_roles": 0,
+          "author_given_family": 1,
+          "affiliation_ror": 0,
+          "funding_complete": 0,
+          "data_availability": 0,
+          "preprint_version_link": 0,
+          "peer_review_info": 0,
+          "clinical_trial": 0,
+          "abstract_structured": 0,
+          "open_access_status": 0.5460717749757517
+        }
+      },
+      "openalex": {
+        "overall": 0.6357660586446994,
+        "categories": {
+          "findable_essential": 0.8639967637540452,
+          "findable_support": 0.6131509267431597,
+          "accessible_essential": 0.6934196332254584,
+          "accessible_support": 0.481715210355987,
+          "evaluation_coara": 0.3153398058252427
+        },
+        "fields": {
+          "title": 1,
+          "abstract": 0.829126213592233,
+          "author": 1,
+          "author_affiliation": 0.9116504854368932,
+          "doi": 1,
+          "publication_date": 1,
+          "publisher": 0.6048543689320388,
+          "resource_type": 1,
+          "subject_keywords": 1,
+          "funder_name": 0.027184466019417475,
+          "container_title": 1,
+          "language": 0.9951456310679612,
+          "author_orcid": 0.7368932038834951,
+          "all_authors_orcid": 0.6398058252427185,
+          "funder_doi": 0.027184466019417475,
+          "award_number": 0.013592233009708738,
+          "issn": 1,
+          "volume": 0.6174757281553398,
+          "issue": 0.8990291262135922,
+          "page": 0.8106796116504854,
+          "published_print_date": 1,
+          "published_online_date": 1,
+          "article_number": 0,
+          "license": 0.8262135922330097,
+          "license_url": 0.8262135922330097,
+          "open_access_license": 0.8262135922330097,
+          "full_text_links": 0.9922330097087378,
+          "resource_url": 1,
+          "references": 0.7135922330097088,
+          "references_count": 0.7135922330097088,
+          "is_referenced_by": 0.34271844660194173,
+          "update_policy": 0,
+          "jats_abstract": 0,
+          "author_sequence": 1,
+          "affiliation_ids_ror": 0.9116504854368932,
+          "relations": 0.9786407766990292,
+          "assertions": 0,
+          "archive": 0,
+          "credit_roles": 0,
+          "author_given_family": 1,
+          "affiliation_ror": 0.9116504854368932,
+          "funding_complete": 0.013592233009708738,
+          "data_availability": 0,
+          "preprint_version_link": 0.229126213592233,
+          "peer_review_info": 0,
+          "clinical_trial": 0,
+          "abstract_structured": 0,
+          "open_access_status": 0.9990291262135922
+        }
+      },
+      "comparable": {
+        "crossref": {
+          "categories": {
+            "findable_essential": 0.6505011315874556,
+            "findable_support": 0.5410281280310378,
+            "accessible_essential": 0.47793404461687683,
+            "accessible_support": 0.3333333333333333,
+            "evaluation_coara": 0.3092143549951503
+          },
+          "overall": 0.4909642741674749
+        },
+        "openalex": {
+          "categories": {
+            "findable_essential": 0.8639967637540452,
+            "findable_support": 0.6744660194174756,
+            "accessible_essential": 0.7800970873786407,
+            "accessible_support": 0.963430420711974,
+            "evaluation_coara": 0.6306796116504854
+          },
+          "overall": 0.7778721682847896
+        },
+        "gap": 0.28690789411731465
+      },
+      "voluntary": {
+        "crossref": 0.14436631102489492,
+        "openalex": 0.6200080906148868
+      }
+    },
+    {
+      "year": 2024,
+      "count": 899,
+      "matched": 897,
+      "universeSize": 899,
+      "crossref": {
+        "overall": 0.4473019966067797,
+        "categories": {
+          "findable_essential": 0.6563774564330738,
+          "findable_support": 0.5296794418040247,
+          "accessible_essential": 0.4318378445186009,
+          "accessible_support": 0.3127549128661476,
+          "evaluation_coara": 0.1585094549499444
+        },
+        "fields": {
+          "title": 1,
+          "abstract": 0.8765294771968855,
+          "author": 1,
+          "author_affiliation": 0,
+          "doi": 1,
+          "publication_date": 1,
+          "publisher": 1,
+          "resource_type": 1,
+          "subject_keywords": 0,
+          "funder_name": 0,
+          "container_title": 1,
+          "language": 0,
+          "author_orcid": 0.7452725250278087,
+          "all_authors_orcid": 0.7074527252502781,
+          "funder_doi": 0,
+          "award_number": 0,
+          "issn": 1,
+          "volume": 0.6696329254727474,
+          "issue": 0.8743047830923248,
+          "page": 0.8298109010011123,
+          "published_print_date": 0,
+          "published_online_date": 1,
+          "article_number": 0,
+          "license": 0.5873192436040044,
+          "license_url": 0.5873192436040044,
+          "open_access_license": 0.5873192436040044,
+          "full_text_links": 1,
+          "resource_url": 1,
+          "references": 0,
+          "references_count": 0,
+          "is_referenced_by": 0.12458286985539488,
+          "update_policy": 0,
+          "jats_abstract": 0.8765294771968855,
+          "author_sequence": 1,
+          "affiliation_ids_ror": 0,
+          "relations": 0,
+          "assertions": 0,
+          "archive": 0,
+          "credit_roles": 0,
+          "author_given_family": 0.9977753058954394,
+          "affiliation_ror": 0,
+          "funding_complete": 0,
+          "data_availability": 0,
+          "preprint_version_link": 0,
+          "peer_review_info": 0,
+          "clinical_trial": 0,
+          "abstract_structured": 0,
+          "open_access_status": 0.5873192436040044
+        }
+      },
+      "openalex": {
+        "overall": 0.6146399333355854,
+        "categories": {
+          "findable_essential": 0.8688219992567818,
+          "findable_support": 0.6190331407722712,
+          "accessible_essential": 0.6099343490647837,
+          "accessible_support": 0.47918989223337055,
+          "evaluation_coara": 0.3036789297658863
+        },
+        "fields": {
+          "title": 1,
+          "abstract": 0.8807134894091416,
+          "author": 1,
+          "author_affiliation": 0.907469342251951,
+          "doi": 1,
+          "publication_date": 1,
+          "publisher": 0.6198439241917503,
+          "resource_type": 1,
+          "subject_keywords": 1,
+          "funder_name": 0.0189520624303233,
+          "container_title": 1,
+          "language": 0.9988851727982163,
+          "author_orcid": 0.7725752508361204,
+          "all_authors_orcid": 0.6376811594202898,
+          "funder_doi": 0.0189520624303233,
+          "award_number": 0.007803790412486065,
+          "issn": 1,
+          "volume": 0.6688963210702341,
+          "issue": 0.8740245261984393,
+          "page": 0.8294314381270903,
+          "published_print_date": 1,
+          "published_online_date": 1,
+          "article_number": 0,
+          "license": 0.8795986622073578,
+          "license_url": 0.8795986622073578,
+          "open_access_license": 0.8795986622073578,
+          "full_text_links": 0.9654403567447045,
+          "resource_url": 1,
+          "references": 0.3511705685618729,
+          "references_count": 0.3511705685618729,
+          "is_referenced_by": 0.18283166109253066,
+          "update_policy": 0,
+          "jats_abstract": 0,
+          "author_sequence": 1,
+          "affiliation_ids_ror": 0.907469342251951,
+          "relations": 0.967670011148272,
+          "assertions": 0,
+          "archive": 0,
+          "credit_roles": 0,
+          "author_given_family": 1,
+          "affiliation_ror": 0.907469342251951,
+          "funding_complete": 0.007803790412486065,
+          "data_availability": 0,
+          "preprint_version_link": 0.12151616499442586,
+          "peer_review_info": 0,
+          "clinical_trial": 0,
+          "abstract_structured": 0,
+          "open_access_status": 1
+        }
+      },
+      "comparable": {
+        "crossref": {
+          "categories": {
+            "findable_essential": 0.6563774564330738,
+            "findable_support": 0.5826473859844271,
+            "accessible_essential": 0.48581757508342605,
+            "accessible_support": 0.3333333333333333,
+            "evaluation_coara": 0.3170189098998888
+          },
+          "overall": 0.5025018539117538
+        },
+        "openalex": {
+          "categories": {
+            "findable_essential": 0.8688219992567818,
+            "findable_support": 0.6809364548494983,
+            "accessible_essential": 0.6861761426978817,
+            "accessible_support": 0.9583797844667411,
+            "evaluation_coara": 0.6073578595317726
+          },
+          "overall": 0.7516406540319582
+        },
+        "gap": 0.2491388001202044
+      },
+      "voluntary": {
+        "crossref": 0.16916017797552838,
+        "openalex": 0.5591276477146042
+      }
+    },
+    {
+      "year": 2025,
+      "count": 975,
+      "matched": 967,
+      "universeSize": 975,
+      "crossref": {
+        "overall": 0.4502760942760943,
+        "categories": {
+          "findable_essential": 0.658974358974359,
+          "findable_support": 0.5365034965034965,
+          "accessible_essential": 0.43202279202279203,
+          "accessible_support": 0.31794871794871793,
+          "evaluation_coara": 0.16153846153846155
+        },
+        "fields": {
+          "title": 1,
+          "abstract": 0.9076923076923077,
+          "author": 1,
+          "author_affiliation": 0,
+          "doi": 1,
+          "publication_date": 1,
+          "publisher": 1,
+          "resource_type": 1,
+          "subject_keywords": 0,
+          "funder_name": 0,
+          "container_title": 1,
+          "language": 0,
+          "author_orcid": 0.8276923076923077,
+          "all_authors_orcid": 0.8051282051282052,
+          "funder_doi": 0,
+          "award_number": 0,
+          "issn": 1,
+          "volume": 0.6553846153846153,
+          "issue": 0.8533333333333334,
+          "page": 0.76,
+          "published_print_date": 0,
+          "published_online_date": 1,
+          "article_number": 0,
+          "license": 0.6184615384615385,
+          "license_url": 0.6184615384615385,
+          "open_access_license": 0.6184615384615385,
+          "full_text_links": 0.9938461538461538,
+          "resource_url": 1,
+          "references": 0,
+          "references_count": 0,
+          "is_referenced_by": 0.038974358974358976,
+          "update_policy": 0,
+          "jats_abstract": 0.9076923076923077,
+          "author_sequence": 1,
+          "affiliation_ids_ror": 0,
+          "relations": 0,
+          "assertions": 0,
+          "archive": 0,
+          "credit_roles": 0,
+          "author_given_family": 0.9969230769230769,
+          "affiliation_ror": 0,
+          "funding_complete": 0,
+          "data_availability": 0,
+          "preprint_version_link": 0,
+          "peer_review_info": 0,
+          "clinical_trial": 0,
+          "abstract_structured": 0,
+          "open_access_status": 0.6184615384615385
+        }
+      },
+      "openalex": {
+        "overall": 0.568409587080735,
+        "categories": {
+          "findable_essential": 0.8241123750430885,
+          "findable_support": 0.5826830873366551,
+          "accessible_essential": 0.5448695852005055,
+          "accessible_support": 0.38383316097897274,
+          "evaluation_coara": 0.29586349534643225
+        },
+        "fields": {
+          "title": 1,
+          "abstract": 0.9089968976215098,
+          "author": 1,
+          "author_affiliation": 0.8914167528438469,
+          "doi": 1,
+          "publication_date": 1,
+          "publisher": 0.594622543950362,
+          "resource_type": 1,
+          "subject_keywords": 0.9948293691830403,
+          "funder_name": 0.01861427094105481,
+          "container_title": 1,
+          "language": 0.4808686659772492,
+          "author_orcid": 0.6318510858324715,
+          "all_authors_orcid": 0.4788004136504654,
+          "funder_doi": 0.01861427094105481,
+          "award_number": 0.009307135470527405,
+          "issn": 1,
+          "volume": 0.6597724922440538,
+          "issue": 0.8521199586349535,
+          "page": 0.7590486039296794,
+          "published_print_date": 1,
+          "published_online_date": 1,
+          "article_number": 0,
+          "license": 0.9110651499482937,
+          "license_url": 0.9110651499482937,
+          "open_access_license": 0.9110651499482937,
+          "full_text_links": 0.9462254395036195,
+          "resource_url": 1,
+          "references": 0.08169596690796277,
+          "references_count": 0.08169596690796277,
+          "is_referenced_by": 0.06101344364012409,
+          "update_policy": 0,
+          "jats_abstract": 0,
+          "author_sequence": 1,
+          "affiliation_ids_ror": 0.889348500517063,
+          "relations": 0.4136504653567735,
+          "assertions": 0,
+          "archive": 0,
+          "credit_roles": 0,
+          "author_given_family": 1,
+          "affiliation_ror": 0.889348500517063,
+          "funding_complete": 0.009307135470527405,
+          "data_availability": 0,
+          "preprint_version_link": 0.05997931747673216,
+          "peer_review_info": 0,
+          "clinical_trial": 0,
+          "abstract_structured": 0,
+          "open_access_status": 1
+        }
+      },
+      "comparable": {
+        "crossref": {
+          "categories": {
+            "findable_essential": 0.658974358974359,
+            "findable_support": 0.5901538461538461,
+            "accessible_essential": 0.48602564102564105,
+            "accessible_support": 0.3333333333333333,
+            "evaluation_coara": 0.3230769230769231
+          },
+          "overall": 0.5056705128205128
+        },
+        "openalex": {
+          "categories": {
+            "findable_essential": 0.8241123750430885,
+            "findable_support": 0.6409513960703206,
+            "accessible_essential": 0.6129782833505687,
+            "accessible_support": 0.7676663219579455,
+            "evaluation_coara": 0.5917269906928645
+          },
+          "overall": 0.6917330230954843
+        },
+        "gap": 0.18606251027497156
+      },
+      "voluntary": {
+        "crossref": 0.18084615384615382,
+        "openalex": 0.4723328162702516
+      }
+    }
+  ],
+  "fieldSamples": {
+    "title": [],
+    "abstract": [
+      {
+        "doi": "10.5354/0719-5516.2014.36001",
+        "title": "El negocio jurídico, la abstracción y el Derecho Civil alemán"
+      },
+      {
+        "doi": "10.5354/0719-5516.2014.35834",
+        "title": "Presentación"
+      },
+      {
+        "doi": "10.5354/0718-4735.2014.36321",
+        "title": "La presunción de hecho como figura jurídica en el derecho procesal civil alemán"
+      },
+      {
+        "doi": "10.5354/0719-5249.2014.36236",
+        "title": "A 20 años de la reforma constitucional de 1994. Una experiencia de Convención Nacional Constituyente"
+      },
+      {
+        "doi": "10.5354/0719-5249.2014.36245",
+        "title": "El vicio de la desviación de poder en los actos administrativos"
+      }
+    ],
+    "author": [
+      {
+        "doi": "10.4067/s0718-43602016000100013",
+        "title": "Expediente sobre la cuestión de la enseñanza de la filosofía"
+      }
+    ],
+    "author_affiliation": [
+      {
+        "doi": "10.5354/0719-5516.2014.36001",
+        "title": "El negocio jurídico, la abstracción y el Derecho Civil alemán"
+      },
+      {
+        "doi": "10.5354/0719-0581.2014.36155",
+        "title": "Ensayos Freudianos de Juan Marín: psicoanálisis chileno a comienzos del siglo XX"
+      },
+      {
+        "doi": "10.5354/0718-4735.2014.36321",
+        "title": "La presunción de hecho como figura jurídica en el derecho procesal civil alemán"
+      },
+      {
+        "doi": "10.5354/0719-5885.2014.35965",
+        "title": "Enseñar derecho de forma colaborativa. Ensayo sobre una primera experiencia"
+      },
+      {
+        "doi": "10.5354/0719-5249.2014.36236",
+        "title": "A 20 años de la reforma constitucional de 1994. Una experiencia de Convención Nacional Constituyente"
+      }
+    ],
+    "doi": [],
+    "publication_date": [],
+    "publisher": [],
+    "resource_type": [],
+    "subject_keywords": [
+      {
+        "doi": "10.5354/0719-5249.1978.36380",
+        "title": "Constitución Política del Estado de Chile 1822"
+      },
+      {
+        "doi": "10.5354/0719-5516.2014.36001",
+        "title": "El negocio jurídico, la abstracción y el Derecho Civil alemán"
+      },
+      {
+        "doi": "10.5354/0719-5516.2014.35834",
+        "title": "Presentación"
+      },
+      {
+        "doi": "10.5354/0719-0581.2014.36155",
+        "title": "Ensayos Freudianos de Juan Marín: psicoanálisis chileno a comienzos del siglo XX"
+      },
+      {
+        "doi": "10.5354/0719-5249.1978.36372",
+        "title": "Presentación"
+      }
+    ],
+    "funder_name": [
+      {
+        "doi": "10.5354/0719-1472.2014.36207",
+        "title": "Biodiversidad de peces de concheros de la bahía de ilha grande, Rio de Janeiro, Brasil"
+      },
+      {
+        "doi": "10.5354/0719-1472.2014.36205",
+        "title": "Biodiversidad de moluscos marinos del sSambaqui da tarioba, Rio das Ostras, Rio de Janeiro (Brasil)"
+      },
+      {
+        "doi": "10.5354/0719-5516.2014.36005",
+        "title": "La legitimación pasiva de los hospitales autogestionados"
+      },
+      {
+        "doi": "10.4067/s0718-83582015000100003",
+        "title": "Reconstruir con capacidad de resiliencia: El casco histórico de la ciudad de Constitución y el sitio del desastre del terremoto y tsunami del 27 de febrero 2010"
+      },
+      {
+        "doi": "10.4067/s0718-83582015000100002",
+        "title": "El paisaje urbano de emergencia en Valdivia, Chile: contribuciones a la planificación y diseño urbano post-desastre para la restauración"
+      }
+    ],
+    "container_title": [],
+    "language": [
+      {
+        "doi": "10.5354/0719-5249.1978.36380",
+        "title": "Constitución Política del Estado de Chile 1822"
+      },
+      {
+        "doi": "10.5354/0719-5516.2014.36001",
+        "title": "El negocio jurídico, la abstracción y el Derecho Civil alemán"
+      },
+      {
+        "doi": "10.5354/0719-5516.2014.35834",
+        "title": "Presentación"
+      },
+      {
+        "doi": "10.5354/0719-0581.2014.36155",
+        "title": "Ensayos Freudianos de Juan Marín: psicoanálisis chileno a comienzos del siglo XX"
+      },
+      {
+        "doi": "10.5354/0719-5249.1978.36372",
+        "title": "Presentación"
+      }
+    ],
+    "author_orcid": [
+      {
+        "doi": "10.5354/0719-0581.2014.36155",
+        "title": "Ensayos Freudianos de Juan Marín: psicoanálisis chileno a comienzos del siglo XX"
+      },
+      {
+        "doi": "10.5354/0718-4735.2014.36321",
+        "title": "La presunción de hecho como figura jurídica en el derecho procesal civil alemán"
+      },
+      {
+        "doi": "10.5354/0719-5249.2014.36245",
+        "title": "El vicio de la desviación de poder en los actos administrativos"
+      },
+      {
+        "doi": "10.5354/0719-0581.2014.36143",
+        "title": "Aplicaciones relevantes en evaluación  psicológica y psicometría: Editorial"
+      },
+      {
+        "doi": "10.5354/0719-1529.2014.33011",
+        "title": "Historia de un secreto"
+      }
+    ],
+    "all_authors_orcid": [
+      {
+        "doi": "10.5354/0719-0581.2014.36155",
+        "title": "Ensayos Freudianos de Juan Marín: psicoanálisis chileno a comienzos del siglo XX"
+      },
+      {
+        "doi": "10.5354/0718-4735.2014.36321",
+        "title": "La presunción de hecho como figura jurídica en el derecho procesal civil alemán"
+      },
+      {
+        "doi": "10.5354/0719-5249.2014.36245",
+        "title": "El vicio de la desviación de poder en los actos administrativos"
+      },
+      {
+        "doi": "10.5354/0719-1529.2014.33011",
+        "title": "Historia de un secreto"
+      },
+      {
+        "doi": "10.5354/0719-0581.2014.36154",
+        "title": "Una revisión de Bergin and Garfield's Handbook of Psychotherapy and Behavior Change (6th Ed.)"
+      }
+    ],
+    "funder_doi": [
+      {
+        "doi": "10.5354/0719-1472.2014.36207",
+        "title": "Biodiversidad de peces de concheros de la bahía de ilha grande, Rio de Janeiro, Brasil"
+      },
+      {
+        "doi": "10.5354/0719-1472.2014.36205",
+        "title": "Biodiversidad de moluscos marinos del sSambaqui da tarioba, Rio das Ostras, Rio de Janeiro (Brasil)"
+      },
+      {
+        "doi": "10.5354/0719-5516.2014.36005",
+        "title": "La legitimación pasiva de los hospitales autogestionados"
+      },
+      {
+        "doi": "10.4067/s0718-83582015000100003",
+        "title": "Reconstruir con capacidad de resiliencia: El casco histórico de la ciudad de Constitución y el sitio del desastre del terremoto y tsunami del 27 de febrero 2010"
+      },
+      {
+        "doi": "10.4067/s0718-83582015000100002",
+        "title": "El paisaje urbano de emergencia en Valdivia, Chile: contribuciones a la planificación y diseño urbano post-desastre para la restauración"
+      }
+    ],
+    "award_number": [
+      {
+        "doi": "10.5354/0719-1472.2014.36207",
+        "title": "Biodiversidad de peces de concheros de la bahía de ilha grande, Rio de Janeiro, Brasil"
+      },
+      {
+        "doi": "10.5354/0719-1472.2014.36205",
+        "title": "Biodiversidad de moluscos marinos del sSambaqui da tarioba, Rio das Ostras, Rio de Janeiro (Brasil)"
+      },
+      {
+        "doi": "10.4067/s0718-83582015000200003",
+        "title": "Narrativas sobre el lugar: Habitar una vivienda de interés social en la periferia urbana"
+      },
+      {
+        "doi": "10.5354/0719-0581.2015.37955",
+        "title": "Jueces hablando con niños: terminología legal utilizada en la toma de declaración de menores"
+      },
+      {
+        "doi": "10.4067/s0718-83582016000200002",
+        "title": "Puerto Madero 'en movimiento': movilidad de políticas y modelos urbanos en América Latina (1999-2012)"
+      }
+    ],
+    "issn": [],
+    "volume": [
+      {
+        "doi": "10.5354/0718-4360.1949.41062",
+        "title": "La filosofía de Goethe"
+      },
+      {
+        "doi": "10.5354/0718-4360.1949.41061",
+        "title": "La imagen del hombre en Goethe"
+      },
+      {
+        "doi": "10.5354/0718-4360.1995.43184",
+        "title": "La vigilia de Diderot."
+      },
+      {
+        "doi": "10.5354/0718-4360.1997.43632",
+        "title": "El error de Descartes."
+      },
+      {
+        "doi": "10.5354/0718-4360.1996.43335",
+        "title": "Heidegger y la ética."
+      }
+    ],
+    "issue": [
+      {
+        "doi": "10.5354/0718-4360.1995.43184",
+        "title": "La vigilia de Diderot."
+      },
+      {
+        "doi": "10.5354/0718-4360.1994.43072",
+        "title": "Théorie de L'Intelligibilité."
+      },
+      {
+        "doi": "10.5354/0718-4360.1988.44153",
+        "title": "La vuelta (Die kehre)"
+      },
+      {
+        "doi": "10.5354/0718-4360.1981.44383",
+        "title": "La ética como saber y en el mundo del saber"
+      },
+      {
+        "doi": "10.5354/0718-4360.1996.43335",
+        "title": "Heidegger y la ética."
+      }
+    ],
+    "page": [
+      {
+        "doi": "10.5354/0719-1529.2014.33732",
+        "title": "Prensa y sociedad en Chile, siglo XX"
+      },
+      {
+        "doi": "10.5354/0719-1529.2014.32574",
+        "title": "Documento CONAR Sobre Publicidad Sexista"
+      },
+      {
+        "doi": "10.5354/0719-1529.2014.33000",
+        "title": "Aborto: una clara oportunidad para legislar"
+      },
+      {
+        "doi": "10.5354/0719-1529.2014.32381",
+        "title": "La nación y lo doméstico: una performance sobre feminismo y práctica en los Andes chilenos"
+      },
+      {
+        "doi": "10.5354/0719-1529.2014.30880",
+        "title": "El noticiero televisivo como dispositivo de disciplinamiento social: un análisis de la cobertura de femicidios en Chile"
+      }
+    ],
+    "published_print_date": [
+      {
+        "doi": "10.5354/0719-5249.1978.36380",
+        "title": "Constitución Política del Estado de Chile 1822"
+      },
+      {
+        "doi": "10.5354/0719-5516.2014.36001",
+        "title": "El negocio jurídico, la abstracción y el Derecho Civil alemán"
+      },
+      {
+        "doi": "10.5354/0719-5516.2014.35834",
+        "title": "Presentación"
+      },
+      {
+        "doi": "10.5354/0719-0581.2014.36155",
+        "title": "Ensayos Freudianos de Juan Marín: psicoanálisis chileno a comienzos del siglo XX"
+      },
+      {
+        "doi": "10.5354/0719-5249.1978.36372",
+        "title": "Presentación"
+      }
+    ],
+    "published_online_date": [],
+    "license": [
+      {
+        "doi": "10.5354/0719-5249.1978.36380",
+        "title": "Constitución Política del Estado de Chile 1822"
+      },
+      {
+        "doi": "10.5354/0719-0581.2014.36155",
+        "title": "Ensayos Freudianos de Juan Marín: psicoanálisis chileno a comienzos del siglo XX"
+      },
+      {
+        "doi": "10.5354/0719-5249.1978.36372",
+        "title": "Presentación"
+      },
+      {
+        "doi": "10.5354/0718-4735.2014.36321",
+        "title": "La presunción de hecho como figura jurídica en el derecho procesal civil alemán"
+      },
+      {
+        "doi": "10.5354/0719-5885.2014.35965",
+        "title": "Enseñar derecho de forma colaborativa. Ensayo sobre una primera experiencia"
+      }
+    ],
+    "license_url": [
+      {
+        "doi": "10.5354/0719-5249.1978.36380",
+        "title": "Constitución Política del Estado de Chile 1822"
+      },
+      {
+        "doi": "10.5354/0719-0581.2014.36155",
+        "title": "Ensayos Freudianos de Juan Marín: psicoanálisis chileno a comienzos del siglo XX"
+      },
+      {
+        "doi": "10.5354/0719-5249.1978.36372",
+        "title": "Presentación"
+      },
+      {
+        "doi": "10.5354/0718-4735.2014.36321",
+        "title": "La presunción de hecho como figura jurídica en el derecho procesal civil alemán"
+      },
+      {
+        "doi": "10.5354/0719-5885.2014.35965",
+        "title": "Enseñar derecho de forma colaborativa. Ensayo sobre una primera experiencia"
+      }
+    ],
+    "open_access_license": [
+      {
+        "doi": "10.5354/0719-5249.1978.36380",
+        "title": "Constitución Política del Estado de Chile 1822"
+      },
+      {
+        "doi": "10.5354/0719-0581.2014.36155",
+        "title": "Ensayos Freudianos de Juan Marín: psicoanálisis chileno a comienzos del siglo XX"
+      },
+      {
+        "doi": "10.5354/0719-5249.1978.36372",
+        "title": "Presentación"
+      },
+      {
+        "doi": "10.5354/0718-4735.2014.36321",
+        "title": "La presunción de hecho como figura jurídica en el derecho procesal civil alemán"
+      },
+      {
+        "doi": "10.5354/0719-5885.2014.35965",
+        "title": "Enseñar derecho de forma colaborativa. Ensayo sobre una primera experiencia"
+      }
+    ],
+    "full_text_links": [
+      {
+        "doi": "10.5354/0719-5249.1978.36380",
+        "title": "Constitución Política del Estado de Chile 1822"
+      },
+      {
+        "doi": "10.5354/0719-5516.2014.36001",
+        "title": "El negocio jurídico, la abstracción y el Derecho Civil alemán"
+      },
+      {
+        "doi": "10.5354/0719-5516.2014.35834",
+        "title": "Presentación"
+      },
+      {
+        "doi": "10.5354/0719-5249.1978.36372",
+        "title": "Presentación"
+      },
+      {
+        "doi": "10.5354/0718-4735.2014.36321",
+        "title": "La presunción de hecho como figura jurídica en el derecho procesal civil alemán"
+      }
+    ],
+    "resource_url": [],
+    "references": [
+      {
+        "doi": "10.5354/0719-0581.2014.36155",
+        "title": "Ensayos Freudianos de Juan Marín: psicoanálisis chileno a comienzos del siglo XX"
+      },
+      {
+        "doi": "10.5354/0718-4735.2014.36321",
+        "title": "La presunción de hecho como figura jurídica en el derecho procesal civil alemán"
+      },
+      {
+        "doi": "10.5354/0719-5885.2014.35965",
+        "title": "Enseñar derecho de forma colaborativa. Ensayo sobre una primera experiencia"
+      },
+      {
+        "doi": "10.5354/0719-5249.2014.36236",
+        "title": "A 20 años de la reforma constitucional de 1994. Una experiencia de Convención Nacional Constituyente"
+      },
+      {
+        "doi": "10.5354/0719-1472.2014.36286",
+        "title": "Uso de la fauna al momento del contacto hispano-indígena en el río de La Plata: un aporte arqueozoológico y etnohistórico"
+      }
+    ],
+    "references_count": [
+      {
+        "doi": "10.5354/0719-0581.2014.36155",
+        "title": "Ensayos Freudianos de Juan Marín: psicoanálisis chileno a comienzos del siglo XX"
+      },
+      {
+        "doi": "10.5354/0718-4735.2014.36321",
+        "title": "La presunción de hecho como figura jurídica en el derecho procesal civil alemán"
+      },
+      {
+        "doi": "10.5354/0719-5885.2014.35965",
+        "title": "Enseñar derecho de forma colaborativa. Ensayo sobre una primera experiencia"
+      },
+      {
+        "doi": "10.5354/0719-5249.2014.36236",
+        "title": "A 20 años de la reforma constitucional de 1994. Una experiencia de Convención Nacional Constituyente"
+      },
+      {
+        "doi": "10.5354/0719-1472.2014.36286",
+        "title": "Uso de la fauna al momento del contacto hispano-indígena en el río de La Plata: un aporte arqueozoológico y etnohistórico"
+      }
+    ],
+    "is_referenced_by": [
+      {
+        "doi": "10.5354/0719-1472.2014.36219",
+        "title": "Explotación industrial de pinnípedos en la factoría de Bahía Tethis (Tierra del Fuego, Argentina): Una aproximación zooarqueológica"
+      },
+      {
+        "doi": "10.5354/0719-1529.2014.33732",
+        "title": "Prensa y sociedad en Chile, siglo XX"
+      },
+      {
+        "doi": "10.5354/0719-5249.2014.36237",
+        "title": "Oposición política e institucionalidad para el rol opositor en un régimen presidencial de gobierno"
+      },
+      {
+        "doi": "10.5354/0719-1472.2014.36272",
+        "title": "Isótopos estables en camélidos del período tardío del noroeste de Argentina (NOA): estrategias de uso y manejo de rebaños"
+      },
+      {
+        "doi": "10.5354/0719-1472.2014.36270",
+        "title": "Cueros de cueva salamanca 1 y peña de las trampas 1.1 (Antofagasta de la Sierra, Catamarca): una vía de identificación taxonómica y algo más"
+      }
+    ],
+    "author_sequence": [
+      {
+        "doi": "10.4067/s0718-43602016000100013",
+        "title": "Expediente sobre la cuestión de la enseñanza de la filosofía"
+      }
+    ],
+    "affiliation_ids_ror": [
+      {
+        "doi": "10.5354/0719-5516.2014.36001",
+        "title": "El negocio jurídico, la abstracción y el Derecho Civil alemán"
+      },
+      {
+        "doi": "10.5354/0719-0581.2014.36155",
+        "title": "Ensayos Freudianos de Juan Marín: psicoanálisis chileno a comienzos del siglo XX"
+      },
+      {
+        "doi": "10.5354/0718-4735.2014.36321",
+        "title": "La presunción de hecho como figura jurídica en el derecho procesal civil alemán"
+      },
+      {
+        "doi": "10.5354/0719-5885.2014.35965",
+        "title": "Enseñar derecho de forma colaborativa. Ensayo sobre una primera experiencia"
+      },
+      {
+        "doi": "10.5354/0719-5249.2014.36236",
+        "title": "A 20 años de la reforma constitucional de 1994. Una experiencia de Convención Nacional Constituyente"
+      }
+    ],
+    "relations": [
+      {
+        "doi": "10.5354/0719-5249.1978.36380",
+        "title": "Constitución Política del Estado de Chile 1822"
+      },
+      {
+        "doi": "10.5354/0719-5516.2014.36001",
+        "title": "El negocio jurídico, la abstracción y el Derecho Civil alemán"
+      },
+      {
+        "doi": "10.5354/0719-5516.2014.35834",
+        "title": "Presentación"
+      },
+      {
+        "doi": "10.5354/0719-0581.2014.36155",
+        "title": "Ensayos Freudianos de Juan Marín: psicoanálisis chileno a comienzos del siglo XX"
+      },
+      {
+        "doi": "10.5354/0719-5249.1978.36372",
+        "title": "Presentación"
+      }
+    ],
+    "author_given_family": [
+      {
+        "doi": "10.4067/s0718-43602016000100013",
+        "title": "Expediente sobre la cuestión de la enseñanza de la filosofía"
+      },
+      {
+        "doi": "10.4067/s0719-12432017000100003",
+        "title": "Jamón de Chiloé: itinerario histórico de un producto típico de América del Sur (siglos XVIII y XIX)"
+      },
+      {
+        "doi": "10.5354/0718-672x.2024.82688",
+        "title": "VIII° versión del COCEM \"Nuevas Fronteras: Medicina del Siglo XXI\": Libro de Resúmenes 2024"
+      },
+      {
+        "doi": "10.5354/0719-9368.2024.77110",
+        "title": "Comercio de servicios y género: Chile"
+      },
+      {
+        "doi": "10.5354/0718-672x.2025.82262",
+        "title": "II Jornada Científica Eloísa Díaz: Libro de Resúmenes 2025"
+      }
+    ],
+    "affiliation_ror": [
+      {
+        "doi": "10.5354/0719-5516.2014.36001",
+        "title": "El negocio jurídico, la abstracción y el Derecho Civil alemán"
+      },
+      {
+        "doi": "10.5354/0719-0581.2014.36155",
+        "title": "Ensayos Freudianos de Juan Marín: psicoanálisis chileno a comienzos del siglo XX"
+      },
+      {
+        "doi": "10.5354/0718-4735.2014.36321",
+        "title": "La presunción de hecho como figura jurídica en el derecho procesal civil alemán"
+      },
+      {
+        "doi": "10.5354/0719-5885.2014.35965",
+        "title": "Enseñar derecho de forma colaborativa. Ensayo sobre una primera experiencia"
+      },
+      {
+        "doi": "10.5354/0719-5249.2014.36236",
+        "title": "A 20 años de la reforma constitucional de 1994. Una experiencia de Convención Nacional Constituyente"
+      }
+    ],
+    "funding_complete": [
+      {
+        "doi": "10.5354/0719-1472.2014.36207",
+        "title": "Biodiversidad de peces de concheros de la bahía de ilha grande, Rio de Janeiro, Brasil"
+      },
+      {
+        "doi": "10.5354/0719-1472.2014.36205",
+        "title": "Biodiversidad de moluscos marinos del sSambaqui da tarioba, Rio das Ostras, Rio de Janeiro (Brasil)"
+      },
+      {
+        "doi": "10.4067/s0718-83582015000200003",
+        "title": "Narrativas sobre el lugar: Habitar una vivienda de interés social en la periferia urbana"
+      },
+      {
+        "doi": "10.5354/0719-0581.2015.37955",
+        "title": "Jueces hablando con niños: terminología legal utilizada en la toma de declaración de menores"
+      },
+      {
+        "doi": "10.4067/s0718-83582016000200002",
+        "title": "Puerto Madero 'en movimiento': movilidad de políticas y modelos urbanos en América Latina (1999-2012)"
+      }
+    ],
+    "preprint_version_link": [
+      {
+        "doi": "10.5354/0719-5516.2014.36006",
+        "title": "Marco regulatorio de proyectos de generación eléctrica no convencional mediante digestión anaerobia"
+      },
+      {
+        "doi": "10.5354/0718-4735.2014.36325",
+        "title": "Problemas que enfrenta la prueba digital en los Estados Unidos de Norteamérica"
+      },
+      {
+        "doi": "10.5354/0719-1472.2014.36214",
+        "title": "Estado actual de las investigaciones tafonómicas naturalistas en Punta Entrada y Monte León (Patagonia Meridional)"
+      },
+      {
+        "doi": "10.5354/0718-4735.2014.36320",
+        "title": "El tráfico de órganos humanos. Estudio de su sanción en la legislación chilena y española"
+      },
+      {
+        "doi": "10.5354/0719-1472.2014.36222",
+        "title": "Explotación de materia prima ósea en la pampa de las Lagunas Santafesinas: el sitio laguna El Doce (Provincia de Santa Fe, Argentina)"
+      }
+    ],
+    "open_access_status": [
+      {
+        "doi": "10.5354/0719-5249.1978.36380",
+        "title": "Constitución Política del Estado de Chile 1822"
+      },
+      {
+        "doi": "10.5354/0719-5516.2014.36001",
+        "title": "El negocio jurídico, la abstracción y el Derecho Civil alemán"
+      },
+      {
+        "doi": "10.5354/0719-5516.2014.35834",
+        "title": "Presentación"
+      },
+      {
+        "doi": "10.5354/0719-0581.2014.36155",
+        "title": "Ensayos Freudianos de Juan Marín: psicoanálisis chileno a comienzos del siglo XX"
+      },
+      {
+        "doi": "10.5354/0719-5249.1978.36372",
+        "title": "Presentación"
+      }
+    ]
+  },
+  "sampleWorks": [
+    {
+      "doi": "10.5354/0719-5249.1978.36380",
+      "title": "Constitución Política del Estado de Chile 1822",
+      "year": 2015,
+      "crossrefScore": 0.3684210526315789,
+      "openalexScore": 0.6052631578947368,
+      "gap": 9,
+      "openalexAdds": [
+        "subject_keywords",
+        "language",
+        "published_print_date",
+        "license",
+        "license_url",
+        "open_access_license",
+        "full_text_links",
+        "relations",
+        "open_access_status"
+      ]
+    },
+    {
+      "doi": "10.5354/0719-5516.2014.36001",
+      "title": "El negocio jurídico, la abstracción y el Derecho Civil alemán",
+      "year": 2015,
+      "crossrefScore": 0.3684210526315789,
+      "openalexScore": 0.6052631578947368,
+      "gap": 10,
+      "openalexAdds": [
+        "abstract",
+        "author_affiliation",
+        "subject_keywords",
+        "language",
+        "published_print_date",
+        "full_text_links",
+        "affiliation_ids_ror",
+        "relations",
+        "affiliation_ror",
+        "open_access_status"
+      ]
+    },
+    {
+      "doi": "10.5354/0719-5516.2014.35834",
+      "title": "Presentación",
+      "year": 2015,
+      "crossrefScore": 0.3684210526315789,
+      "openalexScore": 0.5263157894736842,
+      "gap": 7,
+      "openalexAdds": [
+        "abstract",
+        "subject_keywords",
+        "language",
+        "published_print_date",
+        "full_text_links",
+        "relations",
+        "open_access_status"
+      ]
+    },
+    {
+      "doi": "10.5354/0719-0581.2014.36155",
+      "title": "Ensayos Freudianos de Juan Marín: psicoanálisis chileno a comienzos del siglo XX",
+      "year": 2015,
+      "crossrefScore": 0.42105263157894735,
+      "openalexScore": 0.8157894736842105,
+      "gap": 15,
+      "openalexAdds": [
+        "author_affiliation",
+        "subject_keywords",
+        "language",
+        "author_orcid",
+        "all_authors_orcid",
+        "published_print_date",
+        "license",
+        "license_url",
+        "open_access_license",
+        "references",
+        "references_count",
+        "affiliation_ids_ror",
+        "relations",
+        "affiliation_ror",
+        "open_access_status"
+      ]
+    },
+    {
+      "doi": "10.5354/0719-5249.1978.36372",
+      "title": "Presentación",
+      "year": 2015,
+      "crossrefScore": 0.3684210526315789,
+      "openalexScore": 0.6052631578947368,
+      "gap": 9,
+      "openalexAdds": [
+        "subject_keywords",
+        "language",
+        "published_print_date",
+        "license",
+        "license_url",
+        "open_access_license",
+        "full_text_links",
+        "relations",
+        "open_access_status"
+      ]
+    },
+    {
+      "doi": "10.5354/0718-4735.2014.36321",
+      "title": "La presunción de hecho como figura jurídica en el derecho procesal civil alemán",
+      "year": 2015,
+      "crossrefScore": 0.3684210526315789,
+      "openalexScore": 0.8157894736842105,
+      "gap": 17,
+      "openalexAdds": [
+        "abstract",
+        "author_affiliation",
+        "subject_keywords",
+        "language",
+        "author_orcid",
+        "all_authors_orcid",
+        "published_print_date",
+        "license",
+        "license_url",
+        "open_access_license",
+        "full_text_links",
+        "references",
+        "references_count",
+        "affiliation_ids_ror",
+        "relations",
+        "affiliation_ror",
+        "open_access_status"
+      ]
+    },
+    {
+      "doi": "10.5354/0719-5885.2014.35965",
+      "title": "Enseñar derecho de forma colaborativa. Ensayo sobre una primera experiencia",
+      "year": 2015,
+      "crossrefScore": 0.47368421052631576,
+      "openalexScore": 0.7894736842105263,
+      "gap": 13,
+      "openalexAdds": [
+        "author_affiliation",
+        "subject_keywords",
+        "language",
+        "published_print_date",
+        "license",
+        "license_url",
+        "open_access_license",
+        "references",
+        "references_count",
+        "affiliation_ids_ror",
+        "relations",
+        "affiliation_ror",
+        "open_access_status"
+      ]
+    },
+    {
+      "doi": "10.5354/0719-5249.2014.36236",
+      "title": "A 20 años de la reforma constitucional de 1994. Una experiencia de Convención Nacional Constituyente",
+      "year": 2015,
+      "crossrefScore": 0.3684210526315789,
+      "openalexScore": 0.7631578947368421,
+      "gap": 15,
+      "openalexAdds": [
+        "abstract",
+        "author_affiliation",
+        "subject_keywords",
+        "language",
+        "published_print_date",
+        "license",
+        "license_url",
+        "open_access_license",
+        "full_text_links",
+        "references",
+        "references_count",
+        "affiliation_ids_ror",
+        "relations",
+        "affiliation_ror",
+        "open_access_status"
+      ]
+    },
+    {
+      "doi": "10.5354/0719-5249.2014.36245",
+      "title": "El vicio de la desviación de poder en los actos administrativos",
+      "year": 2015,
+      "crossrefScore": 0.3684210526315789,
+      "openalexScore": 0.7631578947368421,
+      "gap": 15,
+      "openalexAdds": [
+        "abstract",
+        "author_affiliation",
+        "subject_keywords",
+        "language",
+        "author_orcid",
+        "all_authors_orcid",
+        "published_print_date",
+        "license",
+        "license_url",
+        "open_access_license",
+        "full_text_links",
+        "affiliation_ids_ror",
+        "relations",
+        "affiliation_ror",
+        "open_access_status"
+      ]
+    },
+    {
+      "doi": "10.5354/0719-5249.1978.36381",
+      "title": "Reseña legislativa del gobierno de O'Higgins (1817-1822)",
+      "year": 2015,
+      "crossrefScore": 0.3684210526315789,
+      "openalexScore": 0.6052631578947368,
+      "gap": 9,
+      "openalexAdds": [
+        "subject_keywords",
+        "language",
+        "published_print_date",
+        "license",
+        "license_url",
+        "open_access_license",
+        "full_text_links",
+        "relations",
+        "open_access_status"
+      ]
+    }
+  ],
+  "fieldDetails": [
+    {
+      "id": "title",
+      "label": "Title",
+      "category": "findable_essential",
+      "effort": "automatic",
+      "crossref": 0.9863422962014511,
+      "openalex": 0.9863201094391245,
+      "gap": -0.000022186762326570353,
+      "samples": []
+    },
+    {
+      "id": "abstract",
+      "label": "Abstract",
+      "category": "findable_essential",
+      "effort": "voluntary",
+      "crossref": 0.5703798548868971,
+      "openalex": 0.7662448700410397,
+      "gap": 0.19586501515414256,
+      "samples": [
+        {
+          "doi": "10.5354/0719-5516.2014.36001",
+          "title": "El negocio jurídico, la abstracción y el Derecho Civil alemán"
+        },
+        {
+          "doi": "10.5354/0719-5516.2014.35834",
+          "title": "Presentación"
+        },
+        {
+          "doi": "10.5354/0718-4735.2014.36321",
+          "title": "La presunción de hecho como figura jurídica en el derecho procesal civil alemán"
+        },
+        {
+          "doi": "10.5354/0719-5249.2014.36236",
+          "title": "A 20 años de la reforma constitucional de 1994. Una experiencia de Convención Nacional Constituyente"
+        },
+        {
+          "doi": "10.5354/0719-5249.2014.36245",
+          "title": "El vicio de la desviación de poder en los actos administrativos"
+        }
+      ]
+    },
+    {
+      "id": "author",
+      "label": "Author",
+      "category": "findable_essential",
+      "effort": "automatic",
+      "crossref": 0.9991463935125907,
+      "openalex": 0.9992305061559508,
+      "gap": 0.00008411264336005697,
+      "samples": [
+        {
+          "doi": "10.4067/s0718-43602016000100013",
+          "title": "Expediente sobre la cuestión de la enseñanza de la filosofía"
+        }
+      ]
+    },
+    {
+      "id": "author_affiliation",
+      "label": "Author Affiliation",
+      "category": "findable_essential",
+      "effort": "voluntary",
+      "crossref": 0,
+      "openalex": 0.8655095759233926,
+      "gap": 0.8655095759233926,
+      "samples": [
+        {
+          "doi": "10.5354/0719-5516.2014.36001",
+          "title": "El negocio jurídico, la abstracción y el Derecho Civil alemán"
+        },
+        {
+          "doi": "10.5354/0719-0581.2014.36155",
+          "title": "Ensayos Freudianos de Juan Marín: psicoanálisis chileno a comienzos del siglo XX"
+        },
+        {
+          "doi": "10.5354/0718-4735.2014.36321",
+          "title": "La presunción de hecho como figura jurídica en el derecho procesal civil alemán"
+        },
+        {
+          "doi": "10.5354/0719-5885.2014.35965",
+          "title": "Enseñar derecho de forma colaborativa. Ensayo sobre una primera experiencia"
+        },
+        {
+          "doi": "10.5354/0719-5249.2014.36236",
+          "title": "A 20 años de la reforma constitucional de 1994. Una experiencia de Convención Nacional Constituyente"
+        }
+      ]
+    },
+    {
+      "id": "doi",
+      "label": "DOI",
+      "category": "findable_essential",
+      "effort": "automatic",
+      "crossref": 1,
+      "openalex": 1,
+      "gap": 0,
+      "samples": []
+    },
+    {
+      "id": "publication_date",
+      "label": "Publication Date",
+      "category": "findable_essential",
+      "effort": "automatic",
+      "crossref": 1,
+      "openalex": 1,
+      "gap": 0,
+      "samples": []
+    },
+    {
+      "id": "publisher",
+      "label": "Publisher",
+      "category": "findable_essential",
+      "effort": "automatic",
+      "crossref": 1,
+      "openalex": 0.6071306429548564,
+      "gap": -0.3928693570451436,
+      "samples": []
+    },
+    {
+      "id": "resource_type",
+      "label": "Resource Type",
+      "category": "findable_essential",
+      "effort": "automatic",
+      "crossref": 1,
+      "openalex": 1,
+      "gap": 0,
+      "samples": []
+    },
+    {
+      "id": "subject_keywords",
+      "label": "Subject / Keywords",
+      "category": "findable_essential",
+      "effort": "voluntary",
+      "crossref": 0,
+      "openalex": 0.9994870041039672,
+      "gap": 0.9994870041039672,
+      "samples": [
+        {
+          "doi": "10.5354/0719-5249.1978.36380",
+          "title": "Constitución Política del Estado de Chile 1822"
+        },
+        {
+          "doi": "10.5354/0719-5516.2014.36001",
+          "title": "El negocio jurídico, la abstracción y el Derecho Civil alemán"
+        },
+        {
+          "doi": "10.5354/0719-5516.2014.35834",
+          "title": "Presentación"
+        },
+        {
+          "doi": "10.5354/0719-0581.2014.36155",
+          "title": "Ensayos Freudianos de Juan Marín: psicoanálisis chileno a comienzos del siglo XX"
+        },
+        {
+          "doi": "10.5354/0719-5249.1978.36372",
+          "title": "Presentación"
+        }
+      ]
+    },
+    {
+      "id": "funder_name",
+      "label": "Funder Name",
+      "category": "findable_essential",
+      "effort": "voluntary",
+      "crossref": 0,
+      "openalex": 0.016757865937072503,
+      "gap": 0.016757865937072503,
+      "samples": [
+        {
+          "doi": "10.5354/0719-1472.2014.36207",
+          "title": "Biodiversidad de peces de concheros de la bahía de ilha grande, Rio de Janeiro, Brasil"
+        },
+        {
+          "doi": "10.5354/0719-1472.2014.36205",
+          "title": "Biodiversidad de moluscos marinos del sSambaqui da tarioba, Rio das Ostras, Rio de Janeiro (Brasil)"
+        },
+        {
+          "doi": "10.5354/0719-5516.2014.36005",
+          "title": "La legitimación pasiva de los hospitales autogestionados"
+        },
+        {
+          "doi": "10.4067/s0718-83582015000100003",
+          "title": "Reconstruir con capacidad de resiliencia: El casco histórico de la ciudad de Constitución y el sitio del desastre del terremoto y tsunami del 27 de febrero 2010"
+        },
+        {
+          "doi": "10.4067/s0718-83582015000100002",
+          "title": "El paisaje urbano de emergencia en Valdivia, Chile: contribuciones a la planificación y diseño urbano post-desastre para la restauración"
+        }
+      ]
+    },
+    {
+      "id": "container_title",
+      "label": "Container Title",
+      "category": "findable_essential",
+      "effort": "automatic",
+      "crossref": 1,
+      "openalex": 1,
+      "gap": 0,
+      "samples": []
+    },
+    {
+      "id": "language",
+      "label": "Language",
+      "category": "findable_essential",
+      "effort": "automatic",
+      "crossref": 0.06487409304310712,
+      "openalex": 0.9524623803009576,
+      "gap": 0.8875882872578506,
+      "samples": [
+        {
+          "doi": "10.5354/0719-5249.1978.36380",
+          "title": "Constitución Política del Estado de Chile 1822"
+        },
+        {
+          "doi": "10.5354/0719-5516.2014.36001",
+          "title": "El negocio jurídico, la abstracción y el Derecho Civil alemán"
+        },
+        {
+          "doi": "10.5354/0719-5516.2014.35834",
+          "title": "Presentación"
+        },
+        {
+          "doi": "10.5354/0719-0581.2014.36155",
+          "title": "Ensayos Freudianos de Juan Marín: psicoanálisis chileno a comienzos del siglo XX"
+        },
+        {
+          "doi": "10.5354/0719-5249.1978.36372",
+          "title": "Presentación"
+        }
+      ]
+    },
+    {
+      "id": "author_orcid",
+      "label": "Author ORCID",
+      "category": "findable_support",
+      "effort": "voluntary",
+      "crossref": 0.2664105847204439,
+      "openalex": 0.5430916552667578,
+      "gap": 0.27668107054631397,
+      "samples": [
+        {
+          "doi": "10.5354/0719-0581.2014.36155",
+          "title": "Ensayos Freudianos de Juan Marín: psicoanálisis chileno a comienzos del siglo XX"
+        },
+        {
+          "doi": "10.5354/0718-4735.2014.36321",
+          "title": "La presunción de hecho como figura jurídica en el derecho procesal civil alemán"
+        },
+        {
+          "doi": "10.5354/0719-5249.2014.36245",
+          "title": "El vicio de la desviación de poder en los actos administrativos"
+        },
+        {
+          "doi": "10.5354/0719-0581.2014.36143",
+          "title": "Aplicaciones relevantes en evaluación  psicológica y psicometría: Editorial"
+        },
+        {
+          "doi": "10.5354/0719-1529.2014.33011",
+          "title": "Historia de un secreto"
+        }
+      ]
+    },
+    {
+      "id": "all_authors_orcid",
+      "label": "All Authors ORCID",
+      "category": "findable_support",
+      "effort": "voluntary",
+      "crossref": 0.24498506188647035,
+      "openalex": 0.41330369357045144,
+      "gap": 0.1683186316839811,
+      "samples": [
+        {
+          "doi": "10.5354/0719-0581.2014.36155",
+          "title": "Ensayos Freudianos de Juan Marín: psicoanálisis chileno a comienzos del siglo XX"
+        },
+        {
+          "doi": "10.5354/0718-4735.2014.36321",
+          "title": "La presunción de hecho como figura jurídica en el derecho procesal civil alemán"
+        },
+        {
+          "doi": "10.5354/0719-5249.2014.36245",
+          "title": "El vicio de la desviación de poder en los actos administrativos"
+        },
+        {
+          "doi": "10.5354/0719-1529.2014.33011",
+          "title": "Historia de un secreto"
+        },
+        {
+          "doi": "10.5354/0719-0581.2014.36154",
+          "title": "Una revisión de Bergin and Garfield's Handbook of Psychotherapy and Behavior Change (6th Ed.)"
+        }
+      ]
+    },
+    {
+      "id": "funder_doi",
+      "label": "Funder DOI",
+      "category": "findable_support",
+      "effort": "voluntary",
+      "crossref": 0,
+      "openalex": 0.016757865937072503,
+      "gap": 0.016757865937072503,
+      "samples": [
+        {
+          "doi": "10.5354/0719-1472.2014.36207",
+          "title": "Biodiversidad de peces de concheros de la bahía de ilha grande, Rio de Janeiro, Brasil"
+        },
+        {
+          "doi": "10.5354/0719-1472.2014.36205",
+          "title": "Biodiversidad de moluscos marinos del sSambaqui da tarioba, Rio das Ostras, Rio de Janeiro (Brasil)"
+        },
+        {
+          "doi": "10.5354/0719-5516.2014.36005",
+          "title": "La legitimación pasiva de los hospitales autogestionados"
+        },
+        {
+          "doi": "10.4067/s0718-83582015000100003",
+          "title": "Reconstruir con capacidad de resiliencia: El casco histórico de la ciudad de Constitución y el sitio del desastre del terremoto y tsunami del 27 de febrero 2010"
+        },
+        {
+          "doi": "10.4067/s0718-83582015000100002",
+          "title": "El paisaje urbano de emergencia en Valdivia, Chile: contribuciones a la planificación y diseño urbano post-desastre para la restauración"
+        }
+      ]
+    },
+    {
+      "id": "award_number",
+      "label": "Award Number",
+      "category": "findable_support",
+      "effort": "voluntary",
+      "crossref": 0,
+      "openalex": 0.005728454172366621,
+      "gap": 0.005728454172366621,
+      "samples": [
+        {
+          "doi": "10.5354/0719-1472.2014.36207",
+          "title": "Biodiversidad de peces de concheros de la bahía de ilha grande, Rio de Janeiro, Brasil"
+        },
+        {
+          "doi": "10.5354/0719-1472.2014.36205",
+          "title": "Biodiversidad de moluscos marinos del sSambaqui da tarioba, Rio das Ostras, Rio de Janeiro (Brasil)"
+        },
+        {
+          "doi": "10.4067/s0718-83582015000200003",
+          "title": "Narrativas sobre el lugar: Habitar una vivienda de interés social en la periferia urbana"
+        },
+        {
+          "doi": "10.5354/0719-0581.2015.37955",
+          "title": "Jueces hablando con niños: terminología legal utilizada en la toma de declaración de menores"
+        },
+        {
+          "doi": "10.4067/s0718-83582016000200002",
+          "title": "Puerto Madero 'en movimiento': movilidad de políticas y modelos urbanos en América Latina (1999-2012)"
+        }
+      ]
+    },
+    {
+      "id": "issn",
+      "label": "ISSN",
+      "category": "findable_support",
+      "effort": "automatic",
+      "crossref": 1,
+      "openalex": 1,
+      "gap": 0,
+      "samples": []
+    },
+    {
+      "id": "volume",
+      "label": "Volume",
+      "category": "findable_support",
+      "effort": "automatic",
+      "crossref": 0.7335894152795561,
+      "openalex": 0.7348666210670315,
+      "gap": 0.0012772057874753662,
+      "samples": [
+        {
+          "doi": "10.5354/0718-4360.1949.41062",
+          "title": "La filosofía de Goethe"
+        },
+        {
+          "doi": "10.5354/0718-4360.1949.41061",
+          "title": "La imagen del hombre en Goethe"
+        },
+        {
+          "doi": "10.5354/0718-4360.1995.43184",
+          "title": "La vigilia de Diderot."
+        },
+        {
+          "doi": "10.5354/0718-4360.1997.43632",
+          "title": "El error de Descartes."
+        },
+        {
+          "doi": "10.5354/0718-4360.1996.43335",
+          "title": "Heidegger y la ética."
+        }
+      ]
+    },
+    {
+      "id": "issue",
+      "label": "Issue",
+      "category": "findable_support",
+      "effort": "automatic",
+      "crossref": 0.8990183525394793,
+      "openalex": 0.9001367989056087,
+      "gap": 0.0011184463661294552,
+      "samples": [
+        {
+          "doi": "10.5354/0718-4360.1995.43184",
+          "title": "La vigilia de Diderot."
+        },
+        {
+          "doi": "10.5354/0718-4360.1994.43072",
+          "title": "Théorie de L'Intelligibilité."
+        },
+        {
+          "doi": "10.5354/0718-4360.1988.44153",
+          "title": "La vuelta (Die kehre)"
+        },
+        {
+          "doi": "10.5354/0718-4360.1981.44383",
+          "title": "La ética como saber y en el mundo del saber"
+        },
+        {
+          "doi": "10.5354/0718-4360.1996.43335",
+          "title": "Heidegger y la ética."
+        }
+      ]
+    },
+    {
+      "id": "page",
+      "label": "Page",
+      "category": "findable_support",
+      "effort": "automatic",
+      "crossref": 0.6635936833119932,
+      "openalex": 0.6665526675786594,
+      "gap": 0.002958984266666187,
+      "samples": [
+        {
+          "doi": "10.5354/0719-1529.2014.33732",
+          "title": "Prensa y sociedad en Chile, siglo XX"
+        },
+        {
+          "doi": "10.5354/0719-1529.2014.32574",
+          "title": "Documento CONAR Sobre Publicidad Sexista"
+        },
+        {
+          "doi": "10.5354/0719-1529.2014.33000",
+          "title": "Aborto: una clara oportunidad para legislar"
+        },
+        {
+          "doi": "10.5354/0719-1529.2014.32381",
+          "title": "La nación y lo doméstico: una performance sobre feminismo y práctica en los Andes chilenos"
+        },
+        {
+          "doi": "10.5354/0719-1529.2014.30880",
+          "title": "El noticiero televisivo como dispositivo de disciplinamiento social: un análisis de la cobertura de femicidios en Chile"
+        }
+      ]
+    },
+    {
+      "id": "published_print_date",
+      "label": "Published Print Date",
+      "category": "findable_support",
+      "effort": "automatic",
+      "crossref": 0,
+      "openalex": 1,
+      "gap": 1,
+      "samples": [
+        {
+          "doi": "10.5354/0719-5249.1978.36380",
+          "title": "Constitución Política del Estado de Chile 1822"
+        },
+        {
+          "doi": "10.5354/0719-5516.2014.36001",
+          "title": "El negocio jurídico, la abstracción y el Derecho Civil alemán"
+        },
+        {
+          "doi": "10.5354/0719-5516.2014.35834",
+          "title": "Presentación"
+        },
+        {
+          "doi": "10.5354/0719-0581.2014.36155",
+          "title": "Ensayos Freudianos de Juan Marín: psicoanálisis chileno a comienzos del siglo XX"
+        },
+        {
+          "doi": "10.5354/0719-5249.1978.36372",
+          "title": "Presentación"
+        }
+      ]
+    },
+    {
+      "id": "published_online_date",
+      "label": "Published Online Date",
+      "category": "findable_support",
+      "effort": "automatic",
+      "crossref": 1,
+      "openalex": 1,
+      "gap": 0,
+      "samples": []
+    },
+    {
+      "id": "license",
+      "label": "License",
+      "category": "accessible_essential",
+      "effort": "automatic",
+      "crossref": 0.26880068288518993,
+      "openalex": 0.8282318741450069,
+      "gap": 0.5594311912598169,
+      "samples": [
+        {
+          "doi": "10.5354/0719-5249.1978.36380",
+          "title": "Constitución Política del Estado de Chile 1822"
+        },
+        {
+          "doi": "10.5354/0719-0581.2014.36155",
+          "title": "Ensayos Freudianos de Juan Marín: psicoanálisis chileno a comienzos del siglo XX"
+        },
+        {
+          "doi": "10.5354/0719-5249.1978.36372",
+          "title": "Presentación"
+        },
+        {
+          "doi": "10.5354/0718-4735.2014.36321",
+          "title": "La presunción de hecho como figura jurídica en el derecho procesal civil alemán"
+        },
+        {
+          "doi": "10.5354/0719-5885.2014.35965",
+          "title": "Enseñar derecho de forma colaborativa. Ensayo sobre una primera experiencia"
+        }
+      ]
+    },
+    {
+      "id": "license_url",
+      "label": "License URL",
+      "category": "accessible_essential",
+      "effort": "automatic",
+      "crossref": 0.26880068288518993,
+      "openalex": 0.8282318741450069,
+      "gap": 0.5594311912598169,
+      "samples": [
+        {
+          "doi": "10.5354/0719-5249.1978.36380",
+          "title": "Constitución Política del Estado de Chile 1822"
+        },
+        {
+          "doi": "10.5354/0719-0581.2014.36155",
+          "title": "Ensayos Freudianos de Juan Marín: psicoanálisis chileno a comienzos del siglo XX"
+        },
+        {
+          "doi": "10.5354/0719-5249.1978.36372",
+          "title": "Presentación"
+        },
+        {
+          "doi": "10.5354/0718-4735.2014.36321",
+          "title": "La presunción de hecho como figura jurídica en el derecho procesal civil alemán"
+        },
+        {
+          "doi": "10.5354/0719-5885.2014.35965",
+          "title": "Enseñar derecho de forma colaborativa. Ensayo sobre una primera experiencia"
+        }
+      ]
+    },
+    {
+      "id": "open_access_license",
+      "label": "Open Access License",
+      "category": "accessible_essential",
+      "effort": "voluntary",
+      "crossref": 0.268715322236449,
+      "openalex": 0.827718878248974,
+      "gap": 0.559003556012525,
+      "samples": [
+        {
+          "doi": "10.5354/0719-5249.1978.36380",
+          "title": "Constitución Política del Estado de Chile 1822"
+        },
+        {
+          "doi": "10.5354/0719-0581.2014.36155",
+          "title": "Ensayos Freudianos de Juan Marín: psicoanálisis chileno a comienzos del siglo XX"
+        },
+        {
+          "doi": "10.5354/0719-5249.1978.36372",
+          "title": "Presentación"
+        },
+        {
+          "doi": "10.5354/0718-4735.2014.36321",
+          "title": "La presunción de hecho como figura jurídica en el derecho procesal civil alemán"
+        },
+        {
+          "doi": "10.5354/0719-5885.2014.35965",
+          "title": "Enseñar derecho de forma colaborativa. Ensayo sobre una primera experiencia"
+        }
+      ]
+    },
+    {
+      "id": "full_text_links",
+      "label": "Full-text Links",
+      "category": "accessible_essential",
+      "effort": "automatic",
+      "crossref": 0.7544174135723432,
+      "openalex": 0.9444254445964432,
+      "gap": 0.19000803102410002,
+      "samples": [
+        {
+          "doi": "10.5354/0719-5249.1978.36380",
+          "title": "Constitución Política del Estado de Chile 1822"
+        },
+        {
+          "doi": "10.5354/0719-5516.2014.36001",
+          "title": "El negocio jurídico, la abstracción y el Derecho Civil alemán"
+        },
+        {
+          "doi": "10.5354/0719-5516.2014.35834",
+          "title": "Presentación"
+        },
+        {
+          "doi": "10.5354/0719-5249.1978.36372",
+          "title": "Presentación"
+        },
+        {
+          "doi": "10.5354/0718-4735.2014.36321",
+          "title": "La presunción de hecho como figura jurídica en el derecho procesal civil alemán"
+        }
+      ]
+    },
+    {
+      "id": "resource_url",
+      "label": "Resource URL",
+      "category": "accessible_essential",
+      "effort": "automatic",
+      "crossref": 1,
+      "openalex": 1,
+      "gap": 0,
+      "samples": []
+    },
+    {
+      "id": "references",
+      "label": "References",
+      "category": "accessible_essential",
+      "effort": "voluntary",
+      "crossref": 0,
+      "openalex": 0.472640218878249,
+      "gap": 0.472640218878249,
+      "samples": [
+        {
+          "doi": "10.5354/0719-0581.2014.36155",
+          "title": "Ensayos Freudianos de Juan Marín: psicoanálisis chileno a comienzos del siglo XX"
+        },
+        {
+          "doi": "10.5354/0718-4735.2014.36321",
+          "title": "La presunción de hecho como figura jurídica en el derecho procesal civil alemán"
+        },
+        {
+          "doi": "10.5354/0719-5885.2014.35965",
+          "title": "Enseñar derecho de forma colaborativa. Ensayo sobre una primera experiencia"
+        },
+        {
+          "doi": "10.5354/0719-5249.2014.36236",
+          "title": "A 20 años de la reforma constitucional de 1994. Una experiencia de Convención Nacional Constituyente"
+        },
+        {
+          "doi": "10.5354/0719-1472.2014.36286",
+          "title": "Uso de la fauna al momento del contacto hispano-indígena en el río de La Plata: un aporte arqueozoológico y etnohistórico"
+        }
+      ]
+    },
+    {
+      "id": "references_count",
+      "label": "References Count",
+      "category": "accessible_essential",
+      "effort": "voluntary",
+      "crossref": 0,
+      "openalex": 0.472640218878249,
+      "gap": 0.472640218878249,
+      "samples": [
+        {
+          "doi": "10.5354/0719-0581.2014.36155",
+          "title": "Ensayos Freudianos de Juan Marín: psicoanálisis chileno a comienzos del siglo XX"
+        },
+        {
+          "doi": "10.5354/0718-4735.2014.36321",
+          "title": "La presunción de hecho como figura jurídica en el derecho procesal civil alemán"
+        },
+        {
+          "doi": "10.5354/0719-5885.2014.35965",
+          "title": "Enseñar derecho de forma colaborativa. Ensayo sobre una primera experiencia"
+        },
+        {
+          "doi": "10.5354/0719-5249.2014.36236",
+          "title": "A 20 años de la reforma constitucional de 1994. Una experiencia de Convención Nacional Constituyente"
+        },
+        {
+          "doi": "10.5354/0719-1472.2014.36286",
+          "title": "Uso de la fauna al momento del contacto hispano-indígena en el río de La Plata: un aporte arqueozoológico y etnohistórico"
+        }
+      ]
+    },
+    {
+      "id": "is_referenced_by",
+      "label": "Is Referenced By",
+      "category": "accessible_essential",
+      "effort": "automatic",
+      "crossref": 0.22705932565087494,
+      "openalex": 0.356703146374829,
+      "gap": 0.12964382072395408,
+      "samples": [
+        {
+          "doi": "10.5354/0719-1472.2014.36219",
+          "title": "Explotación industrial de pinnípedos en la factoría de Bahía Tethis (Tierra del Fuego, Argentina): Una aproximación zooarqueológica"
+        },
+        {
+          "doi": "10.5354/0719-1529.2014.33732",
+          "title": "Prensa y sociedad en Chile, siglo XX"
+        },
+        {
+          "doi": "10.5354/0719-5249.2014.36237",
+          "title": "Oposición política e institucionalidad para el rol opositor en un régimen presidencial de gobierno"
+        },
+        {
+          "doi": "10.5354/0719-1472.2014.36272",
+          "title": "Isótopos estables en camélidos del período tardío del noroeste de Argentina (NOA): estrategias de uso y manejo de rebaños"
+        },
+        {
+          "doi": "10.5354/0719-1472.2014.36270",
+          "title": "Cueros de cueva salamanca 1 y peña de las trampas 1.1 (Antofagasta de la Sierra, Catamarca): una vía de identificación taxonómica y algo más"
+        }
+      ]
+    },
+    {
+      "id": "author_sequence",
+      "label": "Author Sequence",
+      "category": "accessible_support",
+      "effort": "automatic",
+      "crossref": 0.9991463935125907,
+      "openalex": 0.9992305061559508,
+      "gap": 0.00008411264336005697,
+      "samples": [
+        {
+          "doi": "10.4067/s0718-43602016000100013",
+          "title": "Expediente sobre la cuestión de la enseñanza de la filosofía"
+        }
+      ]
+    },
+    {
+      "id": "affiliation_ids_ror",
+      "label": "Affiliation IDs (ROR)",
+      "category": "accessible_support",
+      "effort": "voluntary",
+      "crossref": 0,
+      "openalex": 0.8651675786593708,
+      "gap": 0.8651675786593708,
+      "samples": [
+        {
+          "doi": "10.5354/0719-5516.2014.36001",
+          "title": "El negocio jurídico, la abstracción y el Derecho Civil alemán"
+        },
+        {
+          "doi": "10.5354/0719-0581.2014.36155",
+          "title": "Ensayos Freudianos de Juan Marín: psicoanálisis chileno a comienzos del siglo XX"
+        },
+        {
+          "doi": "10.5354/0718-4735.2014.36321",
+          "title": "La presunción de hecho como figura jurídica en el derecho procesal civil alemán"
+        },
+        {
+          "doi": "10.5354/0719-5885.2014.35965",
+          "title": "Enseñar derecho de forma colaborativa. Ensayo sobre una primera experiencia"
+        },
+        {
+          "doi": "10.5354/0719-5249.2014.36236",
+          "title": "A 20 años de la reforma constitucional de 1994. Una experiencia de Convención Nacional Constituyente"
+        }
+      ]
+    },
+    {
+      "id": "relations",
+      "label": "Relations",
+      "category": "accessible_support",
+      "effort": "voluntary",
+      "crossref": 0,
+      "openalex": 0.9304035567715458,
+      "gap": 0.9304035567715458,
+      "samples": [
+        {
+          "doi": "10.5354/0719-5249.1978.36380",
+          "title": "Constitución Política del Estado de Chile 1822"
+        },
+        {
+          "doi": "10.5354/0719-5516.2014.36001",
+          "title": "El negocio jurídico, la abstracción y el Derecho Civil alemán"
+        },
+        {
+          "doi": "10.5354/0719-5516.2014.35834",
+          "title": "Presentación"
+        },
+        {
+          "doi": "10.5354/0719-0581.2014.36155",
+          "title": "Ensayos Freudianos de Juan Marín: psicoanálisis chileno a comienzos del siglo XX"
+        },
+        {
+          "doi": "10.5354/0719-5249.1978.36372",
+          "title": "Presentación"
+        }
+      ]
+    },
+    {
+      "id": "author_given_family",
+      "label": "Complete Author Names",
+      "category": "evaluation_coara",
+      "effort": "automatic",
+      "crossref": 0.9986342296201451,
+      "openalex": 0.9992305061559508,
+      "gap": 0.0005962765358056288,
+      "samples": [
+        {
+          "doi": "10.4067/s0718-43602016000100013",
+          "title": "Expediente sobre la cuestión de la enseñanza de la filosofía"
+        },
+        {
+          "doi": "10.4067/s0719-12432017000100003",
+          "title": "Jamón de Chiloé: itinerario histórico de un producto típico de América del Sur (siglos XVIII y XIX)"
+        },
+        {
+          "doi": "10.5354/0718-672x.2024.82688",
+          "title": "VIII° versión del COCEM \"Nuevas Fronteras: Medicina del Siglo XXI\": Libro de Resúmenes 2024"
+        },
+        {
+          "doi": "10.5354/0719-9368.2024.77110",
+          "title": "Comercio de servicios y género: Chile"
+        },
+        {
+          "doi": "10.5354/0718-672x.2025.82262",
+          "title": "II Jornada Científica Eloísa Díaz: Libro de Resúmenes 2025"
+        }
+      ]
+    },
+    {
+      "id": "affiliation_ror",
+      "label": "Affiliation with ROR",
+      "category": "evaluation_coara",
+      "effort": "voluntary",
+      "crossref": 0,
+      "openalex": 0.8651675786593708,
+      "gap": 0.8651675786593708,
+      "samples": [
+        {
+          "doi": "10.5354/0719-5516.2014.36001",
+          "title": "El negocio jurídico, la abstracción y el Derecho Civil alemán"
+        },
+        {
+          "doi": "10.5354/0719-0581.2014.36155",
+          "title": "Ensayos Freudianos de Juan Marín: psicoanálisis chileno a comienzos del siglo XX"
+        },
+        {
+          "doi": "10.5354/0718-4735.2014.36321",
+          "title": "La presunción de hecho como figura jurídica en el derecho procesal civil alemán"
+        },
+        {
+          "doi": "10.5354/0719-5885.2014.35965",
+          "title": "Enseñar derecho de forma colaborativa. Ensayo sobre una primera experiencia"
+        },
+        {
+          "doi": "10.5354/0719-5249.2014.36236",
+          "title": "A 20 años de la reforma constitucional de 1994. Una experiencia de Convención Nacional Constituyente"
+        }
+      ]
+    },
+    {
+      "id": "funding_complete",
+      "label": "Complete Funding Info",
+      "category": "evaluation_coara",
+      "effort": "voluntary",
+      "crossref": 0,
+      "openalex": 0.005728454172366621,
+      "gap": 0.005728454172366621,
+      "samples": [
+        {
+          "doi": "10.5354/0719-1472.2014.36207",
+          "title": "Biodiversidad de peces de concheros de la bahía de ilha grande, Rio de Janeiro, Brasil"
+        },
+        {
+          "doi": "10.5354/0719-1472.2014.36205",
+          "title": "Biodiversidad de moluscos marinos del sSambaqui da tarioba, Rio das Ostras, Rio de Janeiro (Brasil)"
+        },
+        {
+          "doi": "10.4067/s0718-83582015000200003",
+          "title": "Narrativas sobre el lugar: Habitar una vivienda de interés social en la periferia urbana"
+        },
+        {
+          "doi": "10.5354/0719-0581.2015.37955",
+          "title": "Jueces hablando con niños: terminología legal utilizada en la toma de declaración de menores"
+        },
+        {
+          "doi": "10.4067/s0718-83582016000200002",
+          "title": "Puerto Madero 'en movimiento': movilidad de políticas y modelos urbanos en América Latina (1999-2012)"
+        }
+      ]
+    },
+    {
+      "id": "preprint_version_link",
+      "label": "Preprint / Version Link",
+      "category": "evaluation_coara",
+      "effort": "voluntary",
+      "crossref": 0,
+      "openalex": 0.239312585499316,
+      "gap": 0.239312585499316,
+      "samples": [
+        {
+          "doi": "10.5354/0719-5516.2014.36006",
+          "title": "Marco regulatorio de proyectos de generación eléctrica no convencional mediante digestión anaerobia"
+        },
+        {
+          "doi": "10.5354/0718-4735.2014.36325",
+          "title": "Problemas que enfrenta la prueba digital en los Estados Unidos de Norteamérica"
+        },
+        {
+          "doi": "10.5354/0719-1472.2014.36214",
+          "title": "Estado actual de las investigaciones tafonómicas naturalistas en Punta Entrada y Monte León (Patagonia Meridional)"
+        },
+        {
+          "doi": "10.5354/0718-4735.2014.36320",
+          "title": "El tráfico de órganos humanos. Estudio de su sanción en la legislación chilena y española"
+        },
+        {
+          "doi": "10.5354/0719-1472.2014.36222",
+          "title": "Explotación de materia prima ósea en la pampa de las Lagunas Santafesinas: el sitio laguna El Doce (Provincia de Santa Fe, Argentina)"
+        }
+      ]
+    },
+    {
+      "id": "open_access_status",
+      "label": "Open Access Status",
+      "category": "evaluation_coara",
+      "effort": "automatic",
+      "crossref": 0.268715322236449,
+      "openalex": 0.9999145006839946,
+      "gap": 0.7311991784475456,
+      "samples": [
+        {
+          "doi": "10.5354/0719-5249.1978.36380",
+          "title": "Constitución Política del Estado de Chile 1822"
+        },
+        {
+          "doi": "10.5354/0719-5516.2014.36001",
+          "title": "El negocio jurídico, la abstracción y el Derecho Civil alemán"
+        },
+        {
+          "doi": "10.5354/0719-5516.2014.35834",
+          "title": "Presentación"
+        },
+        {
+          "doi": "10.5354/0719-0581.2014.36155",
+          "title": "Ensayos Freudianos de Juan Marín: psicoanálisis chileno a comienzos del siglo XX"
+        },
+        {
+          "doi": "10.5354/0719-5249.1978.36372",
+          "title": "Presentación"
+        }
+      ]
+    }
+  ]
+}

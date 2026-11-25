@@ -1,0 +1,15 @@
+# Written before the first commit: a file committed once survives its own deletion.
+_ref/
+.claude/
+CLAUDE.md
+.env
+.env.*
+*.local
+*.bundle
+
+# Build and dependencies
+node_modules/
+dist/
+.wrangler/
+
+.DS_Store
