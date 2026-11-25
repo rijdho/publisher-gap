@@ -62,9 +62,9 @@ A push to `main` runs the tests, builds the page and publishes it to GitHub Page
   to 77.7% for OpenAlex; About says which fields were left out.
 - **A category named "Essential" is the page's own grouping.** It does not say that Crossref
   requires the field.
-- **Most texts of the page were written in March 2026** and have not been reviewed since; on
-  About, the sampling of 5,000 articles per year and the table of works per publisher do not
-  match the data files, which hold up to 8,000 per year.
+- **Most texts of the page were written in March 2026** and have not been reviewed since: the
+  thesis, the timeline of mandates and the description of the two sources on About are the
+  author's reading and are not checked against the data of the page.
 - **The data are of March 2026.** Both sources have changed since.
 - **A score is a weighted mean of shares of records**, per publisher, and the figure for all
   publishers is a plain mean of theirs: each publisher counts once, whatever its size.

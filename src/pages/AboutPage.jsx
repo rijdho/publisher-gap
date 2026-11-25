@@ -1,4 +1,5 @@
 import { CATEGORY_ORDER, CATEGORIES } from "../lib/categories";
+import useGapData from "../hooks/useGapData";
 
 const CATEGORY_FIELDS = {
   findable_essential: [
@@ -28,24 +29,9 @@ const CATEGORY_FIELDS = {
   ],
 };
 
-const PUBLISHER_LIST = [
-  { name: "Elsevier", category: "Commercial Hybrid/Subscription", works: "44,219 (excl. SSRN)" },
-  { name: "Springer Nature", category: "Commercial Hybrid/Subscription", works: "55,000" },
-  { name: "Wiley", category: "Commercial Hybrid/Subscription", works: "55,000" },
-  { name: "Taylor & Francis", category: "Commercial Hybrid/Subscription", works: "55,000" },
-  { name: "SAGE", category: "Commercial Hybrid/Subscription", works: "55,000" },
-  { name: "MDPI", category: "Commercial OA", works: "55,000" },
-  { name: "Frontiers", category: "Commercial OA", works: "55,000" },
-  { name: "PLOS", category: "Commercial OA", works: "55,000" },
-  { name: "Hindawi", category: "Commercial OA", works: "15,325" },
-  { name: "SciELO / FapUNIFESP", category: "Regional / Latin America", works: "55,000" },
-  { name: "Redalyc / UAEM", category: "Regional / Latin America", works: "540 (all)" },
-  { name: "UNAM", category: "Regional / Latin America", works: "268 (all)" },
-  { name: "Universidad de Chile", category: "Regional / Latin America", works: "250 (all)" },
-  { name: "Pontificia U. Católica de Chile", category: "Regional / Latin America", works: "368 (all)" },
-];
-
 export default function AboutPage() {
+  const { data } = useGapData();
+  const publishers = data ? data.publishers : [];
   return (
     <div className="max-w-3xl space-y-8 fade-in">
       <div>
@@ -148,15 +134,16 @@ export default function AboutPage() {
             <strong style={{ color: "var(--color-text)" }}>
               Data collection:
             </strong>
-            {" "}For each publisher and year (2015-2025), we fetch up to
+            {" "}For each publisher and year (2015-2025), the page reads up to
             <strong style={{ color: "var(--color-accent)" }}>
-              {" "}5,000 journal articles per publisher per year
+              {" "}8,000 journal articles per publisher and year
             </strong>
             {" "}from Crossref using cursor-based pagination, filtered to
             <code>type:journal-article</code> to exclude preprints, book
             chapters, and other content types that have structurally different
-            metadata. For publishers with fewer than 5,000 articles in a given
-            year, all works are collected (100% coverage).
+            metadata. Seven publishers have 8,000 articles in every year. The
+            other seven have fewer in some or all years; the table below gives
+            the articles read for each publisher.
           </p>
           <p>
             <strong style={{ color: "var(--color-text)" }}>Why only journal articles?</strong>
@@ -172,8 +159,9 @@ export default function AboutPage() {
             <strong style={{ color: "var(--color-text)" }}>Matching:</strong>
             {" "}The same DOIs are then queried in OpenAlex using batch DOI
             filters (50 DOIs per request), enabling a direct field-by-field
-            comparison of the same works across both sources. Match rates
-            consistently exceed 99%.
+            comparison of the same works across both sources. OpenAlex returned a
+            record for 833,448 of the 835,664 articles, and for more than 99% of
+            the articles of each publisher.
           </p>
           <p>
             <strong style={{ color: "var(--color-text)" }}>Evaluation:</strong>
@@ -235,9 +223,8 @@ export default function AboutPage() {
             affiliations, ORCID, funding, references) or{" "}
             <strong style={{ color: "var(--color-enrichment)" }}>automatic</strong> (generated
             by the publishing system without effort, e.g., title, DOI,
-            publisher, ISSN, volume, page). The dashboard defaults to showing
-            voluntary fields only, revealing the true level of publisher
-            effort. Toggle "Voluntary only" to see all comparable fields.
+            publisher, ISSN, volume, page). The heatmap and the timeline open on the
+            voluntary fields only. Toggle "Voluntary only" to see all compared fields.
           </p>
           <p>
             <strong style={{ color: "var(--color-text)" }}>
@@ -261,8 +248,8 @@ export default function AboutPage() {
       >
         <h3 className="text-lg font-semibold mb-3">Publishers Analyzed</h3>
         <p className="text-xs mb-3" style={{ color: "var(--color-text-muted)" }}>
-          For large publishers, up to 5,000 works per year are sampled. For
-          small publishers (marked "all"), every work is included.
+          Journal articles of 2015 to 2025 read from Crossref in March 2026,
+          up to 8,000 per publisher and year.
         </p>
         <div className="overflow-x-auto">
           <table className="w-full text-sm">
@@ -270,15 +257,15 @@ export default function AboutPage() {
               <tr style={{ borderBottom: "1px solid var(--color-border)" }}>
                 <th className="text-left py-1.5 px-2" style={{ color: "var(--color-text-muted)" }}>Publisher</th>
                 <th className="text-left py-1.5 px-2" style={{ color: "var(--color-text-muted)" }}>Category</th>
-                <th className="text-right py-1.5 px-2" style={{ color: "var(--color-text-muted)" }}>Works</th>
+                <th className="text-right py-1.5 px-2" style={{ color: "var(--color-text-muted)" }}>Articles read</th>
               </tr>
             </thead>
             <tbody>
-              {PUBLISHER_LIST.map((p) => (
-                <tr key={p.name} style={{ borderBottom: "1px solid var(--color-border)" }}>
-                  <td className="py-1.5 px-2">{p.name}</td>
-                  <td className="py-1.5 px-2" style={{ color: "var(--color-text-muted)" }}>{p.category}</td>
-                  <td className="py-1.5 px-2 text-right font-mono" style={{ color: "var(--color-text-muted)" }}>{p.works}</td>
+              {publishers.map((p) => (
+                <tr key={p.id} style={{ borderBottom: "1px solid var(--color-border)" }}>
+                  <td className="py-1.5 px-2">{p.label}</td>
+                  <td className="py-1.5 px-2" style={{ color: "var(--color-text-muted)" }}>{p.categoryLabel}</td>
+                  <td className="py-1.5 px-2 text-right font-mono" style={{ color: "var(--color-text-muted)" }}>{p.totalWorksSampled.toLocaleString("en-US")}</td>
                 </tr>
               ))}
             </tbody>

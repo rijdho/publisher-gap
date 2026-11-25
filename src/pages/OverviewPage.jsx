@@ -151,9 +151,9 @@ export default function OverviewPage() {
           external sources (ORCID, PubMed, Unpaywall), not from publishers improving their deposits.
           {globalSummary.avgVoluntaryCrossref != null && (
             <span style={{ color: "var(--color-voluntary)" }}>
-              {" "}Voluntary fields, the true measure of publisher effort, show the starkest gap:{" "}
-              {(globalSummary.avgVoluntaryCrossref * 100).toFixed(0)}% deposited vs{" "}
-              {(globalSummary.avgVoluntaryOpenAlex * 100).toFixed(0)}% available.
+              {" "}Over the {globalSummary.voluntaryFields} voluntary fields (those a publisher has to collect and deposit, as this page classifies them):{" "}
+              {(globalSummary.avgVoluntaryCrossref * 100).toFixed(0)}% in the Crossref records and{" "}
+              {(globalSummary.avgVoluntaryOpenAlex * 100).toFixed(0)}% in the OpenAlex records.
             </span>
           )}
         </p>
