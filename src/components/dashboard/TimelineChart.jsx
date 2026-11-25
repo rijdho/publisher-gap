@@ -79,6 +79,8 @@ export default function TimelineChart({
   const [showSource, setShowSource] = useState("both");
   const [fieldsMode, setFieldsMode] = useState("voluntary"); // all | voluntary
   const [selectedPubs, setSelectedPubs] = useState(() => new Set());
+  // under 640px the labels of the events overlap whatever their rows: the lines stay, the names are on About
+  const narrow = typeof window !== "undefined" && window.innerWidth < 640;
 
   const years = Object.keys(timeline).map(Number).sort();
   const chartData = years.map((year) => {
@@ -201,7 +203,7 @@ export default function TimelineChart({
       </div>
 
       <ResponsiveContainer width="100%" height={400}>
-        <LineChart data={chartData}>
+        <LineChart data={chartData} margin={{ top: narrow ? 8 : 34, right: narrow ? 8 : 28, bottom: 5, left: 0 }}>
           <CartesianGrid strokeDasharray="2 4" stroke="var(--color-border)" strokeOpacity={0.5} />
           <XAxis
             dataKey="year"
@@ -227,19 +229,25 @@ export default function TimelineChart({
           )}
 
           {/* Mandate reference lines */}
-          {mandates.map((m) => (
+          {mandates.map((m, i) => (
             <ReferenceLine
               key={m.year}
               x={m.year}
               stroke="var(--color-text-muted)"
               strokeDasharray="4 4"
               strokeWidth={1}
-              label={{
-                value: m.label.slice(0, 25),
-                position: "top",
-                fill: "var(--color-text-muted)",
-                fontSize: 9,
-              }}
+              label={narrow ? undefined : ({ viewBox }) => (
+                // two rows, alternating, so that the labels of neighbouring years do not overlap
+                <text
+                  x={viewBox.x}
+                  y={viewBox.y - 6 - (i % 2) * 13}
+                  textAnchor="middle"
+                  fill="var(--color-text-muted)"
+                  fontSize={10}
+                >
+                  {m.label}
+                </text>
+              )}
             />
           ))}
 
@@ -296,6 +304,10 @@ export default function TimelineChart({
             ))}
         </LineChart>
       </ResponsiveContainer>
+      <p className="text-xs mt-1" style={{ color: "var(--color-text-muted)" }}>
+        Share of the fields present in a publisher's records, mean of the publishers, by year of publication.
+        Dashed vertical lines: the events of the timeline on the About page, in the year of each.
+      </p>
 
       {/* Publisher toggle chips */}
       <div className="flex flex-wrap gap-2 mt-4 items-center">
