@@ -32,6 +32,7 @@ const CATEGORY_FIELDS = {
 export default function AboutPage() {
   const { data } = useGapData();
   const publishers = data ? data.publishers : [];
+  const mandates = data ? data.mandates : [];
   return (
     <div className="max-w-3xl space-y-8 fade-in">
       <div>
@@ -40,12 +41,12 @@ export default function AboutPage() {
           className="text-sm leading-relaxed"
           style={{ color: "var(--color-text-muted)" }}
         >
-          Publisher Gap measures what scholarly publishers actually deposit in
-          Crossref (the primary metadata source) and compares it with what
-          OpenAlex (an open aggregator) manages to enrich from other sources.
-          The goal is to provide evidence-based answers to a simple question:
+          Publisher Gap counts which metadata fields the Crossref records of
+          journal articles hold, publisher by publisher and year by year, and
+          sets them beside the OpenAlex records of the same articles. The
+          question behind it:
           <strong style={{ color: "var(--color-text)" }}>
-            {" "}do publishers genuinely care about metadata quality?
+            {" "}how much of the metadata of an article does its publisher deposit?
           </strong>
         </p>
       </div>
@@ -66,7 +67,9 @@ export default function AboutPage() {
             filtered to <code>type:journal-article</code> to ensure fair
             comparison, the mean score of the publishers over the 26 compared
             fields is 59.6% for Crossref and 77.7% for OpenAlex. By publisher,
-            the difference runs from 8.1 to 30.6 percentage points.
+            the difference runs from 8.1 to 30.6 percentage points. Over the 10
+            voluntary fields alone, those a publisher has to collect and deposit,
+            the mean score is 30.7% for Crossref and 56.5% for OpenAlex.
           </p>
           <p>
             The largest differences are in Affiliation IDs (ROR), Author
@@ -74,9 +77,10 @@ export default function AboutPage() {
             record has a value far more often than the Crossref record.
           </p>
           <p>
-            Evaluation-relevant fields (CRediT roles, data availability
-            statements, structured abstracts) remain near zero in both sources,
-            because no mandate has ever required them.
+            Two fields relevant to research assessment, CRediT roles and data
+            availability statements, were found in none of the 8,026 Crossref
+            records of a sample read in March 2026. They are not among the
+            compared fields, because OpenAlex has no field for them.
           </p>
         </div>
       </div>
@@ -94,15 +98,15 @@ export default function AboutPage() {
           className="text-sm leading-relaxed"
           style={{ color: "var(--color-text-muted)" }}
         >
-          There is a widespread narrative that publishers are improving their
-          metadata deposits. Our analysis over a decade (2015-2025) suggests
-          that improvements are almost entirely driven by
-          <strong style={{ color: "var(--color-text)" }}> mandates</strong>
-          {" "}(ORCID requirements, Plan S, Crossref Participation Reports),
-          not by genuine commitment to metadata quality. Fields that have never
-          been mandated, particularly those relevant to research evaluation
-          (CRediT roles, data availability, complete funding info), remain
-          near zero.
+          A common account is that publishers are improving the metadata they
+          deposit. The reading behind this page is that the improvements follow
+          <strong style={{ color: "var(--color-text)" }}> requirements</strong>
+          {" "}placed on publishers (the ORCID open letter, Plan S, the
+          Participation Reports of Crossref) more than they come from the
+          publishers themselves. This is the author's reading: the page shows
+          the share of records with each field by year, and the timeline below
+          gives the dates of those requirements, but the page does not test
+          what caused a change.
         </p>
         <p
           className="text-sm leading-relaxed mt-2"
@@ -110,10 +114,10 @@ export default function AboutPage() {
         >
           This matters for initiatives like
           <strong style={{ color: "var(--color-text)" }}> CoARA</strong>
-          {" "}(Coalition for Advancing Research Assessment): if we want to
-          evaluate research contributions beyond publications, we need metadata
-          that describes those contributions. Publishers hold the keys, but
-          they are not opening the door.
+          {" "}(Coalition for Advancing Research Assessment): assessing
+          contributions beyond publications needs metadata that describes those
+          contributions, and for a journal article that metadata is deposited
+          by its publisher.
         </p>
       </div>
 
@@ -147,13 +151,13 @@ export default function AboutPage() {
           </p>
           <p>
             <strong style={{ color: "var(--color-text)" }}>Why only journal articles?</strong>
-            {" "}Publishers like Elsevier register DOIs for SSRN preprints (60%
-            of their Crossref records), and Springer Nature / Taylor &amp;
-            Francis have large volumes of book chapters (58-76% of records).
-            These content types have structurally sparser metadata and would
-            unfairly skew comparisons. Filtering to{" "}
-            <code>type:journal-article</code> ensures we compare like with
-            like.
+            {" "}Publishers also register records of other types. On 25
+            November 2026, 5% of the Crossref records of Elsevier, which
+            registers the DOIs of SSRN, were posted content, and 37% of those
+            of Springer Nature and 32% of those of Taylor &amp; Francis were
+            book chapters. These types are described with other fields, so the
+            page reads only records of{" "}
+            <code>type:journal-article</code>.
           </p>
           <p>
             <strong style={{ color: "var(--color-text)" }}>Matching:</strong>
@@ -231,9 +235,7 @@ export default function AboutPage() {
               Temporal analysis:
             </strong>
             {" "}All metrics are computed per year, enabling trend analysis
-            across the full decade. This reveals whether improvements in
-            metadata quality are organic or driven by specific mandates and
-            policy interventions.
+            across the eleven years.
           </p>
         </div>
       </div>
@@ -345,59 +347,14 @@ export default function AboutPage() {
           border: "1px solid var(--color-border)",
         }}
       >
-        <h3 className="text-lg font-semibold mb-3">Mandate Timeline</h3>
+        <h3 className="text-lg font-semibold mb-3">Timeline of Policies and Infrastructure</h3>
         <p className="text-xs mb-3" style={{ color: "var(--color-text-muted)" }}>
-          Key policy interventions that drove metadata improvements. Vertical
-          lines in the timeline charts mark these events.
+          Events that bear on the compared fields, each with the page its date
+          was read on (25 November 2026). Vertical lines in the timeline charts
+          mark these years. The page does not test whether an event caused a change.
         </p>
         <div className="space-y-3">
-          {[
-            {
-              year: 2016,
-              text: "ORCID mandate begins at major publishers",
-              detail: "Elsevier, Springer Nature, Wiley require ORCID for corresponding authors",
-            },
-            {
-              year: 2017,
-              text: "Crossref Funder Registry integration push",
-              detail: "Encourages use of Open Funder Registry IDs alongside funder names",
-            },
-            {
-              year: 2018,
-              text: "Plan S announced by cOAlition S",
-              detail: "Requires immediate open access with CC licenses",
-            },
-            {
-              year: 2019,
-              text: "Initiative for Open Citations (I4OC) gains momentum",
-              detail: "Major publishers commit to open reference deposits",
-            },
-            {
-              year: 2020,
-              text: "ROR launches, pushing machine-readable affiliations",
-              detail: "Research Organization Registry provides persistent IDs for institutions",
-            },
-            {
-              year: 2021,
-              text: "Plan S enforcement begins",
-              detail: "Journals must provide CC-BY licenses and full-text access",
-            },
-            {
-              year: 2022,
-              text: "CoARA agreement signed by 600+ organizations",
-              detail: "Calls for richer contributor metadata and responsible assessment",
-            },
-            {
-              year: 2023,
-              text: "Crossref launches Participation Reports",
-              detail: "Pushes members to improve abstract, reference, and funder deposits",
-            },
-            {
-              year: 2024,
-              text: "CRediT in JATS 1.4, CoARA reform accelerates",
-              detail: "CRediT taxonomy formally part of JATS standard, but adoption remains minimal",
-            },
-          ].map((m) => (
+          {mandates.map((m) => (
             <div key={m.year} className="flex gap-3 items-start">
               <span
                 className="text-sm font-mono font-bold flex-shrink-0 mt-0.5"
@@ -406,9 +363,10 @@ export default function AboutPage() {
                 {m.year}
               </span>
               <div>
-                <div className="text-sm font-medium">{m.text}</div>
+                <div className="text-sm font-medium">{m.label}</div>
                 <div className="text-xs" style={{ color: "var(--color-text-muted)" }}>
-                  {m.detail}
+                  {m.description}{" "}
+                  <a href={m.source} target="_blank" rel="noopener noreferrer" style={{ color: "var(--color-accent)" }}>Source</a>
                 </div>
               </div>
             </div>
@@ -431,25 +389,26 @@ export default function AboutPage() {
         >
           <p>
             <strong style={{ color: "var(--color-crossref)" }}>Crossref</strong>
-            {" "}is the primary scholarly metadata registry. Publishers
-            deposit metadata when registering DOIs. What appears in Crossref is
-            exactly what the publisher chose to provide. Crossref does not
-            enrich or add metadata: it is a deposit-only system. When a
-            field is empty, the publisher simply did not include it.
+            {" "}is the registry where publishers deposit metadata when they
+            register a DOI. Most of a Crossref record is what the publisher
+            deposited. Crossref adds some values itself: the count of citing
+            works, DOIs it matches in reference lists and, in its own words,
+            identifiers "where they are missing in the original deposit".
           </p>
           <p>
             <strong style={{ color: "var(--color-openalex)" }}>OpenAlex</strong>
-            {" "}is an open catalog of 250M+ scholarly works that enriches
-            metadata by harvesting from multiple sources: ORCID (author
-            identifiers and ORCIDs), ROR (institutional affiliations with
-            persistent IDs), Unpaywall (open access locations and licenses
-            across multiple repositories), PubMed (abstracts as inverted
-            indices, MeSH terms), and automated topic/concept classification.
-            OpenAlex stores licenses, PDFs, and version information across
-            multiple <code>locations[]</code> (journals, repositories,
-            preprint servers), not just the primary location. The gap between
-            Crossref and OpenAlex reveals what third parties must reconstruct
-            because publishers did not deposit it in the first place.
+            {" "}is an open catalogue of scholarly works, over 320 million by
+            its documentation in November 2026. It builds its records from
+            several sources, Crossref among them, and adds to them: every
+            institution is mapped to a ROR record, topics are assigned by a
+            machine-learning model, MeSH terms are present for works that come
+            from PubMed, and open access locations come from Unpaywall, which
+            the same team runs on the same database. OpenAlex stores licences,
+            PDFs and version information across multiple <code>locations[]</code>
+            {" "}(journals, repositories, preprint servers), not just the primary
+            location. So a value that is in the OpenAlex record and not in the
+            Crossref record may come from another source or from OpenAlex
+            itself; the page does not tell which.
           </p>
         </div>
       </div>
@@ -476,10 +435,9 @@ export default function AboutPage() {
             {" "}Full records without <code>select</code> parameter, so all
             fields are returned including <code>language</code>,{" "}
             <code>clinical-trial-number</code>, and nested sub-fields like
-            author affiliation ROR IDs. When a field is absent from the JSON,
-            it means the publisher did not deposit it: Crossref does not
-            return <code>null</code> or empty strings for missing fields, it
-            simply omits them.
+            author affiliation ROR IDs. A field can be absent from the JSON or
+            present and empty (an author with <code>"affiliation": []</code>,
+            for example); the checks count both as not present.
           </p>
           <p>
             <strong style={{ color: "var(--color-openalex)" }}>

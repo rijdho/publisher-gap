@@ -63,6 +63,12 @@ export default function OverviewPage() {
         activePubs.reduce((s, p) => s + p.openalex, 0) / activePubs.length,
       avgGap:
         activePubs.reduce((s, p) => s + (p.openalex - p.crossref), 0) / activePubs.length,
+      comparableFields: data.globalSummary.comparableFields,
+      voluntaryFields: data.globalSummary.voluntaryFields,
+      avgVoluntaryCrossref:
+        activePubs.reduce((s, p) => s + p.voluntaryCr, 0) / activePubs.length,
+      avgVoluntaryOpenAlex:
+        activePubs.reduce((s, p) => s + p.voluntaryOa, 0) / activePubs.length,
     };
   }, [data, currentYear, isAll]);
 
@@ -121,8 +127,8 @@ export default function OverviewPage() {
           Do Publishers Care About Metadata?
         </h2>
         <p className="text-sm" style={{ color: "var(--color-text-muted)" }}>
-          Comparing what publishers deposit in Crossref vs what OpenAlex
-          enriches. {globalSummary.totalWorks.toLocaleString()} works from{" "}
+          What the Crossref records of journal articles hold, compared with the
+          OpenAlex records of the same articles. {globalSummary.totalWorks.toLocaleString()} articles from{" "}
           {globalSummary.totalPublishers} publishers (2015-2025).
         </p>
       </div>
@@ -139,23 +145,21 @@ export default function OverviewPage() {
           Key Finding
         </div>
         <p className="text-sm leading-relaxed" style={{ color: "var(--color-text)" }}>
-          Publishers deposit only{" "}
+          Of the {globalSummary.voluntaryFields} fields a publisher has to collect and deposit
+          (abstract, author affiliations and their ROR IDs, ORCID iDs, funding, references
+          and an open licence), the Crossref records hold{" "}
           <strong style={{ color: "var(--color-crossref)" }}>
-            {(globalSummary.avgCrossrefScore * 100).toFixed(0)}%
+            {(globalSummary.avgVoluntaryCrossref * 100).toFixed(0)}%
           </strong>{" "}
-          of comparable metadata fields in Crossref. OpenAlex enriches this to{" "}
+          on average, and the OpenAlex records of the same articles{" "}
           <strong style={{ color: "var(--color-openalex)" }}>
-            {(globalSummary.avgOpenAlexScore * 100).toFixed(0)}%
-          </strong>{" "}
-          (+{(globalSummary.avgGap * 100).toFixed(0)}pp), but much of this comes from
-          external sources (ORCID, PubMed, Unpaywall), not from publishers improving their deposits.
-          {globalSummary.avgVoluntaryCrossref != null && (
-            <span style={{ color: "var(--color-voluntary)" }}>
-              {" "}Over the {globalSummary.voluntaryFields} voluntary fields (those a publisher has to collect and deposit, as this page classifies them):{" "}
-              {(globalSummary.avgVoluntaryCrossref * 100).toFixed(0)}% in the Crossref records and{" "}
-              {(globalSummary.avgVoluntaryOpenAlex * 100).toFixed(0)}% in the OpenAlex records.
-            </span>
-          )}
+            {(globalSummary.avgVoluntaryOpenAlex * 100).toFixed(0)}%
+          </strong>
+          . Over all {globalSummary.comparableFields} compared fields, which include those
+          nearly every record has (DOI, title, publication date), the figures are{" "}
+          {(globalSummary.avgCrossrefScore * 100).toFixed(0)}% and{" "}
+          {(globalSummary.avgOpenAlexScore * 100).toFixed(0)}%. Each figure is the mean of the{" "}
+          {globalSummary.totalPublishers} publishers, every publisher counting the same.
         </p>
       </div>
 

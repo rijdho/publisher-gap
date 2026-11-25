@@ -1,9 +1,9 @@
 export default function StatsCards({ globalSummary, year }) {
   const cards = [
     {
-      label: "Works Analyzed",
+      label: "Articles",
       value: globalSummary.totalWorks.toLocaleString(),
-      description: year ? `Works analyzed in ${year}` : "Total works analyzed",
+      description: year ? `Journal articles read, ${year}` : "Journal articles read",
     },
     {
       label: "Publishers",
@@ -11,15 +11,15 @@ export default function StatsCards({ globalSummary, year }) {
       description: "Commercial hybrid, OA, and regional",
     },
     {
-      label: "Crossref Score",
-      value: `${(globalSummary.avgCrossrefScore * 100).toFixed(1)}%`,
-      description: "What publishers deposit (comparable fields)",
+      label: "Crossref: voluntary fields",
+      value: `${(globalSummary.avgVoluntaryCrossref * 100).toFixed(1)}%`,
+      description: `Mean share of the ${globalSummary.voluntaryFields} voluntary fields present in a publisher's Crossref records. All ${globalSummary.comparableFields} compared fields: ${(globalSummary.avgCrossrefScore * 100).toFixed(1)}%`,
       color: "var(--color-crossref)",
     },
     {
-      label: "OpenAlex Gap",
-      value: `+${(globalSummary.avgGap * 100).toFixed(1)}pp`,
-      description: "What OpenAlex adds on top",
+      label: "OpenAlex: voluntary fields",
+      value: `${(globalSummary.avgVoluntaryOpenAlex * 100).toFixed(1)}%`,
+      description: `The same share in the OpenAlex records of the same articles. All ${globalSummary.comparableFields} compared fields: ${(globalSummary.avgOpenAlexScore * 100).toFixed(1)}%`,
       color: "var(--color-openalex)",
     },
   ];

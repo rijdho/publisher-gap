@@ -1,8 +1,9 @@
 [
   {
     "year": 2016,
-    "label": "ORCID mandate begins (major publishers)",
-    "description": "Elsevier, Springer Nature, Wiley, and others begin requiring ORCID for corresponding authors.",
+    "label": "ORCID open letter",
+    "description": "From 1 January 2016 the first eight signatories of the publishers' open letter, among them PLOS, eLife and Hindawi, require ORCID iDs for corresponding authors. Wiley signed in November 2016 and Springer Nature in March 2017.",
+    "source": "https://info.orcid.org/requiring-orcid-in-publications/",
     "affectedFields": [
       "author_orcid",
       "all_authors_orcid"
@@ -10,81 +11,60 @@
   },
   {
     "year": 2017,
-    "label": "Crossref Funder Registry integration",
-    "description": "Crossref promotes use of Open Funder Registry IDs alongside funder names in deposits.",
+    "label": "I4OC launched",
+    "description": "The Initiative for Open Citations is launched on 6 April 2017, asking publishers to open the reference lists they deposit in Crossref.",
+    "source": "https://i4oc.org/press.html",
     "affectedFields": [
-      "funder_name",
-      "funder_doi",
-      "award_number"
+      "references"
     ]
   },
   {
     "year": 2018,
     "label": "Plan S announced",
-    "description": "cOAlition S announces Plan S requiring immediate open access with CC licenses.",
+    "description": "cOAlition S announces Plan S on 4 September 2018: publications under an open licence, preferably CC BY. On 1 August 2018 Crossref releases its Participation Reports in beta.",
+    "source": "https://www.coalition-s.org/about/",
     "affectedFields": [
       "license",
       "open_access_license",
-      "license_url"
+      "abstract",
+      "references",
+      "funder_name"
     ]
   },
   {
     "year": 2019,
-    "label": "I4OC / Initiative for Open Citations",
-    "description": "Major publishers join I4OC, committing to open reference deposits in Crossref.",
+    "label": "ROR registry launched",
+    "description": "The first version of the Research Organization Registry is launched in January 2019.",
+    "source": "https://ror.readme.io/docs/basics",
     "affectedFields": [
-      "references",
-      "references_count"
-    ]
-  },
-  {
-    "year": 2020,
-    "label": "ROR launch & adoption push",
-    "description": "Research Organization Registry (ROR) launches, pushing for machine-readable affiliations.",
-    "affectedFields": [
-      "affiliation_ror",
+      "affiliation_ids_ror",
       "author_affiliation"
     ]
   },
   {
     "year": 2021,
-    "label": "Plan S enforcement begins",
-    "description": "Plan S compliance requirements enforced. Journals must provide CC-BY licenses and full-text links.",
+    "label": "Plan S takes effect",
+    "description": "Plan S applies to publications from grants of cOAlition S members under calls published as of 1 January 2021.",
+    "source": "https://www.coalition-s.org/guidance-on-the-implementation-of-plan-s/",
     "affectedFields": [
       "license",
-      "open_access_license",
-      "full_text_links",
-      "resource_url"
+      "open_access_license"
     ]
   },
   {
     "year": 2022,
-    "label": "CoARA agreement signed",
-    "description": "Coalition for Advancing Research Assessment signed by 600+ organizations, calling for richer contributor metadata.",
+    "label": "References open; CoARA",
+    "description": "From 3 June 2022 no member of Crossref can limit the distribution of its references. The Coalition for Advancing Research Assessment is constituted on 1 December 2022.",
+    "source": "https://i4oc.org/",
     "affectedFields": [
-      "credit_roles",
-      "data_availability"
-    ]
-  },
-  {
-    "year": 2023,
-    "label": "Crossref metadata quality initiative",
-    "description": "Crossref launches Participation Reports, pushing members to improve abstract, reference, and funder deposits.",
-    "affectedFields": [
-      "abstract",
-      "references",
-      "funder_name",
-      "funder_doi"
+      "references"
     ]
   },
   {
     "year": 2024,
-    "label": "CRediT in JATS 1.4 & DORA/CoARA acceleration",
-    "description": "CRediT taxonomy formally part of JATS 1.4. CoARA reform actions accelerate, but adoption remains minimal.",
-    "affectedFields": [
-      "credit_roles",
-      "data_availability",
-      "author_given_family"
-    ]
+    "label": "JATS 1.4 published",
+    "description": "JATS 1.4 (ANSI/NISO Z39.96-2024) is published on 31 October 2024. CRediT roles can be tagged in JATS since version 1.2.",
+    "source": "https://www.niso.org/publications/z3996-2024-jats",
+    "affectedFields": []
   }
 ]

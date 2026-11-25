@@ -163,7 +163,7 @@ export default function GapAnalysisPage() {
       <div>
         <h2 className="text-2xl font-bold mb-1">Gap Analysis Over Time</h2>
         <p className="text-sm" style={{ color: "var(--color-text-muted)" }}>
-          How does the gap between what publishers deposit in Crossref and what OpenAlex enriches evolve year by year?
+          The difference between the Crossref records and the OpenAlex records of the same articles, year by year.
         </p>
       </div>
 
@@ -299,11 +299,10 @@ export default function GapAnalysisPage() {
           </button>
         </div>
         <p className="text-xs mb-3" style={{ color: "var(--color-text-muted)" }}>
-          Per-field difference: OpenAlex minus Crossref. Green = OpenAlex adds data publishers didn't deposit.
-          Red = Crossref has data OpenAlex doesn't carry. Center line = no gap.
-          Fields marked <span style={{ color: "var(--color-voluntary)" }}>&#9679;</span> require publisher effort (voluntary);
-          fields marked <span style={{ color: "var(--color-automatic-indicator)" }}>&#9679;</span> are system-generated (automatic).
-          Fields marked <span style={{ color: "var(--color-enrichment)" }}>*</span> are typically enriched by OpenAlex from external sources.
+          Per-field difference: OpenAlex minus Crossref. Green = more OpenAlex records have the field.
+          Red = more Crossref records have it. Center line = no difference.
+          Fields marked <span style={{ color: "var(--color-voluntary)" }}>&#9679;</span> are those this page classifies as voluntary (a publisher has to collect and deposit them);
+          fields marked <span style={{ color: "var(--color-automatic-indicator)" }}>&#9679;</span> as automatic (the publishing system produces them).
         </p>
         <YearSlider years={years} defaultAll={true} onYearChange={setSelectedYear} />
 
@@ -388,12 +387,12 @@ export default function GapAnalysisPage() {
           className="rounded-lg p-4 fade-in"
           style={{ background: "var(--color-surface)", border: "1px solid var(--color-border)" }}
         >
-          <h3 className="text-lg font-semibold">Where OpenAlex Fills the Gap</h3>
+          <h3 className="text-lg font-semibold">Fields the OpenAlex Records Have More Often</h3>
           <p className="text-xs mb-1" style={{ color: "var(--color-text-muted)" }}>
-            Green badges: fields where OpenAlex enriches &gt;5pp beyond Crossref. Red badges: fields where neither source provides data.
+            Green badges: fields that the OpenAlex records have more often than the Crossref records, by more than 5 percentage points. Red badges: fields that fewer than 10% of the OpenAlex records have, with a difference of at most 2 points.
           </p>
           <p className="text-xs mb-4" style={{ color: "var(--color-text-muted)", fontStyle: "italic" }}>
-            Hover badges to see how OpenAlex enriches each field (external source, not publisher deposit).
+            The page does not tell where OpenAlex took a value from.
           </p>
           <div className="space-y-3">
             {CATEGORY_ORDER.map((catId) => {
@@ -417,7 +416,7 @@ export default function GapAnalysisPage() {
                           key={f.id}
                           className="text-xs px-2 py-0.5 rounded-full cursor-help"
                           style={{ background: "color-mix(in srgb, var(--color-gap-positive) 15%, transparent)", color: "var(--color-gap-positive)" }}
-                          title={ENRICHMENT_NOTES[f.id] || "OpenAlex enrichment source unknown"}
+                          title={ENRICHMENT_NOTES[f.id] || undefined}
                         >
                           {f.label} +{(f.gap * 100).toFixed(0)}pp
                         </span>

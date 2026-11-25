@@ -116,7 +116,7 @@ export default function PublisherDetailPage() {
           <div className="text-xl font-bold" style={{ color: gap > 0 ? "var(--color-gap-positive)" : "var(--color-gap-negative)" }}>
             {gap > 0 ? "+" : ""}{(gap * 100).toFixed(1)}pp
           </div>
-          <div style={{ color: "var(--color-text-muted)", fontSize: 10 }}>OpenAlex enrichment</div>
+          <div style={{ color: "var(--color-text-muted)", fontSize: 10 }}>OpenAlex less Crossref</div>
         </div>
       </div>
 
