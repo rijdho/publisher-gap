@@ -8,10 +8,10 @@
   "totalWorksMatched": 87908,
   "totalWorksUniverse": 88000,
   "crossref": {
-    "overall": 0.6290175837924702,
+    "overall": 0.6290154143709825,
     "categories": {
-      "findable_essential": 0.8156818181818183,
-      "findable_support": 0.644460743801653,
+      "findable_essential": 0.8156761363636363,
+      "findable_support": 0.6444576446280993,
       "accessible_essential": 0.8023775252525253,
       "accessible_support": 0.5523295454545455,
       "evaluation_coara": 0.15908295454545457
@@ -26,7 +26,7 @@
       "publisher": 1,
       "resource_type": 1,
       "subject_keywords": 0,
-      "funder_name": 0.3781590909090909,
+      "funder_name": 0.3780909090909091,
       "container_title": 1,
       "language": 0.9972954545454545,
       "author_orcid": 0.5481477272727273,
@@ -34,9 +34,9 @@
       "funder_doi": 0.3387727272727273,
       "award_number": 0.2979431818181818,
       "issn": 1,
-      "volume": 0.9904090909090909,
-      "issue": 0.9399772727272727,
-      "page": 0.6770681818181818,
+      "volume": 0.9903977272727272,
+      "issue": 0.939965909090909,
+      "page": 0.6770568181818182,
       "published_print_date": 0.9865795454545454,
       "published_online_date": 0.9475340909090909,
       "article_number": 0.26339772727272726,
@@ -68,10 +68,10 @@
     }
   },
   "openalex": {
-    "overall": 0.6084098590445567,
+    "overall": 0.6084090834403093,
     "categories": {
       "findable_essential": 0.9132796029182023,
-      "findable_support": 0.6899940847249396,
+      "findable_support": 0.689988914029957,
       "accessible_essential": 0.5126862426880627,
       "accessible_support": 0.4501675994600416,
       "evaluation_coara": 0.2886927242116758
@@ -94,9 +94,9 @@
       "funder_doi": 0.3971197160667971,
       "award_number": 0.29617327205715066,
       "issn": 1,
-      "volume": 0.991525230923238,
-      "issue": 0.9409837557446421,
-      "page": 0.8001092050780362,
+      "volume": 0.9915138553942758,
+      "issue": 0.9409723802156801,
+      "page": 0.8000750784911499,
       "published_print_date": 1,
       "published_online_date": 1,
       "article_number": 0,
@@ -127,79 +127,79 @@
       "open_access_status": 0.5116485416571871
     }
   },
-  "gap": -0.020607724747913503,
+  "gap": -0.02060633093067321,
   "comparable": {
     "crossref": {
       "categories": {
-        "findable_essential": 0.8156818181818183,
-        "findable_support": 0.6825670454545455,
-        "accessible_essential": 0.8085028409090909,
-        "accessible_support": 0.30145075757575757,
-        "evaluation_coara": 0.28207727272727273
+        "findable_essential": 0.8898285123966942,
+        "findable_support": 0.6503928571428571,
+        "accessible_essential": 0.757872159090909,
+        "accessible_support": 0.000011363636363636363,
+        "evaluation_coara": 0.4681325757575758
       },
-      "overall": 0.6357758428030302
+      "overall": 0.6476031735783156
     },
     "openalex": {
       "categories": {
-        "findable_essential": 0.9132796029182023,
-        "findable_support": 0.7589934931974336,
-        "accessible_essential": 0.5767720230240706,
-        "accessible_support": 0.9003351989200832,
-        "evaluation_coara": 0.5773854484233516
+        "findable_essential": 0.9054124766801657,
+        "findable_support": 0.7418226197518185,
+        "accessible_essential": 0.5940130591072486,
+        "accessible_support": 0.8370796742048505,
+        "evaluation_coara": 0.567335547769638
       },
-      "overall": 0.737536520187772
+      "overall": 0.7285754777180472
     },
-    "gap": 0.10176067738474182,
-    "fieldCount": 38,
+    "gap": 0.08097230413973155,
+    "fieldCount": 26,
     "totalFieldCount": 48
   },
   "voluntary": {
     "crossref": {
       "categories": {
-        "findable_essential": 0.47725284090909087,
-        "findable_support": 0.32102556818181816,
-        "accessible_essential": 0.6062840909090909,
-        "accessible_support": 0.011715909090909091,
-        "evaluation_coara": 0.09270075757575758
+        "findable_essential": 0.6363143939393939,
+        "findable_support": 0.3151098484848485,
+        "accessible_essential": 0.5199886363636363,
+        "accessible_support": 0.000011363636363636363,
+        "evaluation_coara": 0.2721136363636364
       },
-      "overall": 0.3626124526515151
+      "overall": 0.42258181818181817
     },
     "openalex": {
       "categories": {
-        "findable_essential": 0.7698446102743777,
-        "findable_support": 0.4643291850571051,
-        "accessible_essential": 0.6177973942454991,
-        "accessible_support": 0.9027961050188833,
-        "evaluation_coara": 0.4936979569549984
+        "findable_essential": 0.6931868165203015,
+        "findable_support": 0.4867323413872078,
+        "accessible_essential": 0.5361229922191382,
+        "accessible_support": 0.8370796742048505,
+        "evaluation_coara": 0.29617327205715066
       },
-      "overall": 0.644071311295142
+      "overall": 0.5579392660508714
     },
-    "gap": 0.28145885864362685,
-    "fieldCount": 16
+    "gap": 0.13535744786905324,
+    "fieldCount": 10
   },
   "automatic": {
     "crossref": {
       "categories": {
         "findable_essential": 0.9848963068181819,
-        "findable_support": 0.923594696969697,
-        "accessible_essential": 0.9298340909090909,
-        "accessible_support": 0.8809204545454545,
+        "findable_support": 0.9018551136363636,
+        "accessible_essential": 0.9957556818181819,
+        "accessible_support": 0,
         "evaluation_coara": 0.5661420454545454
       },
-      "overall": 0.8677870738636364
+      "overall": 0.7929144886363637
     },
     "openalex": {
       "categories": {
         "findable_essential": 0.9849970992401147,
-        "findable_support": 0.9554363652909861,
-        "accessible_essential": 0.5521568002912136,
-        "accessible_support": 0.8954133867224826,
+        "findable_support": 0.9331403285252764,
+        "accessible_essential": 0.6519031259953588,
+        "accessible_support": 0,
         "evaluation_coara": 0.7029166856258816
       },
-      "overall": 0.8069784604359104
+      "overall": 0.7390292976748419
     },
-    "gap": -0.06080861342772603,
-    "fieldCount": 22
+    "gap": -0.05388519096152178,
+    "fieldCount": 16
   },
   "yearlyScores": [
     {
@@ -208,9 +208,9 @@
       "matched": 8000,
       "universeSize": 244328,
       "crossref": {
-        "overall": 0.5767919444444445,
+        "overall": 0.5767888194444445,
         "categories": {
-          "findable_essential": 0.7917083333333332,
+          "findable_essential": 0.7916979166666667,
           "findable_support": 0.5743750000000001,
           "accessible_essential": 0.7253611111111112,
           "accessible_support": 0.46135416666666673,
@@ -226,7 +226,7 @@
           "publisher": 1,
           "resource_type": 1,
           "subject_keywords": 0,
-          "funder_name": 0.31725,
+          "funder_name": 0.317125,
           "container_title": 1,
           "language": 0.99725,
           "author_orcid": 0.040875,
@@ -268,10 +268,10 @@
         }
       },
       "openalex": {
-        "overall": 0.5732836047979799,
+        "overall": 0.5732819002525253,
         "categories": {
           "findable_essential": 0.9001354166666667,
-          "findable_support": 0.6704772727272729,
+          "findable_support": 0.6704659090909092,
           "accessible_essential": 0.4297222222222222,
           "accessible_support": 0.45145833333333335,
           "evaluation_coara": 0.250475
@@ -296,7 +296,7 @@
           "issn": 1,
           "volume": 0.9965,
           "issue": 0.955375,
-          "page": 0.82525,
+          "page": 0.825125,
           "published_print_date": 1,
           "published_online_date": 1,
           "article_number": 0,
@@ -330,29 +330,29 @@
       "comparable": {
         "crossref": {
           "categories": {
-            "findable_essential": 0.7917083333333332,
-            "findable_support": 0.6191000000000001,
-            "accessible_essential": 0.7740156250000001,
-            "accessible_support": 0.2947916666666667,
-            "evaluation_coara": 0.225925
+            "findable_essential": 0.8636704545454545,
+            "findable_support": 0.5737321428571429,
+            "accessible_essential": 0.70715625,
+            "accessible_support": 0,
+            "evaluation_coara": 0.3765
           },
-          "overall": 0.5985455729166667
+          "overall": 0.5972500202922079
         },
         "openalex": {
           "categories": {
-            "findable_essential": 0.9001354166666667,
-            "findable_support": 0.7375250000000001,
-            "accessible_essential": 0.4834375,
-            "accessible_support": 0.9029166666666667,
-            "evaluation_coara": 0.50095
+            "findable_essential": 0.8910568181818183,
+            "findable_support": 0.7228035714285715,
+            "accessible_essential": 0.50421875,
+            "accessible_support": 0.81825,
+            "evaluation_coara": 0.468625
           },
-          "overall": 0.6920104166666667
+          "overall": 0.6773422686688313
         },
-        "gap": 0.09346484375000008
+        "gap": 0.08009224837662343
       },
       "voluntary": {
-        "crossref": 0.2830510416666666,
-        "openalex": 0.5905848958333333
+        "crossref": 0.31285937499999994,
+        "openalex": 0.4847562500000001
       }
     },
     {
@@ -361,9 +361,9 @@
       "matched": 7999,
       "universeSize": 253715,
       "crossref": {
-        "overall": 0.5760267297979796,
+        "overall": 0.5760236047979798,
         "categories": {
-          "findable_essential": 0.7927916666666667,
+          "findable_essential": 0.7927812500000001,
           "findable_support": 0.5793522727272727,
           "accessible_essential": 0.7198888888888888,
           "accessible_support": 0.4586666666666666,
@@ -379,7 +379,7 @@
           "publisher": 1,
           "resource_type": 1,
           "subject_keywords": 0,
-          "funder_name": 0.323125,
+          "funder_name": 0.323,
           "container_title": 1,
           "language": 0.997875,
           "author_orcid": 0.08825,
@@ -421,10 +421,10 @@
         }
       },
       "openalex": {
-        "overall": 0.5711918156436221,
+        "overall": 0.5711901108850728,
         "categories": {
           "findable_essential": 0.8959036546234946,
-          "findable_support": 0.6714589323665457,
+          "findable_support": 0.67144756730955,
           "accessible_essential": 0.42888694420135853,
           "accessible_support": 0.44363878818185604,
           "evaluation_coara": 0.2505813226653332
@@ -449,7 +449,7 @@
           "issn": 1,
           "volume": 0.9954994374296787,
           "issue": 0.9471183897987249,
-          "page": 0.8419802475309414,
+          "page": 0.841855231903988,
           "published_print_date": 1,
           "published_online_date": 1,
           "article_number": 0,
@@ -483,29 +483,29 @@
       "comparable": {
         "crossref": {
           "categories": {
-            "findable_essential": 0.7927916666666667,
-            "findable_support": 0.6264000000000001,
-            "accessible_essential": 0.7658437499999999,
-            "accessible_support": 0.2850416666666667,
-            "evaluation_coara": 0.22372500000000003
+            "findable_essential": 0.8648522727272728,
+            "findable_support": 0.5825892857142857,
+            "accessible_essential": 0.70103125,
+            "accessible_support": 0,
+            "evaluation_coara": 0.37279166666666663
           },
-          "overall": 0.5965076041666667
+          "overall": 0.596660220508658
         },
         "openalex": {
           "categories": {
-            "findable_essential": 0.8959036546234946,
-            "findable_support": 0.7386048256032003,
-            "accessible_essential": 0.4824978122265283,
-            "accessible_support": 0.8872775763637121,
-            "evaluation_coara": 0.5011626453306663
+            "findable_essential": 0.8864403504983578,
+            "findable_support": 0.7231796831746825,
+            "accessible_essential": 0.5036254531816478,
+            "accessible_support": 0.797849731216402,
+            "evaluation_coara": 0.4736008667750135
           },
-          "overall": 0.6891465599866651
+          "overall": 0.6748205673977645
         },
-        "gap": 0.09263895581999837
+        "gap": 0.07816034688910656
       },
       "voluntary": {
-        "crossref": 0.2855739583333333,
-        "openalex": 0.5833427095053548
+        "crossref": 0.31973437499999996,
+        "openalex": 0.47986935866983377
       }
     },
     {
@@ -514,9 +514,9 @@
       "matched": 7998,
       "universeSize": 249616,
       "crossref": {
-        "overall": 0.5906285542929294,
+        "overall": 0.5906254292929294,
         "categories": {
-          "findable_essential": 0.8062395833333333,
+          "findable_essential": 0.8062291666666667,
           "findable_support": 0.6200454545454546,
           "accessible_essential": 0.7274027777777778,
           "accessible_support": 0.4644166666666667,
@@ -532,7 +532,7 @@
           "publisher": 1,
           "resource_type": 1,
           "subject_keywords": 0,
-          "funder_name": 0.3985,
+          "funder_name": 0.398375,
           "container_title": 1,
           "language": 0.997375,
           "author_orcid": 0.377375,
@@ -636,29 +636,29 @@
       "comparable": {
         "crossref": {
           "categories": {
-            "findable_essential": 0.8062395833333333,
-            "findable_support": 0.671125,
-            "accessible_essential": 0.7731562500000001,
-            "accessible_support": 0.2835416666666667,
-            "evaluation_coara": 0.24212499999999998
+            "findable_essential": 0.8795227272727272,
+            "findable_support": 0.6346785714285714,
+            "accessible_essential": 0.70484375,
+            "accessible_support": 0,
+            "evaluation_coara": 0.40299999999999997
           },
-          "overall": 0.6126088541666668
+          "overall": 0.615869541396104
         },
         "openalex": {
           "categories": {
-            "findable_essential": 0.901715012086355,
-            "findable_support": 0.7526881720430108,
-            "accessible_essential": 0.5005626406601651,
-            "accessible_support": 0.8830124197716095,
-            "evaluation_coara": 0.5267816954238559
+            "findable_essential": 0.8927800131851146,
+            "findable_support": 0.7338441753295467,
+            "accessible_essential": 0.5147536884221056,
+            "accessible_support": 0.7953238309577394,
+            "evaluation_coara": 0.504667833625073
           },
-          "overall": 0.7022159706593314
+          "overall": 0.6870650021812813
         },
-        "gap": 0.08960711649266462
+        "gap": 0.07119546078517736
       },
       "voluntary": {
-        "crossref": 0.32165781250000003,
-        "openalex": 0.6034888930565976
+        "crossref": 0.37292499999999995,
+        "openalex": 0.5085427606901726
       }
     },
     {
@@ -667,9 +667,9 @@
       "matched": 7998,
       "universeSize": 268282,
       "crossref": {
-        "overall": 0.622702462121212,
+        "overall": 0.6226993371212121,
         "categories": {
-          "findable_essential": 0.8148333333333332,
+          "findable_essential": 0.8148229166666666,
           "findable_support": 0.6427386363636364,
           "accessible_essential": 0.7915000000000001,
           "accessible_support": 0.5489166666666666,
@@ -685,7 +685,7 @@
           "publisher": 1,
           "resource_type": 1,
           "subject_keywords": 0,
-          "funder_name": 0.432125,
+          "funder_name": 0.432,
           "container_title": 1,
           "language": 0.997625,
           "author_orcid": 0.536875,
@@ -789,29 +789,29 @@
       "comparable": {
         "crossref": {
           "categories": {
-            "findable_essential": 0.8148333333333332,
-            "findable_support": 0.6926,
-            "accessible_essential": 0.7899843750000001,
-            "accessible_support": 0.2890833333333333,
-            "evaluation_coara": 0.25822500000000004
+            "findable_essential": 0.8888977272727273,
+            "findable_support": 0.6612857142857144,
+            "accessible_essential": 0.72125,
+            "accessible_support": 0,
+            "evaluation_coara": 0.4294166666666667
           },
-          "overall": 0.6263894270833333
+          "overall": 0.6320580086580085
         },
         "openalex": {
           "categories": {
-            "findable_essential": 0.9084146036509128,
-            "findable_support": 0.7636034008502125,
-            "accessible_essential": 0.5306014003500875,
-            "accessible_support": 0.892223055763941,
-            "evaluation_coara": 0.5483870967741936
+            "findable_essential": 0.9001000250062515,
+            "findable_support": 0.7446504483263673,
+            "accessible_essential": 0.5403225806451613,
+            "accessible_support": 0.8067016754188547,
+            "evaluation_coara": 0.5345503042427274
           },
-          "overall": 0.7186149662415604
+          "overall": 0.7043884483025519
         },
-        "gap": 0.09222553915822707
+        "gap": 0.07233043964454333
       },
       "voluntary": {
-        "crossref": 0.34875104166666665,
-        "openalex": 0.6250489705759774
+        "crossref": 0.40773125,
+        "openalex": 0.5351775443860967
       }
     },
     {
@@ -820,10 +820,10 @@
       "matched": 7995,
       "universeSize": 277347,
       "crossref": {
-        "overall": 0.6344757133838383,
+        "overall": 0.6344705997474747,
         "categories": {
           "findable_essential": 0.8193437499999999,
-          "findable_support": 0.6536931818181817,
+          "findable_support": 0.6536590909090909,
           "accessible_essential": 0.8101527777777777,
           "accessible_support": 0.5747291666666666,
           "evaluation_coara": 0.1530375
@@ -846,9 +846,9 @@
           "funder_doi": 0.3725,
           "award_number": 0.33525,
           "issn": 1,
-          "volume": 0.993875,
-          "issue": 0.937625,
-          "page": 0.7635,
+          "volume": 0.99375,
+          "issue": 0.9375,
+          "page": 0.763375,
           "published_print_date": 0.992375,
           "published_online_date": 0.93875,
           "article_number": 0.155625,
@@ -880,10 +880,10 @@
         }
       },
       "openalex": {
-        "overall": 0.6020685403124427,
+        "overall": 0.6020634234780576,
         "categories": {
           "findable_essential": 0.9150302272253491,
-          "findable_support": 0.6986525669452498,
+          "findable_support": 0.6986184547160157,
           "accessible_essential": 0.4830797025918978,
           "accessible_support": 0.4532624557014801,
           "evaluation_coara": 0.2833270794246404
@@ -906,9 +906,9 @@
           "funder_doi": 0.42489055659787367,
           "award_number": 0.3267041901188243,
           "issn": 1,
-          "volume": 0.9948717948717949,
-          "issue": 0.9385866166353971,
-          "page": 0.8307692307692308,
+          "volume": 0.9947467166979362,
+          "issue": 0.9384615384615385,
+          "page": 0.830644152595372,
           "published_print_date": 1,
           "published_online_date": 1,
           "article_number": 0,
@@ -942,29 +942,29 @@
       "comparable": {
         "crossref": {
           "categories": {
-            "findable_essential": 0.8193437499999999,
-            "findable_support": 0.7034999999999999,
-            "accessible_essential": 0.7971874999999999,
-            "accessible_support": 0.2966666666666667,
-            "evaluation_coara": 0.27105
+            "findable_essential": 0.8938295454545454,
+            "findable_support": 0.6758571428571428,
+            "accessible_essential": 0.7297499999999999,
+            "accessible_support": 0,
+            "evaluation_coara": 0.4500416666666667
           },
-          "overall": 0.6345016666666665
+          "overall": 0.6419732683982683
         },
         "openalex": {
           "categories": {
-            "findable_essential": 0.9150302272253491,
-            "findable_support": 0.7685178236397748,
-            "accessible_essential": 0.543464665415885,
-            "accessible_support": 0.9065249114029602,
-            "evaluation_coara": 0.5666541588492808
+            "findable_essential": 0.9073057024276536,
+            "findable_support": 0.7514160636111856,
+            "accessible_essential": 0.5550656660412758,
+            "accessible_support": 0.8326454033771107,
+            "evaluation_coara": 0.5533458411507192
           },
-          "overall": 0.7296362309776945
+          "overall": 0.7176042453481478
         },
-        "gap": 0.09513456431102796
+        "gap": 0.07563097694987952
       },
       "voluntary": {
-        "crossref": 0.36198281250000003,
-        "openalex": 0.6411465499270378
+        "crossref": 0.42590312500000005,
+        "openalex": 0.5563821138211382
       }
     },
     {
@@ -973,9 +973,9 @@
       "matched": 7999,
       "universeSize": 304743,
       "crossref": {
-        "overall": 0.6468543118686868,
+        "overall": 0.6468480618686868,
         "categories": {
-          "findable_essential": 0.82384375,
+          "findable_essential": 0.8238229166666667,
           "findable_support": 0.6636477272727274,
           "accessible_essential": 0.834111111111111,
           "accessible_support": 0.5875625,
@@ -991,7 +991,7 @@
           "publisher": 1,
           "resource_type": 1,
           "subject_keywords": 0,
-          "funder_name": 0.392375,
+          "funder_name": 0.392125,
           "container_title": 1,
           "language": 0.997375,
           "author_orcid": 0.703125,
@@ -1095,29 +1095,29 @@
       "comparable": {
         "crossref": {
           "categories": {
-            "findable_essential": 0.82384375,
-            "findable_support": 0.7112250000000001,
-            "accessible_essential": 0.8236249999999999,
-            "accessible_support": 0.31225,
-            "evaluation_coara": 0.288825
+            "findable_essential": 0.8987159090909091,
+            "findable_support": 0.6898214285714286,
+            "accessible_essential": 0.75959375,
+            "accessible_support": 0,
+            "evaluation_coara": 0.47800000000000004
           },
-          "overall": 0.648733125
+          "overall": 0.658586424512987
         },
         "openalex": {
           "categories": {
-            "findable_essential": 0.9185314831020545,
-            "findable_support": 0.772209026128266,
-            "accessible_essential": 0.5849793724215527,
-            "accessible_support": 0.9266991707296746,
-            "evaluation_coara": 0.590648831103888
+            "findable_essential": 0.9111252542931503,
+            "findable_support": 0.7621845587841337,
+            "accessible_essential": 0.5969183647955995,
+            "accessible_support": 0.8641080135016878,
+            "evaluation_coara": 0.5695295245238988
           },
-          "overall": 0.7484353252489896
+          "overall": 0.7372115575594136
         },
-        "gap": 0.09970220024898957
+        "gap": 0.0786251330464266
       },
       "voluntary": {
-        "crossref": 0.3816786458333333,
-        "openalex": 0.6617066716672918
+        "crossref": 0.44632499999999997,
+        "openalex": 0.5751625203150394
       }
     },
     {
@@ -1248,29 +1248,29 @@
       "comparable": {
         "crossref": {
           "categories": {
-            "findable_essential": 0.8209791666666666,
-            "findable_support": 0.7082499999999999,
-            "accessible_essential": 0.83690625,
-            "accessible_support": 0.311,
-            "evaluation_coara": 0.298825
+            "findable_essential": 0.8956136363636363,
+            "findable_support": 0.686767857142857,
+            "accessible_essential": 0.77984375,
+            "accessible_support": 0,
+            "evaluation_coara": 0.4949166666666667
           },
-          "overall": 0.6526228125
+          "overall": 0.6656435403138528
         },
         "openalex": {
           "categories": {
-            "findable_essential": 0.9177606901725431,
-            "findable_support": 0.7699549887471868,
-            "accessible_essential": 0.6046355338834708,
-            "accessible_support": 0.9232308077019254,
-            "evaluation_coara": 0.5929482370592648
+            "findable_essential": 0.910284389279138,
+            "findable_support": 0.7588861501089558,
+            "accessible_essential": 0.6258439609902475,
+            "accessible_support": 0.8643410852713178,
+            "evaluation_coara": 0.5668917229307326
           },
-          "overall": 0.7528930670167542
+          "overall": 0.7431916826609248
         },
-        "gap": 0.1002702545167542
+        "gap": 0.07754814234707208
       },
       "voluntary": {
-        "crossref": 0.3884848958333334,
-        "openalex": 0.6704431316162374
+        "crossref": 0.45350625,
+        "openalex": 0.5839084771192797
       }
     },
     {
@@ -1401,29 +1401,29 @@
       "comparable": {
         "crossref": {
           "categories": {
-            "findable_essential": 0.8249583333333333,
-            "findable_support": 0.6985250000000001,
-            "accessible_essential": 0.841109375,
-            "accessible_support": 0.31233333333333335,
-            "evaluation_coara": 0.31952499999999995
+            "findable_essential": 0.8999545454545455,
+            "findable_support": 0.6769107142857144,
+            "accessible_essential": 0.7994375,
+            "accessible_support": 0,
+            "evaluation_coara": 0.5295833333333333
           },
-          "overall": 0.6576819270833334
+          "overall": 0.6772990124458875
         },
         "openalex": {
           "categories": {
-            "findable_essential": 0.9196249999999999,
-            "findable_support": 0.7633125000000001,
-            "accessible_essential": 0.626296875,
-            "accessible_support": 0.9226666666666666,
-            "evaluation_coara": 0.6059249999999999
+            "findable_essential": 0.9123181818181817,
+            "findable_support": 0.7463750000000001,
+            "accessible_essential": 0.658625,
+            "accessible_support": 0.862125,
+            "evaluation_coara": 0.5828333333333333
           },
-          "overall": 0.7604102604166666
+          "overall": 0.7530871212121213
         },
-        "gap": 0.1027283333333332
+        "gap": 0.07578810876623376
       },
       "voluntary": {
-        "crossref": 0.40016406250000003,
-        "openalex": 0.6789208333333333
+        "crossref": 0.47239374999999995,
+        "openalex": 0.596571875
       }
     },
     {
@@ -1554,29 +1554,29 @@
       "comparable": {
         "crossref": {
           "categories": {
-            "findable_essential": 0.8184895833333332,
-            "findable_support": 0.6938875,
-            "accessible_essential": 0.8369374999999999,
-            "accessible_support": 0.3045,
-            "evaluation_coara": 0.31615000000000004
+            "findable_essential": 0.8928977272727271,
+            "findable_support": 0.665,
+            "accessible_essential": 0.8021562499999999,
+            "accessible_support": 0,
+            "evaluation_coara": 0.5235
           },
-          "overall": 0.652544375
+          "overall": 0.6728583806818181
         },
         "openalex": {
           "categories": {
-            "findable_essential": 0.92075,
-            "findable_support": 0.7680125,
-            "accessible_essential": 0.6739531249999999,
-            "accessible_support": 0.9124583333333334,
-            "evaluation_coara": 0.6436
+            "findable_essential": 0.9135454545454545,
+            "findable_support": 0.748,
+            "accessible_essential": 0.66525,
+            "accessible_support": 0.83225,
+            "evaluation_coara": 0.6776666666666666
           },
-          "overall": 0.7798809895833334
+          "overall": 0.7713344696969697
         },
-        "gap": 0.12733661458333345
+        "gap": 0.09847608901515159
       },
       "voluntary": {
-        "crossref": 0.3906046874999999,
-        "openalex": 0.6742906249999999
+        "crossref": 0.45989062499999994,
+        "openalex": 0.598975
       }
     },
     {
@@ -1707,29 +1707,29 @@
       "comparable": {
         "crossref": {
           "categories": {
-            "findable_essential": 0.82825,
-            "findable_support": 0.7045874999999999,
-            "accessible_essential": 0.841671875,
-            "accessible_support": 0.3115,
-            "evaluation_coara": 0.32715
+            "findable_essential": 0.9035454545454545,
+            "findable_support": 0.6688928571428571,
+            "accessible_essential": 0.8114375,
+            "accessible_support": 0,
+            "evaluation_coara": 0.5417500000000001
           },
-          "overall": 0.66116109375
+          "overall": 0.682606939935065
         },
         "openalex": {
           "categories": {
-            "findable_essential": 0.9251687921980495,
-            "findable_support": 0.7733558389597399,
-            "accessible_essential": 0.6756220305076269,
-            "accessible_support": 0.9179378177877803,
-            "evaluation_coara": 0.6457364341085271
+            "findable_essential": 0.9183659551251449,
+            "findable_support": 0.7518665380630872,
+            "accessible_essential": 0.6791072768192048,
+            "accessible_support": 0.8547136784196049,
+            "evaluation_coara": 0.6744186046511628
           },
-          "overall": 0.783400589730766
+          "overall": 0.7784216752240009
         },
-        "gap": 0.122239495980766
+        "gap": 0.0958147352889358
       },
       "voluntary": {
-        "crossref": 0.41096197916666666,
-        "openalex": 0.6898068267066767
+        "crossref": 0.485921875,
+        "openalex": 0.618520255063766
       }
     },
     {
@@ -1860,29 +1860,29 @@
       "comparable": {
         "crossref": {
           "categories": {
-            "findable_essential": 0.8310625000000001,
-            "findable_support": 0.6790375,
-            "accessible_essential": 0.8130937500000001,
-            "accessible_support": 0.31525000000000003,
-            "evaluation_coara": 0.331325
+            "findable_essential": 0.9066136363636365,
+            "findable_support": 0.6387857142857143,
+            "accessible_essential": 0.8200937500000001,
+            "accessible_support": 0.000125,
+            "evaluation_coara": 0.5499583333333332
           },
-          "overall": 0.6522378125000001
+          "overall": 0.6828295522186147
         },
         "openalex": {
           "categories": {
-            "findable_essential": 0.9231351760696705,
-            "findable_support": 0.7409819512810805,
-            "accessible_essential": 0.6390098447557744,
-            "accessible_support": 0.8280533467962471,
-            "evaluation_coara": 0.6289284361984098
+            "findable_essential": 0.9163195759182128,
+            "findable_support": 0.716611673067561,
+            "accessible_essential": 0.6913101098068913,
+            "accessible_support": 0.8799697084437713,
+            "evaluation_coara": 0.6351971054735159
           },
-          "overall": 0.7564313286213135
+          "overall": 0.7702515431264012
         },
-        "gap": 0.10419351612131333
+        "gap": 0.08742199090778646
       },
       "voluntary": {
-        "crossref": 0.4158260416666667,
-        "openalex": 0.666213345113383
+        "crossref": 0.49120937500000006,
+        "openalex": 0.599864319071059
       }
     }
   ],
@@ -1958,28 +1958,6 @@
     "publication_date": [],
     "publisher": [],
     "resource_type": [],
-    "subject_keywords": [
-      {
-        "doi": "10.1002/mgr.30056",
-        "title": "Help Donors Visualize Library Naming Opportunities"
-      },
-      {
-        "doi": "10.1111/ijal.12104",
-        "title": "VivianCook and DavidSingleton (2014) Key Topics in Second Language Acquisition. Bristol: Multilingual Matters. xiii + 149 pages. Hbk ISBN: 9781783091805, Pbk 9781783091799, e‐book 9781783091829"
-      },
-      {
-        "doi": "10.1111/j.1467-825x.2015.06142.x",
-        "title": "SOMALIA: New Cabinet"
-      },
-      {
-        "doi": "10.1002/masy.201570008",
-        "title": "Preface"
-      },
-      {
-        "doi": "10.1111/nup.12084",
-        "title": "Theories guiding nursing research and practice: making nursing knowledge development explicit By Joyce J.Fitzpatrick and GeraldineMcCarthy. Springer Publishing Co., 2014, $70.00, 361 pages. ISBN 978‐0‐8261‐6404‐9."
-      }
-    ],
     "funder_name": [
       {
         "doi": "10.1111/vec.12285",
@@ -2067,28 +2045,6 @@
       {
         "doi": "10.1111/cjag.12064",
         "title": "Can Agricultural Economists Improve Their Policy Relevance?"
-      }
-    ],
-    "funder_doi": [
-      {
-        "doi": "10.1111/vec.12285",
-        "title": "The swinging pendulum between consensus and controversy in veterinary emergency and critical care"
-      },
-      {
-        "doi": "10.1002/zaac.201400609",
-        "title": "Introduction of (2‐CF<sub>3</sub>)Phenyl Group via Nickel‐catalyzed C–Cl Bond Activation and Arylation"
-      },
-      {
-        "doi": "10.1111/resp.12510",
-        "title": "Heart rate recovery after the 6‐min walk test is related to 6‐min walk distance and percutaneous oxygen saturation recovery in patients with <scp>COPD</scp>"
-      },
-      {
-        "doi": "10.1111/jorc.12113",
-        "title": "EXPERIENCES OF RECIPIENTS AND LIVING DONORS THE FIRST THREE DAYS AFTER KIDNEY TRANSPLANTATION"
-      },
-      {
-        "doi": "10.1002/nla.1967",
-        "title": "Computing the nearest reversible Markov chain"
       }
     ],
     "award_number": [
@@ -2180,73 +2136,7 @@
         "title": "Lipoxin Inhibits Fungal Uptake by Macrophages and Reduces the Severity of Acute Pulmonary Infection Caused by <i>Paracoccidioides brasiliensis</i>"
       }
     ],
-    "published_print_date": [
-      {
-        "doi": "10.1002/chemv.201400079",
-        "title": "Presentation Tips: The Main Event – Stepping into the Spotlight (4)"
-      },
-      {
-        "doi": "10.1002/chemv.201500117",
-        "title": "The Future of Distillation – Industries’ Most Energy-Intense Technology"
-      },
-      {
-        "doi": "10.1002/chemv.201500048",
-        "title": "Coffee Fascinates Chemists"
-      },
-      {
-        "doi": "10.1002/cca.586",
-        "title": "What are the benefits and harms of multidisciplinary biopsychosocial rehabilitation in people with chronic low back pain?"
-      },
-      {
-        "doi": "10.1002/chemv.201500052",
-        "title": "The Silvery Life of Pi"
-      }
-    ],
-    "published_online_date": [
-      {
-        "doi": "10.1155/2015/502789",
-        "title": "Singularities of Null Hypersurfaces of Pseudonull Curves"
-      },
-      {
-        "doi": "10.1155/2015/926280",
-        "title": "Association Analysis of COQ2 Variant in Dementia and Essential Tremor"
-      },
-      {
-        "doi": "10.1155/2015/275092",
-        "title": "Yeast Actin-Related Protein ARP6 Negatively Regulates<i>Agrobacterium</i>-Mediated Transformation of Yeast Cell"
-      },
-      {
-        "doi": "10.1155/2015/752570",
-        "title": "Athletic Differences in the Characteristics of the Photoplethysmographic Pulse Shape: Effect of Maximal Oxygen Uptake and Maximal Muscular Voluntary Contraction"
-      },
-      {
-        "doi": "10.1155/2015/671063",
-        "title": "Exhaustive Exercise Attenuates the Neurovascular Coupling by Blunting the Pressor Response to Visual Stimulation"
-      }
-    ],
     "license": [
-      {
-        "doi": "10.1002/14651858.cd009650.pub3",
-        "title": "Interventions for the eradication of meticillin-resistant Staphylococcus aureus (MRSA) in people with cystic fibrosis"
-      },
-      {
-        "doi": "10.15200/winn.142722.20125",
-        "title": "RC3: Day 7"
-      },
-      {
-        "doi": "10.15200/winn.142722.20110",
-        "title": "RC3: Day 6"
-      },
-      {
-        "doi": "10.1002/14651858.cd010542.pub2",
-        "title": "Transient elastography for diagnosis of stages of hepatic fibrosis and cirrhosis in people with alcoholic liver disease"
-      },
-      {
-        "doi": "10.7448/ias.18.3.20140",
-        "title": "P009: Evaluation of HIV-infection control, risk behaviours and comorbidities among inmates in Mexico"
-      }
-    ],
-    "license_url": [
       {
         "doi": "10.1002/14651858.cd009650.pub3",
         "title": "Interventions for the eradication of meticillin-resistant Staphylococcus aureus (MRSA) in people with cystic fibrosis"
@@ -2290,28 +2180,6 @@
         "title": "Introduction: nationalism in <scp>S</scp>outheast <scp>A</scp>sia"
       }
     ],
-    "full_text_links": [
-      {
-        "doi": "10.2903/sp.efsa.2015.en-726",
-        "title": "Outcome of the consultation with Member States, the applicant and EFSA on the pesticide risk assessment of confirmatory data for the active substance triadimenol"
-      },
-      {
-        "doi": "10.15200/winn.142722.20110",
-        "title": "RC3: Day 6"
-      },
-      {
-        "doi": "10.2903/j.efsa.2015.3987",
-        "title": "Scientific Opinion on the pest categorisation of<i>Spodoptera littoralis</i>"
-      },
-      {
-        "doi": "10.1111/conl.12154",
-        "title": "Understanding the Motivations, Satisfaction, and Retention of Landowners in Private Land Conservation Programs"
-      },
-      {
-        "doi": "10.2903/j.efsa.2015.3960",
-        "title": "Refined exposure assessment for Brilliant Black BN (E 151)"
-      }
-    ],
     "resource_url": [],
     "references": [
       {
@@ -2333,72 +2201,6 @@
       {
         "doi": "10.1155/2015/748154",
         "title": "<i>Staphylococcus pettenkoferi</i> Bacteremia: A Case Report and Review of the Literature"
-      }
-    ],
-    "references_count": [
-      {
-        "doi": "10.1111/rirt.12473",
-        "title": "Books Received"
-      },
-      {
-        "doi": "10.1155/2015/947602",
-        "title": "Childhood Encephalitis in Canada in 2015"
-      },
-      {
-        "doi": "10.1111/glal.12074",
-        "title": "‘ABER DORT LEBEN, WO ANDERE SIND WIE ICH, DAS MÖCHTE ICH GERN.’<sup>1</sup> RUSSIAN‐GERMAN MIGRATION, EXCLUSION AND IDENTITIES IN ELEONORA HUMMEL'S NOVELS"
-      },
-      {
-        "doi": "10.1002/ajhb.22702",
-        "title": "Meeting Program"
-      },
-      {
-        "doi": "10.1155/2015/748154",
-        "title": "<i>Staphylococcus pettenkoferi</i> Bacteremia: A Case Report and Review of the Literature"
-      }
-    ],
-    "is_referenced_by": [
-      {
-        "doi": "10.1111/vec.12285",
-        "title": "The swinging pendulum between consensus and controversy in veterinary emergency and critical care"
-      },
-      {
-        "doi": "10.1113/jphysiol.2014.287771",
-        "title": "Sympathy for the ganglion"
-      },
-      {
-        "doi": "10.1155/2015/916262",
-        "title": "AirPrint Forensics: Recovering the Contents and Metadata of Printed Documents from iOS Devices"
-      },
-      {
-        "doi": "10.1111/1471-0528.13245",
-        "title": "Disingenuous lack of interests in labiaplasty debate"
-      },
-      {
-        "doi": "10.1112/s1461157014000473",
-        "title": "Construction of spline curves on smooth manifolds by action of Lie groups"
-      }
-    ],
-    "author_sequence": [
-      {
-        "doi": "10.1002/malq.201590002",
-        "title": "INTERNATIONAL UNION OF HISTORY AND PHILOSOPHY OF SCIENCE DIVISION OF LOGIC, METHODOLOGY AND PHILOSOPHY OF SCIENCE BULLETIN NO. 21"
-      },
-      {
-        "doi": "10.1111/rirt.12473",
-        "title": "Books Received"
-      },
-      {
-        "doi": "10.1002/marc.201570013",
-        "title": "Contents: Macromol. Rapid Commun. 3/2015"
-      },
-      {
-        "doi": "10.1111/scd.12088",
-        "title": "Issue information"
-      },
-      {
-        "doi": "10.1002/alr.21479",
-        "title": "EDITORIAL"
       }
     ],
     "affiliation_ids_ror": [
@@ -2423,28 +2225,6 @@
         "title": "Is 3D technique superior to 2D in Down syndrome screening? Evaluation of six second and third trimester fetal profile markers"
       }
     ],
-    "relations": [
-      {
-        "doi": "10.1002/mgr.30056",
-        "title": "Help Donors Visualize Library Naming Opportunities"
-      },
-      {
-        "doi": "10.1111/ijal.12104",
-        "title": "VivianCook and DavidSingleton (2014) Key Topics in Second Language Acquisition. Bristol: Multilingual Matters. xiii + 149 pages. Hbk ISBN: 9781783091805, Pbk 9781783091799, e‐book 9781783091829"
-      },
-      {
-        "doi": "10.1111/j.1467-825x.2015.06142.x",
-        "title": "SOMALIA: New Cabinet"
-      },
-      {
-        "doi": "10.1002/masy.201570008",
-        "title": "Preface"
-      },
-      {
-        "doi": "10.1111/nup.12084",
-        "title": "Theories guiding nursing research and practice: making nursing knowledge development explicit By Joyce J.Fitzpatrick and GeraldineMcCarthy. Springer Publishing Co., 2014, $70.00, 361 pages. ISBN 978‐0‐8261‐6404‐9."
-      }
-    ],
     "author_given_family": [
       {
         "doi": "10.1002/malq.201590002",
@@ -2467,28 +2247,6 @@
         "title": "Scientific Opinion on the safety and efficacy of Cibenza® EP150 (a preparation of Bacillus licheniformis (ATCC 53757) and its protease (EC 3.4.21.19)) as a feed additive for chickens for fattening, chickens reared for laying and minor avian species for fa"
       }
     ],
-    "affiliation_ror": [
-      {
-        "doi": "10.1111/ijal.12104",
-        "title": "VivianCook and DavidSingleton (2014) Key Topics in Second Language Acquisition. Bristol: Multilingual Matters. xiii + 149 pages. Hbk ISBN: 9781783091805, Pbk 9781783091799, e‐book 9781783091829"
-      },
-      {
-        "doi": "10.1111/nup.12084",
-        "title": "Theories guiding nursing research and practice: making nursing knowledge development explicit By Joyce J.Fitzpatrick and GeraldineMcCarthy. Springer Publishing Co., 2014, $70.00, 361 pages. ISBN 978‐0‐8261‐6404‐9."
-      },
-      {
-        "doi": "10.1111/vec.12285",
-        "title": "The swinging pendulum between consensus and controversy in veterinary emergency and critical care"
-      },
-      {
-        "doi": "10.1111/rirt.12458",
-        "title": "Emotion and Cognitive Life in Medieval and Early Modern Philosophy edited by MartinPickavé and LisaShapiro (eds.), Oxford University Press, 2012 (ISBN 978‐0‐19‐957991‐4), x + 285 pp., hb £45"
-      },
-      {
-        "doi": "10.1002/pd.4521",
-        "title": "Is 3D technique superior to 2D in Down syndrome screening? Evaluation of six second and third trimester fetal profile markers"
-      }
-    ],
     "funding_complete": [
       {
         "doi": "10.1002/bkcs.10109",
@@ -2509,28 +2267,6 @@
       {
         "doi": "10.1155/2015/285056",
         "title": "Efficient Multiway Relaying for Data Sharing in Energy Harvesting Sensor Networks"
-      }
-    ],
-    "preprint_version_link": [
-      {
-        "doi": "10.1002/pd.4521",
-        "title": "Is 3D technique superior to 2D in Down syndrome screening? Evaluation of six second and third trimester fetal profile markers"
-      },
-      {
-        "doi": "10.1111/bjir.12095",
-        "title": "Stages of Occupational Regulation: Analysis of Case Studies, by Morris M.Kleiner. Upjohn Institute Press, Kalamazoo, MI, 2013, 291 pp., ISBN: 978 0 8809 94606, $40.00, hardback."
-      },
-      {
-        "doi": "10.1113/jphysiol.2014.287771",
-        "title": "Sympathy for the ganglion"
-      },
-      {
-        "doi": "10.1111/jtsa.12115",
-        "title": "Block Bootstrap for Poisson‐Sampled Almost Periodic Processes"
-      },
-      {
-        "doi": "10.1155/2015/502789",
-        "title": "Singularities of Null Hypersurfaces of Pseudonull Curves"
       }
     ],
     "open_access_status": [
@@ -2558,163 +2294,149 @@
   },
   "sampleWorks": [
     {
-      "doi": "10.1111/ijal.12104",
-      "title": "VivianCook and DavidSingleton (2014) Key Topics in Second Language Acquisition. Bristol: Multilingual Matters. xiii + 149 pages. Hbk ISBN: 9781783091805, Pbk 9781783091799, e‐book 9781783091829",
-      "year": 2015,
-      "crossrefScore": 0.631578947368421,
-      "openalexScore": 0.6578947368421053,
-      "gap": 5,
-      "openalexAdds": [
-        "abstract",
-        "subject_keywords",
-        "affiliation_ids_ror",
-        "relations",
-        "affiliation_ror"
-      ]
-    },
-    {
-      "doi": "10.1002/masy.201570008",
-      "title": "Preface",
-      "year": 2015,
-      "crossrefScore": 0.5526315789473685,
-      "openalexScore": 0.5526315789473685,
-      "gap": 4,
-      "openalexAdds": [
-        "subject_keywords",
-        "author_orcid",
-        "all_authors_orcid",
-        "relations"
-      ]
-    },
-    {
-      "doi": "10.1111/nup.12084",
-      "title": "Theories guiding nursing research and practice: making nursing knowledge development explicit By Joyce J.Fitzpatrick and GeraldineMcCarthy. Springer Publishing Co., 2014, $70.00, 361 pages. ISBN 978‐0‐8261‐6404‐9.",
-      "year": 2015,
-      "crossrefScore": 0.631578947368421,
-      "openalexScore": 0.6842105263157895,
-      "gap": 6,
-      "openalexAdds": [
-        "subject_keywords",
-        "author_orcid",
-        "all_authors_orcid",
-        "affiliation_ids_ror",
-        "relations",
-        "affiliation_ror"
-      ]
-    },
-    {
       "doi": "10.1111/vec.12285",
       "title": "The swinging pendulum between consensus and controversy in veterinary emergency and critical care",
       "year": 2015,
-      "crossrefScore": 0.6842105263157895,
-      "openalexScore": 0.7894736842105263,
-      "gap": 10,
+      "crossrefScore": 0.6538461538461539,
+      "openalexScore": 0.8076923076923077,
+      "gap": 5,
       "openalexAdds": [
         "abstract",
-        "subject_keywords",
         "funder_name",
         "author_orcid",
         "all_authors_orcid",
-        "funder_doi",
-        "is_referenced_by",
-        "affiliation_ids_ror",
-        "relations",
-        "affiliation_ror"
-      ]
-    },
-    {
-      "doi": "10.1111/rirt.12458",
-      "title": "Emotion and Cognitive Life in Medieval and Early Modern Philosophy edited by MartinPickavé and LisaShapiro (eds.), Oxford University Press, 2012 (ISBN 978‐0‐19‐957991‐4), x + 285 pp., hb £45",
-      "year": 2015,
-      "crossrefScore": 0.5789473684210527,
-      "openalexScore": 0.5789473684210527,
-      "gap": 4,
-      "openalexAdds": [
-        "subject_keywords",
-        "affiliation_ids_ror",
-        "relations",
-        "affiliation_ror"
+        "affiliation_ids_ror"
       ]
     },
     {
       "doi": "10.1002/pd.4521",
       "title": "Is 3D technique superior to 2D in Down syndrome screening? Evaluation of six second and third trimester fetal profile markers",
       "year": 2015,
-      "crossrefScore": 0.7368421052631579,
-      "openalexScore": 0.868421052631579,
-      "gap": 8,
+      "crossrefScore": 0.6923076923076923,
+      "openalexScore": 0.8461538461538461,
+      "gap": 4,
       "openalexAdds": [
-        "subject_keywords",
         "author_orcid",
         "open_access_license",
         "affiliation_ids_ror",
-        "relations",
-        "affiliation_ror",
-        "preprint_version_link",
         "open_access_status"
       ]
     },
     {
-      "doi": "10.1111/bjir.12095",
-      "title": "Stages of Occupational Regulation: Analysis of Case Studies, by Morris M.Kleiner. Upjohn Institute Press, Kalamazoo, MI, 2013, 291 pp., ISBN: 978 0 8809 94606, $40.00, hardback.",
+      "doi": "10.1002/malq.201590002",
+      "title": "INTERNATIONAL UNION OF HISTORY AND PHILOSOPHY OF SCIENCE DIVISION OF LOGIC, METHODOLOGY AND PHILOSOPHY OF SCIENCE BULLETIN NO. 21",
       "year": 2015,
-      "crossrefScore": 0.631578947368421,
-      "openalexScore": 0.6578947368421053,
-      "gap": 7,
-      "openalexAdds": [
-        "subject_keywords",
-        "author_orcid",
-        "all_authors_orcid",
-        "affiliation_ids_ror",
-        "relations",
-        "affiliation_ror",
-        "preprint_version_link"
-      ]
-    },
-    {
-      "doi": "10.1002/mop.29039",
-      "title": "General expression for tunable matching network efficiency in the case of complex impedances",
-      "year": 2015,
-      "crossrefScore": 0.7368421052631579,
-      "openalexScore": 0.7105263157894737,
-      "gap": 5,
-      "openalexAdds": [
-        "subject_keywords",
-        "author_orcid",
-        "affiliation_ids_ror",
-        "relations",
-        "affiliation_ror"
-      ]
-    },
-    {
-      "doi": "10.1111/cjag.12064",
-      "title": "Can Agricultural Economists Improve Their Policy Relevance?",
-      "year": 2015,
-      "crossrefScore": 0.6578947368421053,
-      "openalexScore": 0.7105263157894737,
+      "crossrefScore": 0.5,
+      "openalexScore": 0.6923076923076923,
       "gap": 6,
       "openalexAdds": [
-        "subject_keywords",
+        "author",
+        "author_affiliation",
         "author_orcid",
-        "all_authors_orcid",
         "affiliation_ids_ror",
-        "relations",
-        "affiliation_ror"
+        "author_given_family",
+        "open_access_status"
       ]
     },
     {
-      "doi": "10.1111/cbdd.12526",
-      "title": "PAD2 Activity Monitored via a Fluorescent Substrate Analog",
+      "doi": "10.1111/ddg.12542",
+      "title": "The keystone flap: expanding the dermatologic surgeon's armamentarium",
       "year": 2015,
-      "crossrefScore": 0.7368421052631579,
-      "openalexScore": 0.7368421052631579,
+      "crossrefScore": 0.6538461538461539,
+      "openalexScore": 0.7692307692307693,
+      "gap": 4,
+      "openalexAdds": [
+        "abstract",
+        "author_orcid",
+        "all_authors_orcid",
+        "affiliation_ids_ror"
+      ]
+    },
+    {
+      "doi": "10.1113/jphysiol.2014.287771",
+      "title": "Sympathy for the ganglion",
+      "year": 2015,
+      "crossrefScore": 0.6538461538461539,
+      "openalexScore": 0.8076923076923077,
       "gap": 5,
       "openalexAdds": [
-        "subject_keywords",
+        "abstract",
         "author_orcid",
+        "all_authors_orcid",
         "affiliation_ids_ror",
-        "relations",
-        "affiliation_ror"
+        "open_access_status"
+      ]
+    },
+    {
+      "doi": "10.1111/rirt.12473",
+      "title": "Books Received",
+      "year": 2015,
+      "crossrefScore": 0.5,
+      "openalexScore": 0.6153846153846154,
+      "gap": 4,
+      "openalexAdds": [
+        "author",
+        "references",
+        "author_given_family",
+        "open_access_status"
+      ]
+    },
+    {
+      "doi": "10.1002/ange.201500293",
+      "title": "Concepts and Case Studies in Chemical Biology. Herausgegeben von Herbert Waldmann und Petra Janning.",
+      "year": 2015,
+      "crossrefScore": 0.5769230769230769,
+      "openalexScore": 0.6923076923076923,
+      "gap": 4,
+      "openalexAdds": [
+        "abstract",
+        "author_affiliation",
+        "author_orcid",
+        "affiliation_ids_ror"
+      ]
+    },
+    {
+      "doi": "10.1002/ange.201412172",
+      "title": "Inorganic Chemical Biology. Principles, Techniques and Applications. Herausgegeben von Gilles Gasser.",
+      "year": 2015,
+      "crossrefScore": 0.5769230769230769,
+      "openalexScore": 0.7307692307692307,
+      "gap": 5,
+      "openalexAdds": [
+        "abstract",
+        "author_affiliation",
+        "author_orcid",
+        "all_authors_orcid",
+        "affiliation_ids_ror"
+      ]
+    },
+    {
+      "doi": "10.1111/mmi.12950",
+      "title": "A core of three amino acids at the carboxyl‐terminal region of glutamine synthetase defines its regulation in cyanobacteria",
+      "year": 2015,
+      "crossrefScore": 0.8076923076923077,
+      "openalexScore": 1,
+      "gap": 5,
+      "openalexAdds": [
+        "author_orcid",
+        "all_authors_orcid",
+        "open_access_license",
+        "affiliation_ids_ror",
+        "open_access_status"
+      ]
+    },
+    {
+      "doi": "10.1002/zaac.201400609",
+      "title": "Introduction of (2‐CF<sub>3</sub>)Phenyl Group via Nickel‐catalyzed C–Cl Bond Activation and Arylation",
+      "year": 2015,
+      "crossrefScore": 0.6538461538461539,
+      "openalexScore": 0.7692307692307693,
+      "gap": 4,
+      "openalexAdds": [
+        "author_affiliation",
+        "funder_name",
+        "author_orcid",
+        "affiliation_ids_ror"
       ]
     }
   ],
@@ -2863,44 +2585,13 @@
       "samples": []
     },
     {
-      "id": "subject_keywords",
-      "label": "Subject / Keywords",
-      "category": "findable_essential",
-      "effort": "voluntary",
-      "crossref": 0,
-      "openalex": 0.9998179915366064,
-      "gap": 0.9998179915366064,
-      "samples": [
-        {
-          "doi": "10.1002/mgr.30056",
-          "title": "Help Donors Visualize Library Naming Opportunities"
-        },
-        {
-          "doi": "10.1111/ijal.12104",
-          "title": "VivianCook and DavidSingleton (2014) Key Topics in Second Language Acquisition. Bristol: Multilingual Matters. xiii + 149 pages. Hbk ISBN: 9781783091805, Pbk 9781783091799, e‐book 9781783091829"
-        },
-        {
-          "doi": "10.1111/j.1467-825x.2015.06142.x",
-          "title": "SOMALIA: New Cabinet"
-        },
-        {
-          "doi": "10.1002/masy.201570008",
-          "title": "Preface"
-        },
-        {
-          "doi": "10.1111/nup.12084",
-          "title": "Theories guiding nursing research and practice: making nursing knowledge development explicit By Joyce J.Fitzpatrick and GeraldineMcCarthy. Springer Publishing Co., 2014, $70.00, 361 pages. ISBN 978‐0‐8261‐6404‐9."
-        }
-      ]
-    },
-    {
       "id": "funder_name",
       "label": "Funder Name",
       "category": "findable_essential",
       "effort": "voluntary",
-      "crossref": 0.3781590909090909,
+      "crossref": 0.3780909090909091,
       "openalex": 0.3971197160667971,
-      "gap": 0.01896062515770619,
+      "gap": 0.01902880697588799,
       "samples": [
         {
           "doi": "10.1111/vec.12285",
@@ -3028,37 +2719,6 @@
       ]
     },
     {
-      "id": "funder_doi",
-      "label": "Funder DOI",
-      "category": "findable_support",
-      "effort": "voluntary",
-      "crossref": 0.3387727272727273,
-      "openalex": 0.3971197160667971,
-      "gap": 0.0583469887940698,
-      "samples": [
-        {
-          "doi": "10.1111/vec.12285",
-          "title": "The swinging pendulum between consensus and controversy in veterinary emergency and critical care"
-        },
-        {
-          "doi": "10.1002/zaac.201400609",
-          "title": "Introduction of (2‐CF<sub>3</sub>)Phenyl Group via Nickel‐catalyzed C–Cl Bond Activation and Arylation"
-        },
-        {
-          "doi": "10.1111/resp.12510",
-          "title": "Heart rate recovery after the 6‐min walk test is related to 6‐min walk distance and percutaneous oxygen saturation recovery in patients with <scp>COPD</scp>"
-        },
-        {
-          "doi": "10.1111/jorc.12113",
-          "title": "EXPERIENCES OF RECIPIENTS AND LIVING DONORS THE FIRST THREE DAYS AFTER KIDNEY TRANSPLANTATION"
-        },
-        {
-          "doi": "10.1002/nla.1967",
-          "title": "Computing the nearest reversible Markov chain"
-        }
-      ]
-    },
-    {
       "id": "award_number",
       "label": "Award Number",
       "category": "findable_support",
@@ -3104,9 +2764,9 @@
       "label": "Volume",
       "category": "findable_support",
       "effort": "automatic",
-      "crossref": 0.9904090909090909,
-      "openalex": 0.991525230923238,
-      "gap": 0.00111614001414706,
+      "crossref": 0.9903977272727272,
+      "openalex": 0.9915138553942758,
+      "gap": 0.0011161281215485985,
       "samples": [
         {
           "doi": "10.1002/14651858.cd009650.pub3",
@@ -3135,9 +2795,9 @@
       "label": "Issue",
       "category": "findable_support",
       "effort": "automatic",
-      "crossref": 0.9399772727272727,
-      "openalex": 0.9409837557446421,
-      "gap": 0.0010064830173693862,
+      "crossref": 0.939965909090909,
+      "openalex": 0.9409723802156801,
+      "gap": 0.0010064711247710356,
       "samples": [
         {
           "doi": "10.1002/14651858.cd009650.pub3",
@@ -3166,9 +2826,9 @@
       "label": "Page",
       "category": "findable_support",
       "effort": "automatic",
-      "crossref": 0.6770681818181818,
-      "openalex": 0.8001092050780362,
-      "gap": 0.12304102325985433,
+      "crossref": 0.6770568181818182,
+      "openalex": 0.8000750784911499,
+      "gap": 0.12301826030933172,
       "samples": [
         {
           "doi": "10.1111/ijd.12794",
@@ -3193,101 +2853,8 @@
       ]
     },
     {
-      "id": "published_print_date",
-      "label": "Published Print Date",
-      "category": "findable_support",
-      "effort": "automatic",
-      "crossref": 0.9865795454545454,
-      "openalex": 1,
-      "gap": 0.013420454545454596,
-      "samples": [
-        {
-          "doi": "10.1002/chemv.201400079",
-          "title": "Presentation Tips: The Main Event – Stepping into the Spotlight (4)"
-        },
-        {
-          "doi": "10.1002/chemv.201500117",
-          "title": "The Future of Distillation – Industries’ Most Energy-Intense Technology"
-        },
-        {
-          "doi": "10.1002/chemv.201500048",
-          "title": "Coffee Fascinates Chemists"
-        },
-        {
-          "doi": "10.1002/cca.586",
-          "title": "What are the benefits and harms of multidisciplinary biopsychosocial rehabilitation in people with chronic low back pain?"
-        },
-        {
-          "doi": "10.1002/chemv.201500052",
-          "title": "The Silvery Life of Pi"
-        }
-      ]
-    },
-    {
-      "id": "published_online_date",
-      "label": "Published Online Date",
-      "category": "findable_support",
-      "effort": "automatic",
-      "crossref": 0.9475340909090909,
-      "openalex": 1,
-      "gap": 0.05246590909090909,
-      "samples": [
-        {
-          "doi": "10.1155/2015/502789",
-          "title": "Singularities of Null Hypersurfaces of Pseudonull Curves"
-        },
-        {
-          "doi": "10.1155/2015/926280",
-          "title": "Association Analysis of COQ2 Variant in Dementia and Essential Tremor"
-        },
-        {
-          "doi": "10.1155/2015/275092",
-          "title": "Yeast Actin-Related Protein ARP6 Negatively Regulates<i>Agrobacterium</i>-Mediated Transformation of Yeast Cell"
-        },
-        {
-          "doi": "10.1155/2015/752570",
-          "title": "Athletic Differences in the Characteristics of the Photoplethysmographic Pulse Shape: Effect of Maximal Oxygen Uptake and Maximal Muscular Voluntary Contraction"
-        },
-        {
-          "doi": "10.1155/2015/671063",
-          "title": "Exhaustive Exercise Attenuates the Neurovascular Coupling by Blunting the Pressor Response to Visual Stimulation"
-        }
-      ]
-    },
-    {
       "id": "license",
       "label": "License",
-      "category": "accessible_essential",
-      "effort": "automatic",
-      "crossref": 0.9915113636363636,
-      "openalex": 0.3038062519907176,
-      "gap": -0.6877051116456461,
-      "samples": [
-        {
-          "doi": "10.1002/14651858.cd009650.pub3",
-          "title": "Interventions for the eradication of meticillin-resistant Staphylococcus aureus (MRSA) in people with cystic fibrosis"
-        },
-        {
-          "doi": "10.15200/winn.142722.20125",
-          "title": "RC3: Day 7"
-        },
-        {
-          "doi": "10.15200/winn.142722.20110",
-          "title": "RC3: Day 6"
-        },
-        {
-          "doi": "10.1002/14651858.cd010542.pub2",
-          "title": "Transient elastography for diagnosis of stages of hepatic fibrosis and cirrhosis in people with alcoholic liver disease"
-        },
-        {
-          "doi": "10.7448/ias.18.3.20140",
-          "title": "P009: Evaluation of HIV-infection control, risk behaviours and comorbidities among inmates in Mexico"
-        }
-      ]
-    },
-    {
-      "id": "license_url",
-      "label": "License URL",
       "category": "accessible_essential",
       "effort": "automatic",
       "crossref": 0.9915113636363636,
@@ -3348,37 +2915,6 @@
       ]
     },
     {
-      "id": "full_text_links",
-      "label": "Full-text Links",
-      "category": "accessible_essential",
-      "effort": "automatic",
-      "crossref": 0.9803522727272728,
-      "openalex": 0.4475929380716203,
-      "gap": -0.5327593346556525,
-      "samples": [
-        {
-          "doi": "10.2903/sp.efsa.2015.en-726",
-          "title": "Outcome of the consultation with Member States, the applicant and EFSA on the pesticide risk assessment of confirmatory data for the active substance triadimenol"
-        },
-        {
-          "doi": "10.15200/winn.142722.20110",
-          "title": "RC3: Day 6"
-        },
-        {
-          "doi": "10.2903/j.efsa.2015.3987",
-          "title": "Scientific Opinion on the pest categorisation of<i>Spodoptera littoralis</i>"
-        },
-        {
-          "doi": "10.1111/conl.12154",
-          "title": "Understanding the Motivations, Satisfaction, and Retention of Landowners in Private Land Conservation Programs"
-        },
-        {
-          "doi": "10.2903/j.efsa.2015.3960",
-          "title": "Refined exposure assessment for Brilliant Black BN (E 151)"
-        }
-      ]
-    },
-    {
       "id": "resource_url",
       "label": "Resource URL",
       "category": "accessible_essential",
@@ -3420,99 +2956,6 @@
       ]
     },
     {
-      "id": "references_count",
-      "label": "References Count",
-      "category": "accessible_essential",
-      "effort": "voluntary",
-      "crossref": 0.778875,
-      "openalex": 0.7811461982982209,
-      "gap": 0.0022711982982208667,
-      "samples": [
-        {
-          "doi": "10.1111/rirt.12473",
-          "title": "Books Received"
-        },
-        {
-          "doi": "10.1155/2015/947602",
-          "title": "Childhood Encephalitis in Canada in 2015"
-        },
-        {
-          "doi": "10.1111/glal.12074",
-          "title": "‘ABER DORT LEBEN, WO ANDERE SIND WIE ICH, DAS MÖCHTE ICH GERN.’<sup>1</sup> RUSSIAN‐GERMAN MIGRATION, EXCLUSION AND IDENTITIES IN ELEONORA HUMMEL'S NOVELS"
-        },
-        {
-          "doi": "10.1002/ajhb.22702",
-          "title": "Meeting Program"
-        },
-        {
-          "doi": "10.1155/2015/748154",
-          "title": "<i>Staphylococcus pettenkoferi</i> Bacteremia: A Case Report and Review of the Literature"
-        }
-      ]
-    },
-    {
-      "id": "is_referenced_by",
-      "label": "Is Referenced By",
-      "category": "accessible_essential",
-      "effort": "automatic",
-      "crossref": 0.6857954545454545,
-      "openalex": 0.7055785594030123,
-      "gap": 0.019783104857557743,
-      "samples": [
-        {
-          "doi": "10.1111/vec.12285",
-          "title": "The swinging pendulum between consensus and controversy in veterinary emergency and critical care"
-        },
-        {
-          "doi": "10.1113/jphysiol.2014.287771",
-          "title": "Sympathy for the ganglion"
-        },
-        {
-          "doi": "10.1155/2015/916262",
-          "title": "AirPrint Forensics: Recovering the Contents and Metadata of Printed Documents from iOS Devices"
-        },
-        {
-          "doi": "10.1111/1471-0528.13245",
-          "title": "Disingenuous lack of interests in labiaplasty debate"
-        },
-        {
-          "doi": "10.1112/s1461157014000473",
-          "title": "Construction of spline curves on smooth manifolds by action of Lie groups"
-        }
-      ]
-    },
-    {
-      "id": "author_sequence",
-      "label": "Author Sequence",
-      "category": "accessible_support",
-      "effort": "automatic",
-      "crossref": 0.8809204545454545,
-      "openalex": 0.8954133867224826,
-      "gap": 0.014492932177028073,
-      "samples": [
-        {
-          "doi": "10.1002/malq.201590002",
-          "title": "INTERNATIONAL UNION OF HISTORY AND PHILOSOPHY OF SCIENCE DIVISION OF LOGIC, METHODOLOGY AND PHILOSOPHY OF SCIENCE BULLETIN NO. 21"
-        },
-        {
-          "doi": "10.1111/rirt.12473",
-          "title": "Books Received"
-        },
-        {
-          "doi": "10.1002/marc.201570013",
-          "title": "Contents: Macromol. Rapid Commun. 3/2015"
-        },
-        {
-          "doi": "10.1111/scd.12088",
-          "title": "Issue information"
-        },
-        {
-          "doi": "10.1002/alr.21479",
-          "title": "EDITORIAL"
-        }
-      ]
-    },
-    {
       "id": "affiliation_ids_ror",
       "label": "Affiliation IDs (ROR)",
       "category": "accessible_support",
@@ -3540,37 +2983,6 @@
         {
           "doi": "10.1002/pd.4521",
           "title": "Is 3D technique superior to 2D in Down syndrome screening? Evaluation of six second and third trimester fetal profile markers"
-        }
-      ]
-    },
-    {
-      "id": "relations",
-      "label": "Relations",
-      "category": "accessible_support",
-      "effort": "voluntary",
-      "crossref": 0.023420454545454546,
-      "openalex": 0.9685125358329162,
-      "gap": 0.9450920812874617,
-      "samples": [
-        {
-          "doi": "10.1002/mgr.30056",
-          "title": "Help Donors Visualize Library Naming Opportunities"
-        },
-        {
-          "doi": "10.1111/ijal.12104",
-          "title": "VivianCook and DavidSingleton (2014) Key Topics in Second Language Acquisition. Bristol: Multilingual Matters. xiii + 149 pages. Hbk ISBN: 9781783091805, Pbk 9781783091799, e‐book 9781783091829"
-        },
-        {
-          "doi": "10.1111/j.1467-825x.2015.06142.x",
-          "title": "SOMALIA: New Cabinet"
-        },
-        {
-          "doi": "10.1002/masy.201570008",
-          "title": "Preface"
-        },
-        {
-          "doi": "10.1111/nup.12084",
-          "title": "Theories guiding nursing research and practice: making nursing knowledge development explicit By Joyce J.Fitzpatrick and GeraldineMcCarthy. Springer Publishing Co., 2014, $70.00, 361 pages. ISBN 978‐0‐8261‐6404‐9."
         }
       ]
     },
@@ -3606,37 +3018,6 @@
       ]
     },
     {
-      "id": "affiliation_ror",
-      "label": "Affiliation with ROR",
-      "category": "evaluation_coara",
-      "effort": "voluntary",
-      "crossref": 0.000011363636363636363,
-      "openalex": 0.8370796742048505,
-      "gap": 0.8370683105684869,
-      "samples": [
-        {
-          "doi": "10.1111/ijal.12104",
-          "title": "VivianCook and DavidSingleton (2014) Key Topics in Second Language Acquisition. Bristol: Multilingual Matters. xiii + 149 pages. Hbk ISBN: 9781783091805, Pbk 9781783091799, e‐book 9781783091829"
-        },
-        {
-          "doi": "10.1111/nup.12084",
-          "title": "Theories guiding nursing research and practice: making nursing knowledge development explicit By Joyce J.Fitzpatrick and GeraldineMcCarthy. Springer Publishing Co., 2014, $70.00, 361 pages. ISBN 978‐0‐8261‐6404‐9."
-        },
-        {
-          "doi": "10.1111/vec.12285",
-          "title": "The swinging pendulum between consensus and controversy in veterinary emergency and critical care"
-        },
-        {
-          "doi": "10.1111/rirt.12458",
-          "title": "Emotion and Cognitive Life in Medieval and Early Modern Philosophy edited by MartinPickavé and LisaShapiro (eds.), Oxford University Press, 2012 (ISBN 978‐0‐19‐957991‐4), x + 285 pp., hb £45"
-        },
-        {
-          "doi": "10.1002/pd.4521",
-          "title": "Is 3D technique superior to 2D in Down syndrome screening? Evaluation of six second and third trimester fetal profile markers"
-        }
-      ]
-    },
-    {
       "id": "funding_complete",
       "label": "Complete Funding Info",
       "category": "evaluation_coara",
@@ -3664,37 +3045,6 @@
         {
           "doi": "10.1155/2015/285056",
           "title": "Efficient Multiway Relaying for Data Sharing in Energy Harvesting Sensor Networks"
-        }
-      ]
-    },
-    {
-      "id": "preprint_version_link",
-      "label": "Preprint / Version Link",
-      "category": "evaluation_coara",
-      "effort": "voluntary",
-      "crossref": 0.005977272727272727,
-      "openalex": 0.34784092460299404,
-      "gap": 0.3418636518757213,
-      "samples": [
-        {
-          "doi": "10.1002/pd.4521",
-          "title": "Is 3D technique superior to 2D in Down syndrome screening? Evaluation of six second and third trimester fetal profile markers"
-        },
-        {
-          "doi": "10.1111/bjir.12095",
-          "title": "Stages of Occupational Regulation: Analysis of Case Studies, by Morris M.Kleiner. Upjohn Institute Press, Kalamazoo, MI, 2013, 291 pp., ISBN: 978 0 8809 94606, $40.00, hardback."
-        },
-        {
-          "doi": "10.1113/jphysiol.2014.287771",
-          "title": "Sympathy for the ganglion"
-        },
-        {
-          "doi": "10.1111/jtsa.12115",
-          "title": "Block Bootstrap for Poisson‐Sampled Almost Periodic Processes"
-        },
-        {
-          "doi": "10.1155/2015/502789",
-          "title": "Singularities of Null Hypersurfaces of Pseudonull Curves"
         }
       ]
     },

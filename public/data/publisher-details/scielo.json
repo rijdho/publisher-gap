@@ -8,10 +8,10 @@
   "totalWorksMatched": 72347,
   "totalWorksUniverse": 72414,
   "crossref": {
-    "overall": 0.5306569401865201,
+    "overall": 0.5302959477114336,
     "categories": {
       "findable_essential": 0.7216686920577051,
-      "findable_support": 0.5302565802192946,
+      "findable_support": 0.5278499637187184,
       "accessible_essential": 0.6943546827961444,
       "accessible_support": 0.297520737242338,
       "evaluation_coara": 0.1563855055652222
@@ -35,7 +35,7 @@
       "award_number": 0.009072831220482228,
       "issn": 0.9999171430938769,
       "volume": 0.9698953241085978,
-      "issue": 0.8869003231419339,
+      "issue": 0.8604275416355953,
       "page": 0.7118374899881238,
       "published_print_date": 0.2708039881790814,
       "published_online_date": 0.7312260060209351,
@@ -68,10 +68,10 @@
     }
   },
   "openalex": {
-    "overall": 0.7208701267586224,
+    "overall": 0.7208697497875349,
     "categories": {
       "findable_essential": 0.926330739353394,
-      "findable_support": 0.6903509223854228,
+      "findable_support": 0.690348409244839,
       "accessible_essential": 0.8447344050202497,
       "accessible_support": 0.49015623776152895,
       "evaluation_coara": 0.3960952078178777
@@ -95,7 +95,7 @@
       "award_number": 0.15258407397680623,
       "issn": 1,
       "volume": 0.9708626480711018,
-      "issue": 0.8879290088047881,
+      "issue": 0.887901364258366,
       "page": 0.7865426348017195,
       "published_print_date": 1,
       "published_online_date": 1,
@@ -127,79 +127,79 @@
       "open_access_status": 1
     }
   },
-  "gap": 0.1902131865721023,
+  "gap": 0.1905738020761013,
   "comparable": {
     "crossref": {
       "categories": {
-        "findable_essential": 0.7216686920577051,
-        "findable_support": 0.5630278675394261,
-        "accessible_essential": 0.7805137818653852,
-        "accessible_support": 0.35516612809677683,
-        "evaluation_coara": 0.3127710111304444
+        "findable_essential": 0.7872749367902238,
+        "findable_support": 0.6561931591760078,
+        "accessible_essential": 0.7708247024056123,
+        "accessible_support": 0,
+        "evaluation_coara": 0.5211377173842996
       },
-      "overall": 0.5941540482503382
+      "overall": 0.6315451739917314
     },
     "openalex": {
       "categories": {
-        "findable_essential": 0.926330739353394,
-        "findable_support": 0.759386014623965,
-        "accessible_essential": 0.9503262056477808,
-        "accessible_support": 0.9803124755230579,
-        "evaluation_coara": 0.7921904156357554
+        "findable_essential": 0.919634790410358,
+        "findable_support": 0.7679457535014781,
+        "accessible_essential": 0.9828672923549007,
+        "accessible_support": 0.9704341576015592,
+        "evaluation_coara": 0.7144917319769076
       },
-      "overall": 0.8858580060910152
+      "overall": 0.8767408853925918
     },
-    "gap": 0.29170395784067693,
-    "fieldCount": 38,
+    "gap": 0.24519571140086038,
+    "fieldCount": 26,
     "totalFieldCount": 48
   },
   "voluntary": {
     "crossref": {
       "categories": {
-        "findable_essential": 0.4122579887866987,
-        "findable_support": 0.26492460021542796,
-        "accessible_essential": 0.8103451450456173,
-        "accessible_support": 0.03849393763636866,
-        "evaluation_coara": 0.0024857071836937605
+        "findable_essential": 0.549677318382265,
+        "findable_support": 0.3504248718019536,
+        "accessible_essential": 0.7522854696605629,
+        "accessible_support": 0,
+        "evaluation_coara": 0.007015218051757947
       },
-      "overall": 0.37034890813010374
+      "overall": 0.40694133731046483
     },
     "openalex": {
       "categories": {
-        "findable_essential": 0.7824166862482205,
-        "findable_support": 0.48713146364051035,
-        "accessible_essential": 0.9599108002635447,
-        "accessible_support": 0.974884929575518,
-        "evaluation_coara": 0.656686985408287
+        "findable_essential": 0.709893522422031,
+        "findable_support": 0.5767712091263862,
+        "accessible_essential": 0.9683746388931124,
+        "accessible_support": 0.9704341576015592,
+        "evaluation_coara": 0.15258407397680623
       },
-      "overall": 0.776598315525638
+      "overall": 0.6691376283743625
     },
-    "gap": 0.4062494073955342,
-    "fieldCount": 16
+    "gap": 0.2621962910638977,
+    "fieldCount": 10
   },
   "automatic": {
     "crossref": {
       "categories": {
         "findable_essential": 0.8763740436932085,
-        "findable_support": 0.7617633790887582,
-        "accessible_essential": 0.7626149639572459,
-        "accessible_support": 0.9885105090175933,
+        "findable_support": 0.8855193747065484,
+        "accessible_essential": 0.7893639351506615,
+        "accessible_support": 0,
         "evaluation_coara": 0.7781989670505703
       },
-      "overall": 0.8223213052724612
+      "overall": 0.7487208965117242
     },
     "openalex": {
       "categories": {
         "findable_essential": 0.998287765905981,
-        "findable_support": 0.9408890486129349,
-        "accessible_essential": 0.9445754488783227,
-        "accessible_support": 0.9911675674181376,
+        "findable_support": 0.9113266617827969,
+        "accessible_essential": 0.9973599458166891,
+        "accessible_support": 0,
         "evaluation_coara": 0.9954455609769582
       },
-      "overall": 0.9749694182205206
+      "overall": 0.8846144276887777
     },
-    "gap": 0.15264811294805947,
-    "fieldCount": 22
+    "gap": 0.1358935311770535,
+    "fieldCount": 16
   },
   "yearlyScores": [
     {
@@ -208,10 +208,10 @@
       "matched": 8000,
       "universeSize": 18760,
       "crossref": {
-        "overall": 0.4607496275252525,
+        "overall": 0.4606371275252525,
         "categories": {
           "findable_essential": 0.7183645833333333,
-          "findable_support": 0.4496590909090909,
+          "findable_support": 0.44890909090909087,
           "accessible_essential": 0.5171805555555555,
           "accessible_support": 0.2808125,
           "evaluation_coara": 0.102075
@@ -235,7 +235,7 @@
           "award_number": 0.000875,
           "issn": 1,
           "volume": 0.97525,
-          "issue": 0.9975,
+          "issue": 0.98925,
           "page": 0.97025,
           "published_print_date": 0.784875,
           "published_online_date": 0.215875,
@@ -330,29 +330,29 @@
       "comparable": {
         "crossref": {
           "categories": {
-            "findable_essential": 0.7183645833333333,
-            "findable_support": 0.494625,
-            "accessible_essential": 0.580703125,
-            "accessible_support": 0.330625,
-            "evaluation_coara": 0.20415
+            "findable_essential": 0.7836704545454545,
+            "findable_support": 0.5623035714285713,
+            "accessible_essential": 0.48271875,
+            "accessible_support": 0,
+            "evaluation_coara": 0.34025
           },
-          "overall": 0.50877140625
+          "overall": 0.5081763595779221
         },
         "openalex": {
           "categories": {
-            "findable_essential": 0.925625,
-            "findable_support": 0.7576375000000001,
-            "accessible_essential": 0.960171875,
-            "accessible_support": 0.9804166666666667,
-            "evaluation_coara": 0.804125
+            "findable_essential": 0.9188636363636363,
+            "findable_support": 0.7670178571428572,
+            "accessible_essential": 0.97359375,
+            "accessible_support": 0.958625,
+            "evaluation_coara": 0.709
           },
-          "overall": 0.8902427604166666
+          "overall": 0.8717727069805196
         },
-        "gap": 0.38147135416666667
+        "gap": 0.3635963474025975
       },
       "voluntary": {
-        "crossref": 0.26406979166666666,
-        "openalex": 0.7630718750000001
+        "crossref": 0.268225,
+        "openalex": 0.6433656249999999
       }
     },
     {
@@ -361,10 +361,10 @@
       "matched": 7996,
       "universeSize": 18381,
       "crossref": {
-        "overall": 0.4564065719696969,
+        "overall": 0.45584236742424245,
         "categories": {
           "findable_essential": 0.71365625,
-          "findable_support": 0.44078409090909093,
+          "findable_support": 0.43702272727272734,
           "accessible_essential": 0.5161250000000001,
           "accessible_support": 0.2788333333333333,
           "evaluation_coara": 0.0963875
@@ -388,7 +388,7 @@
           "award_number": 0.001875,
           "issn": 1,
           "volume": 0.9695,
-          "issue": 0.99475,
+          "issue": 0.953375,
           "page": 0.8705,
           "published_print_date": 0.83275,
           "published_online_date": 0.169875,
@@ -421,10 +421,10 @@
         }
       },
       "openalex": {
-        "overall": 0.7247558059332697,
+        "overall": 0.724754100535116,
         "categories": {
           "findable_essential": 0.9273907787226946,
-          "findable_support": 0.686809313747783,
+          "findable_support": 0.6867979444267589,
           "accessible_essential": 0.853593463398366,
           "accessible_support": 0.49130815407703854,
           "evaluation_coara": 0.4049399699849925
@@ -448,7 +448,7 @@
           "award_number": 0.1535767883941971,
           "issn": 1,
           "volume": 0.9706103051525763,
-          "issue": 0.9957478739369685,
+          "issue": 0.9956228114057029,
           "page": 0.9107053526763381,
           "published_print_date": 1,
           "published_online_date": 1,
@@ -483,29 +483,29 @@
       "comparable": {
         "crossref": {
           "categories": {
-            "findable_essential": 0.71365625,
-            "findable_support": 0.4843,
-            "accessible_essential": 0.5789062500000001,
-            "accessible_support": 0.329625,
-            "evaluation_coara": 0.192775
+            "findable_essential": 0.7785340909090909,
+            "findable_support": 0.5423392857142858,
+            "accessible_essential": 0.48203125,
+            "accessible_support": 0,
+            "evaluation_coara": 0.3212916666666667
           },
-          "overall": 0.5029859375
+          "overall": 0.49967726596320344
         },
         "openalex": {
           "categories": {
-            "findable_essential": 0.9273907787226946,
-            "findable_support": 0.7554902451225612,
-            "accessible_essential": 0.9602926463231617,
-            "accessible_support": 0.9826163081540771,
-            "evaluation_coara": 0.809879939969985
+            "findable_essential": 0.9207899404247578,
+            "findable_support": 0.760862574144215,
+            "accessible_essential": 0.9766133066533266,
+            "accessible_support": 0.9619809904952477,
+            "evaluation_coara": 0.7151492412873104
           },
-          "overall": 0.8918515507753878
+          "overall": 0.8737476422193782
         },
-        "gap": 0.3888656132753878
+        "gap": 0.37407037625617473
       },
       "voluntary": {
-        "crossref": 0.26303802083333333,
-        "openalex": 0.7693701017175254
+        "crossref": 0.26646562500000004,
+        "openalex": 0.6521166833416708
       }
     },
     {
@@ -514,10 +514,10 @@
       "matched": 7998,
       "universeSize": 18317,
       "crossref": {
-        "overall": 0.4600088573232323,
+        "overall": 0.4590065845959596,
         "categories": {
           "findable_essential": 0.7160520833333334,
-          "findable_support": 0.4340113636363636,
+          "findable_support": 0.42732954545454543,
           "accessible_essential": 0.5281111111111111,
           "accessible_support": 0.2785625,
           "evaluation_coara": 0.1010375
@@ -541,7 +541,7 @@
           "award_number": 0.00075,
           "issn": 1,
           "volume": 0.9685,
-          "issue": 0.995875,
+          "issue": 0.922375,
           "page": 0.789375,
           "published_print_date": 0.768125,
           "published_online_date": 0.232625,
@@ -574,10 +574,10 @@
         }
       },
       "openalex": {
-        "overall": 0.7271715151009974,
+        "overall": 0.7271698101293,
         "categories": {
           "findable_essential": 0.9306493289989164,
-          "findable_support": 0.6906726681670418,
+          "findable_support": 0.6906613016890586,
           "accessible_essential": 0.8543941540940792,
           "accessible_support": 0.4921438693006585,
           "evaluation_coara": 0.4078144536134033
@@ -601,7 +601,7 @@
           "award_number": 0.1760440110027507,
           "issn": 1,
           "volume": 0.9684921230307577,
-          "issue": 0.9958739684921231,
+          "issue": 0.9957489372343086,
           "page": 0.8445861465366341,
           "published_print_date": 1,
           "published_online_date": 1,
@@ -636,29 +636,29 @@
       "comparable": {
         "crossref": {
           "categories": {
-            "findable_essential": 0.7160520833333334,
-            "findable_support": 0.47658749999999994,
-            "accessible_essential": 0.5933906250000001,
-            "accessible_support": 0.3299166666666667,
-            "evaluation_coara": 0.202075
+            "findable_essential": 0.7811477272727273,
+            "findable_support": 0.52725,
+            "accessible_essential": 0.50015625,
+            "accessible_support": 0,
+            "evaluation_coara": 0.33679166666666666
           },
-          "overall": 0.5080580729166666
+          "overall": 0.5058292140151515
         },
         "openalex": {
           "categories": {
-            "findable_essential": 0.9306493289989164,
-            "findable_support": 0.7597399349837459,
-            "accessible_essential": 0.961193423355839,
-            "accessible_support": 0.984287738601317,
-            "evaluation_coara": 0.8156289072268066
+            "findable_essential": 0.9243447225442725,
+            "findable_support": 0.7628692887507592,
+            "accessible_essential": 0.9772755688922231,
+            "accessible_support": 0.967741935483871,
+            "evaluation_coara": 0.7228473785112944
           },
-          "overall": 0.8950087000916895
+          "overall": 0.8773963715495974
         },
-        "gap": 0.38695062717502293
+        "gap": 0.3715671575344459
       },
       "voluntary": {
-        "crossref": 0.2742744791666667,
-        "openalex": 0.7791937567725264
+        "crossref": 0.27809375,
+        "openalex": 0.6656851712928232
       }
     },
     {
@@ -667,10 +667,10 @@
       "matched": 8000,
       "universeSize": 18735,
       "crossref": {
-        "overall": 0.4781925505050505,
+        "overall": 0.47661073232323237,
         "categories": {
           "findable_essential": 0.7200833333333335,
-          "findable_support": 0.4608068181818182,
+          "findable_support": 0.4502613636363636,
           "accessible_essential": 0.568486111111111,
           "accessible_support": 0.280125,
           "evaluation_coara": 0.11456250000000001
@@ -694,7 +694,7 @@
           "award_number": 0.00125,
           "issn": 0.99925,
           "volume": 0.974625,
-          "issue": 0.98075,
+          "issue": 0.86475,
           "page": 0.66225,
           "published_print_date": 0.039375,
           "published_online_date": 0.961875,
@@ -789,29 +789,29 @@
       "comparable": {
         "crossref": {
           "categories": {
-            "findable_essential": 0.7200833333333335,
-            "findable_support": 0.5034,
-            "accessible_essential": 0.638546875,
-            "accessible_support": 0.329875,
-            "evaluation_coara": 0.22912500000000002
+            "findable_essential": 0.7855454545454547,
+            "findable_support": 0.5591964285714285,
+            "accessible_essential": 0.56540625,
+            "accessible_support": 0,
+            "evaluation_coara": 0.3818333333333333
           },
-          "overall": 0.5299842187500001
+          "overall": 0.5372613298160174
         },
         "openalex": {
           "categories": {
-            "findable_essential": 0.9309895833333334,
-            "findable_support": 0.7580125000000001,
-            "accessible_essential": 0.967921875,
-            "accessible_support": 0.9862083333333332,
-            "evaluation_coara": 0.8120999999999998
+            "findable_essential": 0.9247159090909091,
+            "findable_support": 0.7609464285714286,
+            "accessible_essential": 0.9844375000000001,
+            "accessible_support": 0.973375,
+            "evaluation_coara": 0.7215833333333332
           },
-          "overall": 0.8960200520833335
+          "overall": 0.8793202786796536
         },
-        "gap": 0.36603583333333334
+        "gap": 0.3420589488636362
       },
       "voluntary": {
-        "crossref": 0.30952343749999994,
-        "openalex": 0.7863625
+        "crossref": 0.32259374999999996,
+        "openalex": 0.674071875
       }
     },
     {
@@ -820,10 +820,10 @@
       "matched": 8000,
       "universeSize": 18437,
       "crossref": {
-        "overall": 0.5837865404040404,
+        "overall": 0.5837848358585859,
         "categories": {
           "findable_essential": 0.7217500000000001,
-          "findable_support": 0.5850454545454545,
+          "findable_support": 0.5850340909090909,
           "accessible_essential": 0.8468055555555556,
           "accessible_support": 0.2839583333333333,
           "evaluation_coara": 0.19703749999999998
@@ -847,7 +847,7 @@
           "award_number": 0.00225,
           "issn": 1,
           "volume": 0.966625,
-          "issue": 0.885375,
+          "issue": 0.88525,
           "page": 0.77175,
           "published_print_date": 0.011,
           "published_online_date": 0.989,
@@ -942,29 +942,29 @@
       "comparable": {
         "crossref": {
           "categories": {
-            "findable_essential": 0.7217500000000001,
-            "findable_support": 0.62305,
-            "accessible_essential": 0.9515,
-            "accessible_support": 0.329875,
-            "evaluation_coara": 0.39407499999999995
+            "findable_essential": 0.7873636363636365,
+            "findable_support": 0.7465,
+            "accessible_essential": 0.9773750000000001,
+            "accessible_support": 0,
+            "evaluation_coara": 0.6567083333333333
           },
-          "overall": 0.65966
+          "overall": 0.7238695075757576
         },
         "openalex": {
           "categories": {
-            "findable_essential": 0.9295520833333333,
-            "findable_support": 0.7816625000000001,
-            "accessible_essential": 0.9651562499999999,
-            "accessible_support": 0.9870833333333334,
-            "evaluation_coara": 0.8123250000000001
+            "findable_essential": 0.9231477272727272,
+            "findable_support": 0.7961785714285715,
+            "accessible_essential": 0.98446875,
+            "accessible_support": 0.977,
+            "evaluation_coara": 0.7205416666666666
           },
-          "overall": 0.8985773958333334
+          "overall": 0.8842966247294373
         },
-        "gap": 0.23891739583333338
+        "gap": 0.16042711715367963
       },
       "voluntary": {
-        "crossref": 0.42444791666666665,
-        "openalex": 0.7952364583333333
+        "crossref": 0.48705625,
+        "openalex": 0.68583125
       }
     },
     {
@@ -973,10 +973,10 @@
       "matched": 7999,
       "universeSize": 19172,
       "crossref": {
-        "overall": 0.5852027525252526,
+        "overall": 0.585197638888889,
         "categories": {
           "findable_essential": 0.7233958333333333,
-          "findable_support": 0.5995340909090908,
+          "findable_support": 0.5994999999999999,
           "accessible_essential": 0.8401805555555555,
           "accessible_support": 0.2876875,
           "evaluation_coara": 0.1972
@@ -1000,7 +1000,7 @@
           "award_number": 0.0005,
           "issn": 1,
           "volume": 0.966125,
-          "issue": 0.8785,
+          "issue": 0.878125,
           "page": 0.749,
           "published_print_date": 0,
           "published_online_date": 1,
@@ -1095,29 +1095,29 @@
       "comparable": {
         "crossref": {
           "categories": {
-            "findable_essential": 0.7233958333333333,
-            "findable_support": 0.6372249999999999,
-            "accessible_essential": 0.9452031249999999,
-            "accessible_support": 0.32979166666666665,
-            "evaluation_coara": 0.3944
+            "findable_essential": 0.7891590909090909,
+            "findable_support": 0.7670535714285714,
+            "accessible_essential": 0.9763124999999999,
+            "accessible_support": 0,
+            "evaluation_coara": 0.657
           },
-          "overall": 0.6607624479166667
+          "overall": 0.7272838879870129
         },
         "openalex": {
           "categories": {
-            "findable_essential": 0.9264491394757678,
-            "findable_support": 0.7800475059382423,
-            "accessible_essential": 0.9624015501937742,
-            "accessible_support": 0.9875817810559654,
-            "evaluation_coara": 0.8
+            "findable_essential": 0.9197626976099286,
+            "findable_support": 0.798510528101727,
+            "accessible_essential": 0.9864983122890361,
+            "accessible_support": 0.9762470308788599,
+            "evaluation_coara": 0.7144226361628537
           },
-          "overall": 0.8943004333875068
+          "overall": 0.8828391968909534
         },
-        "gap": 0.23353798547084004
+        "gap": 0.15555530890394043
       },
       "voluntary": {
-        "crossref": 0.43111927083333335,
-        "openalex": 0.7886240988456891
+        "crossref": 0.49690312500000006,
+        "openalex": 0.68024128016002
       }
     },
     {
@@ -1248,29 +1248,29 @@
       "comparable": {
         "crossref": {
           "categories": {
-            "findable_essential": 0.7211380489321076,
-            "findable_support": 0.6430664712934594,
-            "accessible_essential": 0.9025909151458638,
-            "accessible_support": 0.3320900492873318,
-            "evaluation_coara": 0.395684028240309
+            "findable_essential": 0.7866960533804811,
+            "findable_support": 0.7756760357000133,
+            "accessible_essential": 0.9817836685759957,
+            "accessible_support": 0,
+            "evaluation_coara": 0.6590737533857288
           },
-          "overall": 0.650794924736912
+          "overall": 0.729620889190291
         },
         "openalex": {
           "categories": {
-            "findable_essential": 0.9249922294747126,
-            "findable_support": 0.7808711868922339,
-            "accessible_essential": 0.9580724656986812,
-            "accessible_support": 0.985080591447982,
-            "evaluation_coara": 0.7988810443585986
+            "findable_essential": 0.9181733412451408,
+            "findable_support": 0.8011189556414012,
+            "accessible_essential": 0.9886772345810577,
+            "accessible_support": 0.9760223791128281,
+            "evaluation_coara": 0.7120909373473646
           },
-          "overall": 0.8924307313174371
+          "overall": 0.8828095797457727
         },
-        "gap": 0.24163580658052508
+        "gap": 0.15318869055548168
       },
       "voluntary": {
-        "crossref": 0.4341575640513299,
-        "openalex": 0.787995648505839
+        "crossref": 0.4999200745970427,
+        "openalex": 0.6790229119488478
       }
     },
     {
@@ -1401,29 +1401,29 @@
       "comparable": {
         "crossref": {
           "categories": {
-            "findable_essential": 0.725317621957133,
-            "findable_support": 0.6327174861798082,
-            "accessible_essential": 0.9158059354087867,
-            "accessible_support": 0.4113083115119775,
-            "evaluation_coara": 0.3917951702065755
+            "findable_essential": 0.7912555875895997,
+            "findable_support": 0.7590506671100213,
+            "accessible_essential": 0.9700683735816118,
+            "accessible_support": 0,
+            "evaluation_coara": 0.6527009989331781
           },
-          "overall": 0.6609442585588206
+          "overall": 0.7242915695254217
         },
         "openalex": {
           "categories": {
-            "findable_essential": 0.9256376685093589,
-            "findable_support": 0.7678498690718649,
-            "accessible_essential": 0.9507382892057026,
-            "accessible_support": 0.9855979051498401,
-            "evaluation_coara": 0.7439336630782659
+            "findable_essential": 0.9188774565556642,
+            "findable_support": 0.7828047716031422,
+            "accessible_essential": 0.98970759383183,
+            "accessible_support": 0.9783241198719814,
+            "evaluation_coara": 0.711521675880128
           },
-          "overall": 0.8778998763456503
+          "overall": 0.8806475983283518
         },
-        "gap": 0.2169556177868297
+        "gap": 0.1563560288029301
       },
       "voluntary": {
-        "crossref": 0.4450277616138105,
-        "openalex": 0.7702223353699932
+        "crossref": 0.4990071283095723,
+        "openalex": 0.6789642129764328
       }
     },
     {
@@ -1554,29 +1554,29 @@
       "comparable": {
         "crossref": {
           "categories": {
-            "findable_essential": 0.7260513597345453,
-            "findable_support": 0.6044795498809781,
-            "accessible_essential": 0.9308050205583207,
-            "accessible_support": 0.44434826516626996,
-            "evaluation_coara": 0.39645098463536027
+            "findable_essential": 0.7920560288013221,
+            "findable_support": 0.7203759235786934,
+            "accessible_essential": 0.9902618480848302,
+            "accessible_support": 0,
+            "evaluation_coara": 0.6604631032244103
           },
-          "overall": 0.6649136189857896
+          "overall": 0.7253312798432903
         },
         "openalex": {
           "categories": {
-            "findable_essential": 0.9247817932626415,
-            "findable_support": 0.74483877948496,
-            "accessible_essential": 0.9354035922960398,
-            "accessible_support": 0.9857895116497151,
-            "evaluation_coara": 0.7533867128327202
+            "findable_essential": 0.9179437744683362,
+            "findable_support": 0.7489411691965252,
+            "accessible_essential": 0.987935511793984,
+            "accessible_support": 0.9751136117723437,
+            "evaluation_coara": 0.7140590059871602
           },
-          "overall": 0.872267546707062
+          "overall": 0.8750313480431421
         },
-        "gap": 0.20735392772127237
+        "gap": 0.14970006819985182
       },
       "voluntary": {
-        "crossref": 0.46156856380292877,
-        "openalex": 0.773623133520883
+        "crossref": 0.5123295823414845,
+        "openalex": 0.6814704609391906
       }
     },
     {
@@ -1707,29 +1707,29 @@
       "comparable": {
         "crossref": {
           "categories": {
-            "findable_essential": 0.7234848484848485,
-            "findable_support": 0.5494911804613298,
-            "accessible_essential": 0.9049779511533242,
-            "accessible_support": 0.4547715965626413,
-            "evaluation_coara": 0.3938941655359566
+            "findable_essential": 0.7892561983471075,
+            "findable_support": 0.6407249466950959,
+            "accessible_essential": 0.9830393487109905,
+            "accessible_support": 0,
+            "evaluation_coara": 0.6563772048846676
           },
-          "overall": 0.6499696121664404
+          "overall": 0.7099208796630778
         },
         "openalex": {
           "categories": {
-            "findable_essential": 0.9146596562641337,
-            "findable_support": 0.6791044776119403,
-            "accessible_essential": 0.8684701492537313,
-            "accessible_support": 0.9729760289461783,
-            "evaluation_coara": 0.7244233378561737
+            "findable_essential": 0.9069014431972368,
+            "findable_support": 0.6659236286101958,
+            "accessible_essential": 0.9862618724559022,
+            "accessible_support": 0.9559023066485753,
+            "evaluation_coara": 0.689280868385346
           },
-          "overall": 0.8355633763003166
+          "overall": 0.8519708497066025
         },
-        "gap": 0.18559376413387618
+        "gap": 0.1420499700435247
       },
       "voluntary": {
-        "crossref": 0.45970431931252836,
-        "openalex": 0.7459817390321122
+        "crossref": 0.5086329715061059,
+        "openalex": 0.648337856173677
       }
     },
     {
@@ -1860,29 +1860,29 @@
       "comparable": {
         "crossref": {
           "categories": {
-            "findable_essential": 0.7569669913419914,
-            "findable_support": 0.5793831168831168,
-            "accessible_essential": 0.8823051948051948,
-            "accessible_support": 0.47362012987012986,
-            "evaluation_coara": 0.42995129870129867
+            "findable_essential": 0.8257821723730815,
+            "findable_support": 0.6582792207792209,
+            "accessible_essential": 0.9878246753246753,
+            "accessible_support": 0,
+            "evaluation_coara": 0.7164502164502164
           },
-          "overall": 0.6679261363636364
+          "overall": 0.7367227469500197
         },
         "openalex": {
           "categories": {
-            "findable_essential": 0.9076192457016085,
-            "findable_support": 0.6737936772046589,
-            "accessible_essential": 0.8038685524126455,
-            "accessible_support": 0.8612035496394898,
-            "evaluation_coara": 0.7311980033277871
+            "findable_essential": 0.8992588110724551,
+            "findable_support": 0.6546826717375802,
+            "accessible_essential": 0.9788893510815307,
+            "accessible_support": 0.9646422628951747,
+            "evaluation_coara": 0.7070160843039379
           },
-          "overall": 0.8066819190238491
+          "overall": 0.8505698250030613
         },
-        "gap": 0.1387557826602127
+        "gap": 0.11384707805304162
       },
       "voluntary": {
-        "crossref": 0.5195633793290043,
-        "openalex": 0.7283919162506933
+        "crossref": 0.5939732142857144,
+        "openalex": 0.6569155574043261
       }
     }
   ],
@@ -1958,28 +1958,6 @@
     "publication_date": [],
     "publisher": [],
     "resource_type": [],
-    "subject_keywords": [
-      {
-        "doi": "10.1590/1678-7189",
-        "title": "Influência do Hormônio do Crescimento na concentração de testosterona plasmática e nas características seminais de touros jovens e adultos da raça Nelore"
-      },
-      {
-        "doi": "10.1590/s1519-99402015000100006",
-        "title": "Grupo genético e ordem de parto no desempenho produtivo e reprodutivo de matrizes suínas"
-      },
-      {
-        "doi": "10.1590/0100-2945-058/14",
-        "title": "CARACTERIZAÇÃO PÓS-COLHEITA E SENSORIAL DE GENÓTIPOS DE BANANEIRAS TIPO PRATA"
-      },
-      {
-        "doi": "10.1590/2176-9451.20.1.030-039.int",
-        "title": "An interview with Eiji Tanaka"
-      },
-      {
-        "doi": "10.1590/1807-2577.1058",
-        "title": "Conhecimento de alunos do Curso de Odontologia sobre o uso racional do flúor"
-      }
-    ],
     "funder_name": [
       {
         "doi": "10.1590/0103-9016-2014-0056",
@@ -2069,28 +2047,6 @@
         "title": "Perfil e tendências da liderança em uma empresa brasileira líder mundial de mercado"
       }
     ],
-    "funder_doi": [
-      {
-        "doi": "10.1590/0103-9016-2014-0056",
-        "title": "Seasonality of soil water exchange in the soybean growing season in southern Brazil"
-      },
-      {
-        "doi": "10.1590/0104-4060.39834",
-        "title": "Escola Itinerante: espaço de disputa e contradição"
-      },
-      {
-        "doi": "10.1590/s1984-29612015005",
-        "title": "Parasitological survey on birds at some selected brazilian zoos"
-      },
-      {
-        "doi": "10.1590/1516-1439.264814",
-        "title": "Evaluation of the Influence of MgO and La2O3 on the Fast Sintering of Mullite"
-      },
-      {
-        "doi": "10.1590/1678-457x.6472",
-        "title": "Peroxidase activity and sensory quality of ready to cook mixed vegetables for soup: combined effect of biopreservatives and refrigerated storage"
-      }
-    ],
     "award_number": [
       {
         "doi": "10.1590/0103-9016-2014-0056",
@@ -2159,24 +2115,24 @@
     ],
     "issue": [
       {
-        "doi": "10.1016/j.rpped.2016.02.005",
-        "title": "Ângulo de fase e critérios da Organização Mundial de Saúde na avaliação do estado nutricional em crianças com osteogênese imperfeita"
+        "doi": "10.1590/s0034-8910.2015049005380",
+        "title": "Violence against metropolitan bus drivers and fare collectors in Brazil"
       },
       {
-        "doi": "10.1016/j.rpped.2016.02.007",
-        "title": "Necessidades de assistência à criança com deficiência – Uso do Inventário de Avaliação Pediátrica de Incapacidade"
+        "doi": "10.1590/s0034-8910.2015049005724",
+        "title": "Content validity and reliability of test of gross motor development in Chilean children"
       },
       {
-        "doi": "10.1016/j.rpped.2016.03.007",
-        "title": "Quilotórax bilateral espontâneo após vômitos excessivos em criança"
+        "doi": "10.1590/s0034-8910.2015049005424",
+        "title": "Intimate partner violence after the diagnosis of sexually transmitted diseases"
       },
       {
-        "doi": "10.1016/j.rpped.2016.05.003",
-        "title": "Conhecimento do pediatra sobre o manejo da constipação intestinal funcional"
+        "doi": "10.1590/s0034-8910.2015049005420",
+        "title": "Evaluating the use of in-store measures in retail food stores and restaurants in Brazil"
       },
       {
-        "doi": "10.1016/j.rpped.2016.03.005",
-        "title": "Estágios de mudança de comportamento para atividade física em adolescentes catarinenses: prevalência e fatores associados"
+        "doi": "10.1590/s0034-8910.2015049005568",
+        "title": "Fetal deaths in Brazil: a systematic review"
       }
     ],
     "page": [
@@ -2201,73 +2157,7 @@
         "title": "Intimate partner violence after the diagnosis of sexually transmitted diseases"
       }
     ],
-    "published_print_date": [
-      {
-        "doi": "10.1590/0100-2945-058/14",
-        "title": "CARACTERIZAÇÃO PÓS-COLHEITA E SENSORIAL DE GENÓTIPOS DE BANANEIRAS TIPO PRATA"
-      },
-      {
-        "doi": "10.1590/1982-3703000112014",
-        "title": "Plantão Psicológico: Ficções e Reflexões"
-      },
-      {
-        "doi": "10.1590/001152582015",
-        "title": "O Topo da Distribui&amp;#231;&amp;#227;o de Renda no Brasil: Primeiras Estimativas com Dados Tribut&amp;#225;rios e Compara&amp;#231;&amp;#227;o com Pesquisas Domiciliares (2006-2012)"
-      },
-      {
-        "doi": "10.1590/s0100-83582015000100014",
-        "title": "Volunteer RR® corn management in roundup ready® soybean-corn succession system"
-      },
-      {
-        "doi": "10.1590/0103-6513.011411",
-        "title": "Perfil e tendências da liderança em uma empresa brasileira líder mundial de mercado"
-      }
-    ],
-    "published_online_date": [
-      {
-        "doi": "10.1590/1678-7189",
-        "title": "Influência do Hormônio do Crescimento na concentração de testosterona plasmática e nas características seminais de touros jovens e adultos da raça Nelore"
-      },
-      {
-        "doi": "10.1590/s1519-99402015000100006",
-        "title": "Grupo genético e ordem de parto no desempenho produtivo e reprodutivo de matrizes suínas"
-      },
-      {
-        "doi": "10.1590/2176-9451.20.1.030-039.int",
-        "title": "An interview with Eiji Tanaka"
-      },
-      {
-        "doi": "10.1590/1807-2577.1058",
-        "title": "Conhecimento de alunos do Curso de Odontologia sobre o uso racional do flúor"
-      },
-      {
-        "doi": "10.1590/0103-9016-2014-0056",
-        "title": "Seasonality of soil water exchange in the soybean growing season in southern Brazil"
-      }
-    ],
     "license": [
-      {
-        "doi": "10.1590/1678-7189",
-        "title": "Influência do Hormônio do Crescimento na concentração de testosterona plasmática e nas características seminais de touros jovens e adultos da raça Nelore"
-      },
-      {
-        "doi": "10.1590/s1519-99402015000100006",
-        "title": "Grupo genético e ordem de parto no desempenho produtivo e reprodutivo de matrizes suínas"
-      },
-      {
-        "doi": "10.1590/0100-2945-058/14",
-        "title": "CARACTERIZAÇÃO PÓS-COLHEITA E SENSORIAL DE GENÓTIPOS DE BANANEIRAS TIPO PRATA"
-      },
-      {
-        "doi": "10.1590/2176-9451.20.1.030-039.int",
-        "title": "An interview with Eiji Tanaka"
-      },
-      {
-        "doi": "10.1590/1807-2577.1058",
-        "title": "Conhecimento de alunos do Curso de Odontologia sobre o uso racional do flúor"
-      }
-    ],
-    "license_url": [
       {
         "doi": "10.1590/1678-7189",
         "title": "Influência do Hormônio do Crescimento na concentração de testosterona plasmática e nas características seminais de touros jovens e adultos da raça Nelore"
@@ -2311,28 +2201,6 @@
         "title": "Conhecimento de alunos do Curso de Odontologia sobre o uso racional do flúor"
       }
     ],
-    "full_text_links": [
-      {
-        "doi": "10.1590/001152582015",
-        "title": "O Topo da Distribui&amp;#231;&amp;#227;o de Renda no Brasil: Primeiras Estimativas com Dados Tribut&amp;#225;rios e Compara&amp;#231;&amp;#227;o com Pesquisas Domiciliares (2006-2012)"
-      },
-      {
-        "doi": "10.21168/rbrh.v20n3.p785-794",
-        "title": "Avaliação da influência da mudança de variáveis de projeto de barragens sobre as alterações hidrológicas e componentes do regime de vazão natural"
-      },
-      {
-        "doi": "10.21168/rbrh.v20n1.p106-118",
-        "title": "Utilização do método Bávaro para avaliação das condições hidromorfológicas de uma bacia experimental no Nordeste Brasileiro"
-      },
-      {
-        "doi": "10.21168/rbrh.v20n4.p1019-1028",
-        "title": "Distribuição de hidrocarbonetos policíclicos aromáticos e alifáticos em sedimentos estuarinos / Distribution of aliphatic and polycyclic aromatics hydrocarbons in estuary sediments"
-      },
-      {
-        "doi": "10.21168/rbrh.v20n1.p237-248",
-        "title": "CICLAR: Modelo 0D para Dinâmica de Carbono em Lagos e Reservatórios"
-      }
-    ],
     "resource_url": [],
     "references": [
       {
@@ -2354,72 +2222,6 @@
       {
         "doi": "10.1590/s1806-66902015000100024",
         "title": "Caracter&amp;#237;sticas morfog&amp;#234;nicas e estruturais de Urochloa spp. sob manejo convencional e consorciado com cereais1"
-      }
-    ],
-    "references_count": [
-      {
-        "doi": "10.1590/001152582015",
-        "title": "O Topo da Distribui&amp;#231;&amp;#227;o de Renda no Brasil: Primeiras Estimativas com Dados Tribut&amp;#225;rios e Compara&amp;#231;&amp;#227;o com Pesquisas Domiciliares (2006-2012)"
-      },
-      {
-        "doi": "10.5935/0101-2800.20150042",
-        "title": "Erythropoietin resistance in end-stage renal disease patient with gastric antral vascular ectasia"
-      },
-      {
-        "doi": "10.21168/rbrh.v20n3.p785-794",
-        "title": "Avaliação da influência da mudança de variáveis de projeto de barragens sobre as alterações hidrológicas e componentes do regime de vazão natural"
-      },
-      {
-        "doi": "10.21168/rbrh.v20n1.p106-118",
-        "title": "Utilização do método Bávaro para avaliação das condições hidromorfológicas de uma bacia experimental no Nordeste Brasileiro"
-      },
-      {
-        "doi": "10.1590/s1806-66902015000100024",
-        "title": "Caracter&amp;#237;sticas morfog&amp;#234;nicas e estruturais de Urochloa spp. sob manejo convencional e consorciado com cereais1"
-      }
-    ],
-    "is_referenced_by": [
-      {
-        "doi": "10.1590/s1519-99402015000100006",
-        "title": "Grupo genético e ordem de parto no desempenho produtivo e reprodutivo de matrizes suínas"
-      },
-      {
-        "doi": "10.1590/1807-2577.1058",
-        "title": "Conhecimento de alunos do Curso de Odontologia sobre o uso racional do flúor"
-      },
-      {
-        "doi": "10.1590/0103-6513.011411",
-        "title": "Perfil e tendências da liderança em uma empresa brasileira líder mundial de mercado"
-      },
-      {
-        "doi": "10.21168/rbrh.v20n3.p785-794",
-        "title": "Avaliação da influência da mudança de variáveis de projeto de barragens sobre as alterações hidrológicas e componentes do regime de vazão natural"
-      },
-      {
-        "doi": "10.1590/0100-69912015s01015",
-        "title": "SCIENTIFIC LEADERS FOR THE FUTURE: PRIMARY AND SECONDARY EDUCATION"
-      }
-    ],
-    "author_sequence": [
-      {
-        "doi": "10.1590/2176-9451.20.1.030-039.int",
-        "title": "An interview with Eiji Tanaka"
-      },
-      {
-        "doi": "10.1590/1807-3107bor-2015.vol29.0092errata",
-        "title": "Erratum: Fluoride varnishes with calcium glycerophosphate: fluoride release and effect on in vitro enamel demineralization"
-      },
-      {
-        "doi": "10.1590/s0034-8910.2013047004359err",
-        "title": "Erratum: Reflexões metodológicas sobre prevalência da fluorose dentária nos inquéritos de saúde bucal"
-      },
-      {
-        "doi": "10.1590/1807-57622015.0012",
-        "title": "Errata"
-      },
-      {
-        "doi": "10.1590/1807-57622015.001",
-        "title": "Errata"
       }
     ],
     "affiliation_ids_ror": [
@@ -2444,28 +2246,6 @@
         "title": "Seasonality of soil water exchange in the soybean growing season in southern Brazil"
       }
     ],
-    "relations": [
-      {
-        "doi": "10.1590/1678-7189",
-        "title": "Influência do Hormônio do Crescimento na concentração de testosterona plasmática e nas características seminais de touros jovens e adultos da raça Nelore"
-      },
-      {
-        "doi": "10.1590/s1519-99402015000100006",
-        "title": "Grupo genético e ordem de parto no desempenho produtivo e reprodutivo de matrizes suínas"
-      },
-      {
-        "doi": "10.1590/0100-2945-058/14",
-        "title": "CARACTERIZAÇÃO PÓS-COLHEITA E SENSORIAL DE GENÓTIPOS DE BANANEIRAS TIPO PRATA"
-      },
-      {
-        "doi": "10.1590/2176-9451.20.1.030-039.int",
-        "title": "An interview with Eiji Tanaka"
-      },
-      {
-        "doi": "10.1590/1807-2577.1058",
-        "title": "Conhecimento de alunos do Curso de Odontologia sobre o uso racional do flúor"
-      }
-    ],
     "author_given_family": [
       {
         "doi": "10.1590/2176-9451.20.1.030-039.int",
@@ -2488,28 +2268,6 @@
         "title": "Erratum"
       }
     ],
-    "affiliation_ror": [
-      {
-        "doi": "10.1590/1678-7189",
-        "title": "Influência do Hormônio do Crescimento na concentração de testosterona plasmática e nas características seminais de touros jovens e adultos da raça Nelore"
-      },
-      {
-        "doi": "10.1590/s1519-99402015000100006",
-        "title": "Grupo genético e ordem de parto no desempenho produtivo e reprodutivo de matrizes suínas"
-      },
-      {
-        "doi": "10.1590/0100-2945-058/14",
-        "title": "CARACTERIZAÇÃO PÓS-COLHEITA E SENSORIAL DE GENÓTIPOS DE BANANEIRAS TIPO PRATA"
-      },
-      {
-        "doi": "10.1590/1807-2577.1058",
-        "title": "Conhecimento de alunos do Curso de Odontologia sobre o uso racional do flúor"
-      },
-      {
-        "doi": "10.1590/0103-9016-2014-0056",
-        "title": "Seasonality of soil water exchange in the soybean growing season in southern Brazil"
-      }
-    ],
     "funding_complete": [
       {
         "doi": "10.1590/0103-9016-2014-0056",
@@ -2530,28 +2288,6 @@
       {
         "doi": "10.1590/1679-78251772",
         "title": "A Modified Computational Scheme for the Stochastic Perturbation Finite Element Method"
-      }
-    ],
-    "preprint_version_link": [
-      {
-        "doi": "10.1590/1678-7189",
-        "title": "Influência do Hormônio do Crescimento na concentração de testosterona plasmática e nas características seminais de touros jovens e adultos da raça Nelore"
-      },
-      {
-        "doi": "10.1590/s1519-99402015000100006",
-        "title": "Grupo genético e ordem de parto no desempenho produtivo e reprodutivo de matrizes suínas"
-      },
-      {
-        "doi": "10.1590/0100-2945-058/14",
-        "title": "CARACTERIZAÇÃO PÓS-COLHEITA E SENSORIAL DE GENÓTIPOS DE BANANEIRAS TIPO PRATA"
-      },
-      {
-        "doi": "10.1590/2176-9451.20.1.030-039.int",
-        "title": "An interview with Eiji Tanaka"
-      },
-      {
-        "doi": "10.1590/1807-2577.1058",
-        "title": "Conhecimento de alunos do Curso de Odontologia sobre o uso racional do flúor"
       }
     ],
     "open_access_status": [
@@ -2582,21 +2318,15 @@
       "doi": "10.1590/1678-7189",
       "title": "Influência do Hormônio do Crescimento na concentração de testosterona plasmática e nas características seminais de touros jovens e adultos da raça Nelore",
       "year": 2015,
-      "crossrefScore": 0.5789473684210527,
-      "openalexScore": 0.868421052631579,
-      "gap": 12,
+      "crossrefScore": 0.6153846153846154,
+      "openalexScore": 0.8461538461538461,
+      "gap": 6,
       "openalexAdds": [
-        "subject_keywords",
         "language",
         "author_orcid",
-        "published_online_date",
         "license",
-        "license_url",
         "open_access_license",
         "affiliation_ids_ror",
-        "relations",
-        "affiliation_ror",
-        "preprint_version_link",
         "open_access_status"
       ]
     },
@@ -2604,22 +2334,15 @@
       "doi": "10.1590/s1519-99402015000100006",
       "title": "Grupo genético e ordem de parto no desempenho produtivo e reprodutivo de matrizes suínas",
       "year": 2015,
-      "crossrefScore": 0.5526315789473685,
-      "openalexScore": 0.868421052631579,
-      "gap": 13,
+      "crossrefScore": 0.6153846153846154,
+      "openalexScore": 0.8461538461538461,
+      "gap": 6,
       "openalexAdds": [
-        "subject_keywords",
         "language",
         "author_orcid",
-        "published_online_date",
         "license",
-        "license_url",
         "open_access_license",
-        "is_referenced_by",
         "affiliation_ids_ror",
-        "relations",
-        "affiliation_ror",
-        "preprint_version_link",
         "open_access_status"
       ]
     },
@@ -2627,22 +2350,16 @@
       "doi": "10.1590/0100-2945-058/14",
       "title": "CARACTERIZAÇÃO PÓS-COLHEITA E SENSORIAL DE GENÓTIPOS DE BANANEIRAS TIPO PRATA",
       "year": 2015,
-      "crossrefScore": 0.5789473684210527,
-      "openalexScore": 0.8947368421052632,
-      "gap": 13,
+      "crossrefScore": 0.6153846153846154,
+      "openalexScore": 0.8846153846153846,
+      "gap": 7,
       "openalexAdds": [
-        "subject_keywords",
         "language",
         "author_orcid",
         "all_authors_orcid",
-        "published_print_date",
         "license",
-        "license_url",
         "open_access_license",
         "affiliation_ids_ror",
-        "relations",
-        "affiliation_ror",
-        "preprint_version_link",
         "open_access_status"
       ]
     },
@@ -2650,24 +2367,18 @@
       "doi": "10.1590/2176-9451.20.1.030-039.int",
       "title": "An interview with Eiji Tanaka",
       "year": 2015,
-      "crossrefScore": 0.39473684210526316,
-      "openalexScore": 0.7894736842105263,
-      "gap": 15,
+      "crossrefScore": 0.46153846153846156,
+      "openalexScore": 0.8076923076923077,
+      "gap": 9,
       "openalexAdds": [
         "abstract",
         "author",
-        "subject_keywords",
         "language",
         "author_orcid",
         "all_authors_orcid",
-        "published_online_date",
         "license",
-        "license_url",
         "open_access_license",
-        "author_sequence",
-        "relations",
         "author_given_family",
-        "preprint_version_link",
         "open_access_status"
       ]
     },
@@ -2675,22 +2386,15 @@
       "doi": "10.1590/1807-2577.1058",
       "title": "Conhecimento de alunos do Curso de Odontologia sobre o uso racional do flúor",
       "year": 2015,
-      "crossrefScore": 0.5526315789473685,
-      "openalexScore": 0.868421052631579,
-      "gap": 13,
+      "crossrefScore": 0.6153846153846154,
+      "openalexScore": 0.8461538461538461,
+      "gap": 6,
       "openalexAdds": [
-        "subject_keywords",
         "language",
         "author_orcid",
-        "published_online_date",
         "license",
-        "license_url",
         "open_access_license",
-        "is_referenced_by",
         "affiliation_ids_ror",
-        "relations",
-        "affiliation_ror",
-        "preprint_version_link",
         "open_access_status"
       ]
     },
@@ -2698,26 +2402,19 @@
       "doi": "10.1590/0103-9016-2014-0056",
       "title": "Seasonality of soil water exchange in the soybean growing season in southern Brazil",
       "year": 2015,
-      "crossrefScore": 0.5263157894736842,
-      "openalexScore": 0.9736842105263158,
-      "gap": 17,
+      "crossrefScore": 0.5769230769230769,
+      "openalexScore": 0.9615384615384616,
+      "gap": 10,
       "openalexAdds": [
         "abstract",
-        "subject_keywords",
         "funder_name",
         "language",
         "author_orcid",
-        "funder_doi",
         "award_number",
-        "published_online_date",
         "license",
-        "license_url",
         "open_access_license",
         "affiliation_ids_ror",
-        "relations",
-        "affiliation_ror",
         "funding_complete",
-        "preprint_version_link",
         "open_access_status"
       ]
     },
@@ -2725,22 +2422,16 @@
       "doi": "10.1590/1980-5497201500010001",
       "title": "Sintomas depressivos em idosos residentes em áreas de abrangência das Unidades Básicas de Saúde da zona urbana de Bagé, RS",
       "year": 2015,
-      "crossrefScore": 0.5789473684210527,
-      "openalexScore": 0.8947368421052632,
-      "gap": 13,
+      "crossrefScore": 0.6153846153846154,
+      "openalexScore": 0.8846153846153846,
+      "gap": 7,
       "openalexAdds": [
-        "subject_keywords",
         "language",
         "author_orcid",
         "all_authors_orcid",
-        "published_online_date",
         "license",
-        "license_url",
         "open_access_license",
         "affiliation_ids_ror",
-        "relations",
-        "affiliation_ror",
-        "preprint_version_link",
         "open_access_status"
       ]
     },
@@ -2748,21 +2439,15 @@
       "doi": "10.1590/1982-3703000112014",
       "title": "Plantão Psicológico: Ficções e Reflexões",
       "year": 2015,
-      "crossrefScore": 0.5789473684210527,
-      "openalexScore": 0.868421052631579,
-      "gap": 12,
+      "crossrefScore": 0.6153846153846154,
+      "openalexScore": 0.8461538461538461,
+      "gap": 6,
       "openalexAdds": [
-        "subject_keywords",
         "language",
         "author_orcid",
-        "published_print_date",
         "license",
-        "license_url",
         "open_access_license",
         "affiliation_ids_ror",
-        "relations",
-        "affiliation_ror",
-        "preprint_version_link",
         "open_access_status"
       ]
     },
@@ -2770,25 +2455,18 @@
       "doi": "10.1590/001152582015",
       "title": "O Topo da Distribui&amp;#231;&amp;#227;o de Renda no Brasil: Primeiras Estimativas com Dados Tribut&amp;#225;rios e Compara&amp;#231;&amp;#227;o com Pesquisas Domiciliares (2006-2012)",
       "year": 2015,
-      "crossrefScore": 0.4473684210526316,
-      "openalexScore": 0.868421052631579,
-      "gap": 16,
+      "crossrefScore": 0.5384615384615384,
+      "openalexScore": 0.8846153846153846,
+      "gap": 9,
       "openalexAdds": [
         "abstract",
         "author_affiliation",
-        "subject_keywords",
         "author_orcid",
         "all_authors_orcid",
-        "published_print_date",
         "license",
-        "license_url",
         "open_access_license",
-        "full_text_links",
         "references",
-        "references_count",
         "affiliation_ids_ror",
-        "relations",
-        "affiliation_ror",
         "open_access_status"
       ]
     },
@@ -2796,21 +2474,15 @@
       "doi": "10.1590/s0100-83582015000100014",
       "title": "Volunteer RR® corn management in roundup ready® soybean-corn succession system",
       "year": 2015,
-      "crossrefScore": 0.5789473684210527,
-      "openalexScore": 0.868421052631579,
-      "gap": 12,
+      "crossrefScore": 0.6153846153846154,
+      "openalexScore": 0.8461538461538461,
+      "gap": 6,
       "openalexAdds": [
-        "subject_keywords",
         "language",
         "author_orcid",
-        "published_print_date",
         "license",
-        "license_url",
         "open_access_license",
         "affiliation_ids_ror",
-        "relations",
-        "affiliation_ror",
-        "preprint_version_link",
         "open_access_status"
       ]
     }
@@ -2960,37 +2632,6 @@
       "samples": []
     },
     {
-      "id": "subject_keywords",
-      "label": "Subject / Keywords",
-      "category": "findable_essential",
-      "effort": "voluntary",
-      "crossref": 0,
-      "openalex": 0.999986177726789,
-      "gap": 0.999986177726789,
-      "samples": [
-        {
-          "doi": "10.1590/1678-7189",
-          "title": "Influência do Hormônio do Crescimento na concentração de testosterona plasmática e nas características seminais de touros jovens e adultos da raça Nelore"
-        },
-        {
-          "doi": "10.1590/s1519-99402015000100006",
-          "title": "Grupo genético e ordem de parto no desempenho produtivo e reprodutivo de matrizes suínas"
-        },
-        {
-          "doi": "10.1590/0100-2945-058/14",
-          "title": "CARACTERIZAÇÃO PÓS-COLHEITA E SENSORIAL DE GENÓTIPOS DE BANANEIRAS TIPO PRATA"
-        },
-        {
-          "doi": "10.1590/2176-9451.20.1.030-039.int",
-          "title": "An interview with Eiji Tanaka"
-        },
-        {
-          "doi": "10.1590/1807-2577.1058",
-          "title": "Conhecimento de alunos do Curso de Odontologia sobre o uso racional do flúor"
-        }
-      ]
-    },
-    {
       "id": "funder_name",
       "label": "Funder Name",
       "category": "findable_essential",
@@ -3125,37 +2766,6 @@
       ]
     },
     {
-      "id": "funder_doi",
-      "label": "Funder DOI",
-      "category": "findable_support",
-      "effort": "voluntary",
-      "crossref": 0.008423785455851079,
-      "openalex": 0.2182122271828825,
-      "gap": 0.20978844172703143,
-      "samples": [
-        {
-          "doi": "10.1590/0103-9016-2014-0056",
-          "title": "Seasonality of soil water exchange in the soybean growing season in southern Brazil"
-        },
-        {
-          "doi": "10.1590/0104-4060.39834",
-          "title": "Escola Itinerante: espaço de disputa e contradição"
-        },
-        {
-          "doi": "10.1590/s1984-29612015005",
-          "title": "Parasitological survey on birds at some selected brazilian zoos"
-        },
-        {
-          "doi": "10.1590/1516-1439.264814",
-          "title": "Evaluation of the Influence of MgO and La2O3 on the Fast Sintering of Mullite"
-        },
-        {
-          "doi": "10.1590/1678-457x.6472",
-          "title": "Peroxidase activity and sensory quality of ready to cook mixed vegetables for soup: combined effect of biopreservatives and refrigerated storage"
-        }
-      ]
-    },
-    {
       "id": "award_number",
       "label": "Award Number",
       "category": "findable_support",
@@ -3253,29 +2863,29 @@
       "label": "Issue",
       "category": "findable_support",
       "effort": "automatic",
-      "crossref": 0.8869003231419339,
-      "openalex": 0.8879290088047881,
-      "gap": 0.0010286856628541896,
+      "crossref": 0.8604275416355953,
+      "openalex": 0.887901364258366,
+      "gap": 0.02747382262277065,
       "samples": [
         {
-          "doi": "10.1016/j.rpped.2016.02.005",
-          "title": "Ângulo de fase e critérios da Organização Mundial de Saúde na avaliação do estado nutricional em crianças com osteogênese imperfeita"
+          "doi": "10.1590/s0034-8910.2015049005380",
+          "title": "Violence against metropolitan bus drivers and fare collectors in Brazil"
         },
         {
-          "doi": "10.1016/j.rpped.2016.02.007",
-          "title": "Necessidades de assistência à criança com deficiência – Uso do Inventário de Avaliação Pediátrica de Incapacidade"
+          "doi": "10.1590/s0034-8910.2015049005724",
+          "title": "Content validity and reliability of test of gross motor development in Chilean children"
         },
         {
-          "doi": "10.1016/j.rpped.2016.03.007",
-          "title": "Quilotórax bilateral espontâneo após vômitos excessivos em criança"
+          "doi": "10.1590/s0034-8910.2015049005424",
+          "title": "Intimate partner violence after the diagnosis of sexually transmitted diseases"
         },
         {
-          "doi": "10.1016/j.rpped.2016.05.003",
-          "title": "Conhecimento do pediatra sobre o manejo da constipação intestinal funcional"
+          "doi": "10.1590/s0034-8910.2015049005420",
+          "title": "Evaluating the use of in-store measures in retail food stores and restaurants in Brazil"
         },
         {
-          "doi": "10.1016/j.rpped.2016.03.005",
-          "title": "Estágios de mudança de comportamento para atividade física em adolescentes catarinenses: prevalência e fatores associados"
+          "doi": "10.1590/s0034-8910.2015049005568",
+          "title": "Fetal deaths in Brazil: a systematic review"
         }
       ]
     },
@@ -3311,101 +2921,8 @@
       ]
     },
     {
-      "id": "published_print_date",
-      "label": "Published Print Date",
-      "category": "findable_support",
-      "effort": "automatic",
-      "crossref": 0.2708039881790814,
-      "openalex": 1,
-      "gap": 0.7291960118209186,
-      "samples": [
-        {
-          "doi": "10.1590/0100-2945-058/14",
-          "title": "CARACTERIZAÇÃO PÓS-COLHEITA E SENSORIAL DE GENÓTIPOS DE BANANEIRAS TIPO PRATA"
-        },
-        {
-          "doi": "10.1590/1982-3703000112014",
-          "title": "Plantão Psicológico: Ficções e Reflexões"
-        },
-        {
-          "doi": "10.1590/001152582015",
-          "title": "O Topo da Distribui&amp;#231;&amp;#227;o de Renda no Brasil: Primeiras Estimativas com Dados Tribut&amp;#225;rios e Compara&amp;#231;&amp;#227;o com Pesquisas Domiciliares (2006-2012)"
-        },
-        {
-          "doi": "10.1590/s0100-83582015000100014",
-          "title": "Volunteer RR® corn management in roundup ready® soybean-corn succession system"
-        },
-        {
-          "doi": "10.1590/0103-6513.011411",
-          "title": "Perfil e tendências da liderança em uma empresa brasileira líder mundial de mercado"
-        }
-      ]
-    },
-    {
-      "id": "published_online_date",
-      "label": "Published Online Date",
-      "category": "findable_support",
-      "effort": "automatic",
-      "crossref": 0.7312260060209351,
-      "openalex": 1,
-      "gap": 0.2687739939790649,
-      "samples": [
-        {
-          "doi": "10.1590/1678-7189",
-          "title": "Influência do Hormônio do Crescimento na concentração de testosterona plasmática e nas características seminais de touros jovens e adultos da raça Nelore"
-        },
-        {
-          "doi": "10.1590/s1519-99402015000100006",
-          "title": "Grupo genético e ordem de parto no desempenho produtivo e reprodutivo de matrizes suínas"
-        },
-        {
-          "doi": "10.1590/2176-9451.20.1.030-039.int",
-          "title": "An interview with Eiji Tanaka"
-        },
-        {
-          "doi": "10.1590/1807-2577.1058",
-          "title": "Conhecimento de alunos do Curso de Odontologia sobre o uso racional do flúor"
-        },
-        {
-          "doi": "10.1590/0103-9016-2014-0056",
-          "title": "Seasonality of soil water exchange in the soybean growing season in southern Brazil"
-        }
-      ]
-    },
-    {
       "id": "license",
       "label": "License",
-      "category": "accessible_essential",
-      "effort": "automatic",
-      "crossref": 0.578727870301323,
-      "openalex": 0.994719891633378,
-      "gap": 0.41599202133205504,
-      "samples": [
-        {
-          "doi": "10.1590/1678-7189",
-          "title": "Influência do Hormônio do Crescimento na concentração de testosterona plasmática e nas características seminais de touros jovens e adultos da raça Nelore"
-        },
-        {
-          "doi": "10.1590/s1519-99402015000100006",
-          "title": "Grupo genético e ordem de parto no desempenho produtivo e reprodutivo de matrizes suínas"
-        },
-        {
-          "doi": "10.1590/0100-2945-058/14",
-          "title": "CARACTERIZAÇÃO PÓS-COLHEITA E SENSORIAL DE GENÓTIPOS DE BANANEIRAS TIPO PRATA"
-        },
-        {
-          "doi": "10.1590/2176-9451.20.1.030-039.int",
-          "title": "An interview with Eiji Tanaka"
-        },
-        {
-          "doi": "10.1590/1807-2577.1058",
-          "title": "Conhecimento de alunos do Curso de Odontologia sobre o uso racional do flúor"
-        }
-      ]
-    },
-    {
-      "id": "license_url",
-      "label": "License URL",
       "category": "accessible_essential",
       "effort": "automatic",
       "crossref": 0.578727870301323,
@@ -3466,37 +2983,6 @@
       ]
     },
     {
-      "id": "full_text_links",
-      "label": "Full-text Links",
-      "category": "accessible_essential",
-      "effort": "automatic",
-      "crossref": 0.9388516032811335,
-      "openalex": 0.9417391184154146,
-      "gap": 0.0028875151342810934,
-      "samples": [
-        {
-          "doi": "10.1590/001152582015",
-          "title": "O Topo da Distribui&amp;#231;&amp;#227;o de Renda no Brasil: Primeiras Estimativas com Dados Tribut&amp;#225;rios e Compara&amp;#231;&amp;#227;o com Pesquisas Domiciliares (2006-2012)"
-        },
-        {
-          "doi": "10.21168/rbrh.v20n3.p785-794",
-          "title": "Avaliação da influência da mudança de variáveis de projeto de barragens sobre as alterações hidrológicas e componentes do regime de vazão natural"
-        },
-        {
-          "doi": "10.21168/rbrh.v20n1.p106-118",
-          "title": "Utilização do método Bávaro para avaliação das condições hidromorfológicas de uma bacia experimental no Nordeste Brasileiro"
-        },
-        {
-          "doi": "10.21168/rbrh.v20n4.p1019-1028",
-          "title": "Distribuição de hidrocarbonetos policíclicos aromáticos e alifáticos em sedimentos estuarinos / Distribution of aliphatic and polycyclic aromatics hydrocarbons in estuary sediments"
-        },
-        {
-          "doi": "10.21168/rbrh.v20n1.p237-248",
-          "title": "CICLAR: Modelo 0D para Dinâmica de Carbono em Lagos e Reservatórios"
-        }
-      ]
-    },
-    {
       "id": "resource_url",
       "label": "Resource URL",
       "category": "accessible_essential",
@@ -3538,99 +3024,6 @@
       ]
     },
     {
-      "id": "references_count",
-      "label": "References Count",
-      "category": "accessible_essential",
-      "effort": "voluntary",
-      "crossref": 0.9264644958157262,
-      "openalex": 0.9429831230044093,
-      "gap": 0.016518627188683133,
-      "samples": [
-        {
-          "doi": "10.1590/001152582015",
-          "title": "O Topo da Distribui&amp;#231;&amp;#227;o de Renda no Brasil: Primeiras Estimativas com Dados Tribut&amp;#225;rios e Compara&amp;#231;&amp;#227;o com Pesquisas Domiciliares (2006-2012)"
-        },
-        {
-          "doi": "10.5935/0101-2800.20150042",
-          "title": "Erythropoietin resistance in end-stage renal disease patient with gastric antral vascular ectasia"
-        },
-        {
-          "doi": "10.21168/rbrh.v20n3.p785-794",
-          "title": "Avaliação da influência da mudança de variáveis de projeto de barragens sobre as alterações hidrológicas e componentes do regime de vazão natural"
-        },
-        {
-          "doi": "10.21168/rbrh.v20n1.p106-118",
-          "title": "Utilização do método Bávaro para avaliação das condições hidromorfológicas de uma bacia experimental no Nordeste Brasileiro"
-        },
-        {
-          "doi": "10.1590/s1806-66902015000100024",
-          "title": "Caracter&amp;#237;sticas morfog&amp;#234;nicas e estruturais de Urochloa spp. sob manejo convencional e consorciado com cereais1"
-        }
-      ]
-    },
-    {
-      "id": "is_referenced_by",
-      "label": "Is Referenced By",
-      "category": "accessible_essential",
-      "effort": "automatic",
-      "crossref": 0.7167674759024498,
-      "openalex": 0.791698342709442,
-      "gap": 0.07493086680699212,
-      "samples": [
-        {
-          "doi": "10.1590/s1519-99402015000100006",
-          "title": "Grupo genético e ordem de parto no desempenho produtivo e reprodutivo de matrizes suínas"
-        },
-        {
-          "doi": "10.1590/1807-2577.1058",
-          "title": "Conhecimento de alunos do Curso de Odontologia sobre o uso racional do flúor"
-        },
-        {
-          "doi": "10.1590/0103-6513.011411",
-          "title": "Perfil e tendências da liderança em uma empresa brasileira líder mundial de mercado"
-        },
-        {
-          "doi": "10.21168/rbrh.v20n3.p785-794",
-          "title": "Avaliação da influência da mudança de variáveis de projeto de barragens sobre as alterações hidrológicas e componentes do regime de vazão natural"
-        },
-        {
-          "doi": "10.1590/0100-69912015s01015",
-          "title": "SCIENTIFIC LEADERS FOR THE FUTURE: PRIMARY AND SECONDARY EDUCATION"
-        }
-      ]
-    },
-    {
-      "id": "author_sequence",
-      "label": "Author Sequence",
-      "category": "accessible_support",
-      "effort": "automatic",
-      "crossref": 0.9885105090175933,
-      "openalex": 0.9911675674181376,
-      "gap": 0.00265705840054431,
-      "samples": [
-        {
-          "doi": "10.1590/2176-9451.20.1.030-039.int",
-          "title": "An interview with Eiji Tanaka"
-        },
-        {
-          "doi": "10.1590/1807-3107bor-2015.vol29.0092errata",
-          "title": "Erratum: Fluoride varnishes with calcium glycerophosphate: fluoride release and effect on in vitro enamel demineralization"
-        },
-        {
-          "doi": "10.1590/s0034-8910.2013047004359err",
-          "title": "Erratum: Reflexões metodológicas sobre prevalência da fluorose dentária nos inquéritos de saúde bucal"
-        },
-        {
-          "doi": "10.1590/1807-57622015.0012",
-          "title": "Errata"
-        },
-        {
-          "doi": "10.1590/1807-57622015.001",
-          "title": "Errata"
-        }
-      ]
-    },
-    {
       "id": "affiliation_ids_ror",
       "label": "Affiliation IDs (ROR)",
       "category": "accessible_support",
@@ -3658,37 +3051,6 @@
         {
           "doi": "10.1590/0103-9016-2014-0056",
           "title": "Seasonality of soil water exchange in the soybean growing season in southern Brazil"
-        }
-      ]
-    },
-    {
-      "id": "relations",
-      "label": "Relations",
-      "category": "accessible_support",
-      "effort": "voluntary",
-      "crossref": 0.07698787527273732,
-      "openalex": 0.9793357015494768,
-      "gap": 0.9023478262767395,
-      "samples": [
-        {
-          "doi": "10.1590/1678-7189",
-          "title": "Influência do Hormônio do Crescimento na concentração de testosterona plasmática e nas características seminais de touros jovens e adultos da raça Nelore"
-        },
-        {
-          "doi": "10.1590/s1519-99402015000100006",
-          "title": "Grupo genético e ordem de parto no desempenho produtivo e reprodutivo de matrizes suínas"
-        },
-        {
-          "doi": "10.1590/0100-2945-058/14",
-          "title": "CARACTERIZAÇÃO PÓS-COLHEITA E SENSORIAL DE GENÓTIPOS DE BANANEIRAS TIPO PRATA"
-        },
-        {
-          "doi": "10.1590/2176-9451.20.1.030-039.int",
-          "title": "An interview with Eiji Tanaka"
-        },
-        {
-          "doi": "10.1590/1807-2577.1058",
-          "title": "Conhecimento de alunos do Curso de Odontologia sobre o uso racional do flúor"
         }
       ]
     },
@@ -3724,37 +3086,6 @@
       ]
     },
     {
-      "id": "affiliation_ror",
-      "label": "Affiliation with ROR",
-      "category": "evaluation_coara",
-      "effort": "voluntary",
-      "crossref": 0,
-      "openalex": 0.9704341576015592,
-      "gap": 0.9704341576015592,
-      "samples": [
-        {
-          "doi": "10.1590/1678-7189",
-          "title": "Influência do Hormônio do Crescimento na concentração de testosterona plasmática e nas características seminais de touros jovens e adultos da raça Nelore"
-        },
-        {
-          "doi": "10.1590/s1519-99402015000100006",
-          "title": "Grupo genético e ordem de parto no desempenho produtivo e reprodutivo de matrizes suínas"
-        },
-        {
-          "doi": "10.1590/0100-2945-058/14",
-          "title": "CARACTERIZAÇÃO PÓS-COLHEITA E SENSORIAL DE GENÓTIPOS DE BANANEIRAS TIPO PRATA"
-        },
-        {
-          "doi": "10.1590/1807-2577.1058",
-          "title": "Conhecimento de alunos do Curso de Odontologia sobre o uso racional do flúor"
-        },
-        {
-          "doi": "10.1590/0103-9016-2014-0056",
-          "title": "Seasonality of soil water exchange in the soybean growing season in southern Brazil"
-        }
-      ]
-    },
-    {
       "id": "funding_complete",
       "label": "Complete Funding Info",
       "category": "evaluation_coara",
@@ -3782,37 +3113,6 @@
         {
           "doi": "10.1590/1679-78251772",
           "title": "A Modified Computational Scheme for the Stochastic Perturbation Finite Element Method"
-        }
-      ]
-    },
-    {
-      "id": "preprint_version_link",
-      "label": "Preprint / Version Link",
-      "category": "evaluation_coara",
-      "effort": "voluntary",
-      "crossref": 0.0004419034993233353,
-      "openalex": 0.8470427246464953,
-      "gap": 0.846600821147172,
-      "samples": [
-        {
-          "doi": "10.1590/1678-7189",
-          "title": "Influência do Hormônio do Crescimento na concentração de testosterona plasmática e nas características seminais de touros jovens e adultos da raça Nelore"
-        },
-        {
-          "doi": "10.1590/s1519-99402015000100006",
-          "title": "Grupo genético e ordem de parto no desempenho produtivo e reprodutivo de matrizes suínas"
-        },
-        {
-          "doi": "10.1590/0100-2945-058/14",
-          "title": "CARACTERIZAÇÃO PÓS-COLHEITA E SENSORIAL DE GENÓTIPOS DE BANANEIRAS TIPO PRATA"
-        },
-        {
-          "doi": "10.1590/2176-9451.20.1.030-039.int",
-          "title": "An interview with Eiji Tanaka"
-        },
-        {
-          "doi": "10.1590/1807-2577.1058",
-          "title": "Conhecimento de alunos do Curso de Odontologia sobre o uso racional do flúor"
         }
       ]
     },

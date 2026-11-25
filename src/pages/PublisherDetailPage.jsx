@@ -268,6 +268,9 @@ export default function PublisherDetailPage() {
       {data.sampleWorks && data.sampleWorks.length > 0 && (
         <div className="rounded-lg p-4" style={{ background: "var(--color-surface)", border: "1px solid var(--color-border)" }}>
           <h3 className="text-lg font-semibold mb-3">Sample Works with Largest Gaps</h3>
+          <p className="text-xs mb-3" style={{ color: "var(--color-text-muted)" }}>
+            For each article: the share of the 26 compared fields present in its Crossref record (CR) and in its OpenAlex record (OA), and how many fields only the OpenAlex record has.
+          </p>
           <div className="space-y-3">
             {data.sampleWorks.map((w, i) => (
               <div key={i} className="p-3 rounded-lg" style={{ background: "var(--color-surface-alt)" }}>

@@ -131,75 +131,75 @@
   "comparable": {
     "crossref": {
       "categories": {
-        "findable_essential": 0.6431870440849985,
-        "findable_support": 0.3824928639391056,
-        "accessible_essential": 0.3586465271170314,
-        "accessible_support": 0.33369013637805267,
-        "evaluation_coara": 0.1621313035204567
+        "findable_essential": 0.7016585935472711,
+        "findable_support": 0.4008087535680304,
+        "accessible_essential": 0.3515104662226451,
+        "accessible_support": 0.0028544243577545195,
+        "evaluation_coara": 0.26926736441484306
       },
-      "overall": 0.4057869489375198
+      "overall": 0.4126354229737912
     },
     "openalex": {
       "categories": {
-        "findable_essential": 0.8130563503417582,
-        "findable_support": 0.5846089651883644,
-        "accessible_essential": 0.6972311635670004,
-        "accessible_support": 0.8983865840089017,
-        "evaluation_coara": 0.6145684310920363
+        "findable_essential": 0.7960831490874409,
+        "findable_support": 0.5409769057837728,
+        "accessible_essential": 0.7671673819742488,
+        "accessible_support": 0.7670481640438722,
+        "evaluation_coara": 0.6494595453822921
       },
-      "overall": 0.7186683853918296
+      "overall": 0.718360051568206
     },
-    "gap": 0.3128814364543098,
-    "fieldCount": 38,
+    "gap": 0.30572462859441485,
+    "fieldCount": 26,
     "totalFieldCount": 48
   },
   "voluntary": {
     "crossref": {
       "categories": {
-        "findable_essential": 0.14774619410085632,
-        "findable_support": 0.04445171265461465,
-        "accessible_essential": 0.07290675547098002,
-        "accessible_support": 0.0014866793529971455,
-        "evaluation_coara": 0.0009514747859181732
+        "findable_essential": 0.19699492546780842,
+        "findable_support": 0.059268950206152866,
+        "accessible_essential": 0.10412702188392008,
+        "accessible_support": 0.0028544243577545195,
+        "evaluation_coara": 0
       },
-      "overall": 0.06955726688867746
+      "overall": 0.09430601807802093
     },
     "openalex": {
       "categories": {
-        "findable_essential": 0.662494039103481,
-        "findable_support": 0.2334585121602289,
-        "accessible_essential": 0.5771340009537435,
-        "accessible_support": 0.8478779208392943,
-        "evaluation_coara": 0.38344460340168496
+        "findable_essential": 0.550071530758226,
+        "findable_support": 0.2915275790812271,
+        "accessible_essential": 0.6303648068669527,
+        "accessible_support": 0.7670481640438722,
+        "evaluation_coara": 0.02587029089175012
       },
-      "overall": 0.539527201557781
+      "overall": 0.44822067238912733
     },
-    "gap": 0.46996993466910353,
-    "fieldCount": 16
+    "gap": 0.3539146543111064,
+    "fieldCount": 10
   },
   "automatic": {
     "crossref": {
       "categories": {
         "findable_essential": 0.8909074690770695,
-        "findable_support": 0.6078536314620996,
-        "accessible_essential": 0.5300903901046622,
-        "accessible_support": 0.9980970504281637,
+        "findable_support": 0.6569636060894386,
+        "accessible_essential": 0.5988939105613701,
+        "accessible_support": 0,
         "evaluation_coara": 0.40390104662226456
       },
-      "overall": 0.6715627973358707
+      "overall": 0.5963204686013321
     },
     "openalex": {
       "categories": {
         "findable_essential": 0.8883375059608966,
-        "findable_support": 0.8187092672071213,
-        "accessible_essential": 0.7692894611349547,
-        "accessible_support": 0.9994039103481164,
+        "findable_support": 0.728063900810682,
+        "accessible_essential": 0.903969957081545,
+        "accessible_support": 0,
         "evaluation_coara": 0.9612541726275632
       },
-      "overall": 0.8738212327134001
+      "overall": 0.7939541607057701
     },
-    "gap": 0.2022584353775294,
-    "fieldCount": 22
+    "gap": 0.19763369210443793,
+    "fieldCount": 16
   },
   "yearlyScores": [
     {
@@ -330,29 +330,29 @@
       "comparable": {
         "crossref": {
           "categories": {
-            "findable_essential": 0.6336545324768023,
-            "findable_support": 0.4406852248394005,
-            "accessible_essential": 0.3228051391862955,
-            "accessible_support": 0.3333333333333333,
-            "evaluation_coara": 0.09550321199143469
+            "findable_essential": 0.6912594899746934,
+            "findable_support": 0.46558580605689814,
+            "accessible_essential": 0.278372591006424,
+            "accessible_support": 0,
+            "evaluation_coara": 0.15917201998572447
           },
-          "overall": 0.38933440399714486
+          "overall": 0.37864326964969364
         },
         "openalex": {
           "categories": {
-            "findable_essential": 0.8460573476702509,
-            "findable_support": 0.6303225806451612,
-            "accessible_essential": 0.7064516129032258,
-            "accessible_support": 0.9232974910394266,
-            "evaluation_coara": 0.6473118279569893
+            "findable_essential": 0.8320625610948191,
+            "findable_support": 0.6012288786482335,
+            "accessible_essential": 0.7478494623655914,
+            "accessible_support": 0.7741935483870968,
+            "evaluation_coara": 0.6652329749103943
           },
-          "overall": 0.7467706093189964
+          "overall": 0.7372314155378672
         },
-        "gap": 0.35743620532185155
+        "gap": 0.35858814588817356
       },
       "voluntary": {
-        "crossref": 0.032084225553176304,
-        "openalex": 0.5571057347670251
+        "crossref": 0.03174518201284797,
+        "openalex": 0.44526881720430106
       }
     },
     {
@@ -483,29 +483,29 @@
       "comparable": {
         "crossref": {
           "categories": {
-            "findable_essential": 0.631265664160401,
-            "findable_support": 0.4182330827067669,
-            "accessible_essential": 0.31179511278195493,
-            "accessible_support": 0.3339598997493734,
-            "evaluation_coara": 0.10789473684210527
+            "findable_essential": 0.6886534518113465,
+            "findable_support": 0.44548872180451127,
+            "accessible_essential": 0.26644736842105265,
+            "accessible_support": 0,
+            "evaluation_coara": 0.17982456140350878
           },
-          "overall": 0.3850383771929824
+          "overall": 0.37599609820004554
         },
         "openalex": {
           "categories": {
-            "findable_essential": 0.8348997493734335,
-            "findable_support": 0.631578947368421,
-            "accessible_essential": 0.6792763157894738,
-            "accessible_support": 0.9035087719298245,
-            "evaluation_coara": 0.6304511278195488
+            "findable_essential": 0.8198906356801093,
+            "findable_support": 0.6036519871106336,
+            "accessible_essential": 0.7302631578947368,
+            "accessible_support": 0.7293233082706767,
+            "evaluation_coara": 0.6654135338345865
           },
-          "overall": 0.7314669486215539
+          "overall": 0.725095815838297
         },
-        "gap": 0.34642857142857153
+        "gap": 0.34909971763825143
       },
       "voluntary": {
-        "crossref": 0.01989348370927318,
-        "openalex": 0.5325579573934838
+        "crossref": 0.023919172932330826,
+        "openalex": 0.4334586466165414
       }
     },
     {
@@ -636,29 +636,29 @@
       "comparable": {
         "crossref": {
           "categories": {
-            "findable_essential": 0.6207138842046094,
-            "findable_support": 0.3930860033726813,
-            "accessible_essential": 0.296795952782462,
-            "accessible_support": 0.3333333333333333,
-            "evaluation_coara": 0.08532883642495784
+            "findable_essential": 0.6771424191323011,
+            "findable_support": 0.41604432666827273,
+            "accessible_essential": 0.25126475548060706,
+            "accessible_support": 0,
+            "evaluation_coara": 0.14221472737492974
           },
-          "overall": 0.36977515458122545
+          "overall": 0.35680850908506895
         },
         "openalex": {
           "categories": {
-            "findable_essential": 0.8317875210792579,
-            "findable_support": 0.5976391231028668,
-            "accessible_essential": 0.637858347386172,
-            "accessible_support": 0.9117481731309725,
-            "evaluation_coara": 0.6489038785834739
+            "findable_essential": 0.8164954775410087,
+            "findable_support": 0.560828715972055,
+            "accessible_essential": 0.6791736930860034,
+            "accessible_support": 0.7588532883642496,
+            "evaluation_coara": 0.6632939853850478
           },
-          "overall": 0.7196023046655424
+          "overall": 0.7074104998430462
         },
-        "gap": 0.349827150084317
+        "gap": 0.3506019907579772
       },
       "voluntary": {
-        "crossref": 0.018676222596964585,
-        "openalex": 0.526552838673412
+        "crossref": 0.02440978077571669,
+        "openalex": 0.41964586846543
       }
     },
     {
@@ -789,29 +789,29 @@
       "comparable": {
         "crossref": {
           "categories": {
-            "findable_essential": 0.6206842435655995,
-            "findable_support": 0.36553672316384184,
-            "accessible_essential": 0.2982580037664784,
-            "accessible_support": 0.33270558694287505,
-            "evaluation_coara": 0.08097928436911488
+            "findable_essential": 0.6771100838897449,
+            "findable_support": 0.37422652676889967,
+            "accessible_essential": 0.25,
+            "accessible_support": 0,
+            "evaluation_coara": 0.1349654739485248
           },
-          "overall": 0.36506669805398617
+          "overall": 0.34876009897196336
         },
         "openalex": {
           "categories": {
-            "findable_essential": 0.8330188679245284,
-            "findable_support": 0.5807547169811321,
-            "accessible_essential": 0.755188679245283,
-            "accessible_support": 0.9477987421383648,
-            "evaluation_coara": 0.6766037735849056
+            "findable_essential": 0.8180102915951973,
+            "findable_support": 0.5350404312668464,
+            "accessible_essential": 0.8028301886792453,
+            "accessible_support": 0.8547169811320755,
+            "evaluation_coara": 0.669811320754717
           },
-          "overall": 0.7559166666666667
+          "overall": 0.7458006616025485
         },
-        "gap": 0.3908499686126805
+        "gap": 0.3970405626305852
       },
       "voluntary": {
-        "crossref": 0.014689265536723162,
-        "openalex": 0.5849213836477988
+        "crossref": 0.019585687382297552,
+        "openalex": 0.47966981132075476
       }
     },
     {
@@ -942,29 +942,29 @@
       "comparable": {
         "crossref": {
           "categories": {
-            "findable_essential": 0.6192528735632185,
-            "findable_support": 0.36564986737400534,
-            "accessible_essential": 0.3017241379310345,
-            "accessible_support": 0.33156498673740054,
-            "evaluation_coara": 0.09098143236074271
+            "findable_essential": 0.6755485893416928,
+            "findable_support": 0.37912087912087916,
+            "accessible_essential": 0.26525198938992045,
+            "accessible_support": 0,
+            "evaluation_coara": 0.15163572060123784
           },
-          "overall": 0.3674071618037136
+          "overall": 0.35617285013836736
         },
         "openalex": {
           "categories": {
-            "findable_essential": 0.8291279327135902,
-            "findable_support": 0.5949535192563081,
-            "accessible_essential": 0.7144754316069057,
-            "accessible_support": 0.9291722000885348,
-            "evaluation_coara": 0.648871181938911
+            "findable_essential": 0.8135941084148256,
+            "findable_support": 0.5530259912730032,
+            "accessible_essential": 0.7782204515272244,
+            "accessible_support": 0.8074369189907038,
+            "evaluation_coara": 0.6715360779105799
           },
-          "overall": 0.7392917220008853
+          "overall": 0.7366381515783906
         },
-        "gap": 0.37188456019717175
+        "gap": 0.3804653014400233
       },
       "voluntary": {
-        "crossref": 0.022634836427939876,
-        "openalex": 0.560701637892873
+        "crossref": 0.03060344827586207,
+        "openalex": 0.46069057104913674
       }
     },
     {
@@ -1095,29 +1095,29 @@
       "comparable": {
         "crossref": {
           "categories": {
-            "findable_essential": 0.6266233766233766,
-            "findable_support": 0.35100354191263283,
-            "accessible_essential": 0.30209563164108616,
-            "accessible_support": 0.33293978748524206,
-            "evaluation_coara": 0.1409681227863046
+            "findable_essential": 0.6835891381345927,
+            "findable_support": 0.3585764884466183,
+            "accessible_essential": 0.2650531286894923,
+            "accessible_support": 0,
+            "evaluation_coara": 0.23494687131050765
           },
-          "overall": 0.3776490554899646
+          "overall": 0.3721158711418452
         },
         "openalex": {
           "categories": {
-            "findable_essential": 0.8205128205128206,
-            "findable_support": 0.5936094674556213,
-            "accessible_essential": 0.7208579881656805,
-            "accessible_support": 0.9412228796844181,
-            "evaluation_coara": 0.6411834319526626
+            "findable_essential": 0.8041958041958043,
+            "findable_support": 0.553338968723584,
+            "accessible_essential": 0.7535502958579882,
+            "accessible_support": 0.8390532544378698,
+            "evaluation_coara": 0.6646942800788954
           },
-          "overall": 0.7377687376725838
+          "overall": 0.729491341991342
         },
-        "gap": 0.3601196821826192
+        "gap": 0.35737547084949683
       },
       "voluntary": {
-        "crossref": 0.031463990554899644,
-        "openalex": 0.5902662721893491
+        "crossref": 0.04200118063754427,
+        "openalex": 0.48284023668639053
       }
     },
     {
@@ -1248,29 +1248,29 @@
       "comparable": {
         "crossref": {
           "categories": {
-            "findable_essential": 0.653821243523316,
-            "findable_support": 0.3301813471502591,
-            "accessible_essential": 0.3128238341968912,
-            "accessible_support": 0.3329015544041451,
-            "evaluation_coara": 0.08756476683937824
+            "findable_essential": 0.7132595383890721,
+            "findable_support": 0.32883049592894154,
+            "accessible_essential": 0.2823834196891192,
+            "accessible_support": 0,
+            "evaluation_coara": 0.1459412780656304
           },
-          "overall": 0.37468264248704664
+          "overall": 0.36308654644146876
         },
         "openalex": {
           "categories": {
-            "findable_essential": 0.8094775474956822,
-            "findable_support": 0.5501295336787565,
-            "accessible_essential": 0.7859455958549223,
-            "accessible_support": 0.9369602763385146,
-            "evaluation_coara": 0.6569948186528497
+            "findable_essential": 0.7921573245407442,
+            "findable_support": 0.4918578830495929,
+            "accessible_essential": 0.8367875647668395,
+            "accessible_support": 0.8290155440414507,
+            "evaluation_coara": 0.6627806563039723
           },
-          "overall": 0.74694408462867
+          "overall": 0.7360804566763115
         },
-        "gap": 0.3722614421416234
+        "gap": 0.37299391023484274
       },
       "voluntary": {
-        "crossref": 0.0638816925734024,
-        "openalex": 0.5998650690846287
+        "crossref": 0.08607512953367875,
+        "openalex": 0.49206606217616583
       }
     },
     {
@@ -1401,29 +1401,29 @@
       "comparable": {
         "crossref": {
           "categories": {
-            "findable_essential": 0.6526156506701254,
-            "findable_support": 0.3346303501945525,
-            "accessible_essential": 0.3111219195849546,
-            "accessible_support": 0.3329009943795936,
-            "evaluation_coara": 0.06251621271076524
+            "findable_essential": 0.7119443461855913,
+            "findable_support": 0.33518621456364645,
+            "accessible_essential": 0.27464332036316474,
+            "accessible_support": 0.0012970168612191958,
+            "evaluation_coara": 0.10376134889753567
           },
-          "overall": 0.3695530696065715
+          "overall": 0.35340403759664457
         },
         "openalex": {
           "categories": {
-            "findable_essential": 0.8051948051948052,
-            "findable_support": 0.5422077922077922,
-            "accessible_essential": 0.839935064935065,
-            "accessible_support": 0.9519480519480519,
-            "evaluation_coara": 0.6875324675324676
+            "findable_essential": 0.7874852420306965,
+            "findable_support": 0.48051948051948046,
+            "accessible_essential": 0.9035714285714286,
+            "accessible_support": 0.8727272727272727,
+            "evaluation_coara": 0.6714285714285714
           },
-          "overall": 0.7655746753246753
+          "overall": 0.7557747933884298
         },
-        "gap": 0.39602160571810374
+        "gap": 0.4023707557917852
       },
       "voluntary": {
-        "crossref": 0.06875270211846086,
-        "openalex": 0.6270833333333333
+        "crossref": 0.09228274967574579,
+        "openalex": 0.5163961038961039
       }
     },
     {
@@ -1554,29 +1554,29 @@
       "comparable": {
         "crossref": {
           "categories": {
-            "findable_essential": 0.6623779361309052,
-            "findable_support": 0.38036421219319083,
-            "accessible_essential": 0.4743665874901029,
-            "accessible_support": 0.332541567695962,
-            "evaluation_coara": 0.2630245447347585
+            "findable_essential": 0.7225941121428057,
+            "findable_support": 0.39746634996041175,
+            "accessible_essential": 0.522763262074426,
+            "accessible_support": 0,
+            "evaluation_coara": 0.4383742412245975
           },
-          "overall": 0.46021872525732377
+          "overall": 0.49476384990042943
         },
         "openalex": {
           "categories": {
-            "findable_essential": 0.7832671957671957,
-            "findable_support": 0.5646825396825397,
-            "accessible_essential": 0.6324404761904762,
-            "accessible_support": 0.8539682539682539,
-            "evaluation_coara": 0.5247619047619048
+            "findable_essential": 0.7635642135642136,
+            "findable_support": 0.5157596371882086,
+            "accessible_essential": 0.7257936507936509,
+            "accessible_support": 0.6158730158730159,
+            "evaluation_coara": 0.5814814814814815
           },
-          "overall": 0.6681418650793651
+          "overall": 0.665765220229506
         },
-        "gap": 0.20792313982204136
+        "gap": 0.17100137032907659
       },
       "voluntary": {
-        "crossref": 0.12138097123251518,
-        "openalex": 0.47806547619047624
+        "crossref": 0.16941805225653206,
+        "openalex": 0.381547619047619
       }
     },
     {
@@ -1707,29 +1707,29 @@
       "comparable": {
         "crossref": {
           "categories": {
-            "findable_essential": 0.6571428571428571,
-            "findable_support": 0.4115238095238095,
-            "accessible_essential": 0.39785714285714285,
-            "accessible_support": 0.3326984126984127,
-            "evaluation_coara": 0.2662857142857143
+            "findable_essential": 0.7168831168831169,
+            "findable_support": 0.4450340136054422,
+            "accessible_essential": 0.42952380952380953,
+            "accessible_support": 0,
+            "evaluation_coara": 0.4438095238095238
           },
-          "overall": 0.44486269841269843
+          "overall": 0.47796289424860855
         },
         "openalex": {
           "categories": {
-            "findable_essential": 0.7992063492063491,
-            "findable_support": 0.5903809523809523,
-            "accessible_essential": 0.6211904761904761,
-            "accessible_support": 0.8622222222222221,
-            "evaluation_coara": 0.5276190476190477
+            "findable_essential": 0.7809523809523811,
+            "findable_support": 0.5514285714285714,
+            "accessible_essential": 0.7245238095238095,
+            "accessible_support": 0.6523809523809524,
+            "evaluation_coara": 0.6241269841269842
           },
-          "overall": 0.6753626984126984
+          "overall": 0.6881944444444444
         },
-        "gap": 0.23049999999999993
+        "gap": 0.2102315501958359
       },
       "voluntary": {
-        "crossref": 0.11306349206349205,
-        "openalex": 0.4678253968253968
+        "crossref": 0.15573809523809523,
+        "openalex": 0.40776190476190477
       }
     },
     {
@@ -1860,29 +1860,29 @@
       "comparable": {
         "crossref": {
           "categories": {
-            "findable_essential": 0.6598228663446055,
-            "findable_support": 0.43731884057971016,
-            "accessible_essential": 0.46240942028985504,
-            "accessible_support": 0.34178743961352653,
-            "evaluation_coara": 0.30434782608695654
+            "findable_essential": 0.7198067632850242,
+            "findable_support": 0.4818840579710145,
+            "accessible_essential": 0.5271739130434783,
+            "accessible_support": 0.027777777777777776,
+            "evaluation_coara": 0.49798711755233493
           },
-          "overall": 0.4741953502415459
+          "overall": 0.5223933172302738
         },
         "openalex": {
           "categories": {
-            "findable_essential": 0.805521597392013,
-            "findable_support": 0.5980440097799511,
-            "accessible_essential": 0.6482273838630808,
-            "accessible_support": 0.7946210268948656,
-            "evaluation_coara": 0.6026894865525672
+            "findable_essential": 0.7879528784174261,
+            "findable_support": 0.5602514844568633,
+            "accessible_essential": 0.7710880195599022,
+            "accessible_support": 0.8471882640586798,
+            "evaluation_coara": 0.6748166259168703
           },
-          "overall": 0.6934199266503668
+          "overall": 0.732877742672975
         },
-        "gap": 0.21922457640882087
+        "gap": 0.21048442544270118
       },
       "voluntary": {
-        "crossref": 0.1477455716586151,
-        "openalex": 0.4895018337408312
+        "crossref": 0.20138888888888884,
+        "openalex": 0.46167481662591686
       }
     }
   ],
@@ -1958,28 +1958,6 @@
     "publication_date": [],
     "publisher": [],
     "resource_type": [],
-    "subject_keywords": [
-      {
-        "doi": "10.4067/s0718-16202015000300003",
-        "title": "Forage potential of black oat Iapar 61 alone or in association with birdsfoot trefoil"
-      },
-      {
-        "doi": "10.4067/s0718-16202015000200001",
-        "title": "Development of insulin resistance in horses (Equus caballus): etiologic and molecular aspects"
-      },
-      {
-        "doi": "10.7764/onomazein.31.17",
-        "title": "Paul Maas: Crítica del Texto Traducción de Rafael Bonilla Cerezo y Andrea Baldissera, con la presentación de Giorgio Pasquali a la edición italiana, la Mirada Retrospectiva (1956) y una nota de Luciano Canfora a la tercera edición italiana"
-      },
-      {
-        "doi": "10.4067/s0718-16202015000100001",
-        "title": "Finishing strategies for steers based on pasture or silage plus grain and time on feed and their effects on beef quality"
-      },
-      {
-        "doi": "10.4067/s0250-71612015000300011",
-        "title": "Redes institucionales y desarrollo económico en ciudades pequeñas: el caso de la localidad de Pigüé (Argentina)"
-      }
-    ],
     "funder_name": [
       {
         "doi": "10.4067/s0718-16202015000100001",
@@ -2069,28 +2047,6 @@
         "title": "La Comprensión Referencial Temprana: Aprendiendo Palabras a Través de Imágenes con Distinto Nivel de Iconicismo"
       }
     ],
-    "funder_doi": [
-      {
-        "doi": "10.4067/s0718-16202015000100001",
-        "title": "Finishing strategies for steers based on pasture or silage plus grain and time on feed and their effects on beef quality"
-      },
-      {
-        "doi": "10.4067/s0718-16202015000100005",
-        "title": "Improvement in nutritional quality of fibrous food via in vitro digestion by Aspergillus niger"
-      },
-      {
-        "doi": "10.7764/rts.88.1-18",
-        "title": "Avanzando hacia la protección integral de los derechos de la infancia: Una mirada al proyecto de ley que regula entrevistas grabadas en video y otras medidas de resguardo a menores de edad víctimas de delitos sexuales"
-      },
-      {
-        "doi": "10.4067/s0718-16202015000300007",
-        "title": "Profit maps for precision agriculture"
-      },
-      {
-        "doi": "10.4067/s0718-16202015000100006",
-        "title": "Nutritional value of Brachiarias and forage legumes in the humid tropics of Ecuador"
-      }
-    ],
     "award_number": [
       {
         "doi": "10.4067/s0718-16202015000100001",
@@ -2143,73 +2099,7 @@
         "title": "Violencia de Barrio y Crianza Materna en Medellín-Roma: Rol de la Autoeficacia Emocional Negativa"
       }
     ],
-    "published_print_date": [
-      {
-        "doi": "10.4067/s0718-16202015000300003",
-        "title": "Forage potential of black oat Iapar 61 alone or in association with birdsfoot trefoil"
-      },
-      {
-        "doi": "10.4067/s0718-16202015000200001",
-        "title": "Development of insulin resistance in horses (Equus caballus): etiologic and molecular aspects"
-      },
-      {
-        "doi": "10.7764/onomazein.31.17",
-        "title": "Paul Maas: Crítica del Texto Traducción de Rafael Bonilla Cerezo y Andrea Baldissera, con la presentación de Giorgio Pasquali a la edición italiana, la Mirada Retrospectiva (1956) y una nota de Luciano Canfora a la tercera edición italiana"
-      },
-      {
-        "doi": "10.4067/s0718-16202015000100001",
-        "title": "Finishing strategies for steers based on pasture or silage plus grain and time on feed and their effects on beef quality"
-      },
-      {
-        "doi": "10.4067/s0250-71612015000300011",
-        "title": "Redes institucionales y desarrollo económico en ciudades pequeñas: el caso de la localidad de Pigüé (Argentina)"
-      }
-    ],
-    "published_online_date": [
-      {
-        "doi": "10.7764/rcia.v45i1.1818",
-        "title": "Susceptibility of different grapevine (Vitis vinifera L.) cultivars to Diplodia seriata and Diplodia mutila"
-      },
-      {
-        "doi": "10.7764/rcia.v45i1.1793",
-        "title": "Effects of climate trends and drought events on urban tree growth in Santiago de Chile"
-      },
-      {
-        "doi": "10.7764/rcia.v45i1.1874",
-        "title": "Finishing lambs on a chicory-plantain mixture or a temperate grassbased pasture: live weight gain and gastrointestinal parasitism"
-      },
-      {
-        "doi": "10.7764/rcia.v45i1.1911",
-        "title": "The use of cation exchange resins in wines: Effects on pH, tartrate stability, and metal content"
-      },
-      {
-        "doi": "10.7764/rcia.v45i1.1897",
-        "title": "Chemical Composition and Antifungal and Antibacterial Activity of Mentha spicata L. Volatile Oil"
-      }
-    ],
     "license": [
-      {
-        "doi": "10.4067/s0718-16202015000300003",
-        "title": "Forage potential of black oat Iapar 61 alone or in association with birdsfoot trefoil"
-      },
-      {
-        "doi": "10.4067/s0718-16202015000200001",
-        "title": "Development of insulin resistance in horses (Equus caballus): etiologic and molecular aspects"
-      },
-      {
-        "doi": "10.7764/onomazein.31.17",
-        "title": "Paul Maas: Crítica del Texto Traducción de Rafael Bonilla Cerezo y Andrea Baldissera, con la presentación de Giorgio Pasquali a la edición italiana, la Mirada Retrospectiva (1956) y una nota de Luciano Canfora a la tercera edición italiana"
-      },
-      {
-        "doi": "10.4067/s0718-16202015000100001",
-        "title": "Finishing strategies for steers based on pasture or silage plus grain and time on feed and their effects on beef quality"
-      },
-      {
-        "doi": "10.4067/s0250-71612015000300011",
-        "title": "Redes institucionales y desarrollo económico en ciudades pequeñas: el caso de la localidad de Pigüé (Argentina)"
-      }
-    ],
-    "license_url": [
       {
         "doi": "10.4067/s0718-16202015000300003",
         "title": "Forage potential of black oat Iapar 61 alone or in association with birdsfoot trefoil"
@@ -2253,28 +2143,6 @@
         "title": "Redes institucionales y desarrollo económico en ciudades pequeñas: el caso de la localidad de Pigüé (Argentina)"
       }
     ],
-    "full_text_links": [
-      {
-        "doi": "10.4067/s0049-34492015000100006",
-        "title": "Christós Yannarás, Contro la Religione"
-      },
-      {
-        "doi": "10.4067/s0717-71942015000100018",
-        "title": "MARCOS CUETO y STEVEN PALMER, Medicine and Public Health in Latin America: A History"
-      },
-      {
-        "doi": "10.4067/s0717-71942015000100013",
-        "title": "MERCEDES AVELLANEDA, Guaraníes, criollos y jesuitas. Luchas de poder en las revoluciones comuneras del Paraguay, siglos XVII y XVIII"
-      },
-      {
-        "doi": "10.4067/s0717-71942015000100012",
-        "title": "MARIO AMORÓS, Miguel Enríquez: un nombre en las estrellas. Biografía de un revolucionario"
-      },
-      {
-        "doi": "10.4067/s0717-71942015000100009",
-        "title": "THE END OF \"THE\" CHILEAN HISTORY IN THE NINETEENTH-CENTURY"
-      }
-    ],
     "resource_url": [],
     "references": [
       {
@@ -2298,95 +2166,7 @@
         "title": "Redes institucionales y desarrollo económico en ciudades pequeñas: el caso de la localidad de Pigüé (Argentina)"
       }
     ],
-    "references_count": [
-      {
-        "doi": "10.4067/s0718-16202015000300003",
-        "title": "Forage potential of black oat Iapar 61 alone or in association with birdsfoot trefoil"
-      },
-      {
-        "doi": "10.4067/s0718-16202015000200001",
-        "title": "Development of insulin resistance in horses (Equus caballus): etiologic and molecular aspects"
-      },
-      {
-        "doi": "10.7764/onomazein.31.17",
-        "title": "Paul Maas: Crítica del Texto Traducción de Rafael Bonilla Cerezo y Andrea Baldissera, con la presentación de Giorgio Pasquali a la edición italiana, la Mirada Retrospectiva (1956) y una nota de Luciano Canfora a la tercera edición italiana"
-      },
-      {
-        "doi": "10.4067/s0718-16202015000100001",
-        "title": "Finishing strategies for steers based on pasture or silage plus grain and time on feed and their effects on beef quality"
-      },
-      {
-        "doi": "10.4067/s0250-71612015000300011",
-        "title": "Redes institucionales y desarrollo económico en ciudades pequeñas: el caso de la localidad de Pigüé (Argentina)"
-      }
-    ],
-    "is_referenced_by": [
-      {
-        "doi": "10.4067/s0718-16202015000300003",
-        "title": "Forage potential of black oat Iapar 61 alone or in association with birdsfoot trefoil"
-      },
-      {
-        "doi": "10.4067/s0718-16202015000200001",
-        "title": "Development of insulin resistance in horses (Equus caballus): etiologic and molecular aspects"
-      },
-      {
-        "doi": "10.4067/s0250-71612015000300011",
-        "title": "Redes institucionales y desarrollo económico en ciudades pequeñas: el caso de la localidad de Pigüé (Argentina)"
-      },
-      {
-        "doi": "10.4067/s0718-16202015000100005",
-        "title": "Improvement in nutritional quality of fibrous food via in vitro digestion by Aspergillus niger"
-      },
-      {
-        "doi": "10.7764/onomazein.31.10",
-        "title": "Diseño y evaluación de una aplicación tecnológica para la enseñanza del español como lengua extranjera"
-      }
-    ],
-    "author_sequence": [
-      {
-        "doi": "10.7764/10.7764/pel.56.2.2019.2",
-        "title": "Uso de TIC en estudiantes universitarios chilenos: enfoque desde la adultez emergente"
-      },
-      {
-        "doi": "10.7764/onomazein.46.15",
-        "title": "Discursos leídos en la ceremonia de entrega del Premio de Traducción a la Excelencia Profesional y Académica 2019 al profesor Óscar Velásquez"
-      },
-      {
-        "doi": "10.7764/aisth.66.15",
-        "title": "Sontag, historiadora"
-      },
-      {
-        "doi": "10.7764/tl68160-161",
-        "title": "Nota introductoria"
-      },
-      {
-        "doi": "10.7764/rldr.ne01.018",
-        "title": "Editorial caso Pavez Pavez vs. Chile"
-      }
-    ],
     "affiliation_ids_ror": [
-      {
-        "doi": "10.4067/s0718-16202015000300003",
-        "title": "Forage potential of black oat Iapar 61 alone or in association with birdsfoot trefoil"
-      },
-      {
-        "doi": "10.4067/s0718-16202015000200001",
-        "title": "Development of insulin resistance in horses (Equus caballus): etiologic and molecular aspects"
-      },
-      {
-        "doi": "10.7764/onomazein.31.17",
-        "title": "Paul Maas: Crítica del Texto Traducción de Rafael Bonilla Cerezo y Andrea Baldissera, con la presentación de Giorgio Pasquali a la edición italiana, la Mirada Retrospectiva (1956) y una nota de Luciano Canfora a la tercera edición italiana"
-      },
-      {
-        "doi": "10.4067/s0718-16202015000100001",
-        "title": "Finishing strategies for steers based on pasture or silage plus grain and time on feed and their effects on beef quality"
-      },
-      {
-        "doi": "10.4067/s0250-71612015000300011",
-        "title": "Redes institucionales y desarrollo económico en ciudades pequeñas: el caso de la localidad de Pigüé (Argentina)"
-      }
-    ],
-    "relations": [
       {
         "doi": "10.4067/s0718-16202015000300003",
         "title": "Forage potential of black oat Iapar 61 alone or in association with birdsfoot trefoil"
@@ -2430,28 +2210,6 @@
         "title": "La publicidad y el ideal del “mínimo esfuerzo”"
       }
     ],
-    "affiliation_ror": [
-      {
-        "doi": "10.4067/s0718-16202015000300003",
-        "title": "Forage potential of black oat Iapar 61 alone or in association with birdsfoot trefoil"
-      },
-      {
-        "doi": "10.4067/s0718-16202015000200001",
-        "title": "Development of insulin resistance in horses (Equus caballus): etiologic and molecular aspects"
-      },
-      {
-        "doi": "10.7764/onomazein.31.17",
-        "title": "Paul Maas: Crítica del Texto Traducción de Rafael Bonilla Cerezo y Andrea Baldissera, con la presentación de Giorgio Pasquali a la edición italiana, la Mirada Retrospectiva (1956) y una nota de Luciano Canfora a la tercera edición italiana"
-      },
-      {
-        "doi": "10.4067/s0718-16202015000100001",
-        "title": "Finishing strategies for steers based on pasture or silage plus grain and time on feed and their effects on beef quality"
-      },
-      {
-        "doi": "10.4067/s0250-71612015000300011",
-        "title": "Redes institucionales y desarrollo económico en ciudades pequeñas: el caso de la localidad de Pigüé (Argentina)"
-      }
-    ],
     "funding_complete": [
       {
         "doi": "10.4067/s0718-16202015000100001",
@@ -2472,28 +2230,6 @@
       {
         "doi": "10.4067/s0718-16202015000300012",
         "title": "Energy potential of vine shoots in La Rioja (Spain) and their dependence on several viticultural factors"
-      }
-    ],
-    "preprint_version_link": [
-      {
-        "doi": "10.4067/s0718-16202015000300003",
-        "title": "Forage potential of black oat Iapar 61 alone or in association with birdsfoot trefoil"
-      },
-      {
-        "doi": "10.4067/s0718-16202015000200001",
-        "title": "Development of insulin resistance in horses (Equus caballus): etiologic and molecular aspects"
-      },
-      {
-        "doi": "10.4067/s0718-16202015000100001",
-        "title": "Finishing strategies for steers based on pasture or silage plus grain and time on feed and their effects on beef quality"
-      },
-      {
-        "doi": "10.4067/s0250-71612015000300011",
-        "title": "Redes institucionales y desarrollo económico en ciudades pequeñas: el caso de la localidad de Pigüé (Argentina)"
-      },
-      {
-        "doi": "10.4067/s0718-16202015000100005",
-        "title": "Improvement in nutritional quality of fibrous food via in vitro digestion by Aspergillus niger"
       }
     ],
     "open_access_status": [
@@ -2524,25 +2260,17 @@
       "doi": "10.4067/s0718-16202015000300003",
       "title": "Forage potential of black oat Iapar 61 alone or in association with birdsfoot trefoil",
       "year": 2015,
-      "crossrefScore": 0.4473684210526316,
-      "openalexScore": 0.868421052631579,
-      "gap": 16,
+      "crossrefScore": 0.5384615384615384,
+      "openalexScore": 0.8461538461538461,
+      "gap": 8,
       "openalexAdds": [
         "abstract",
         "author_affiliation",
-        "subject_keywords",
         "author_orcid",
-        "published_print_date",
         "license",
-        "license_url",
         "open_access_license",
         "references",
-        "references_count",
-        "is_referenced_by",
         "affiliation_ids_ror",
-        "relations",
-        "affiliation_ror",
-        "preprint_version_link",
         "open_access_status"
       ]
     },
@@ -2550,26 +2278,18 @@
       "doi": "10.4067/s0718-16202015000200001",
       "title": "Development of insulin resistance in horses (Equus caballus): etiologic and molecular aspects",
       "year": 2015,
-      "crossrefScore": 0.4473684210526316,
-      "openalexScore": 0.8947368421052632,
-      "gap": 17,
+      "crossrefScore": 0.5384615384615384,
+      "openalexScore": 0.8846153846153846,
+      "gap": 9,
       "openalexAdds": [
         "abstract",
         "author_affiliation",
-        "subject_keywords",
         "author_orcid",
         "all_authors_orcid",
-        "published_print_date",
         "license",
-        "license_url",
         "open_access_license",
         "references",
-        "references_count",
-        "is_referenced_by",
         "affiliation_ids_ror",
-        "relations",
-        "affiliation_ror",
-        "preprint_version_link",
         "open_access_status"
       ]
     },
@@ -2577,23 +2297,17 @@
       "doi": "10.7764/onomazein.31.17",
       "title": "Paul Maas: Crítica del Texto Traducción de Rafael Bonilla Cerezo y Andrea Baldissera, con la presentación de Giorgio Pasquali a la edición italiana, la Mirada Retrospectiva (1956) y una nota de Luciano Canfora a la tercera edición italiana",
       "year": 2015,
-      "crossrefScore": 0.39473684210526316,
-      "openalexScore": 0.6842105263157895,
-      "gap": 14,
+      "crossrefScore": 0.4230769230769231,
+      "openalexScore": 0.6538461538461539,
+      "gap": 8,
       "openalexAdds": [
         "author_affiliation",
-        "subject_keywords",
         "language",
-        "published_print_date",
         "license",
-        "license_url",
         "open_access_license",
         "references",
-        "references_count",
         "affiliation_ids_ror",
-        "relations",
         "author_given_family",
-        "affiliation_ror",
         "open_access_status"
       ]
     },
@@ -2601,28 +2315,20 @@
       "doi": "10.4067/s0718-16202015000100001",
       "title": "Finishing strategies for steers based on pasture or silage plus grain and time on feed and their effects on beef quality",
       "year": 2015,
-      "crossrefScore": 0.47368421052631576,
-      "openalexScore": 0.9736842105263158,
-      "gap": 19,
+      "crossrefScore": 0.5384615384615384,
+      "openalexScore": 0.9615384615384616,
+      "gap": 11,
       "openalexAdds": [
         "abstract",
         "author_affiliation",
-        "subject_keywords",
         "funder_name",
         "author_orcid",
-        "funder_doi",
         "award_number",
-        "published_print_date",
         "license",
-        "license_url",
         "open_access_license",
         "references",
-        "references_count",
         "affiliation_ids_ror",
-        "relations",
-        "affiliation_ror",
         "funding_complete",
-        "preprint_version_link",
         "open_access_status"
       ]
     },
@@ -2630,25 +2336,17 @@
       "doi": "10.4067/s0250-71612015000300011",
       "title": "Redes institucionales y desarrollo económico en ciudades pequeñas: el caso de la localidad de Pigüé (Argentina)",
       "year": 2015,
-      "crossrefScore": 0.4473684210526316,
-      "openalexScore": 0.868421052631579,
-      "gap": 16,
+      "crossrefScore": 0.5384615384615384,
+      "openalexScore": 0.8461538461538461,
+      "gap": 8,
       "openalexAdds": [
         "abstract",
         "author_affiliation",
-        "subject_keywords",
         "author_orcid",
-        "published_print_date",
         "license",
-        "license_url",
         "open_access_license",
         "references",
-        "references_count",
-        "is_referenced_by",
         "affiliation_ids_ror",
-        "relations",
-        "affiliation_ror",
-        "preprint_version_link",
         "open_access_status"
       ]
     },
@@ -2656,59 +2354,18 @@
       "doi": "10.4067/s0718-16202015000100005",
       "title": "Improvement in nutritional quality of fibrous food via in vitro digestion by Aspergillus niger",
       "year": 2015,
-      "crossrefScore": 0.4473684210526316,
-      "openalexScore": 0.9210526315789473,
-      "gap": 18,
+      "crossrefScore": 0.5384615384615384,
+      "openalexScore": 0.8846153846153846,
+      "gap": 9,
       "openalexAdds": [
         "author_affiliation",
-        "subject_keywords",
         "funder_name",
         "author_orcid",
         "all_authors_orcid",
-        "funder_doi",
-        "published_print_date",
         "license",
-        "license_url",
         "open_access_license",
         "references",
-        "references_count",
-        "is_referenced_by",
         "affiliation_ids_ror",
-        "relations",
-        "affiliation_ror",
-        "preprint_version_link",
-        "open_access_status"
-      ]
-    },
-    {
-      "doi": "10.7764/ais.57.73-92",
-      "title": "Herir la lengua. Por una política de la singularidad –Derrida, lector de Celan–",
-      "year": 2015,
-      "crossrefScore": 0.34210526315789475,
-      "openalexScore": 0.4473684210526316,
-      "gap": 6,
-      "openalexAdds": [
-        "subject_keywords",
-        "language",
-        "published_print_date",
-        "relations",
-        "author_given_family",
-        "open_access_status"
-      ]
-    },
-    {
-      "doi": "10.7764/ais.58.255-278",
-      "title": "Cine chileno en dos tiempos: para una lectura del desplazamiento del cuadro teatral al encuadre cinematográfico",
-      "year": 2015,
-      "crossrefScore": 0.34210526315789475,
-      "openalexScore": 0.4473684210526316,
-      "gap": 6,
-      "openalexAdds": [
-        "subject_keywords",
-        "language",
-        "published_print_date",
-        "relations",
-        "author_given_family",
         "open_access_status"
       ]
     },
@@ -2716,18 +2373,14 @@
       "doi": "10.7764/ais.57.203-218",
       "title": "Alfonso Reyes y el cine del porvenir",
       "year": 2015,
-      "crossrefScore": 0.34210526315789475,
-      "openalexScore": 0.5263157894736842,
-      "gap": 9,
+      "crossrefScore": 0.38461538461538464,
+      "openalexScore": 0.5,
+      "gap": 5,
       "openalexAdds": [
         "author_affiliation",
-        "subject_keywords",
         "language",
-        "published_print_date",
         "affiliation_ids_ror",
-        "relations",
         "author_given_family",
-        "affiliation_ror",
         "open_access_status"
       ]
     },
@@ -2735,19 +2388,51 @@
       "doi": "10.7764/horiz_enferm.26.2.37",
       "title": "Del Autocuidado al Automanejo: La Escuela de Enfermería UC en la Vanguardia del Cuidado Crónico",
       "year": 2015,
-      "crossrefScore": 0.42105263157894735,
-      "openalexScore": 0.631578947368421,
-      "gap": 10,
+      "crossrefScore": 0.5,
+      "openalexScore": 0.6923076923076923,
+      "gap": 6,
       "openalexAdds": [
         "abstract",
-        "subject_keywords",
         "language",
         "author_orcid",
-        "published_print_date",
         "license",
-        "license_url",
         "open_access_license",
-        "relations",
+        "open_access_status"
+      ]
+    },
+    {
+      "doi": "10.4067/s0718-16202015000300013",
+      "title": "Market management: the impact on the development of an ornamental plants supply chain in Curitiba, Brazil",
+      "year": 2015,
+      "crossrefScore": 0.5384615384615384,
+      "openalexScore": 0.8076923076923077,
+      "gap": 7,
+      "openalexAdds": [
+        "author_affiliation",
+        "author_orcid",
+        "license",
+        "open_access_license",
+        "references",
+        "affiliation_ids_ror",
+        "open_access_status"
+      ]
+    },
+    {
+      "doi": "10.7764/cdi.37.824",
+      "title": "La publicidad y el ideal del “mínimo esfuerzo”",
+      "year": 2015,
+      "crossrefScore": 0.4230769230769231,
+      "openalexScore": 0.7307692307692307,
+      "gap": 9,
+      "openalexAdds": [
+        "author_affiliation",
+        "language",
+        "author_orcid",
+        "issn",
+        "license",
+        "open_access_license",
+        "affiliation_ids_ror",
+        "author_given_family",
         "open_access_status"
       ]
     }
@@ -2897,37 +2582,6 @@
       "samples": []
     },
     {
-      "id": "subject_keywords",
-      "label": "Subject / Keywords",
-      "category": "findable_essential",
-      "effort": "voluntary",
-      "crossref": 0,
-      "openalex": 0.9997615641392466,
-      "gap": 0.9997615641392466,
-      "samples": [
-        {
-          "doi": "10.4067/s0718-16202015000300003",
-          "title": "Forage potential of black oat Iapar 61 alone or in association with birdsfoot trefoil"
-        },
-        {
-          "doi": "10.4067/s0718-16202015000200001",
-          "title": "Development of insulin resistance in horses (Equus caballus): etiologic and molecular aspects"
-        },
-        {
-          "doi": "10.7764/onomazein.31.17",
-          "title": "Paul Maas: Crítica del Texto Traducción de Rafael Bonilla Cerezo y Andrea Baldissera, con la presentación de Giorgio Pasquali a la edición italiana, la Mirada Retrospectiva (1956) y una nota de Luciano Canfora a la tercera edición italiana"
-        },
-        {
-          "doi": "10.4067/s0718-16202015000100001",
-          "title": "Finishing strategies for steers based on pasture or silage plus grain and time on feed and their effects on beef quality"
-        },
-        {
-          "doi": "10.4067/s0250-71612015000300011",
-          "title": "Redes institucionales y desarrollo económico en ciudades pequeñas: el caso de la localidad de Pigüé (Argentina)"
-        }
-      ]
-    },
-    {
       "id": "funder_name",
       "label": "Funder Name",
       "category": "findable_essential",
@@ -3062,37 +2716,6 @@
       ]
     },
     {
-      "id": "funder_doi",
-      "label": "Funder DOI",
-      "category": "findable_support",
-      "effort": "voluntary",
-      "crossref": 0,
-      "openalex": 0.05925131139723414,
-      "gap": 0.05925131139723414,
-      "samples": [
-        {
-          "doi": "10.4067/s0718-16202015000100001",
-          "title": "Finishing strategies for steers based on pasture or silage plus grain and time on feed and their effects on beef quality"
-        },
-        {
-          "doi": "10.4067/s0718-16202015000100005",
-          "title": "Improvement in nutritional quality of fibrous food via in vitro digestion by Aspergillus niger"
-        },
-        {
-          "doi": "10.7764/rts.88.1-18",
-          "title": "Avanzando hacia la protección integral de los derechos de la infancia: Una mirada al proyecto de ley que regula entrevistas grabadas en video y otras medidas de resguardo a menores de edad víctimas de delitos sexuales"
-        },
-        {
-          "doi": "10.4067/s0718-16202015000300007",
-          "title": "Profit maps for precision agriculture"
-        },
-        {
-          "doi": "10.4067/s0718-16202015000100006",
-          "title": "Nutritional value of Brachiarias and forage legumes in the humid tropics of Ecuador"
-        }
-      ]
-    },
-    {
       "id": "award_number",
       "label": "Award Number",
       "category": "findable_support",
@@ -3190,101 +2813,8 @@
       ]
     },
     {
-      "id": "published_print_date",
-      "label": "Published Print Date",
-      "category": "findable_support",
-      "effort": "automatic",
-      "crossref": 0.020456707897240724,
-      "openalex": 1,
-      "gap": 0.9795432921027593,
-      "samples": [
-        {
-          "doi": "10.4067/s0718-16202015000300003",
-          "title": "Forage potential of black oat Iapar 61 alone or in association with birdsfoot trefoil"
-        },
-        {
-          "doi": "10.4067/s0718-16202015000200001",
-          "title": "Development of insulin resistance in horses (Equus caballus): etiologic and molecular aspects"
-        },
-        {
-          "doi": "10.7764/onomazein.31.17",
-          "title": "Paul Maas: Crítica del Texto Traducción de Rafael Bonilla Cerezo y Andrea Baldissera, con la presentación de Giorgio Pasquali a la edición italiana, la Mirada Retrospectiva (1956) y una nota de Luciano Canfora a la tercera edición italiana"
-        },
-        {
-          "doi": "10.4067/s0718-16202015000100001",
-          "title": "Finishing strategies for steers based on pasture or silage plus grain and time on feed and their effects on beef quality"
-        },
-        {
-          "doi": "10.4067/s0250-71612015000300011",
-          "title": "Redes institucionales y desarrollo económico en ciudades pequeñas: el caso de la localidad de Pigüé (Argentina)"
-        }
-      ]
-    },
-    {
-      "id": "published_online_date",
-      "label": "Published Online Date",
-      "category": "findable_support",
-      "effort": "automatic",
-      "crossref": 0.9988106565176023,
-      "openalex": 1,
-      "gap": 0.0011893434823977422,
-      "samples": [
-        {
-          "doi": "10.7764/rcia.v45i1.1818",
-          "title": "Susceptibility of different grapevine (Vitis vinifera L.) cultivars to Diplodia seriata and Diplodia mutila"
-        },
-        {
-          "doi": "10.7764/rcia.v45i1.1793",
-          "title": "Effects of climate trends and drought events on urban tree growth in Santiago de Chile"
-        },
-        {
-          "doi": "10.7764/rcia.v45i1.1874",
-          "title": "Finishing lambs on a chicory-plantain mixture or a temperate grassbased pasture: live weight gain and gastrointestinal parasitism"
-        },
-        {
-          "doi": "10.7764/rcia.v45i1.1911",
-          "title": "The use of cation exchange resins in wines: Effects on pH, tartrate stability, and metal content"
-        },
-        {
-          "doi": "10.7764/rcia.v45i1.1897",
-          "title": "Chemical Composition and Antifungal and Antibacterial Activity of Mentha spicata L. Volatile Oil"
-        }
-      ]
-    },
-    {
       "id": "license",
       "label": "License",
-      "category": "accessible_essential",
-      "effort": "automatic",
-      "crossref": 0.19778782112274024,
-      "openalex": 0.8079399141630901,
-      "gap": 0.6101520930403499,
-      "samples": [
-        {
-          "doi": "10.4067/s0718-16202015000300003",
-          "title": "Forage potential of black oat Iapar 61 alone or in association with birdsfoot trefoil"
-        },
-        {
-          "doi": "10.4067/s0718-16202015000200001",
-          "title": "Development of insulin resistance in horses (Equus caballus): etiologic and molecular aspects"
-        },
-        {
-          "doi": "10.7764/onomazein.31.17",
-          "title": "Paul Maas: Crítica del Texto Traducción de Rafael Bonilla Cerezo y Andrea Baldissera, con la presentación de Giorgio Pasquali a la edición italiana, la Mirada Retrospectiva (1956) y una nota de Luciano Canfora a la tercera edición italiana"
-        },
-        {
-          "doi": "10.4067/s0718-16202015000100001",
-          "title": "Finishing strategies for steers based on pasture or silage plus grain and time on feed and their effects on beef quality"
-        },
-        {
-          "doi": "10.4067/s0250-71612015000300011",
-          "title": "Redes institucionales y desarrollo económico en ciudades pequeñas: el caso de la localidad de Pigüé (Argentina)"
-        }
-      ]
-    },
-    {
-      "id": "license_url",
-      "label": "License URL",
       "category": "accessible_essential",
       "effort": "automatic",
       "crossref": 0.19778782112274024,
@@ -3345,37 +2875,6 @@
       ]
     },
     {
-      "id": "full_text_links",
-      "label": "Full-text Links",
-      "category": "accessible_essential",
-      "effort": "automatic",
-      "crossref": 0.9316127497621313,
-      "openalex": 0.8130662851692895,
-      "gap": -0.1185464645928418,
-      "samples": [
-        {
-          "doi": "10.4067/s0049-34492015000100006",
-          "title": "Christós Yannarás, Contro la Religione"
-        },
-        {
-          "doi": "10.4067/s0717-71942015000100018",
-          "title": "MARCOS CUETO y STEVEN PALMER, Medicine and Public Health in Latin America: A History"
-        },
-        {
-          "doi": "10.4067/s0717-71942015000100013",
-          "title": "MERCEDES AVELLANEDA, Guaraníes, criollos y jesuitas. Luchas de poder en las revoluciones comuneras del Paraguay, siglos XVII y XVIII"
-        },
-        {
-          "doi": "10.4067/s0717-71942015000100012",
-          "title": "MARIO AMORÓS, Miguel Enríquez: un nombre en las estrellas. Biografía de un revolucionario"
-        },
-        {
-          "doi": "10.4067/s0717-71942015000100009",
-          "title": "THE END OF \"THE\" CHILEAN HISTORY IN THE NINETEENTH-CENTURY"
-        }
-      ]
-    },
-    {
       "id": "resource_url",
       "label": "Resource URL",
       "category": "accessible_essential",
@@ -3417,99 +2916,6 @@
       ]
     },
     {
-      "id": "references_count",
-      "label": "References Count",
-      "category": "accessible_essential",
-      "effort": "voluntary",
-      "crossref": 0.010466222645099905,
-      "openalex": 0.47067238912732473,
-      "gap": 0.46020616648222484,
-      "samples": [
-        {
-          "doi": "10.4067/s0718-16202015000300003",
-          "title": "Forage potential of black oat Iapar 61 alone or in association with birdsfoot trefoil"
-        },
-        {
-          "doi": "10.4067/s0718-16202015000200001",
-          "title": "Development of insulin resistance in horses (Equus caballus): etiologic and molecular aspects"
-        },
-        {
-          "doi": "10.7764/onomazein.31.17",
-          "title": "Paul Maas: Crítica del Texto Traducción de Rafael Bonilla Cerezo y Andrea Baldissera, con la presentación de Giorgio Pasquali a la edición italiana, la Mirada Retrospectiva (1956) y una nota de Luciano Canfora a la tercera edición italiana"
-        },
-        {
-          "doi": "10.4067/s0718-16202015000100001",
-          "title": "Finishing strategies for steers based on pasture or silage plus grain and time on feed and their effects on beef quality"
-        },
-        {
-          "doi": "10.4067/s0250-71612015000300011",
-          "title": "Redes institucionales y desarrollo económico en ciudades pequeñas: el caso de la localidad de Pigüé (Argentina)"
-        }
-      ]
-    },
-    {
-      "id": "is_referenced_by",
-      "label": "Is Referenced By",
-      "category": "accessible_essential",
-      "effort": "automatic",
-      "crossref": 0.3232635585156993,
-      "openalex": 0.41750119217930376,
-      "gap": 0.09423763366360444,
-      "samples": [
-        {
-          "doi": "10.4067/s0718-16202015000300003",
-          "title": "Forage potential of black oat Iapar 61 alone or in association with birdsfoot trefoil"
-        },
-        {
-          "doi": "10.4067/s0718-16202015000200001",
-          "title": "Development of insulin resistance in horses (Equus caballus): etiologic and molecular aspects"
-        },
-        {
-          "doi": "10.4067/s0250-71612015000300011",
-          "title": "Redes institucionales y desarrollo económico en ciudades pequeñas: el caso de la localidad de Pigüé (Argentina)"
-        },
-        {
-          "doi": "10.4067/s0718-16202015000100005",
-          "title": "Improvement in nutritional quality of fibrous food via in vitro digestion by Aspergillus niger"
-        },
-        {
-          "doi": "10.7764/onomazein.31.10",
-          "title": "Diseño y evaluación de una aplicación tecnológica para la enseñanza del español como lengua extranjera"
-        }
-      ]
-    },
-    {
-      "id": "author_sequence",
-      "label": "Author Sequence",
-      "category": "accessible_support",
-      "effort": "automatic",
-      "crossref": 0.9980970504281637,
-      "openalex": 0.9994039103481164,
-      "gap": 0.0013068599199527187,
-      "samples": [
-        {
-          "doi": "10.7764/10.7764/pel.56.2.2019.2",
-          "title": "Uso de TIC en estudiantes universitarios chilenos: enfoque desde la adultez emergente"
-        },
-        {
-          "doi": "10.7764/onomazein.46.15",
-          "title": "Discursos leídos en la ceremonia de entrega del Premio de Traducción a la Excelencia Profesional y Académica 2019 al profesor Óscar Velásquez"
-        },
-        {
-          "doi": "10.7764/aisth.66.15",
-          "title": "Sontag, historiadora"
-        },
-        {
-          "doi": "10.7764/tl68160-161",
-          "title": "Nota introductoria"
-        },
-        {
-          "doi": "10.7764/rldr.ne01.018",
-          "title": "Editorial caso Pavez Pavez vs. Chile"
-        }
-      ]
-    },
-    {
       "id": "affiliation_ids_ror",
       "label": "Affiliation IDs (ROR)",
       "category": "accessible_support",
@@ -3517,37 +2923,6 @@
       "crossref": 0.0028544243577545195,
       "openalex": 0.7670481640438722,
       "gap": 0.7641937396861177,
-      "samples": [
-        {
-          "doi": "10.4067/s0718-16202015000300003",
-          "title": "Forage potential of black oat Iapar 61 alone or in association with birdsfoot trefoil"
-        },
-        {
-          "doi": "10.4067/s0718-16202015000200001",
-          "title": "Development of insulin resistance in horses (Equus caballus): etiologic and molecular aspects"
-        },
-        {
-          "doi": "10.7764/onomazein.31.17",
-          "title": "Paul Maas: Crítica del Texto Traducción de Rafael Bonilla Cerezo y Andrea Baldissera, con la presentación de Giorgio Pasquali a la edición italiana, la Mirada Retrospectiva (1956) y una nota de Luciano Canfora a la tercera edición italiana"
-        },
-        {
-          "doi": "10.4067/s0718-16202015000100001",
-          "title": "Finishing strategies for steers based on pasture or silage plus grain and time on feed and their effects on beef quality"
-        },
-        {
-          "doi": "10.4067/s0250-71612015000300011",
-          "title": "Redes institucionales y desarrollo económico en ciudades pequeñas: el caso de la localidad de Pigüé (Argentina)"
-        }
-      ]
-    },
-    {
-      "id": "relations",
-      "label": "Relations",
-      "category": "accessible_support",
-      "effort": "voluntary",
-      "crossref": 0.00011893434823977165,
-      "openalex": 0.9287076776347163,
-      "gap": 0.9285887432864766,
       "samples": [
         {
           "doi": "10.4067/s0718-16202015000300003",
@@ -3603,37 +2978,6 @@
       ]
     },
     {
-      "id": "affiliation_ror",
-      "label": "Affiliation with ROR",
-      "category": "evaluation_coara",
-      "effort": "voluntary",
-      "crossref": 0.0028544243577545195,
-      "openalex": 0.7670481640438722,
-      "gap": 0.7641937396861177,
-      "samples": [
-        {
-          "doi": "10.4067/s0718-16202015000300003",
-          "title": "Forage potential of black oat Iapar 61 alone or in association with birdsfoot trefoil"
-        },
-        {
-          "doi": "10.4067/s0718-16202015000200001",
-          "title": "Development of insulin resistance in horses (Equus caballus): etiologic and molecular aspects"
-        },
-        {
-          "doi": "10.7764/onomazein.31.17",
-          "title": "Paul Maas: Crítica del Texto Traducción de Rafael Bonilla Cerezo y Andrea Baldissera, con la presentación de Giorgio Pasquali a la edición italiana, la Mirada Retrospectiva (1956) y una nota de Luciano Canfora a la tercera edición italiana"
-        },
-        {
-          "doi": "10.4067/s0718-16202015000100001",
-          "title": "Finishing strategies for steers based on pasture or silage plus grain and time on feed and their effects on beef quality"
-        },
-        {
-          "doi": "10.4067/s0250-71612015000300011",
-          "title": "Redes institucionales y desarrollo económico en ciudades pequeñas: el caso de la localidad de Pigüé (Argentina)"
-        }
-      ]
-    },
-    {
       "id": "funding_complete",
       "label": "Complete Funding Info",
       "category": "evaluation_coara",
@@ -3661,37 +3005,6 @@
         {
           "doi": "10.4067/s0718-16202015000300012",
           "title": "Energy potential of vine shoots in La Rioja (Spain) and their dependence on several viticultural factors"
-        }
-      ]
-    },
-    {
-      "id": "preprint_version_link",
-      "label": "Preprint / Version Link",
-      "category": "evaluation_coara",
-      "effort": "voluntary",
-      "crossref": 0,
-      "openalex": 0.3574153552694325,
-      "gap": 0.3574153552694325,
-      "samples": [
-        {
-          "doi": "10.4067/s0718-16202015000300003",
-          "title": "Forage potential of black oat Iapar 61 alone or in association with birdsfoot trefoil"
-        },
-        {
-          "doi": "10.4067/s0718-16202015000200001",
-          "title": "Development of insulin resistance in horses (Equus caballus): etiologic and molecular aspects"
-        },
-        {
-          "doi": "10.4067/s0718-16202015000100001",
-          "title": "Finishing strategies for steers based on pasture or silage plus grain and time on feed and their effects on beef quality"
-        },
-        {
-          "doi": "10.4067/s0250-71612015000300011",
-          "title": "Redes institucionales y desarrollo económico en ciudades pequeñas: el caso de la localidad de Pigüé (Argentina)"
-        },
-        {
-          "doi": "10.4067/s0718-16202015000100005",
-          "title": "Improvement in nutritional quality of fibrous food via in vitro digestion by Aspergillus niger"
         }
       ]
     },

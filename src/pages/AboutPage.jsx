@@ -3,27 +3,27 @@ import { CATEGORY_ORDER, CATEGORIES } from "../lib/categories";
 const CATEGORY_FIELDS = {
   findable_essential: [
     "Title", "Abstract", "Author", "Author Affiliation", "DOI",
-    "Publication Date", "Publisher", "Resource Type", "Subject / Keywords",
+    "Publication Date", "Publisher", "Resource Type", "Subject / Keywords †",
     "Funder Name", "Container Title", "Language",
   ],
   findable_support: [
-    "Author ORCID", "All Authors ORCID", "Funder DOI", "Award Number",
+    "Author ORCID", "All Authors ORCID", "Funder DOI †", "Award Number",
     "ISSN", "Volume", "Issue", "Page",
-    "Published Print Date *", "Published Online Date *", "Article Number *",
+    "Published Print Date †", "Published Online Date †", "Article Number *",
   ],
   accessible_essential: [
-    "License", "License URL", "Open Access License", "Full-text Links",
-    "Resource URL", "References", "References Count", "Is Referenced By",
+    "License", "License URL †", "Open Access License", "Full-text Links †",
+    "Resource URL", "References", "References Count †", "Is Referenced By †",
     "Update Policy *",
   ],
   accessible_support: [
-    "JATS Abstract *", "Author Sequence", "Affiliation IDs (ROR)",
-    "Relations", "Assertions *", "Archive *",
+    "JATS Abstract *", "Author Sequence †", "Affiliation IDs (ROR)",
+    "Relations †", "Assertions *", "Archive *",
   ],
   evaluation_coara: [
-    "CRediT Author Roles *", "Complete Author Names", "Affiliation with ROR",
+    "CRediT Author Roles *", "Complete Author Names", "Affiliation with ROR †",
     "Complete Funding Info", "Data Availability Statement *",
-    "Preprint / Version Link", "Peer Review Metadata *",
+    "Preprint / Version Link †", "Peer Review Metadata *",
     "Clinical Trial Number *", "Structured Abstract *", "Open Access Status",
   ],
 };
@@ -78,15 +78,14 @@ export default function AboutPage() {
             Across <strong style={{ color: "var(--color-text)" }}>835,000+
             journal articles</strong> from 14 active publishers (2015-2025),
             filtered to <code>type:journal-article</code> to ensure fair
-            comparison, publishers deposit on average less than half of
-            comparable metadata fields in Crossref. OpenAlex consistently
-            enriches this by double-digit percentage points.
+            comparison, the mean score of the publishers over the 26 compared
+            fields is 59.6% for Crossref and 77.7% for OpenAlex. By publisher,
+            the difference runs from 8.1 to 30.6 percentage points.
           </p>
           <p>
-            The largest gaps are in Author ORCID, Author Affiliation, Abstract,
-            and Preprint/Version Links: fields where OpenAlex
-            reconstructs from ORCID.org, ROR, PubMed, and repository metadata
-            what publishers chose not to deposit.
+            The largest differences are in Affiliation IDs (ROR), Author
+            Affiliation, Author ORCID and Language: for these the OpenAlex
+            record has a value far more often than the Crossref record.
           </p>
           <p>
             Evaluation-relevant fields (CRediT roles, data availability
@@ -179,9 +178,9 @@ export default function AboutPage() {
           <p>
             <strong style={{ color: "var(--color-text)" }}>Evaluation:</strong>
             {" "}Each work is evaluated against
-            <strong style={{ color: "var(--color-text)" }}> 38 comparable metadata fields</strong>
-            {" "}organized in 5 categories (from an initial set of 48, excluding
-            10 that only one source supports). Each field has source-specific check
+            <strong style={{ color: "var(--color-text)" }}> 26 metadata fields</strong>
+            {" "}organized in 5 categories (from an initial set of 48; see the
+            revision of 25 November 2026 below). Each field has source-specific check
             functions that account for the different data models of Crossref and
             OpenAlex. For example, Crossref stores authors in{" "}
             <code>author[]</code> while OpenAlex uses{" "}
@@ -197,8 +196,25 @@ export default function AboutPage() {
             {" "}(both Crossref and OpenAlex can provide them). The remaining
             10 are structural (e.g., JATS Abstract and Assertions only exist in
             Crossref; CRediT roles and data availability don't exist in either).
-            The dashboard uses only the 38 comparable fields. Fields marked
-            with * below are non-comparable and excluded from all charts.
+            Fields marked with * below are non-comparable and excluded from all charts.
+          </p>
+          <p>
+            <strong style={{ color: "var(--color-text)" }}>
+              Revision of 25 November 2026:
+            </strong>
+            {" "}Of the 38 comparable fields, the dashboard now uses 26. Eight were
+            left out because their two checks do not ask Crossref and OpenAlex the
+            same thing: Subject / Keywords, Published Print Date, Published Online
+            Date, Relations, Preprint / Version Link, Funder DOI, Is Referenced By
+            and Full-text Links. Four were left out because they have exactly as
+            many records as another field and so counted the same thing twice:
+            License URL, References Count, Affiliation with ROR and Author
+            Sequence. These twelve are marked with † below. A value that is only a
+            placeholder (such as "0", "None" or "N/A") is no longer counted as
+            present: 3,894 values in the Crossref records and 41 in the OpenAlex
+            records. With all 38 fields and every value counted, as shown here
+            until that day, the mean score was 56.7% for Crossref and 78.3% for
+            OpenAlex; it is now 59.6% and 77.7%.
           </p>
           <p>
             <strong style={{ color: "var(--color-text)" }}>
@@ -279,11 +295,11 @@ export default function AboutPage() {
         }}
       >
         <h3 className="text-lg font-semibold mb-3">
-          38 Comparable Fields in 5 Categories
+          The 48 Fields in 5 Categories
         </h3>
         <p className="text-xs mb-3" style={{ color: "var(--color-text-muted)" }}>
-          Only fields present in both Crossref and OpenAlex are used.
-          Fields marked with * are non-comparable and excluded from all charts.
+          The 26 fields without a mark are the ones the charts use. Fields marked
+          with * are non-comparable; fields marked with † were left out on 25 November 2026.
         </p>
         <div className="space-y-4">
           {CATEGORY_ORDER.map((catId) => {
@@ -308,7 +324,7 @@ export default function AboutPage() {
                 </div>
                 <div className="flex flex-wrap gap-1 ml-5">
                   {fields.map((f) => {
-                    const isNonComp = f.endsWith("*");
+                    const isNonComp = f.endsWith("*") || f.endsWith("†");
                     return (
                       <span
                         key={f}

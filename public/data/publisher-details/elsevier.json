@@ -8,10 +8,10 @@
   "totalWorksMatched": 77878,
   "totalWorksUniverse": 78004,
   "crossref": {
-    "overall": 0.47005105993010454,
+    "overall": 0.4700494865842155,
     "categories": {
       "findable_essential": 0.6782675674751721,
-      "findable_support": 0.4787878010917855,
+      "findable_support": 0.478777312119192,
       "accessible_essential": 0.5685947729176282,
       "accessible_support": 0.2921666410269559,
       "evaluation_coara": 0.11693631095841239
@@ -34,9 +34,9 @@
       "funder_doi": 0.22786010973796217,
       "award_number": 0.15541510691759397,
       "issn": 0.9998589815906876,
-      "volume": 0.9970514332598328,
-      "issue": 0.44183631608635454,
-      "page": 0.9967693964412081,
+      "volume": 0.9970001538382647,
+      "issue": 0.4417850366647864,
+      "page": 0.9967565765858161,
       "published_print_date": 0.999615404338239,
       "published_online_date": 0.0012948053945951489,
       "article_number": 0.24775652530639455,
@@ -68,10 +68,10 @@
     }
   },
   "openalex": {
-    "overall": 0.525312385780297,
+    "overall": 0.525311860483154,
     "categories": {
       "findable_essential": 0.8343627211792805,
-      "findable_support": 0.6250639111524086,
+      "findable_support": 0.6250604091714547,
       "accessible_essential": 0.3640423340210186,
       "accessible_support": 0.4413848155662275,
       "evaluation_coara": 0.23047458845887156
@@ -94,9 +94,9 @@
       "funder_doi": 0.2315288014586918,
       "award_number": 0.142055522740697,
       "issn": 0.9998330722411978,
-      "volume": 0.9970595033257146,
-      "issue": 0.44511928914455945,
-      "page": 0.9968026913890957,
+      "volume": 0.9970466627288836,
+      "issue": 0.4451064485477285,
+      "page": 0.9967898507922648,
       "published_print_date": 1,
       "published_online_date": 1,
       "article_number": 0,
@@ -127,79 +127,79 @@
       "open_access_status": 0.30768638126300113
     }
   },
-  "gap": 0.0552613258501925,
+  "gap": 0.05526237389893851,
   "comparable": {
     "crossref": {
       "categories": {
-        "findable_essential": 0.6782675674751721,
-        "findable_support": 0.5018909286703246,
-        "accessible_essential": 0.531660235372545,
-        "accessible_support": 0.29621557868827236,
-        "evaluation_coara": 0.2335828931849649
+        "findable_essential": 0.7399282554274605,
+        "findable_support": 0.5414319412191315,
+        "accessible_essential": 0.6139749243628532,
+        "accessible_support": 0,
+        "evaluation_coara": 0.3893048219749415
       },
-      "overall": 0.4880171048920568
+      "overall": 0.5345479632968095
     },
     "openalex": {
       "categories": {
-        "findable_essential": 0.8343627211792805,
-        "findable_support": 0.6875703022676494,
-        "accessible_essential": 0.40954762577364595,
-        "accessible_support": 0.882769631132455,
-        "evaluation_coara": 0.4609491769177431
+        "findable_essential": 0.8193316352616797,
+        "findable_support": 0.6634479570610442,
+        "accessible_essential": 0.47600413467217956,
+        "accessible_support": 0.7740568581627674,
+        "evaluation_coara": 0.44678000633469445
       },
-      "overall": 0.6362980666341371
+      "overall": 0.631079404888921
     },
-    "gap": 0.14828096174208033,
-    "fieldCount": 38,
+    "gap": 0.09653144159211147,
+    "fieldCount": 26,
     "totalFieldCount": 48
   },
   "voluntary": {
     "crossref": {
       "categories": {
-        "findable_essential": 0.06294548997487309,
-        "findable_support": 0.14562073739808215,
-        "accessible_essential": 0.41377792591832896,
-        "accessible_support": 0.00044228501102507565,
-        "evaluation_coara": 0.04631813753140865
+        "findable_essential": 0.08392731996649745,
+        "findable_support": 0.1182076132847888,
+        "accessible_essential": 0.3466681195836111,
+        "accessible_support": 0,
+        "evaluation_coara": 0.13895441259422595
       },
-      "overall": 0.15347909508914073
+      "overall": 0.1573672503974155
     },
     "openalex": {
       "categories": {
-        "findable_essential": 0.5309201571689053,
-        "findable_support": 0.3592221166439816,
-        "accessible_essential": 0.4240307489492112,
-        "accessible_support": 0.8787077223349341,
-        "evaluation_coara": 0.36882046277510977
+        "findable_essential": 0.3746586541342442,
+        "findable_support": 0.40178655503907823,
+        "accessible_essential": 0.36175171421967695,
+        "accessible_support": 0.7740568581627674,
+        "evaluation_coara": 0.142055522740697
       },
-      "overall": 0.480801916673087
+      "overall": 0.3689202984154703
     },
-    "gap": 0.3273228215839463,
-    "fieldCount": 16
+    "gap": 0.2115530480180548,
+    "fieldCount": 10
   },
   "automatic": {
     "crossref": {
       "categories": {
         "findable_essential": 0.9859286062253217,
-        "findable_support": 0.7394043895184862,
-        "accessible_essential": 0.6023896210450745,
-        "accessible_support": 0.887762166042767,
+        "findable_support": 0.8588501871698886,
+        "accessible_essential": 0.8812817291420953,
+        "accessible_support": 0,
         "evaluation_coara": 0.5144800266652992
       },
-      "overall": 0.7489588674939747
+      "overall": 0.7478225475616636
     },
     "openalex": {
       "categories": {
         "findable_essential": 0.986084003184468,
-        "findable_support": 0.9064690926834279,
-        "accessible_essential": 0.40085775186830686,
-        "accessible_support": 0.8908934487274969,
+        "findable_support": 0.8596940085775187,
+        "accessible_essential": 0.5902565551246822,
+        "accessible_support": 0,
         "evaluation_coara": 0.5991422481316931
       },
-      "overall": 0.7409277973240196
+      "overall": 0.6921718906494774
     },
-    "gap": -0.008031070169955079,
-    "fieldCount": 22
+    "gap": -0.05565065691218618,
+    "fieldCount": 16
   },
   "yearlyScores": [
     {
@@ -330,29 +330,29 @@
       "comparable": {
         "crossref": {
           "categories": {
-            "findable_essential": 0.6717772640739733,
-            "findable_support": 0.4884280663584444,
-            "accessible_essential": 0.44616875169975523,
-            "accessible_support": 0.29099809627413653,
-            "evaluation_coara": 0.21656241501223822
+            "findable_essential": 0.7328479244443344,
+            "findable_support": 0.5342087882202106,
+            "accessible_essential": 0.5166236062007071,
+            "accessible_support": 0,
+            "evaluation_coara": 0.36093735835373036
           },
-          "overall": 0.45875186973075877
+          "overall": 0.5013290687872547
         },
         "openalex": {
           "categories": {
-            "findable_essential": 0.8280414287009337,
-            "findable_support": 0.6875713897198803,
-            "accessible_essential": 0.3910966820777808,
-            "accessible_support": 0.879747982957121,
-            "evaluation_coara": 0.43260810443296177
+            "findable_essential": 0.8124088313101094,
+            "findable_support": 0.6676055790823263,
+            "accessible_essential": 0.4496872450367147,
+            "accessible_support": 0.7647538754419364,
+            "evaluation_coara": 0.41075151844801017
           },
-          "overall": 0.6238187267700118
+          "overall": 0.6149109887483561
         },
-        "gap": 0.16506685703925306
+        "gap": 0.11358191996110145
       },
       "voluntary": {
-        "crossref": 0.1313009926570574,
-        "openalex": 0.4611974209047231
+        "crossref": 0.12963013326081044,
+        "openalex": 0.34407125373946157
       }
     },
     {
@@ -483,29 +483,29 @@
       "comparable": {
         "crossref": {
           "categories": {
-            "findable_essential": 0.672268148348918,
-            "findable_support": 0.48795229705922216,
-            "accessible_essential": 0.4475538690879523,
-            "accessible_support": 0.2905542756471066,
-            "evaluation_coara": 0.21531372814744545
+            "findable_essential": 0.733383434562456,
+            "findable_support": 0.5325150523686911,
+            "accessible_essential": 0.5171432443420517,
+            "accessible_support": 0,
+            "evaluation_coara": 0.35885621357907577
           },
-          "overall": 0.45887992952974654
+          "overall": 0.5009493420253686
         },
         "openalex": {
           "categories": {
-            "findable_essential": 0.8255748294710212,
-            "findable_support": 0.6837240818539098,
-            "accessible_essential": 0.3774393549261418,
-            "accessible_support": 0.8784388128472692,
-            "evaluation_coara": 0.43168451009621894
+            "findable_essential": 0.8097179957865687,
+            "findable_support": 0.6629237411186185,
+            "accessible_essential": 0.4326128201653341,
+            "accessible_support": 0.7629760130098929,
+            "evaluation_coara": 0.4092695487193387
           },
-          "overall": 0.6187716831548989
+          "overall": 0.6086586759899539
         },
-        "gap": 0.1598917536251524
+        "gap": 0.10770933396458537
       },
       "voluntary": {
-        "crossref": 0.12831289244251703,
-        "openalex": 0.4537951167728238
+        "crossref": 0.12841170890364548,
+        "openalex": 0.33680037945521074
       }
     },
     {
@@ -636,29 +636,29 @@
       "comparable": {
         "crossref": {
           "categories": {
-            "findable_essential": 0.6736658512276886,
-            "findable_support": 0.487034520250068,
-            "accessible_essential": 0.44769298722478934,
-            "accessible_support": 0.29165534112530583,
-            "evaluation_coara": 0.21769502582223427
+            "findable_essential": 0.7349082013392967,
+            "findable_support": 0.5298800139789539,
+            "accessible_essential": 0.5146779016036966,
+            "accessible_support": 0,
+            "evaluation_coara": 0.36282504303705715
           },
-          "overall": 0.4597827194889916
+          "overall": 0.5011889465069677
         },
         "openalex": {
           "categories": {
-            "findable_essential": 0.8271722388330162,
-            "findable_support": 0.6874422397390595,
-            "accessible_essential": 0.381727371568361,
-            "accessible_support": 0.8819425568542177,
-            "evaluation_coara": 0.4376460994835553
+            "findable_essential": 0.8114606241814722,
+            "findable_support": 0.666233060225993,
+            "accessible_essential": 0.4353085077466703,
+            "accessible_support": 0.7690948627344387,
+            "evaluation_coara": 0.41850140436712874
           },
-          "overall": 0.6224233260849867
+          "overall": 0.6128100403718778
         },
-        "gap": 0.16264060659599516
+        "gap": 0.11162109386491015
       },
       "voluntary": {
-        "crossref": 0.13316458276705628,
-        "openalex": 0.46170211561112623
+        "crossref": 0.13475129111171516,
+        "openalex": 0.34757406904050014
       }
     },
     {
@@ -789,29 +789,29 @@
       "comparable": {
         "crossref": {
           "categories": {
-            "findable_essential": 0.6728845447870778,
-            "findable_support": 0.4920842511013216,
-            "accessible_essential": 0.45697962555066074,
-            "accessible_support": 0.2885003671071953,
-            "evaluation_coara": 0.21511563876651985
+            "findable_essential": 0.7340558670404485,
+            "findable_support": 0.5357142857142858,
+            "accessible_essential": 0.5280148678414096,
+            "accessible_support": 0,
+            "evaluation_coara": 0.3585260646108664
           },
-          "overall": 0.4617960719530102
+          "overall": 0.5042828328518031
         },
         "openalex": {
           "categories": {
-            "findable_essential": 0.8247957403837326,
-            "findable_support": 0.6840539796199394,
-            "accessible_essential": 0.36864844395483337,
-            "accessible_support": 0.8731295327274395,
-            "evaluation_coara": 0.43156155329110435
+            "findable_essential": 0.8088680804186175,
+            "findable_support": 0.6619191879450762,
+            "accessible_essential": 0.4245386945744974,
+            "accessible_support": 0.7515835857890388,
+            "evaluation_coara": 0.4188469659414303
           },
-          "overall": 0.6158341939777838
+          "overall": 0.6070107277281609
         },
-        "gap": 0.15403812202477363
+        "gap": 0.1027278948763578
       },
       "voluntary": {
-        "crossref": 0.12940356552863438,
-        "openalex": 0.4499948361332966
+        "crossref": 0.1329949063876652,
+        "openalex": 0.3373450839988984
       }
     },
     {
@@ -942,29 +942,29 @@
       "comparable": {
         "crossref": {
           "categories": {
-            "findable_essential": 0.6778940027894004,
-            "findable_support": 0.49647140864714084,
-            "accessible_essential": 0.4881276150627616,
-            "accessible_support": 0.2893537889353789,
-            "evaluation_coara": 0.21715481171548118
+            "findable_essential": 0.7395207303157094,
+            "findable_support": 0.5328352261406655,
+            "accessible_essential": 0.5588912133891213,
+            "accessible_support": 0,
+            "evaluation_coara": 0.3619246861924686
           },
-          "overall": 0.4722371571362157
+          "overall": 0.5138892436015867
         },
         "openalex": {
           "categories": {
-            "findable_essential": 0.8287185567489654,
-            "findable_support": 0.6907239503417493,
-            "accessible_essential": 0.38031803598828284,
-            "accessible_support": 0.8763193378899893,
-            "evaluation_coara": 0.4463384014506905
+            "findable_essential": 0.8131475164534169,
+            "findable_support": 0.6654245461610506,
+            "accessible_essential": 0.4343353326823825,
+            "accessible_support": 0.7597991351652951,
+            "evaluation_coara": 0.4345096945180639
           },
-          "overall": 0.6242032826521597
+          "overall": 0.6152236224509205
         },
-        "gap": 0.15196612551594402
+        "gap": 0.10133437884933383
       },
       "voluntary": {
-        "crossref": 0.14036436541143654,
-        "openalex": 0.4657431301436742
+        "crossref": 0.14140516039051604,
+        "openalex": 0.3550599804714744
       }
     },
     {
@@ -973,10 +973,10 @@
       "matched": 6927,
       "universeSize": 797642,
       "crossref": {
-        "overall": 0.4975102059859565,
+        "overall": 0.49750233279679,
         "categories": {
           "findable_essential": 0.6878608545034641,
-          "findable_support": 0.49228427461683816,
+          "findable_support": 0.4922317866890616,
           "accessible_essential": 0.6547183731075186,
           "accessible_support": 0.3143283294842186,
           "evaluation_coara": 0.11098441108545035
@@ -999,8 +999,8 @@
           "funder_doi": 0.3279445727482679,
           "award_number": 0.10320438799076212,
           "issn": 0.9994226327944573,
-          "volume": 0.9994226327944573,
-          "issue": 0.4152713625866051,
+          "volume": 0.999133949191686,
+          "issue": 0.41498267898383373,
           "page": 0.9992782909930716,
           "published_print_date": 0.9989896073903002,
           "published_online_date": 0.0017321016166281756,
@@ -1095,29 +1095,29 @@
       "comparable": {
         "crossref": {
           "categories": {
-            "findable_essential": 0.6878608545034641,
-            "findable_support": 0.5037384526558892,
-            "accessible_essential": 0.6135789549653579,
-            "accessible_support": 0.30042340261739797,
-            "evaluation_coara": 0.22153579676674365
+            "findable_essential": 0.7503936594583245,
+            "findable_support": 0.5297344110854504,
+            "accessible_essential": 0.6779734411085451,
+            "accessible_support": 0,
+            "evaluation_coara": 0.3692263279445727
           },
-          "overall": 0.5096632626058506
+          "overall": 0.5479168853663657
         },
         "openalex": {
           "categories": {
-            "findable_essential": 0.8430176603628313,
-            "findable_support": 0.704374187960156,
-            "accessible_essential": 0.4343510899379241,
-            "accessible_support": 0.9029401857465955,
-            "evaluation_coara": 0.4903421394543092
+            "findable_essential": 0.8287465385776343,
+            "findable_support": 0.6774113716513025,
+            "accessible_essential": 0.4821712140897936,
+            "accessible_support": 0.8069871517251336,
+            "evaluation_coara": 0.46778307107453926
           },
-          "overall": 0.6555116452528753
+          "overall": 0.6450338002308553
         },
-        "gap": 0.1458483826470247
+        "gap": 0.09711691486448959
       },
       "voluntary": {
-        "crossref": 0.16814376443418014,
-        "openalex": 0.5149836389009191
+        "crossref": 0.1598044168591224,
+        "openalex": 0.40136422693806845
       }
     },
     {
@@ -1126,10 +1126,10 @@
       "matched": 6762,
       "universeSize": 850257,
       "crossref": {
-        "overall": 0.5024609917002347,
+        "overall": 0.5024549427440157,
         "categories": {
           "findable_essential": 0.6860244467445414,
-          "findable_support": 0.5010014383073677,
+          "findable_support": 0.5009611119325744,
           "accessible_essential": 0.6642187063597681,
           "accessible_support": 0.31701907437527727,
           "evaluation_coara": 0.11873428951648675
@@ -1152,9 +1152,9 @@
           "funder_doi": 0.31849770811769923,
           "award_number": 0.15111636847552862,
           "issn": 0.9997042732515156,
-          "volume": 0.9976341860121248,
-          "issue": 0.37586869732367295,
-          "page": 0.997042732515156,
+          "volume": 0.9974863226378826,
+          "issue": 0.37572083394943073,
+          "page": 0.9968948691409137,
           "published_print_date": 0.9995564098772733,
           "published_online_date": 0.0011829069939376016,
           "article_number": 0.41076445364483216,
@@ -1186,10 +1186,10 @@
         }
       },
       "openalex": {
-        "overall": 0.5403699222332763,
+        "overall": 0.5403638723825059,
         "categories": {
           "findable_essential": 0.8456324558809031,
-          "findable_support": 0.6342932429888951,
+          "findable_support": 0.6342529106504262,
           "accessible_essential": 0.3905320582339215,
           "accessible_support": 0.4542048703539387,
           "evaluation_coara": 0.24241348713398403
@@ -1212,9 +1212,9 @@
           "funder_doi": 0.3036083998816918,
           "award_number": 0.1443359952676723,
           "issn": 0.9997042295178941,
-          "volume": 0.9976338361431529,
-          "issue": 0.37858621709553386,
-          "page": 0.9970422951789412,
+          "volume": 0.9974859509021,
+          "issue": 0.37843833185448095,
+          "page": 0.9968944099378882,
           "published_print_date": 1,
           "published_online_date": 1,
           "article_number": 0,
@@ -1248,29 +1248,29 @@
       "comparable": {
         "crossref": {
           "categories": {
-            "findable_essential": 0.6860244467445414,
-            "findable_support": 0.5100251367736213,
-            "accessible_essential": 0.6231701907437528,
-            "accessible_support": 0.3025284636995416,
-            "evaluation_coara": 0.23675883483661098
+            "findable_essential": 0.7483903055394997,
+            "findable_support": 0.5400815360892249,
+            "accessible_essential": 0.6890802898122135,
+            "accessible_support": 0,
+            "evaluation_coara": 0.3945980580610183
           },
-          "overall": 0.5157082655626202
+          "overall": 0.5567190061404906
         },
         "openalex": {
           "categories": {
-            "findable_essential": 0.8456324558809031,
-            "findable_support": 0.6977225672877847,
-            "accessible_essential": 0.4393485655131617,
-            "accessible_support": 0.9084097407078774,
-            "evaluation_coara": 0.48482697426796806
+            "findable_essential": 0.8315990427791671,
+            "findable_support": 0.6675962310389993,
+            "accessible_essential": 0.48946317657497784,
+            "accessible_support": 0.8170659568175096,
+            "evaluation_coara": 0.4545006408360446
           },
-          "overall": 0.6559916321601105
+          "overall": 0.6445916654823044
         },
-        "gap": 0.1402833665974903
+        "gap": 0.08787265934181376
       },
       "voluntary": {
-        "crossref": 0.17920794519197597,
-        "openalex": 0.5185152321798284
+        "crossref": 0.17930652077480408,
+        "openalex": 0.39879843241644486
       }
     },
     {
@@ -1401,29 +1401,29 @@
       "comparable": {
         "crossref": {
           "categories": {
-            "findable_essential": 0.6776753074110999,
-            "findable_support": 0.506613492854769,
-            "accessible_essential": 0.6064307078763709,
-            "accessible_support": 0.30115209925778225,
-            "evaluation_coara": 0.2409770687936191
+            "findable_essential": 0.7392821535393818,
+            "findable_support": 0.5484024118121825,
+            "accessible_essential": 0.681663343303423,
+            "accessible_support": 0,
+            "evaluation_coara": 0.4016284479893652
           },
-          "overall": 0.50921291680514
+          "overall": 0.5547865332573707
         },
         "openalex": {
           "categories": {
-            "findable_essential": 0.8345244030801617,
-            "findable_support": 0.6854080106365299,
-            "accessible_essential": 0.4215971414326076,
-            "accessible_support": 0.8887596255055121,
-            "evaluation_coara": 0.4683397041715141
+            "findable_essential": 0.8194811669965403,
+            "findable_support": 0.6616966214772431,
+            "accessible_essential": 0.48462689047698193,
+            "accessible_support": 0.7635034070134619,
+            "evaluation_coara": 0.4509999446014072
           },
-          "overall": 0.641111711262534
+          "overall": 0.6328058955614216
         },
-        "gap": 0.13189879445739394
+        "gap": 0.07801936230405093
       },
       "voluntary": {
-        "crossref": 0.16331491636202503,
-        "openalex": 0.48954697800675867
+        "crossref": 0.16851944167497507,
+        "openalex": 0.37447648329732425
       }
     },
     {
@@ -1554,29 +1554,29 @@
       "comparable": {
         "crossref": {
           "categories": {
-            "findable_essential": 0.6764913270342688,
-            "findable_support": 0.5089550133972642,
-            "accessible_essential": 0.5843498801297419,
-            "accessible_support": 0.3001927325718046,
-            "evaluation_coara": 0.24806092229586799
+            "findable_essential": 0.7379905385828387,
+            "findable_support": 0.5532163507061265,
+            "accessible_essential": 0.6795585954026231,
+            "accessible_support": 0,
+            "evaluation_coara": 0.4134348704931133
           },
-          "overall": 0.5050095778686599
+          "overall": 0.556956237130049
         },
         "openalex": {
           "categories": {
-            "findable_essential": 0.836659145395572,
-            "findable_support": 0.6882809194753914,
-            "accessible_essential": 0.4332957269778593,
-            "accessible_support": 0.8837963615851079,
-            "evaluation_coara": 0.4854604428148357
+            "findable_essential": 0.8218099767951692,
+            "findable_support": 0.6650482502971574,
+            "accessible_essential": 0.497426315047243,
+            "accessible_support": 0.7536313637004654,
+            "evaluation_coara": 0.4895407323837729
           },
-          "overall": 0.6480355380059231
+          "overall": 0.6439280921917363
         },
-        "gap": 0.1430259601372632
+        "gap": 0.08697185506168725
       },
       "voluntary": {
-        "crossref": 0.15686962346636582,
-        "openalex": 0.4848851830959432
+        "crossref": 0.16580877168241434,
+        "openalex": 0.3777887462981244
       }
     },
     {
@@ -1585,10 +1585,10 @@
       "matched": 7190,
       "universeSize": 986361,
       "crossref": {
-        "overall": 0.4880383740042989,
+        "overall": 0.48803458085725127,
         "categories": {
           "findable_essential": 0.676784886416319,
-          "findable_support": 0.49934252117840433,
+          "findable_support": 0.4993172335314199,
           "accessible_essential": 0.6133055169216504,
           "accessible_support": 0.3157626332869727,
           "evaluation_coara": 0.12599443671766342
@@ -1611,8 +1611,8 @@
           "funder_doi": 0.22851182197496522,
           "award_number": 0.1376912378303199,
           "issn": 1,
-          "volume": 0.997913769123783,
-          "issue": 0.3988873435326843,
+          "volume": 0.9977746870653685,
+          "issue": 0.39874826147426984,
           "page": 0.9980528511821974,
           "published_print_date": 1,
           "published_online_date": 0,
@@ -1707,29 +1707,29 @@
       "comparable": {
         "crossref": {
           "categories": {
-            "findable_essential": 0.676784886416319,
-            "findable_support": 0.5026564673157162,
-            "accessible_essential": 0.5649860917941585,
-            "accessible_support": 0.29819193324061194,
-            "evaluation_coara": 0.25173852573018085
+            "findable_essential": 0.7383107851814388,
+            "findable_support": 0.5425392410093384,
+            "accessible_essential": 0.68115438108484,
+            "accessible_support": 0,
+            "evaluation_coara": 0.4195642095503014
           },
-          "overall": 0.49984735744089015
+          "overall": 0.5570755588871027
         },
         "openalex": {
           "categories": {
-            "findable_essential": 0.836984237366713,
-            "findable_support": 0.6773296244784422,
-            "accessible_essential": 0.4232962447844228,
-            "accessible_support": 0.8752897542883634,
-            "evaluation_coara": 0.47388038942976357
+            "findable_essential": 0.8221646225818688,
+            "findable_support": 0.6491754420822572,
+            "accessible_essential": 0.5209666203059805,
+            "accessible_support": 0.7403337969401947,
+            "evaluation_coara": 0.47955493741307365
           },
-          "overall": 0.6408238293926749
+          "overall": 0.6442117253400286
         },
-        "gap": 0.14097647195178475
+        "gap": 0.08713616645292588
       },
       "voluntary": {
-        "crossref": 0.15190078813166435,
-        "openalex": 0.4774826147426982
+        "crossref": 0.16146731571627262,
+        "openalex": 0.37300417246175244
       }
     },
     {
@@ -1860,29 +1860,29 @@
       "comparable": {
         "crossref": {
           "categories": {
-            "findable_essential": 0.6883540303556327,
-            "findable_support": 0.5378688743490453,
-            "accessible_essential": 0.5947055681666444,
-            "accessible_support": 0.3062269105799617,
-            "evaluation_coara": 0.2887434904526639
+            "findable_essential": 0.750931669478872,
+            "findable_support": 0.5766552848940351,
+            "accessible_essential": 0.7306382694618774,
+            "accessible_support": 0,
+            "evaluation_coara": 0.48123915075443985
           },
-          "overall": 0.5242343214492365
+          "overall": 0.5906851910941242
         },
         "openalex": {
           "categories": {
-            "findable_essential": 0.8481928800832316,
-            "findable_support": 0.6779074501289184,
-            "accessible_essential": 0.4598656534129461,
-            "accessible_support": 0.8656534129461256,
-            "evaluation_coara": 0.49320124847333424
+            "findable_essential": 0.8346759767576704,
+            "findable_support": 0.6535098772851521,
+            "accessible_essential": 0.5879359478898086,
+            "accessible_support": 0.8261636585696838,
+            "evaluation_coara": 0.48459763875695483
           },
-          "overall": 0.6563159858868232
+          "overall": 0.6749491552008855
         },
-        "gap": 0.13208166443758662
+        "gap": 0.08426396410676129
       },
       "voluntary": {
-        "crossref": 0.2095217430008457,
-        "openalex": 0.516921676392093
+        "crossref": 0.23131926826011484,
+        "openalex": 0.416827249287556
       }
     }
   ],
@@ -1958,28 +1958,6 @@
     "publication_date": [],
     "publisher": [],
     "resource_type": [],
-    "subject_keywords": [
-      {
-        "doi": "10.1016/s2095-4964(15)60164-9",
-        "title": "Comparative study on WHO Western Pacific Region and World Federation of Chinese Medicine Societies international standard terminologies on traditional medicine: Diseases of Paediatrics (Part 2)"
-      },
-      {
-        "doi": "10.1016/s0252-9602(14)60145-4",
-        "title": "The normality of algebroid multifunctions and their coefficient functions"
-      },
-      {
-        "doi": "10.1016/j.lisr.2014.07.004",
-        "title": "When are LibQUAL+® and LibQUAL+® Lite scores psychometrically comparable?"
-      },
-      {
-        "doi": "10.1016/j.tetlet.2014.11.068",
-        "title": "A screening method of uranyl extractants in H2SO4 solutions"
-      },
-      {
-        "doi": "10.1016/j.vaccine.2014.11.045",
-        "title": "Vaccination against varicella as post-exposure prophylaxis in adults: A quantitative assessment"
-      }
-    ],
     "funder_name": [
       {
         "doi": "10.1016/j.ifacol.2015.06.146",
@@ -2069,28 +2047,6 @@
         "title": "The 2014 Endocrinology in focus winners"
       }
     ],
-    "funder_doi": [
-      {
-        "doi": "10.1016/j.ifacol.2015.06.146",
-        "title": "Modeling and Simulation of Human Reaction in a Multidimensional Social Network"
-      },
-      {
-        "doi": "10.1016/j.ifacol.2015.12.094",
-        "title": "Extracting LncRNA-protein Interactions from Literature Using a Text Feature-based Approach"
-      },
-      {
-        "doi": "10.1016/j.jadohealth.2014.10.191",
-        "title": "186. Minor Corporal Punishment is Associated With a Risk of Bullying Involvement and Depressive Symptoms in Preadolescence"
-      },
-      {
-        "doi": "10.1016/s2212-5671(15)00542-0",
-        "title": "Factors Affecting the Choice of Recreation Providers – A Conceptual Model"
-      },
-      {
-        "doi": "10.1016/j.mspro.2015.05.008",
-        "title": "Analysis of the Importance of the Crack Closure in the Driving Force for the Fatigue Crack Growth in Metastable Austenitic Stainless Steels"
-      }
-    ],
     "award_number": [
       {
         "doi": "10.1016/j.jadohealth.2014.10.191",
@@ -2128,12 +2084,12 @@
         "title": "Correlation of polymorphisms in long non-coding RNAs with the pathogenesis of inflammatory bowel diseases"
       },
       {
-        "doi": "10.1053/j.jvca.2024.03.001",
-        "title": "Myocardial Work: Going Down A Rabbit Hole?"
+        "doi": "10.3866/pku.whxb202005006",
+        "title": "Nacre-Inspired Graphene-based Multifunctional Nanocomposites"
       },
       {
-        "doi": "10.1016/j.clcc.2025.03.003",
-        "title": "Treatment of Oligometastatic BRAFV600E Mutant Colorectal Cancer: Learning From a Clinical Case"
+        "doi": "10.3866/pku.whxb202008059",
+        "title": "Surrounded Catalysts: The Inverse Design, Preparation and Catalytic Performance"
       }
     ],
     "issue": [
@@ -2180,73 +2136,7 @@
         "title": "Does the cytokine adsorber CytoSorb® reduce vancomycin exposure in critically ill patients with sepsis or septic shock? a prospective observational study"
       }
     ],
-    "published_print_date": [
-      {
-        "doi": "10.14283/jarcp.2015.47",
-        "title": "VITAMIN D SUPPLEMENTATION AND FUNCTIONAL KNEE OSTEOARTHRITIS PROGRESSION IN OLDER ADULTS WITH OBESITY: DATA FROM THE OSTEOARTHRITIS INITIATIVE"
-      },
-      {
-        "doi": "10.14283/jarcp.2016.81",
-        "title": "LOW RATES OF VITAMIN D SCREENING: CONCERN FOR AGING WITH POOR SKELETAL HEALTH IN THE OLDER MINORITIES"
-      },
-      {
-        "doi": "10.14283/jfa.2016.76",
-        "title": "GENETIC MODERATORS OF THE IMPACT OF PHYSICAL ACTIVITY ON DEPRESSIVE SYMPTOMS"
-      },
-      {
-        "doi": "10.20964/110388",
-        "title": "Evaluation of Antioxidant Activity and Inhibition of Corrosion by Brazilian Plant Extracts and Constituents"
-      },
-      {
-        "doi": "10.20964/10109",
-        "title": "Corrosion Inhibition of Mild Steel in Hydrochloric Acid using4- (pyridin-2yl)-N-p-tolylpiperazine-1-carboxamide"
-      }
-    ],
-    "published_online_date": [
-      {
-        "doi": "10.1016/s2095-4964(15)60164-9",
-        "title": "Comparative study on WHO Western Pacific Region and World Federation of Chinese Medicine Societies international standard terminologies on traditional medicine: Diseases of Paediatrics (Part 2)"
-      },
-      {
-        "doi": "10.1016/s0252-9602(14)60145-4",
-        "title": "The normality of algebroid multifunctions and their coefficient functions"
-      },
-      {
-        "doi": "10.1016/j.lisr.2014.07.004",
-        "title": "When are LibQUAL+® and LibQUAL+® Lite scores psychometrically comparable?"
-      },
-      {
-        "doi": "10.1016/j.tetlet.2014.11.068",
-        "title": "A screening method of uranyl extractants in H2SO4 solutions"
-      },
-      {
-        "doi": "10.1016/j.vaccine.2014.11.045",
-        "title": "Vaccination against varicella as post-exposure prophylaxis in adults: A quantitative assessment"
-      }
-    ],
     "license": [
-      {
-        "doi": "10.7603/s40632-015-0003-x",
-        "title": "The investigation of side-weir siphons flow along a curved channel"
-      },
-      {
-        "doi": "10.1016/j.brs.2015.01.102",
-        "title": "rTMS in the treatment of adolescent depression"
-      },
-      {
-        "doi": "10.1016/j.preghy.2014.10.184",
-        "title": "[178-POS]"
-      },
-      {
-        "doi": "10.1016/j.brs.2015.01.051",
-        "title": "Does Vascular Endothelial Growth factor(VEGF) expression in combination with Physiotherapy with/without repetitive Transcranial Magnetic Stimulation (rTMS) play the role in acute stroke recovery?"
-      },
-      {
-        "doi": "10.1016/j.brs.2015.01.314",
-        "title": "Safety and Feasibility of Focused Ultrasound Neurmodulation in Temporal Lobe Epilepsy"
-      }
-    ],
-    "license_url": [
       {
         "doi": "10.7603/s40632-015-0003-x",
         "title": "The investigation of side-weir siphons flow along a curved channel"
@@ -2290,28 +2180,6 @@
         "title": "Safety and Feasibility of Focused Ultrasound Neurmodulation in Temporal Lobe Epilepsy"
       }
     ],
-    "full_text_links": [
-      {
-        "doi": "10.1016/s0196-0644(14)01617-5",
-        "title": "What's Coming in Annals ● March 2015"
-      },
-      {
-        "doi": "10.1016/j.hlc.2015.06.757",
-        "title": "”To be honest, I don’t really care”: what hope is there for Mâori women's heart health?"
-      },
-      {
-        "doi": "10.1016/j.hlc.2015.06.304",
-        "title": "Do all patients need intense anticoagulation and antiplatelet regimens following WATCHMAN device implantation? A case series of five patients"
-      },
-      {
-        "doi": "10.1016/j.hlc.2015.06.255",
-        "title": "Sex-differences in AngII-mediated exacerbation of diabetic myocardial function"
-      },
-      {
-        "doi": "10.1016/j.hlc.2015.06.700",
-        "title": "Mitral Valve Repair (MVR) failure presenting as haemolytic anaemia"
-      }
-    ],
     "resource_url": [],
     "references": [
       {
@@ -2335,95 +2203,7 @@
         "title": "Acknowledgment to reviewers 2014"
       }
     ],
-    "references_count": [
-      {
-        "doi": "10.1016/j.meatsci.2014.09.020",
-        "title": "Honduran consumer assessment of beef strip loin steaks from grass and grain finished cattle"
-      },
-      {
-        "doi": "10.1016/j.zefq.2015.07.008",
-        "title": "Verständlich oder Praxisfern – Anwenderbefragung zum AWMF-Regelwerk"
-      },
-      {
-        "doi": "10.1016/j.brs.2015.01.011",
-        "title": "Efficacy of Cranial Electrotherapy Stimulation for Anxiety, PTSD, Insomnia and Depression: Military Service Members and Veterans Self Reports"
-      },
-      {
-        "doi": "10.1016/j.amepre.2014.12.012",
-        "title": "Imagining the Future to Enhance Prevention Today"
-      },
-      {
-        "doi": "10.1016/s0196-8904(15)00060-6",
-        "title": "Acknowledgment to reviewers 2014"
-      }
-    ],
-    "is_referenced_by": [
-      {
-        "doi": "10.1016/s1875-5372(15)30039-4",
-        "title": "Optimization of Partial Melting Process for Bi-2212 Multi-Filament Wires"
-      },
-      {
-        "doi": "10.1016/j.fsc.2014.10.001",
-        "title": "Rhinoplasty: Contemporary Innovations"
-      },
-      {
-        "doi": "10.1016/j.hlc.2015.06.257",
-        "title": "Tako-tsubo cardiomyopathy is associated with loss of anti-inflammatory effect of released B-type natriuretic peptide"
-      },
-      {
-        "doi": "10.1016/j.hlc.2015.04.070",
-        "title": "High prevalence of iron deficiency in heart failure with preserved ejection fraction"
-      },
-      {
-        "doi": "10.1016/s0992-5945(15)72047-7",
-        "title": "Aedes albopictus : un moustique multifonctions"
-      }
-    ],
-    "author_sequence": [
-      {
-        "doi": "10.1016/j.zefq.2015.07.008",
-        "title": "Verständlich oder Praxisfern – Anwenderbefragung zum AWMF-Regelwerk"
-      },
-      {
-        "doi": "10.4103/2319-4170.167064",
-        "title": "Proton therapy"
-      },
-      {
-        "doi": "10.1016/s1574-6267(15)00008-7",
-        "title": "Contents"
-      },
-      {
-        "doi": "10.1016/s0168-8227(15)00089-3",
-        "title": "Contents"
-      },
-      {
-        "doi": "10.1016/j.oooo.2014.12.001",
-        "title": "Erratum to “Abstracts from the 2014 American Academy of Oral Medicine meeting” [Oral Surg Oral Med Oral Pathol Oral Radiol 2014 Vol. 117, No. 5, pp e334-e392]"
-      }
-    ],
     "affiliation_ids_ror": [
-      {
-        "doi": "10.1016/s2095-4964(15)60164-9",
-        "title": "Comparative study on WHO Western Pacific Region and World Federation of Chinese Medicine Societies international standard terminologies on traditional medicine: Diseases of Paediatrics (Part 2)"
-      },
-      {
-        "doi": "10.1016/s0252-9602(14)60145-4",
-        "title": "The normality of algebroid multifunctions and their coefficient functions"
-      },
-      {
-        "doi": "10.1016/j.lisr.2014.07.004",
-        "title": "When are LibQUAL+® and LibQUAL+® Lite scores psychometrically comparable?"
-      },
-      {
-        "doi": "10.1016/j.tetlet.2014.11.068",
-        "title": "A screening method of uranyl extractants in H2SO4 solutions"
-      },
-      {
-        "doi": "10.1016/j.vaccine.2014.11.045",
-        "title": "Vaccination against varicella as post-exposure prophylaxis in adults: A quantitative assessment"
-      }
-    ],
-    "relations": [
       {
         "doi": "10.1016/s2095-4964(15)60164-9",
         "title": "Comparative study on WHO Western Pacific Region and World Federation of Chinese Medicine Societies international standard terminologies on traditional medicine: Diseases of Paediatrics (Part 2)"
@@ -2467,28 +2247,6 @@
         "title": "Isolation of Thermophilic Microbes Resistant to Ethanol from Ciater Hot Springs, Subang-West Java"
       }
     ],
-    "affiliation_ror": [
-      {
-        "doi": "10.1016/s2095-4964(15)60164-9",
-        "title": "Comparative study on WHO Western Pacific Region and World Federation of Chinese Medicine Societies international standard terminologies on traditional medicine: Diseases of Paediatrics (Part 2)"
-      },
-      {
-        "doi": "10.1016/s0252-9602(14)60145-4",
-        "title": "The normality of algebroid multifunctions and their coefficient functions"
-      },
-      {
-        "doi": "10.1016/j.lisr.2014.07.004",
-        "title": "When are LibQUAL+® and LibQUAL+® Lite scores psychometrically comparable?"
-      },
-      {
-        "doi": "10.1016/j.tetlet.2014.11.068",
-        "title": "A screening method of uranyl extractants in H2SO4 solutions"
-      },
-      {
-        "doi": "10.1016/j.vaccine.2014.11.045",
-        "title": "Vaccination against varicella as post-exposure prophylaxis in adults: A quantitative assessment"
-      }
-    ],
     "funding_complete": [
       {
         "doi": "10.1016/j.jadohealth.2014.10.191",
@@ -2509,28 +2267,6 @@
       {
         "doi": "10.1016/j.phpro.2014.12.004",
         "title": "Indirect Searches for Dark Matter with the Fermi Large Area Telescope1"
-      }
-    ],
-    "preprint_version_link": [
-      {
-        "doi": "10.1016/j.tetlet.2014.11.068",
-        "title": "A screening method of uranyl extractants in H2SO4 solutions"
-      },
-      {
-        "doi": "10.1016/j.vaccine.2014.11.045",
-        "title": "Vaccination against varicella as post-exposure prophylaxis in adults: A quantitative assessment"
-      },
-      {
-        "doi": "10.1016/j.clinimag.2014.11.007",
-        "title": "Dual-source RF transmission in cardiac SSFP imaging at 3 T: systematic spatial evaluation of image quality improvement compared to conventional RF transmission"
-      },
-      {
-        "doi": "10.1186/1532-429x-17-s1-q106",
-        "title": "A physiologic flow phantom for the evaluation of 4D flow MRI in the left ventricle"
-      },
-      {
-        "doi": "10.1016/j.brs.2015.01.102",
-        "title": "rTMS in the treatment of adolescent depression"
       }
     ],
     "open_access_status": [
@@ -2561,141 +2297,31 @@
       "doi": "10.1016/s2095-4964(15)60164-9",
       "title": "Comparative study on WHO Western Pacific Region and World Federation of Chinese Medicine Societies international standard terminologies on traditional medicine: Diseases of Paediatrics (Part 2)",
       "year": 2015,
-      "crossrefScore": 0.5526315789473685,
-      "openalexScore": 0.7105263157894737,
-      "gap": 8,
+      "crossrefScore": 0.5769230769230769,
+      "openalexScore": 0.7307692307692307,
+      "gap": 4,
       "openalexAdds": [
         "author_affiliation",
-        "subject_keywords",
         "author_orcid",
         "all_authors_orcid",
-        "published_online_date",
-        "affiliation_ids_ror",
-        "relations",
-        "affiliation_ror"
-      ]
-    },
-    {
-      "doi": "10.1016/s0252-9602(14)60145-4",
-      "title": "The normality of algebroid multifunctions and their coefficient functions",
-      "year": 2015,
-      "crossrefScore": 0.5526315789473685,
-      "openalexScore": 0.6578947368421053,
-      "gap": 6,
-      "openalexAdds": [
-        "author_affiliation",
-        "subject_keywords",
-        "published_online_date",
-        "affiliation_ids_ror",
-        "relations",
-        "affiliation_ror"
-      ]
-    },
-    {
-      "doi": "10.1016/j.lisr.2014.07.004",
-      "title": "When are LibQUAL+® and LibQUAL+® Lite scores psychometrically comparable?",
-      "year": 2015,
-      "crossrefScore": 0.5526315789473685,
-      "openalexScore": 0.6578947368421053,
-      "gap": 6,
-      "openalexAdds": [
-        "author_affiliation",
-        "subject_keywords",
-        "published_online_date",
-        "affiliation_ids_ror",
-        "relations",
-        "affiliation_ror"
-      ]
-    },
-    {
-      "doi": "10.1016/j.tetlet.2014.11.068",
-      "title": "A screening method of uranyl extractants in H2SO4 solutions",
-      "year": 2015,
-      "crossrefScore": 0.5526315789473685,
-      "openalexScore": 0.7105263157894737,
-      "gap": 8,
-      "openalexAdds": [
-        "author_affiliation",
-        "subject_keywords",
-        "author_orcid",
-        "published_online_date",
-        "affiliation_ids_ror",
-        "relations",
-        "affiliation_ror",
-        "preprint_version_link"
-      ]
-    },
-    {
-      "doi": "10.1016/j.vaccine.2014.11.045",
-      "title": "Vaccination against varicella as post-exposure prophylaxis in adults: A quantitative assessment",
-      "year": 2015,
-      "crossrefScore": 0.5526315789473685,
-      "openalexScore": 0.7105263157894737,
-      "gap": 8,
-      "openalexAdds": [
-        "author_affiliation",
-        "subject_keywords",
-        "author_orcid",
-        "published_online_date",
-        "affiliation_ids_ror",
-        "relations",
-        "affiliation_ror",
-        "preprint_version_link"
-      ]
-    },
-    {
-      "doi": "10.1016/j.mric.2014.09.003",
-      "title": "MR Imaging Evaluation of Pericardial Constriction",
-      "year": 2015,
-      "crossrefScore": 0.5526315789473685,
-      "openalexScore": 0.6842105263157895,
-      "gap": 7,
-      "openalexAdds": [
-        "author_affiliation",
-        "subject_keywords",
-        "author_orcid",
-        "published_online_date",
-        "affiliation_ids_ror",
-        "relations",
-        "affiliation_ror"
-      ]
-    },
-    {
-      "doi": "10.1016/j.arbres.2014.01.002",
-      "title": "Tumor carcinoide bronquial como causa de neumonías de repetición en paciente joven: papel del 111In-pentetreotida en el contexto de las pruebas de imagen",
-      "year": 2015,
-      "crossrefScore": 0.5263157894736842,
-      "openalexScore": 0.6578947368421053,
-      "gap": 7,
-      "openalexAdds": [
-        "author_affiliation",
-        "subject_keywords",
-        "author_orcid",
-        "published_online_date",
-        "affiliation_ids_ror",
-        "relations",
-        "affiliation_ror"
+        "affiliation_ids_ror"
       ]
     },
     {
       "doi": "10.7603/s40632-015-0003-x",
       "title": "The investigation of side-weir siphons flow along a curved channel",
       "year": 2015,
-      "crossrefScore": 0.5263157894736842,
-      "openalexScore": 0.7894736842105263,
-      "gap": 12,
+      "crossrefScore": 0.5384615384615384,
+      "openalexScore": 0.8461538461538461,
+      "gap": 8,
       "openalexAdds": [
         "abstract",
         "author_affiliation",
-        "subject_keywords",
         "author_orcid",
         "all_authors_orcid",
         "license",
-        "license_url",
         "open_access_license",
         "affiliation_ids_ror",
-        "relations",
-        "affiliation_ror",
         "open_access_status"
       ]
     },
@@ -2703,36 +2329,112 @@
       "doi": "10.1016/j.spen.2015.03.007",
       "title": "Malnutrition and Neurologic Problems Among Children in the Developing World",
       "year": 2015,
-      "crossrefScore": 0.5,
-      "openalexScore": 0.7105263157894737,
-      "gap": 8,
+      "crossrefScore": 0.5769230769230769,
+      "openalexScore": 0.7307692307692307,
+      "gap": 4,
       "openalexAdds": [
         "author_affiliation",
-        "subject_keywords",
         "author_orcid",
         "all_authors_orcid",
-        "published_online_date",
-        "affiliation_ids_ror",
-        "relations",
-        "affiliation_ror"
+        "affiliation_ids_ror"
       ]
     },
     {
       "doi": "10.1016/j.sleep.2014.07.016",
       "title": "Sleep medication in patients with attention-deficit/hyperactivity disorder",
       "year": 2015,
-      "crossrefScore": 0.5263157894736842,
-      "openalexScore": 0.6842105263157895,
-      "gap": 8,
+      "crossrefScore": 0.5769230769230769,
+      "openalexScore": 0.7307692307692307,
+      "gap": 4,
       "openalexAdds": [
         "author_affiliation",
-        "subject_keywords",
         "author_orcid",
         "all_authors_orcid",
-        "published_online_date",
+        "affiliation_ids_ror"
+      ]
+    },
+    {
+      "doi": "10.1016/j.fsc.2014.10.001",
+      "title": "Rhinoplasty: Contemporary Innovations",
+      "year": 2015,
+      "crossrefScore": 0.5384615384615384,
+      "openalexScore": 0.6923076923076923,
+      "gap": 4,
+      "openalexAdds": [
+        "author_affiliation",
+        "author_orcid",
+        "all_authors_orcid",
+        "affiliation_ids_ror"
+      ]
+    },
+    {
+      "doi": "10.1016/j.hlc.2015.06.757",
+      "title": "”To be honest, I don’t really care”: what hope is there for Mâori women's heart health?",
+      "year": 2015,
+      "crossrefScore": 0.5,
+      "openalexScore": 0.6538461538461539,
+      "gap": 4,
+      "openalexAdds": [
+        "author_affiliation",
+        "author_orcid",
         "affiliation_ids_ror",
-        "relations",
-        "affiliation_ror"
+        "open_access_status"
+      ]
+    },
+    {
+      "doi": "10.1016/j.hlc.2015.06.304",
+      "title": "Do all patients need intense anticoagulation and antiplatelet regimens following WATCHMAN device implantation? A case series of five patients",
+      "year": 2015,
+      "crossrefScore": 0.5,
+      "openalexScore": 0.6538461538461539,
+      "gap": 4,
+      "openalexAdds": [
+        "author_affiliation",
+        "author_orcid",
+        "affiliation_ids_ror",
+        "open_access_status"
+      ]
+    },
+    {
+      "doi": "10.1016/j.hlc.2015.06.255",
+      "title": "Sex-differences in AngII-mediated exacerbation of diabetic myocardial function",
+      "year": 2015,
+      "crossrefScore": 0.5,
+      "openalexScore": 0.6538461538461539,
+      "gap": 4,
+      "openalexAdds": [
+        "author_affiliation",
+        "author_orcid",
+        "affiliation_ids_ror",
+        "open_access_status"
+      ]
+    },
+    {
+      "doi": "10.1016/j.hlc.2015.06.700",
+      "title": "Mitral Valve Repair (MVR) failure presenting as haemolytic anaemia",
+      "year": 2015,
+      "crossrefScore": 0.5,
+      "openalexScore": 0.6538461538461539,
+      "gap": 4,
+      "openalexAdds": [
+        "author_affiliation",
+        "author_orcid",
+        "affiliation_ids_ror",
+        "open_access_status"
+      ]
+    },
+    {
+      "doi": "10.1016/j.hlc.2014.12.127",
+      "title": "Impact of routine repeated transthoracic echocardiography and lung ultrasound monitoring after cardiac surgery (ITRACS) – a prospective observational study in 91 patients",
+      "year": 2015,
+      "crossrefScore": 0.5,
+      "openalexScore": 0.6538461538461539,
+      "gap": 4,
+      "openalexAdds": [
+        "author_affiliation",
+        "author_orcid",
+        "affiliation_ids_ror",
+        "open_access_status"
       ]
     }
   ],
@@ -2881,37 +2583,6 @@
       "samples": []
     },
     {
-      "id": "subject_keywords",
-      "label": "Subject / Keywords",
-      "category": "findable_essential",
-      "effort": "voluntary",
-      "crossref": 0,
-      "openalex": 0.9997046662728883,
-      "gap": 0.9997046662728883,
-      "samples": [
-        {
-          "doi": "10.1016/s2095-4964(15)60164-9",
-          "title": "Comparative study on WHO Western Pacific Region and World Federation of Chinese Medicine Societies international standard terminologies on traditional medicine: Diseases of Paediatrics (Part 2)"
-        },
-        {
-          "doi": "10.1016/s0252-9602(14)60145-4",
-          "title": "The normality of algebroid multifunctions and their coefficient functions"
-        },
-        {
-          "doi": "10.1016/j.lisr.2014.07.004",
-          "title": "When are LibQUAL+® and LibQUAL+® Lite scores psychometrically comparable?"
-        },
-        {
-          "doi": "10.1016/j.tetlet.2014.11.068",
-          "title": "A screening method of uranyl extractants in H2SO4 solutions"
-        },
-        {
-          "doi": "10.1016/j.vaccine.2014.11.045",
-          "title": "Vaccination against varicella as post-exposure prophylaxis in adults: A quantitative assessment"
-        }
-      ]
-    },
-    {
       "id": "funder_name",
       "label": "Funder Name",
       "category": "findable_essential",
@@ -3046,37 +2717,6 @@
       ]
     },
     {
-      "id": "funder_doi",
-      "label": "Funder DOI",
-      "category": "findable_support",
-      "effort": "voluntary",
-      "crossref": 0.22786010973796217,
-      "openalex": 0.2315288014586918,
-      "gap": 0.0036686917207296443,
-      "samples": [
-        {
-          "doi": "10.1016/j.ifacol.2015.06.146",
-          "title": "Modeling and Simulation of Human Reaction in a Multidimensional Social Network"
-        },
-        {
-          "doi": "10.1016/j.ifacol.2015.12.094",
-          "title": "Extracting LncRNA-protein Interactions from Literature Using a Text Feature-based Approach"
-        },
-        {
-          "doi": "10.1016/j.jadohealth.2014.10.191",
-          "title": "186. Minor Corporal Punishment is Associated With a Risk of Bullying Involvement and Depressive Symptoms in Preadolescence"
-        },
-        {
-          "doi": "10.1016/s2212-5671(15)00542-0",
-          "title": "Factors Affecting the Choice of Recreation Providers – A Conceptual Model"
-        },
-        {
-          "doi": "10.1016/j.mspro.2015.05.008",
-          "title": "Analysis of the Importance of the Crack Closure in the Driving Force for the Fatigue Crack Growth in Metastable Austenitic Stainless Steels"
-        }
-      ]
-    },
-    {
       "id": "award_number",
       "label": "Award Number",
       "category": "findable_support",
@@ -3122,9 +2762,9 @@
       "label": "Volume",
       "category": "findable_support",
       "effort": "automatic",
-      "crossref": 0.9970514332598328,
-      "openalex": 0.9970595033257146,
-      "gap": 0.000008070065881771171,
+      "crossref": 0.9970001538382647,
+      "openalex": 0.9970466627288836,
+      "gap": 0.000046508890618968124,
       "samples": [
         {
           "doi": "10.3168/jds.2014-9285",
@@ -3139,12 +2779,12 @@
           "title": "Correlation of polymorphisms in long non-coding RNAs with the pathogenesis of inflammatory bowel diseases"
         },
         {
-          "doi": "10.1053/j.jvca.2024.03.001",
-          "title": "Myocardial Work: Going Down A Rabbit Hole?"
+          "doi": "10.3866/pku.whxb202005006",
+          "title": "Nacre-Inspired Graphene-based Multifunctional Nanocomposites"
         },
         {
-          "doi": "10.1016/j.clcc.2025.03.003",
-          "title": "Treatment of Oligometastatic BRAFV600E Mutant Colorectal Cancer: Learning From a Clinical Case"
+          "doi": "10.3866/pku.whxb202008059",
+          "title": "Surrounded Catalysts: The Inverse Design, Preparation and Catalytic Performance"
         }
       ]
     },
@@ -3153,9 +2793,9 @@
       "label": "Issue",
       "category": "findable_support",
       "effort": "automatic",
-      "crossref": 0.44183631608635454,
-      "openalex": 0.44511928914455945,
-      "gap": 0.0032829730582049077,
+      "crossref": 0.4417850366647864,
+      "openalex": 0.4451064485477285,
+      "gap": 0.0033214118829421047,
       "samples": [
         {
           "doi": "10.3168/jds.2014-9285",
@@ -3184,9 +2824,9 @@
       "label": "Page",
       "category": "findable_support",
       "effort": "automatic",
-      "crossref": 0.9967693964412081,
-      "openalex": 0.9968026913890957,
-      "gap": 0.000033294947887618775,
+      "crossref": 0.9967565765858161,
+      "openalex": 0.9967898507922648,
+      "gap": 0.000033274206448719035,
       "samples": [
         {
           "doi": "10.3168/jds.2014-9285",
@@ -3211,101 +2851,8 @@
       ]
     },
     {
-      "id": "published_print_date",
-      "label": "Published Print Date",
-      "category": "findable_support",
-      "effort": "automatic",
-      "crossref": 0.999615404338239,
-      "openalex": 1,
-      "gap": 0.00038459566176096693,
-      "samples": [
-        {
-          "doi": "10.14283/jarcp.2015.47",
-          "title": "VITAMIN D SUPPLEMENTATION AND FUNCTIONAL KNEE OSTEOARTHRITIS PROGRESSION IN OLDER ADULTS WITH OBESITY: DATA FROM THE OSTEOARTHRITIS INITIATIVE"
-        },
-        {
-          "doi": "10.14283/jarcp.2016.81",
-          "title": "LOW RATES OF VITAMIN D SCREENING: CONCERN FOR AGING WITH POOR SKELETAL HEALTH IN THE OLDER MINORITIES"
-        },
-        {
-          "doi": "10.14283/jfa.2016.76",
-          "title": "GENETIC MODERATORS OF THE IMPACT OF PHYSICAL ACTIVITY ON DEPRESSIVE SYMPTOMS"
-        },
-        {
-          "doi": "10.20964/110388",
-          "title": "Evaluation of Antioxidant Activity and Inhibition of Corrosion by Brazilian Plant Extracts and Constituents"
-        },
-        {
-          "doi": "10.20964/10109",
-          "title": "Corrosion Inhibition of Mild Steel in Hydrochloric Acid using4- (pyridin-2yl)-N-p-tolylpiperazine-1-carboxamide"
-        }
-      ]
-    },
-    {
-      "id": "published_online_date",
-      "label": "Published Online Date",
-      "category": "findable_support",
-      "effort": "automatic",
-      "crossref": 0.0012948053945951489,
-      "openalex": 1,
-      "gap": 0.9987051946054049,
-      "samples": [
-        {
-          "doi": "10.1016/s2095-4964(15)60164-9",
-          "title": "Comparative study on WHO Western Pacific Region and World Federation of Chinese Medicine Societies international standard terminologies on traditional medicine: Diseases of Paediatrics (Part 2)"
-        },
-        {
-          "doi": "10.1016/s0252-9602(14)60145-4",
-          "title": "The normality of algebroid multifunctions and their coefficient functions"
-        },
-        {
-          "doi": "10.1016/j.lisr.2014.07.004",
-          "title": "When are LibQUAL+® and LibQUAL+® Lite scores psychometrically comparable?"
-        },
-        {
-          "doi": "10.1016/j.tetlet.2014.11.068",
-          "title": "A screening method of uranyl extractants in H2SO4 solutions"
-        },
-        {
-          "doi": "10.1016/j.vaccine.2014.11.045",
-          "title": "Vaccination against varicella as post-exposure prophylaxis in adults: A quantitative assessment"
-        }
-      ]
-    },
-    {
       "id": "license",
       "label": "License",
-      "category": "accessible_essential",
-      "effort": "automatic",
-      "crossref": 0.7625634582841906,
-      "openalex": 0.1805131102493644,
-      "gap": -0.5820503480348262,
-      "samples": [
-        {
-          "doi": "10.7603/s40632-015-0003-x",
-          "title": "The investigation of side-weir siphons flow along a curved channel"
-        },
-        {
-          "doi": "10.1016/j.brs.2015.01.102",
-          "title": "rTMS in the treatment of adolescent depression"
-        },
-        {
-          "doi": "10.1016/j.preghy.2014.10.184",
-          "title": "[178-POS]"
-        },
-        {
-          "doi": "10.1016/j.brs.2015.01.051",
-          "title": "Does Vascular Endothelial Growth factor(VEGF) expression in combination with Physiotherapy with/without repetitive Transcranial Magnetic Stimulation (rTMS) play the role in acute stroke recovery?"
-        },
-        {
-          "doi": "10.1016/j.brs.2015.01.314",
-          "title": "Safety and Feasibility of Focused Ultrasound Neurmodulation in Temporal Lobe Epilepsy"
-        }
-      ]
-    },
-    {
-      "id": "license_url",
-      "label": "License URL",
       "category": "accessible_essential",
       "effort": "automatic",
       "crossref": 0.7625634582841906,
@@ -3366,37 +2913,6 @@
       ]
     },
     {
-      "id": "full_text_links",
-      "label": "Full-text Links",
-      "category": "accessible_essential",
-      "effort": "automatic",
-      "crossref": 0.03443413158299574,
-      "openalex": 0.15553814941318472,
-      "gap": 0.12110401783018898,
-      "samples": [
-        {
-          "doi": "10.1016/s0196-0644(14)01617-5",
-          "title": "What's Coming in Annals ● March 2015"
-        },
-        {
-          "doi": "10.1016/j.hlc.2015.06.757",
-          "title": "”To be honest, I don’t really care”: what hope is there for Mâori women's heart health?"
-        },
-        {
-          "doi": "10.1016/j.hlc.2015.06.304",
-          "title": "Do all patients need intense anticoagulation and antiplatelet regimens following WATCHMAN device implantation? A case series of five patients"
-        },
-        {
-          "doi": "10.1016/j.hlc.2015.06.255",
-          "title": "Sex-differences in AngII-mediated exacerbation of diabetic myocardial function"
-        },
-        {
-          "doi": "10.1016/j.hlc.2015.06.700",
-          "title": "Mitral Valve Repair (MVR) failure presenting as haemolytic anaemia"
-        }
-      ]
-    },
-    {
       "id": "resource_url",
       "label": "Resource URL",
       "category": "accessible_essential",
@@ -3438,99 +2954,6 @@
       ]
     },
     {
-      "id": "references_count",
-      "label": "References Count",
-      "category": "accessible_essential",
-      "effort": "voluntary",
-      "crossref": 0.5479975385877647,
-      "openalex": 0.5485888184082797,
-      "gap": 0.0005912798205149894,
-      "samples": [
-        {
-          "doi": "10.1016/j.meatsci.2014.09.020",
-          "title": "Honduran consumer assessment of beef strip loin steaks from grass and grain finished cattle"
-        },
-        {
-          "doi": "10.1016/j.zefq.2015.07.008",
-          "title": "Verständlich oder Praxisfern – Anwenderbefragung zum AWMF-Regelwerk"
-        },
-        {
-          "doi": "10.1016/j.brs.2015.01.011",
-          "title": "Efficacy of Cranial Electrotherapy Stimulation for Anxiety, PTSD, Insomnia and Depression: Military Service Members and Veterans Self Reports"
-        },
-        {
-          "doi": "10.1016/j.amepre.2014.12.012",
-          "title": "Imagining the Future to Enhance Prevention Today"
-        },
-        {
-          "doi": "10.1016/s0196-8904(15)00060-6",
-          "title": "Acknowledgment to reviewers 2014"
-        }
-      ]
-    },
-    {
-      "id": "is_referenced_by",
-      "label": "Is Referenced By",
-      "category": "accessible_essential",
-      "effort": "automatic",
-      "crossref": 0.4523870570739962,
-      "openalex": 0.4877243894296207,
-      "gap": 0.03533733235562453,
-      "samples": [
-        {
-          "doi": "10.1016/s1875-5372(15)30039-4",
-          "title": "Optimization of Partial Melting Process for Bi-2212 Multi-Filament Wires"
-        },
-        {
-          "doi": "10.1016/j.fsc.2014.10.001",
-          "title": "Rhinoplasty: Contemporary Innovations"
-        },
-        {
-          "doi": "10.1016/j.hlc.2015.06.257",
-          "title": "Tako-tsubo cardiomyopathy is associated with loss of anti-inflammatory effect of released B-type natriuretic peptide"
-        },
-        {
-          "doi": "10.1016/j.hlc.2015.04.070",
-          "title": "High prevalence of iron deficiency in heart failure with preserved ejection fraction"
-        },
-        {
-          "doi": "10.1016/s0992-5945(15)72047-7",
-          "title": "Aedes albopictus : un moustique multifonctions"
-        }
-      ]
-    },
-    {
-      "id": "author_sequence",
-      "label": "Author Sequence",
-      "category": "accessible_support",
-      "effort": "automatic",
-      "crossref": 0.887762166042767,
-      "openalex": 0.8908934487274969,
-      "gap": 0.0031312826847298414,
-      "samples": [
-        {
-          "doi": "10.1016/j.zefq.2015.07.008",
-          "title": "Verständlich oder Praxisfern – Anwenderbefragung zum AWMF-Regelwerk"
-        },
-        {
-          "doi": "10.4103/2319-4170.167064",
-          "title": "Proton therapy"
-        },
-        {
-          "doi": "10.1016/s1574-6267(15)00008-7",
-          "title": "Contents"
-        },
-        {
-          "doi": "10.1016/s0168-8227(15)00089-3",
-          "title": "Contents"
-        },
-        {
-          "doi": "10.1016/j.oooo.2014.12.001",
-          "title": "Erratum to “Abstracts from the 2014 American Academy of Oral Medicine meeting” [Oral Surg Oral Med Oral Pathol Oral Radiol 2014 Vol. 117, No. 5, pp e334-e392]"
-        }
-      ]
-    },
-    {
       "id": "affiliation_ids_ror",
       "label": "Affiliation IDs (ROR)",
       "category": "accessible_support",
@@ -3538,37 +2961,6 @@
       "crossref": 0,
       "openalex": 0.7740568581627674,
       "gap": 0.7740568581627674,
-      "samples": [
-        {
-          "doi": "10.1016/s2095-4964(15)60164-9",
-          "title": "Comparative study on WHO Western Pacific Region and World Federation of Chinese Medicine Societies international standard terminologies on traditional medicine: Diseases of Paediatrics (Part 2)"
-        },
-        {
-          "doi": "10.1016/s0252-9602(14)60145-4",
-          "title": "The normality of algebroid multifunctions and their coefficient functions"
-        },
-        {
-          "doi": "10.1016/j.lisr.2014.07.004",
-          "title": "When are LibQUAL+® and LibQUAL+® Lite scores psychometrically comparable?"
-        },
-        {
-          "doi": "10.1016/j.tetlet.2014.11.068",
-          "title": "A screening method of uranyl extractants in H2SO4 solutions"
-        },
-        {
-          "doi": "10.1016/j.vaccine.2014.11.045",
-          "title": "Vaccination against varicella as post-exposure prophylaxis in adults: A quantitative assessment"
-        }
-      ]
-    },
-    {
-      "id": "relations",
-      "label": "Relations",
-      "category": "accessible_support",
-      "effort": "voluntary",
-      "crossref": 0.0008845700220501513,
-      "openalex": 0.9833585865071008,
-      "gap": 0.9824740164850507,
       "samples": [
         {
           "doi": "10.1016/s2095-4964(15)60164-9",
@@ -3624,37 +3016,6 @@
       ]
     },
     {
-      "id": "affiliation_ror",
-      "label": "Affiliation with ROR",
-      "category": "evaluation_coara",
-      "effort": "voluntary",
-      "crossref": 0,
-      "openalex": 0.7740568581627674,
-      "gap": 0.7740568581627674,
-      "samples": [
-        {
-          "doi": "10.1016/s2095-4964(15)60164-9",
-          "title": "Comparative study on WHO Western Pacific Region and World Federation of Chinese Medicine Societies international standard terminologies on traditional medicine: Diseases of Paediatrics (Part 2)"
-        },
-        {
-          "doi": "10.1016/s0252-9602(14)60145-4",
-          "title": "The normality of algebroid multifunctions and their coefficient functions"
-        },
-        {
-          "doi": "10.1016/j.lisr.2014.07.004",
-          "title": "When are LibQUAL+® and LibQUAL+® Lite scores psychometrically comparable?"
-        },
-        {
-          "doi": "10.1016/j.tetlet.2014.11.068",
-          "title": "A screening method of uranyl extractants in H2SO4 solutions"
-        },
-        {
-          "doi": "10.1016/j.vaccine.2014.11.045",
-          "title": "Vaccination against varicella as post-exposure prophylaxis in adults: A quantitative assessment"
-        }
-      ]
-    },
-    {
       "id": "funding_complete",
       "label": "Complete Funding Info",
       "category": "evaluation_coara",
@@ -3682,37 +3043,6 @@
         {
           "doi": "10.1016/j.phpro.2014.12.004",
           "title": "Indirect Searches for Dark Matter with the Fermi Large Area Telescope1"
-        }
-      ]
-    },
-    {
-      "id": "preprint_version_link",
-      "label": "Preprint / Version Link",
-      "category": "evaluation_coara",
-      "effort": "voluntary",
-      "crossref": 0,
-      "openalex": 0.19034900742186497,
-      "gap": 0.19034900742186497,
-      "samples": [
-        {
-          "doi": "10.1016/j.tetlet.2014.11.068",
-          "title": "A screening method of uranyl extractants in H2SO4 solutions"
-        },
-        {
-          "doi": "10.1016/j.vaccine.2014.11.045",
-          "title": "Vaccination against varicella as post-exposure prophylaxis in adults: A quantitative assessment"
-        },
-        {
-          "doi": "10.1016/j.clinimag.2014.11.007",
-          "title": "Dual-source RF transmission in cardiac SSFP imaging at 3 T: systematic spatial evaluation of image quality improvement compared to conventional RF transmission"
-        },
-        {
-          "doi": "10.1186/1532-429x-17-s1-q106",
-          "title": "A physiologic flow phantom for the evaluation of 4D flow MRI in the left ventricle"
-        },
-        {
-          "doi": "10.1016/j.brs.2015.01.102",
-          "title": "rTMS in the treatment of adolescent depression"
         }
       ]
     },

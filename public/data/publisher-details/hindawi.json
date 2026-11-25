@@ -8,9 +8,9 @@
   "totalWorksMatched": 13625,
   "totalWorksUniverse": 13625,
   "crossref": {
-    "overall": 0.548398050227041,
+    "overall": 0.5483870410527292,
     "categories": {
-      "findable_essential": 0.7569785932721712,
+      "findable_essential": 0.7569418960244648,
       "findable_support": 0.4967606338615513,
       "accessible_essential": 0.7577655453618756,
       "accessible_support": 0.33526605504587154,
@@ -26,7 +26,7 @@
       "publisher": 1,
       "resource_type": 1,
       "subject_keywords": 0,
-      "funder_name": 0.19412844036697247,
+      "funder_name": 0.19368807339449542,
       "container_title": 1,
       "language": 0.9944954128440368,
       "author_orcid": 0,
@@ -68,10 +68,10 @@
     }
   },
   "openalex": {
-    "overall": 0.5933957112408489,
+    "overall": 0.5933917079047354,
     "categories": {
       "findable_essential": 0.8856269113149847,
-      "findable_support": 0.6303586321934946,
+      "findable_support": 0.6303319432860718,
       "accessible_essential": 0.5447420998980632,
       "accessible_support": 0.4425932721712538,
       "evaluation_coara": 0.26354495412844037
@@ -96,7 +96,7 @@
       "issn": 1,
       "volume": 0.9993394495412844,
       "issue": 0.7095779816513762,
-      "page": 0.9174311926605505,
+      "page": 0.9171376146788991,
       "published_print_date": 1,
       "published_online_date": 1,
       "article_number": 0,
@@ -127,79 +127,79 @@
       "open_access_status": 0.5171376146788991
     }
   },
-  "gap": 0.044997661013807866,
+  "gap": 0.045004666852006214,
   "comparable": {
     "crossref": {
       "categories": {
-        "findable_essential": 0.7569785932721712,
-        "findable_support": 0.545702752293578,
-        "accessible_essential": 0.8215229357798165,
-        "accessible_support": 0.27327217125382264,
-        "evaluation_coara": 0.23793027522935778
+        "findable_essential": 0.8257547956630525,
+        "findable_support": 0.5284718217562254,
+        "accessible_essential": 0.7708807339449542,
+        "accessible_support": 0,
+        "evaluation_coara": 0.3965504587155963
       },
-      "overall": 0.589242996941896
+      "overall": 0.5990274871917074
     },
     "openalex": {
       "categories": {
-        "findable_essential": 0.8856269113149847,
-        "findable_support": 0.693394495412844,
-        "accessible_essential": 0.6128348623853211,
-        "accessible_support": 0.8851865443425077,
-        "evaluation_coara": 0.5270899082568807
+        "findable_essential": 0.875229357798165,
+        "findable_support": 0.6774521625163826,
+        "accessible_essential": 0.6260917431192661,
+        "accessible_support": 0.8002201834862386,
+        "evaluation_coara": 0.48362079510703365
       },
-      "overall": 0.7168425993883792
+      "overall": 0.6974557448667541
     },
-    "gap": 0.12759960244648327,
-    "fieldCount": 38,
+    "gap": 0.0984282576750467,
+    "fieldCount": 26,
     "totalFieldCount": 48
   },
   "voluntary": {
     "crossref": {
       "categories": {
-        "findable_essential": 0.3173577981651376,
-        "findable_support": 0.04722935779816514,
-        "accessible_essential": 0.6150948012232416,
+        "findable_essential": 0.42299694189602444,
+        "findable_support": 0.04134556574923547,
+        "accessible_essential": 0.5423119266055045,
         "accessible_support": 0,
-        "evaluation_coara": 0.01582874617737003
+        "evaluation_coara": 0.04748623853211009
       },
-      "overall": 0.25923119266055045
+      "overall": 0.27817614678899083
     },
     "openalex": {
       "categories": {
-        "findable_essential": 0.6927155963302751,
-        "findable_support": 0.3268990825688074,
-        "accessible_essential": 0.6391681957186545,
-        "accessible_support": 0.8994128440366973,
-        "evaluation_coara": 0.4205504587155963
+        "findable_essential": 0.5902874617737003,
+        "findable_support": 0.37203669724770644,
+        "accessible_essential": 0.5687339449541284,
+        "accessible_support": 0.8002201834862386,
+        "evaluation_coara": 0.07706422018348624
       },
-      "overall": 0.5906929663608562
+      "overall": 0.47051009174311925
     },
-    "gap": 0.3314617737003058,
-    "fieldCount": 16
+    "gap": 0.19233394495412842,
+    "fieldCount": 10
   },
   "automatic": {
     "crossref": {
       "categories": {
         "findable_essential": 0.9767889908256882,
-        "findable_support": 0.8780183486238533,
-        "accessible_essential": 0.9453798165137615,
-        "accessible_support": 0.8198165137614679,
+        "findable_support": 0.893816513761468,
+        "accessible_essential": 0.9994495412844037,
+        "accessible_support": 0,
         "evaluation_coara": 0.5710825688073394
       },
-      "overall": 0.8572825688073394
+      "overall": 0.7911880733944955
     },
     "openalex": {
       "categories": {
         "findable_essential": 0.9820825688073395,
-        "findable_support": 0.9377247706422018,
-        "accessible_essential": 0.597034862385321,
-        "accessible_support": 0.8567339449541285,
+        "findable_support": 0.90651376146789,
+        "accessible_essential": 0.6834495412844037,
+        "accessible_support": 0,
         "evaluation_coara": 0.6868990825688073
       },
-      "overall": 0.8075954128440366
+      "overall": 0.7388440366972477
     },
-    "gap": -0.049687155963302865,
-    "fieldCount": 22
+    "gap": -0.05234403669724774,
+    "fieldCount": 16
   },
   "yearlyScores": [
     {
@@ -268,10 +268,10 @@
         }
       },
       "openalex": {
-        "overall": 0.6543537909212608,
+        "overall": 0.6543439333089935,
         "categories": {
           "findable_essential": 0.9213855421686747,
-          "findable_support": 0.6305147864184009,
+          "findable_support": 0.6304490690032859,
           "accessible_essential": 0.6825970548862116,
           "accessible_support": 0.4858634538152611,
           "evaluation_coara": 0.32062650602409637
@@ -296,7 +296,7 @@
           "issn": 1,
           "volume": 0.999277108433735,
           "issue": 0.4669879518072289,
-          "page": 0.9995180722891567,
+          "page": 0.9987951807228915,
           "published_print_date": 1,
           "published_online_date": 1,
           "article_number": 0,
@@ -330,29 +330,29 @@
       "comparable": {
         "crossref": {
           "categories": {
-            "findable_essential": 0.8069879518072289,
-            "findable_support": 0.5112289156626506,
-            "accessible_essential": 0.9042771084337349,
-            "accessible_support": 0.32016064257028115,
-            "evaluation_coara": 0.3086265060240964
+            "findable_essential": 0.8803504928806134,
+            "findable_support": 0.5162822719449226,
+            "accessible_essential": 0.8662048192771084,
+            "accessible_support": 0,
+            "evaluation_coara": 0.5143775100401607
           },
-          "overall": 0.6385913654618474
+          "overall": 0.6609741954832317
         },
         "openalex": {
           "categories": {
-            "findable_essential": 0.9213855421686747,
-            "findable_support": 0.693566265060241,
-            "accessible_essential": 0.767921686746988,
-            "accessible_support": 0.9717269076305222,
-            "evaluation_coara": 0.6412530120481927
+            "findable_essential": 0.9142387732749179,
+            "findable_support": 0.6738037865748708,
+            "accessible_essential": 0.7730722891566265,
+            "accessible_support": 0.9486746987951807,
+            "evaluation_coara": 0.56144578313253
           },
-          "overall": 0.7978543172690764
+          "overall": 0.7757668987638868
         },
-        "gap": 0.15926295180722905
+        "gap": 0.11479270328065516
       },
       "voluntary": {
-        "crossref": 0.337617469879518,
-        "openalex": 0.6935602409638555
+        "crossref": 0.37014457831325304,
+        "openalex": 0.5691686746987953
       }
     },
     {
@@ -421,10 +421,10 @@
         }
       },
       "openalex": {
-        "overall": 0.6310830108312036,
+        "overall": 0.6310797249604478,
         "categories": {
           "findable_essential": 0.9130321285140562,
-          "findable_support": 0.6393209200438116,
+          "findable_support": 0.6392990142387733,
           "accessible_essential": 0.6175635876840695,
           "accessible_support": 0.4765060240963856,
           "evaluation_coara": 0.29616867469879515
@@ -449,7 +449,7 @@
           "issn": 1,
           "volume": 0.9997590361445783,
           "issue": 0.5906024096385543,
-          "page": 0.9944578313253012,
+          "page": 0.9942168674698795,
           "published_print_date": 1,
           "published_online_date": 1,
           "article_number": 0,
@@ -483,29 +483,29 @@
       "comparable": {
         "crossref": {
           "categories": {
-            "findable_essential": 0.7872088353413655,
-            "findable_support": 0.5336144578313253,
-            "accessible_essential": 0.8819578313253014,
-            "accessible_support": 0.3096385542168675,
-            "evaluation_coara": 0.27643373493975903
+            "findable_essential": 0.8587732749178533,
+            "findable_support": 0.5294664371772805,
+            "accessible_essential": 0.8278915662650602,
+            "accessible_support": 0,
+            "evaluation_coara": 0.46072289156626506
           },
-          "overall": 0.6229448795180723
+          "overall": 0.6361694179314661
         },
         "openalex": {
           "categories": {
-            "findable_essential": 0.9130321285140562,
-            "findable_support": 0.7032530120481928,
-            "accessible_essential": 0.6947590361445782,
-            "accessible_support": 0.9530120481927712,
-            "evaluation_coara": 0.5923373493975903
+            "findable_essential": 0.9051259583789705,
+            "findable_support": 0.6884681583476764,
+            "accessible_essential": 0.7008433734939759,
+            "accessible_support": 0.9171084337349398,
+            "evaluation_coara": 0.5138152610441767
           },
-          "overall": 0.7668560240963855
+          "overall": 0.7444927502216658
         },
-        "gap": 0.14391114457831322
+        "gap": 0.10832333229019975
       },
       "voluntary": {
-        "crossref": 0.30526004016064257,
-        "openalex": 0.6612228915662651
+        "crossref": 0.3280421686746988,
+        "openalex": 0.535566265060241
       }
     },
     {
@@ -514,9 +514,9 @@
       "matched": 1192,
       "universeSize": 1192,
       "crossref": {
-        "overall": 0.5112669480035251,
+        "overall": 0.5111411090773507,
         "categories": {
-          "findable_essential": 0.7192393736017898,
+          "findable_essential": 0.7188199105145414,
           "findable_support": 0.5484289200732153,
           "accessible_essential": 0.6684377330350484,
           "accessible_support": 0.2929250559284116,
@@ -532,7 +532,7 @@
           "publisher": 1,
           "resource_type": 1,
           "subject_keywords": 0,
-          "funder_name": 0.1568791946308725,
+          "funder_name": 0.1518456375838926,
           "container_title": 1,
           "language": 0.9865771812080537,
           "author_orcid": 0,
@@ -636,29 +636,29 @@
       "comparable": {
         "crossref": {
           "categories": {
-            "findable_essential": 0.7192393736017898,
-            "findable_support": 0.6018456375838925,
-            "accessible_essential": 0.7488464765100671,
-            "accessible_support": 0.2550335570469799,
-            "evaluation_coara": 0.16778523489932887
+            "findable_essential": 0.7841671751067725,
+            "findable_support": 0.5743048897411314,
+            "accessible_essential": 0.6738674496644296,
+            "accessible_support": 0,
+            "evaluation_coara": 0.2796420581655481
           },
-          "overall": 0.5523206795302014
+          "overall": 0.5457911600424185
         },
         "openalex": {
           "categories": {
-            "findable_essential": 0.8592701342281878,
-            "findable_support": 0.7086409395973154,
-            "accessible_essential": 0.44966442953020136,
-            "accessible_support": 0.842841163310962,
-            "evaluation_coara": 0.40352348993288584
+            "findable_essential": 0.8464765100671141,
+            "findable_support": 0.7066155321188878,
+            "accessible_essential": 0.4710570469798657,
+            "accessible_support": 0.7340604026845637,
+            "evaluation_coara": 0.3708053691275168
           },
-          "overall": 0.6414821029082775
+          "overall": 0.6252666586768936
         },
-        "gap": 0.08916142337807609
+        "gap": 0.07947549863447512
       },
       "voluntary": {
-        "crossref": 0.1825258668903803,
-        "openalex": 0.49964695190156605
+        "crossref": 0.18202600671140937,
+        "openalex": 0.37690855704697984
       }
     },
     {
@@ -789,29 +789,29 @@
       "comparable": {
         "crossref": {
           "categories": {
-            "findable_essential": 0.6649684619116933,
-            "findable_support": 0.5797671033478894,
-            "accessible_essential": 0.6513828238719068,
-            "accessible_support": 0.17758369723435227,
-            "evaluation_coara": 0.12372634643377001
+            "findable_essential": 0.7254201402673018,
+            "findable_support": 0.5564566437928883,
+            "accessible_essential": 0.6117176128093158,
+            "accessible_support": 0,
+            "evaluation_coara": 0.20621057738961668
           },
-          "overall": 0.49180494905385735
+          "overall": 0.49526605732937606
         },
         "openalex": {
           "categories": {
-            "findable_essential": 0.8084667637069384,
-            "findable_support": 0.6771470160116448,
-            "accessible_essential": 0.4235807860262008,
-            "accessible_support": 0.7137311984473556,
-            "evaluation_coara": 0.3787481804949054
+            "findable_essential": 0.7910546513166601,
+            "findable_support": 0.6722811395300479,
+            "accessible_essential": 0.4454148471615721,
+            "accessible_support": 0.47016011644832606,
+            "evaluation_coara": 0.4332848131974769
           },
-          "overall": 0.5971300339640951
+          "overall": 0.5831852523992263
         },
-        "gap": 0.10532508491023779
+        "gap": 0.08791919506985019
       },
       "voluntary": {
-        "crossref": 0.1058042212518195,
-        "openalex": 0.3874575448811256
+        "crossref": 0.10673216885007278,
+        "openalex": 0.2709970887918486
       }
     },
     {
@@ -942,29 +942,29 @@
       "comparable": {
         "crossref": {
           "categories": {
-            "findable_essential": 0.652589240824535,
-            "findable_support": 0.5619909502262443,
-            "accessible_essential": 0.6312217194570134,
-            "accessible_support": 0.15133232780291603,
-            "evaluation_coara": 0.09864253393665158
+            "findable_essential": 0.7119155354449472,
+            "findable_support": 0.5281189398836458,
+            "accessible_essential": 0.5935143288084465,
+            "accessible_support": 0,
+            "evaluation_coara": 0.16440422322775264
           },
-          "overall": 0.4727425842131725
+          "overall": 0.47405192846369315
         },
         "openalex": {
           "categories": {
-            "findable_essential": 0.7936148818501759,
-            "findable_support": 0.6475113122171946,
-            "accessible_essential": 0.37688536953242835,
-            "accessible_support": 0.6726998491704373,
-            "evaluation_coara": 0.3324283559577677
+            "findable_essential": 0.7748525983820101,
+            "findable_support": 0.6317603964662789,
+            "accessible_essential": 0.40120663650075417,
+            "accessible_support": 0.39215686274509803,
+            "evaluation_coara": 0.39819004524886875
           },
-          "overall": 0.5631881598793363
+          "overall": 0.5463751934340169
         },
-        "gap": 0.09044557566616385
+        "gap": 0.07232326497032371
       },
       "voluntary": {
-        "crossref": 0.0897875816993464,
-        "openalex": 0.34525515334338863
+        "crossref": 0.08740573152337858,
+        "openalex": 0.2259049773755656
       }
     },
     {
@@ -1095,29 +1095,29 @@
       "comparable": {
         "crossref": {
           "categories": {
-            "findable_essential": 0.6540443070582174,
-            "findable_support": 0.5534775888717156,
-            "accessible_essential": 0.6356259659969088,
-            "accessible_support": 0.14270994332818135,
-            "evaluation_coara": 0.09489953632148376
+            "findable_essential": 0.7135028804271463,
+            "findable_support": 0.5118127621991609,
+            "accessible_essential": 0.5958268933539412,
+            "accessible_support": 0,
+            "evaluation_coara": 0.1581658938691396
           },
-          "overall": 0.4713923235445647
+          "overall": 0.47141268057033126
         },
         "openalex": {
           "categories": {
-            "findable_essential": 0.7887686759402369,
-            "findable_support": 0.631839258114374,
-            "accessible_essential": 0.36978361669242654,
-            "accessible_support": 0.6517259144770736,
-            "evaluation_coara": 0.31931993817619786
+            "findable_essential": 0.7695658282984403,
+            "findable_support": 0.6069772576727754,
+            "accessible_essential": 0.3987635239567234,
+            "accessible_support": 0.401854714064915,
+            "evaluation_coara": 0.36888201957753736
           },
-          "overall": 0.5528889747552808
+          "overall": 0.5355690934516282
         },
-        "gap": 0.08149665121071609
+        "gap": 0.06415641288129692
       },
       "voluntary": {
-        "crossref": 0.09761076764554354,
-        "openalex": 0.3482096857290056
+        "crossref": 0.09667697063369396,
+        "openalex": 0.23087326120556412
       }
     },
     {
@@ -1248,29 +1248,29 @@
       "comparable": {
         "crossref": {
           "categories": {
-            "findable_essential": 0.6919242273180458,
-            "findable_support": 0.5726819541375872,
-            "accessible_essential": 0.712861415752742,
-            "accessible_support": 0.19707544034562977,
-            "evaluation_coara": 0.14955134596211367
+            "findable_essential": 0.7548264298015045,
+            "findable_support": 0.5124626121635095,
+            "accessible_essential": 0.6542871385842473,
+            "accessible_support": 0,
+            "evaluation_coara": 0.24925224327018944
           },
-          "overall": 0.521312728481223
+          "overall": 0.5167395540650774
         },
         "openalex": {
           "categories": {
-            "findable_essential": 0.8316716517115322,
-            "findable_support": 0.6782652043868395,
-            "accessible_essential": 0.4074027916251247,
-            "accessible_support": 0.7404453306746427,
-            "evaluation_coara": 0.37248255234297106
+            "findable_essential": 0.8163690745943988,
+            "findable_support": 0.6595926506195698,
+            "accessible_essential": 0.43743768693918245,
+            "accessible_support": 0.5782652043868395,
+            "evaluation_coara": 0.37819873712196744
           },
-          "overall": 0.6016330176138253
+          "overall": 0.5866753095691282
         },
-        "gap": 0.08032028913260225
+        "gap": 0.06993575550405073
       },
       "voluntary": {
-        "crossref": 0.16876869391824528,
-        "openalex": 0.45427052176802923
+        "crossref": 0.1754985044865404,
+        "openalex": 0.3434695912263211
       }
     },
     {
@@ -1401,29 +1401,29 @@
       "comparable": {
         "crossref": {
           "categories": {
-            "findable_essential": 0.7359269083407014,
-            "findable_support": 0.599027409372237,
-            "accessible_essential": 0.7902298850574712,
-            "accessible_support": 0.25876805187150015,
-            "evaluation_coara": 0.22210433244916
+            "findable_essential": 0.8028293545534925,
+            "findable_support": 0.5283567007704939,
+            "accessible_essential": 0.7179487179487178,
+            "accessible_support": 0,
+            "evaluation_coara": 0.3701738874152667
           },
-          "overall": 0.5784873268493956
+          "overall": 0.5736242684518547
         },
         "openalex": {
           "categories": {
-            "findable_essential": 0.8858679634541704,
-            "findable_support": 0.7260831122900088,
-            "accessible_essential": 0.4891688770999116,
-            "accessible_support": 0.8541114058355438,
-            "evaluation_coara": 0.4588859416445623
+            "findable_essential": 0.8754923237681859,
+            "findable_support": 0.7059492231906024,
+            "accessible_essential": 0.5141467727674623,
+            "accessible_support": 0.7612732095490716,
+            "evaluation_coara": 0.44562334217506633
           },
-          "overall": 0.6741534040671971
+          "overall": 0.6623287631908321
         },
-        "gap": 0.09566607721780152
+        "gap": 0.08870449473897746
       },
       "voluntary": {
-        "crossref": 0.2485779546124374,
-        "openalex": 0.5774535809018567
+        "crossref": 0.2697170645446508,
+        "openalex": 0.4828912466843501
       }
     },
     {
@@ -1554,29 +1554,29 @@
       "comparable": {
         "crossref": {
           "categories": {
-            "findable_essential": 0.7916666666666666,
-            "findable_support": 0.4,
-            "accessible_essential": 0.875,
-            "accessible_support": 0.3333333333333333,
-            "evaluation_coara": 0.4
+            "findable_essential": 0.8636363636363636,
+            "findable_support": 0.42857142857142855,
+            "accessible_essential": 1,
+            "accessible_support": 0,
+            "evaluation_coara": 0.6666666666666666
           },
-          "overall": 0.6295833333333334
+          "overall": 0.7067099567099566
         },
         "openalex": {
           "categories": {
-            "findable_essential": 0.7916666666666666,
-            "findable_support": 0.6,
-            "accessible_essential": 0.875,
-            "accessible_support": 0.8333333333333334,
-            "evaluation_coara": 0.7
+            "findable_essential": 0.7727272727272727,
+            "findable_support": 0.5714285714285714,
+            "accessible_essential": 1,
+            "accessible_support": 0.5,
+            "evaluation_coara": 0.6666666666666666
           },
-          "overall": 0.7695833333333334
+          "overall": 0.7508658008658009
         },
-        "gap": 0.14
+        "gap": 0.04415584415584428
       },
       "voluntary": {
-        "crossref": 0.3625,
-        "openalex": 0.5750000000000001
+        "crossref": 0.4,
+        "openalex": 0.39999999999999997
       }
     },
     {
@@ -1958,28 +1958,6 @@
     "publication_date": [],
     "publisher": [],
     "resource_type": [],
-    "subject_keywords": [
-      {
-        "doi": "10.1155/2015/741307",
-        "title": "Adaptive Inverse Optimal Control of a Novel Fractional-Order Four-Wing Hyperchaotic System with Uncertain Parameter and Circuitry Implementation"
-      },
-      {
-        "doi": "10.1111/anu.12236",
-        "title": "Effective use of glucose rather than starch in formulated semimoist diets of common octopus (<i>Octopus vulgaris</i>)"
-      },
-      {
-        "doi": "10.1155/2015/453931",
-        "title": "Deformation Behavior of Press Formed Shell by Indentation and Its Numerical Simulation"
-      },
-      {
-        "doi": "10.1155/2015/234878",
-        "title": "Antiphospholipid Syndrome in a Pregnant Female Presenting with Severe Thrombocytopenia and Bleeding"
-      },
-      {
-        "doi": "10.1155/2015/171509",
-        "title": "Cerebellum as Initial Site of Distant Metastasis from Papillary Carcinoma of Thyroid: Review of Three Cases"
-      }
-    ],
     "funder_name": [
       {
         "doi": "10.1155/2015/183528",
@@ -2067,28 +2045,6 @@
       {
         "doi": "10.1155/2015/183528",
         "title": "Comment on “School-Based Obesity Prevention Intervention in Chilean Children: Effective in Controlling, but not Reducing Obesity”"
-      }
-    ],
-    "funder_doi": [
-      {
-        "doi": "10.1155/2015/741307",
-        "title": "Adaptive Inverse Optimal Control of a Novel Fractional-Order Four-Wing Hyperchaotic System with Uncertain Parameter and Circuitry Implementation"
-      },
-      {
-        "doi": "10.1155/2015/183528",
-        "title": "Comment on “School-Based Obesity Prevention Intervention in Chilean Children: Effective in Controlling, but not Reducing Obesity”"
-      },
-      {
-        "doi": "10.1155/2015/879584",
-        "title": "Prostatic Stromal Tumor of Uncertain Malignant Potential Which Was Difficult to Diagnose"
-      },
-      {
-        "doi": "10.1155/2015/154864",
-        "title": "Estimating Potential Evapotranspiration by Missing Temperature Data Reconstruction"
-      },
-      {
-        "doi": "10.1155/2015/413262",
-        "title": "DNASynth: A Computer Program for Assembly of Artificial Gene Parts in Decreasing Temperature"
       }
     ],
     "award_number": [
@@ -2180,73 +2136,7 @@
         "title": "Challenges of using next generation sequencing in newborn screening"
       }
     ],
-    "published_print_date": [
-      {
-        "doi": "10.4081/mi.2015.5609",
-        "title": "Socio-cultural context and feelings of hatred and revenge in war veterans with post-traumatic stress disorder 15 years after war in Kosovo"
-      },
-      {
-        "doi": "10.4081/mi.2015.5827",
-        "title": "Psychopathology and urine toxicology in methadone patients"
-      },
-      {
-        "doi": "10.4081/mi.2015.5784",
-        "title": "The change of music preferences following the onset of a mental disorder"
-      },
-      {
-        "doi": "10.4081/mi.2015.5640",
-        "title": "Diagnostic stability of acute and transient psychotic disorders in developing country settings: an overview"
-      },
-      {
-        "doi": "10.4081/mi.2015.5871",
-        "title": "Olanzapine-induced neutropenia"
-      }
-    ],
-    "published_online_date": [
-      {
-        "doi": "10.1155/2015/741307",
-        "title": "Adaptive Inverse Optimal Control of a Novel Fractional-Order Four-Wing Hyperchaotic System with Uncertain Parameter and Circuitry Implementation"
-      },
-      {
-        "doi": "10.1155/2015/453931",
-        "title": "Deformation Behavior of Press Formed Shell by Indentation and Its Numerical Simulation"
-      },
-      {
-        "doi": "10.1155/2015/234878",
-        "title": "Antiphospholipid Syndrome in a Pregnant Female Presenting with Severe Thrombocytopenia and Bleeding"
-      },
-      {
-        "doi": "10.1155/2015/171509",
-        "title": "Cerebellum as Initial Site of Distant Metastasis from Papillary Carcinoma of Thyroid: Review of Three Cases"
-      },
-      {
-        "doi": "10.1155/2015/780903",
-        "title": "Comment on “Renal Protective Effect of Sirtuin 1”"
-      }
-    ],
     "license": [
-      {
-        "doi": "10.4081/mi.2015.5609",
-        "title": "Socio-cultural context and feelings of hatred and revenge in war veterans with post-traumatic stress disorder 15 years after war in Kosovo"
-      },
-      {
-        "doi": "10.4081/mi.2015.5827",
-        "title": "Psychopathology and urine toxicology in methadone patients"
-      },
-      {
-        "doi": "10.4081/mi.2015.5784",
-        "title": "The change of music preferences following the onset of a mental disorder"
-      },
-      {
-        "doi": "10.4081/mi.2015.5640",
-        "title": "Diagnostic stability of acute and transient psychotic disorders in developing country settings: an overview"
-      },
-      {
-        "doi": "10.4081/mi.2015.5871",
-        "title": "Olanzapine-induced neutropenia"
-      }
-    ],
-    "license_url": [
       {
         "doi": "10.4081/mi.2015.5609",
         "title": "Socio-cultural context and feelings of hatred and revenge in war veterans with post-traumatic stress disorder 15 years after war in Kosovo"
@@ -2290,28 +2180,6 @@
         "title": "Characterization of putative haematopoietic cells from bovine yolk sac"
       }
     ],
-    "full_text_links": [
-      {
-        "doi": "10.1111/hsc.12201",
-        "title": "Narrative synthesis of equine-assisted psychotherapy literature: Current knowledge and future research directions"
-      },
-      {
-        "doi": "10.1111/ijcp.12550",
-        "title": "Issue Information"
-      },
-      {
-        "doi": "10.1111/ijcp.12630",
-        "title": "A meta-analysis of published studies of endothelial dysfunction does not support its routine clinical use"
-      },
-      {
-        "doi": "10.1111/ijcp.12617",
-        "title": "Response to clarifying the costs of conflicts of interest"
-      },
-      {
-        "doi": "10.1111/ijcp.12621",
-        "title": "Skin reactions at the application site of rivastigmine patch (4.6 mg/24 h, 9.5 mg/24 h or 13.3 mg/24 h): a qualitative analysis of clinical studies in patients with Alzheimer's disease"
-      }
-    ],
     "resource_url": [],
     "references": [
       {
@@ -2335,95 +2203,7 @@
         "title": "Association among Fraction of Exhaled Nitrous Oxide, Bronchodilator Response and Inhaled Corticosteroid Type"
       }
     ],
-    "references_count": [
-      {
-        "doi": "10.1155/2015/904686",
-        "title": "Adult Lactose Digestion Status and Effects on Disease"
-      },
-      {
-        "doi": "10.1155/2015/189360",
-        "title": "Inflammatory Bowel Disease: Appreciating Disability and Impact of Disease"
-      },
-      {
-        "doi": "10.1155/2015/350587",
-        "title": "Polyethylene Glycol versus sodium picosulfalte Bowel Preparation in the Setting of a Colorectal Cancer Screening Program"
-      },
-      {
-        "doi": "10.1155/2015/950734",
-        "title": "Neutrophil Infiltration and the Distribution of Intestinal Metaplasia Is Associated with Metachronous Gastric Cancer following Endoscopic Submucosal Dissection"
-      },
-      {
-        "doi": "10.1155/2015/851063",
-        "title": "Association among Fraction of Exhaled Nitrous Oxide, Bronchodilator Response and Inhaled Corticosteroid Type"
-      }
-    ],
-    "is_referenced_by": [
-      {
-        "doi": "10.1111/anu.12236",
-        "title": "Effective use of glucose rather than starch in formulated semimoist diets of common octopus (<i>Octopus vulgaris</i>)"
-      },
-      {
-        "doi": "10.1155/2015/234878",
-        "title": "Antiphospholipid Syndrome in a Pregnant Female Presenting with Severe Thrombocytopenia and Bleeding"
-      },
-      {
-        "doi": "10.1155/2015/171509",
-        "title": "Cerebellum as Initial Site of Distant Metastasis from Papillary Carcinoma of Thyroid: Review of Three Cases"
-      },
-      {
-        "doi": "10.1155/2015/154864",
-        "title": "Estimating Potential Evapotranspiration by Missing Temperature Data Reconstruction"
-      },
-      {
-        "doi": "10.1155/2015/315465",
-        "title": "Cicatricial Ectropion Secondary to Psoriatic Arthritis"
-      }
-    ],
-    "author_sequence": [
-      {
-        "doi": "10.1155/2015/452154",
-        "title": "Pulsus Gastroenterology &amp; Hepatology News"
-      },
-      {
-        "doi": "10.1002/humu.22643",
-        "title": "Contents"
-      },
-      {
-        "doi": "10.1111/ijcp.12550",
-        "title": "Issue Information"
-      },
-      {
-        "doi": "10.1017/s0016672314000214",
-        "title": "Abstracts of papers presented at the 25th Genetics Society's Mammalian Genetics and Development Workshop held at the Institute of Child Health, University College London on 7th November 2014."
-      },
-      {
-        "doi": "10.1111/cmi.12345",
-        "title": "Issue Information"
-      }
-    ],
     "affiliation_ids_ror": [
-      {
-        "doi": "10.1155/2015/741307",
-        "title": "Adaptive Inverse Optimal Control of a Novel Fractional-Order Four-Wing Hyperchaotic System with Uncertain Parameter and Circuitry Implementation"
-      },
-      {
-        "doi": "10.1111/anu.12236",
-        "title": "Effective use of glucose rather than starch in formulated semimoist diets of common octopus (<i>Octopus vulgaris</i>)"
-      },
-      {
-        "doi": "10.1155/2015/453931",
-        "title": "Deformation Behavior of Press Formed Shell by Indentation and Its Numerical Simulation"
-      },
-      {
-        "doi": "10.1155/2015/234878",
-        "title": "Antiphospholipid Syndrome in a Pregnant Female Presenting with Severe Thrombocytopenia and Bleeding"
-      },
-      {
-        "doi": "10.1155/2015/171509",
-        "title": "Cerebellum as Initial Site of Distant Metastasis from Papillary Carcinoma of Thyroid: Review of Three Cases"
-      }
-    ],
-    "relations": [
       {
         "doi": "10.1155/2015/741307",
         "title": "Adaptive Inverse Optimal Control of a Novel Fractional-Order Four-Wing Hyperchaotic System with Uncertain Parameter and Circuitry Implementation"
@@ -2467,28 +2247,6 @@
         "title": "Issue Information"
       }
     ],
-    "affiliation_ror": [
-      {
-        "doi": "10.1155/2015/741307",
-        "title": "Adaptive Inverse Optimal Control of a Novel Fractional-Order Four-Wing Hyperchaotic System with Uncertain Parameter and Circuitry Implementation"
-      },
-      {
-        "doi": "10.1111/anu.12236",
-        "title": "Effective use of glucose rather than starch in formulated semimoist diets of common octopus (<i>Octopus vulgaris</i>)"
-      },
-      {
-        "doi": "10.1155/2015/453931",
-        "title": "Deformation Behavior of Press Formed Shell by Indentation and Its Numerical Simulation"
-      },
-      {
-        "doi": "10.1155/2015/234878",
-        "title": "Antiphospholipid Syndrome in a Pregnant Female Presenting with Severe Thrombocytopenia and Bleeding"
-      },
-      {
-        "doi": "10.1155/2015/171509",
-        "title": "Cerebellum as Initial Site of Distant Metastasis from Papillary Carcinoma of Thyroid: Review of Three Cases"
-      }
-    ],
     "funding_complete": [
       {
         "doi": "10.1155/2015/741307",
@@ -2509,28 +2267,6 @@
       {
         "doi": "10.1155/2015/931418",
         "title": "Complementary Therapies for Significant Dysfunction from Tinnitus: Treatment Review and Potential for Integrative Medicine"
-      }
-    ],
-    "preprint_version_link": [
-      {
-        "doi": "10.1155/2015/741307",
-        "title": "Adaptive Inverse Optimal Control of a Novel Fractional-Order Four-Wing Hyperchaotic System with Uncertain Parameter and Circuitry Implementation"
-      },
-      {
-        "doi": "10.1155/2015/453931",
-        "title": "Deformation Behavior of Press Formed Shell by Indentation and Its Numerical Simulation"
-      },
-      {
-        "doi": "10.1155/2015/234878",
-        "title": "Antiphospholipid Syndrome in a Pregnant Female Presenting with Severe Thrombocytopenia and Bleeding"
-      },
-      {
-        "doi": "10.1155/2015/171509",
-        "title": "Cerebellum as Initial Site of Distant Metastasis from Papillary Carcinoma of Thyroid: Review of Three Cases"
-      },
-      {
-        "doi": "10.1155/2015/780903",
-        "title": "Comment on “Renal Protective Effect of Sirtuin 1”"
       }
     ],
     "open_access_status": [
@@ -2558,182 +2294,150 @@
   },
   "sampleWorks": [
     {
-      "doi": "10.1155/2015/741307",
-      "title": "Adaptive Inverse Optimal Control of a Novel Fractional-Order Four-Wing Hyperchaotic System with Uncertain Parameter and Circuitry Implementation",
-      "year": 2015,
-      "crossrefScore": 0.7368421052631579,
-      "openalexScore": 0.9473684210526315,
-      "gap": 9,
-      "openalexAdds": [
-        "subject_keywords",
-        "author_orcid",
-        "funder_doi",
-        "published_online_date",
-        "affiliation_ids_ror",
-        "relations",
-        "affiliation_ror",
-        "funding_complete",
-        "preprint_version_link"
-      ]
-    },
-    {
       "doi": "10.1111/anu.12236",
       "title": "Effective use of glucose rather than starch in formulated semimoist diets of common octopus (<i>Octopus vulgaris</i>)",
       "year": 2015,
-      "crossrefScore": 0.7368421052631579,
-      "openalexScore": 0.8421052631578947,
-      "gap": 8,
+      "crossrefScore": 0.7692307692307693,
+      "openalexScore": 0.8846153846153846,
+      "gap": 4,
       "openalexAdds": [
         "abstract",
-        "subject_keywords",
         "author_orcid",
         "all_authors_orcid",
-        "is_referenced_by",
-        "affiliation_ids_ror",
-        "relations",
-        "affiliation_ror"
-      ]
-    },
-    {
-      "doi": "10.1155/2015/453931",
-      "title": "Deformation Behavior of Press Formed Shell by Indentation and Its Numerical Simulation",
-      "year": 2015,
-      "crossrefScore": 0.6842105263157895,
-      "openalexScore": 0.868421052631579,
-      "gap": 8,
-      "openalexAdds": [
-        "subject_keywords",
-        "author_orcid",
-        "all_authors_orcid",
-        "published_online_date",
-        "affiliation_ids_ror",
-        "relations",
-        "affiliation_ror",
-        "preprint_version_link"
-      ]
-    },
-    {
-      "doi": "10.1155/2015/234878",
-      "title": "Antiphospholipid Syndrome in a Pregnant Female Presenting with Severe Thrombocytopenia and Bleeding",
-      "year": 2015,
-      "crossrefScore": 0.6578947368421053,
-      "openalexScore": 0.8421052631578947,
-      "gap": 8,
-      "openalexAdds": [
-        "subject_keywords",
-        "author_orcid",
-        "published_online_date",
-        "is_referenced_by",
-        "affiliation_ids_ror",
-        "relations",
-        "affiliation_ror",
-        "preprint_version_link"
-      ]
-    },
-    {
-      "doi": "10.1155/2015/171509",
-      "title": "Cerebellum as Initial Site of Distant Metastasis from Papillary Carcinoma of Thyroid: Review of Three Cases",
-      "year": 2015,
-      "crossrefScore": 0.6578947368421053,
-      "openalexScore": 0.8421052631578947,
-      "gap": 8,
-      "openalexAdds": [
-        "subject_keywords",
-        "author_orcid",
-        "published_online_date",
-        "is_referenced_by",
-        "affiliation_ids_ror",
-        "relations",
-        "affiliation_ror",
-        "preprint_version_link"
+        "affiliation_ids_ror"
       ]
     },
     {
       "doi": "10.1155/2015/780903",
       "title": "Comment on “Renal Protective Effect of Sirtuin 1”",
       "year": 2015,
-      "crossrefScore": 0.631578947368421,
-      "openalexScore": 0.868421052631579,
-      "gap": 9,
+      "crossrefScore": 0.6923076923076923,
+      "openalexScore": 0.8461538461538461,
+      "gap": 4,
       "openalexAdds": [
         "abstract",
-        "subject_keywords",
         "author_orcid",
         "all_authors_orcid",
-        "published_online_date",
-        "affiliation_ids_ror",
-        "relations",
-        "affiliation_ror",
-        "preprint_version_link"
+        "affiliation_ids_ror"
       ]
     },
     {
-      "doi": "10.1155/2015/869482",
-      "title": "Strong Tracking Filtering Algorithm of Randomly Delayed Measurements for Nonlinear Systems",
+      "doi": "10.1155/2015/183528",
+      "title": "Comment on “School-Based Obesity Prevention Intervention in Chilean Children: Effective in Controlling, but not Reducing Obesity”",
       "year": 2015,
-      "crossrefScore": 0.6842105263157895,
-      "openalexScore": 0.8421052631578947,
+      "crossrefScore": 0.6923076923076923,
+      "openalexScore": 0.9615384615384616,
       "gap": 7,
       "openalexAdds": [
-        "subject_keywords",
-        "author_orcid",
-        "published_online_date",
-        "affiliation_ids_ror",
-        "relations",
-        "affiliation_ror",
-        "preprint_version_link"
-      ]
-    },
-    {
-      "doi": "10.1155/2015/390727",
-      "title": "Subacute Subdural Hematoma in a Patient with Bilateral DBS Electrodes",
-      "year": 2015,
-      "crossrefScore": 0.6842105263157895,
-      "openalexScore": 0.868421052631579,
-      "gap": 8,
-      "openalexAdds": [
-        "subject_keywords",
+        "abstract",
+        "funder_name",
         "author_orcid",
         "all_authors_orcid",
-        "published_online_date",
+        "award_number",
         "affiliation_ids_ror",
-        "relations",
-        "affiliation_ror",
-        "preprint_version_link"
+        "funding_complete"
       ]
     },
     {
-      "doi": "10.1155/2015/123694",
-      "title": "Inverted Papilloma Originating Primarily from the Nasolacrimal Duct: A Case Report and Review of the Pertinent Literature",
+      "doi": "10.1155/2015/154864",
+      "title": "Estimating Potential Evapotranspiration by Missing Temperature Data Reconstruction",
       "year": 2015,
-      "crossrefScore": 0.6842105263157895,
-      "openalexScore": 0.8421052631578947,
-      "gap": 7,
+      "crossrefScore": 0.7307692307692307,
+      "openalexScore": 0.8846153846153846,
+      "gap": 4,
       "openalexAdds": [
-        "subject_keywords",
+        "funder_name",
         "author_orcid",
-        "published_online_date",
-        "affiliation_ids_ror",
-        "relations",
-        "affiliation_ror",
-        "preprint_version_link"
+        "all_authors_orcid",
+        "affiliation_ids_ror"
       ]
     },
     {
-      "doi": "10.1155/2015/749463",
-      "title": "Recurrent Laryngeal Edema Imitating Angioedema Caused by Dislocated Screw after Anterior Spine Surgery",
+      "doi": "10.1155/2015/895609",
+      "title": "Global Properties in High Energy Collisions",
       "year": 2015,
-      "crossrefScore": 0.6842105263157895,
-      "openalexScore": 0.8421052631578947,
-      "gap": 7,
+      "crossrefScore": 0.6538461538461539,
+      "openalexScore": 0.8461538461538461,
+      "gap": 5,
       "openalexAdds": [
-        "subject_keywords",
+        "abstract",
+        "funder_name",
         "author_orcid",
-        "published_online_date",
+        "all_authors_orcid",
+        "affiliation_ids_ror"
+      ]
+    },
+    {
+      "doi": "10.1155/2015/430818",
+      "title": "Traditional Chinese Medicine and Vascular Disease",
+      "year": 2015,
+      "crossrefScore": 0.6538461538461539,
+      "openalexScore": 0.8076923076923077,
+      "gap": 4,
+      "openalexAdds": [
+        "abstract",
+        "author_orcid",
+        "all_authors_orcid",
+        "affiliation_ids_ror"
+      ]
+    },
+    {
+      "doi": "10.1155/2015/659072",
+      "title": "Nonlinear Fuzzy Differential Equation with Time Delay and Optimal Control Problem",
+      "year": 2015,
+      "crossrefScore": 0.7307692307692307,
+      "openalexScore": 0.8846153846153846,
+      "gap": 4,
+      "openalexAdds": [
+        "funder_name",
+        "author_orcid",
+        "all_authors_orcid",
+        "affiliation_ids_ror"
+      ]
+    },
+    {
+      "doi": "10.1155/2015/904686",
+      "title": "Adult Lactose Digestion Status and Effects on Disease",
+      "year": 2015,
+      "crossrefScore": 0.7307692307692307,
+      "openalexScore": 0.9230769230769231,
+      "gap": 5,
+      "openalexAdds": [
+        "funder_name",
+        "author_orcid",
+        "all_authors_orcid",
+        "references",
+        "affiliation_ids_ror"
+      ]
+    },
+    {
+      "doi": "10.1155/2015/690295",
+      "title": "On Games and Equilibria with Coherent Lower Expectations",
+      "year": 2015,
+      "crossrefScore": 0.7307692307692307,
+      "openalexScore": 0.8846153846153846,
+      "gap": 4,
+      "openalexAdds": [
+        "funder_name",
+        "author_orcid",
+        "all_authors_orcid",
+        "affiliation_ids_ror"
+      ]
+    },
+    {
+      "doi": "10.1155/2015/879302",
+      "title": "Occupational Exposure to Diesel Motor Exhaust and Lung Cancer: A Dose-Response Relationship Hidden by Asbestos Exposure Adjustment? The ICARE Study",
+      "year": 2015,
+      "crossrefScore": 0.6923076923076923,
+      "openalexScore": 0.9230769230769231,
+      "gap": 6,
+      "openalexAdds": [
+        "funder_name",
+        "author_orcid",
+        "award_number",
         "affiliation_ids_ror",
-        "relations",
-        "affiliation_ror",
-        "preprint_version_link"
+        "author_given_family",
+        "funding_complete"
       ]
     }
   ],
@@ -2882,44 +2586,13 @@
       "samples": []
     },
     {
-      "id": "subject_keywords",
-      "label": "Subject / Keywords",
-      "category": "findable_essential",
-      "effort": "voluntary",
-      "crossref": 0,
-      "openalex": 1,
-      "gap": 1,
-      "samples": [
-        {
-          "doi": "10.1155/2015/741307",
-          "title": "Adaptive Inverse Optimal Control of a Novel Fractional-Order Four-Wing Hyperchaotic System with Uncertain Parameter and Circuitry Implementation"
-        },
-        {
-          "doi": "10.1111/anu.12236",
-          "title": "Effective use of glucose rather than starch in formulated semimoist diets of common octopus (<i>Octopus vulgaris</i>)"
-        },
-        {
-          "doi": "10.1155/2015/453931",
-          "title": "Deformation Behavior of Press Formed Shell by Indentation and Its Numerical Simulation"
-        },
-        {
-          "doi": "10.1155/2015/234878",
-          "title": "Antiphospholipid Syndrome in a Pregnant Female Presenting with Severe Thrombocytopenia and Bleeding"
-        },
-        {
-          "doi": "10.1155/2015/171509",
-          "title": "Cerebellum as Initial Site of Distant Metastasis from Papillary Carcinoma of Thyroid: Review of Three Cases"
-        }
-      ]
-    },
-    {
       "id": "funder_name",
       "label": "Funder Name",
       "category": "findable_essential",
       "effort": "voluntary",
-      "crossref": 0.19412844036697247,
+      "crossref": 0.19368807339449542,
       "openalex": 0.19148623853211008,
-      "gap": -0.0026422018348623844,
+      "gap": -0.0022018348623853434,
       "samples": [
         {
           "doi": "10.1155/2015/183528",
@@ -3047,37 +2720,6 @@
       ]
     },
     {
-      "id": "funder_doi",
-      "label": "Funder DOI",
-      "category": "findable_support",
-      "effort": "voluntary",
-      "crossref": 0.06488073394495412,
-      "openalex": 0.19148623853211008,
-      "gap": 0.12660550458715597,
-      "samples": [
-        {
-          "doi": "10.1155/2015/741307",
-          "title": "Adaptive Inverse Optimal Control of a Novel Fractional-Order Four-Wing Hyperchaotic System with Uncertain Parameter and Circuitry Implementation"
-        },
-        {
-          "doi": "10.1155/2015/183528",
-          "title": "Comment on “School-Based Obesity Prevention Intervention in Chilean Children: Effective in Controlling, but not Reducing Obesity”"
-        },
-        {
-          "doi": "10.1155/2015/879584",
-          "title": "Prostatic Stromal Tumor of Uncertain Malignant Potential Which Was Difficult to Diagnose"
-        },
-        {
-          "doi": "10.1155/2015/154864",
-          "title": "Estimating Potential Evapotranspiration by Missing Temperature Data Reconstruction"
-        },
-        {
-          "doi": "10.1155/2015/413262",
-          "title": "DNASynth: A Computer Program for Assembly of Artificial Gene Parts in Decreasing Temperature"
-        }
-      ]
-    },
-    {
       "id": "award_number",
       "label": "Award Number",
       "category": "findable_support",
@@ -3186,8 +2828,8 @@
       "category": "findable_support",
       "effort": "automatic",
       "crossref": 0.8689908256880734,
-      "openalex": 0.9174311926605505,
-      "gap": 0.04844036697247711,
+      "openalex": 0.9171376146788991,
+      "gap": 0.048146788990825695,
       "samples": [
         {
           "doi": "10.1017/s0016672315000099",
@@ -3212,101 +2854,8 @@
       ]
     },
     {
-      "id": "published_print_date",
-      "label": "Published Print Date",
-      "category": "findable_support",
-      "effort": "automatic",
-      "crossref": 0.9928073394495412,
-      "openalex": 1,
-      "gap": 0.0071926605504587515,
-      "samples": [
-        {
-          "doi": "10.4081/mi.2015.5609",
-          "title": "Socio-cultural context and feelings of hatred and revenge in war veterans with post-traumatic stress disorder 15 years after war in Kosovo"
-        },
-        {
-          "doi": "10.4081/mi.2015.5827",
-          "title": "Psychopathology and urine toxicology in methadone patients"
-        },
-        {
-          "doi": "10.4081/mi.2015.5784",
-          "title": "The change of music preferences following the onset of a mental disorder"
-        },
-        {
-          "doi": "10.4081/mi.2015.5640",
-          "title": "Diagnostic stability of acute and transient psychotic disorders in developing country settings: an overview"
-        },
-        {
-          "doi": "10.4081/mi.2015.5871",
-          "title": "Olanzapine-induced neutropenia"
-        }
-      ]
-    },
-    {
-      "id": "published_online_date",
-      "label": "Published Online Date",
-      "category": "findable_support",
-      "effort": "automatic",
-      "crossref": 0.7000366972477065,
-      "openalex": 1,
-      "gap": 0.29996330275229355,
-      "samples": [
-        {
-          "doi": "10.1155/2015/741307",
-          "title": "Adaptive Inverse Optimal Control of a Novel Fractional-Order Four-Wing Hyperchaotic System with Uncertain Parameter and Circuitry Implementation"
-        },
-        {
-          "doi": "10.1155/2015/453931",
-          "title": "Deformation Behavior of Press Formed Shell by Indentation and Its Numerical Simulation"
-        },
-        {
-          "doi": "10.1155/2015/234878",
-          "title": "Antiphospholipid Syndrome in a Pregnant Female Presenting with Severe Thrombocytopenia and Bleeding"
-        },
-        {
-          "doi": "10.1155/2015/171509",
-          "title": "Cerebellum as Initial Site of Distant Metastasis from Papillary Carcinoma of Thyroid: Review of Three Cases"
-        },
-        {
-          "doi": "10.1155/2015/780903",
-          "title": "Comment on “Renal Protective Effect of Sirtuin 1”"
-        }
-      ]
-    },
-    {
       "id": "license",
       "label": "License",
-      "category": "accessible_essential",
-      "effort": "automatic",
-      "crossref": 0.9988990825688073,
-      "openalex": 0.3668990825688073,
-      "gap": -0.632,
-      "samples": [
-        {
-          "doi": "10.4081/mi.2015.5609",
-          "title": "Socio-cultural context and feelings of hatred and revenge in war veterans with post-traumatic stress disorder 15 years after war in Kosovo"
-        },
-        {
-          "doi": "10.4081/mi.2015.5827",
-          "title": "Psychopathology and urine toxicology in methadone patients"
-        },
-        {
-          "doi": "10.4081/mi.2015.5784",
-          "title": "The change of music preferences following the onset of a mental disorder"
-        },
-        {
-          "doi": "10.4081/mi.2015.5640",
-          "title": "Diagnostic stability of acute and transient psychotic disorders in developing country settings: an overview"
-        },
-        {
-          "doi": "10.4081/mi.2015.5871",
-          "title": "Olanzapine-induced neutropenia"
-        }
-      ]
-    },
-    {
-      "id": "license_url",
-      "label": "License URL",
       "category": "accessible_essential",
       "effort": "automatic",
       "crossref": 0.9988990825688073,
@@ -3367,37 +2916,6 @@
       ]
     },
     {
-      "id": "full_text_links",
-      "label": "Full-text Links",
-      "category": "accessible_essential",
-      "effort": "automatic",
-      "crossref": 0.9878165137614678,
-      "openalex": 0.48535779816513763,
-      "gap": -0.5024587155963303,
-      "samples": [
-        {
-          "doi": "10.1111/hsc.12201",
-          "title": "Narrative synthesis of equine-assisted psychotherapy literature: Current knowledge and future research directions"
-        },
-        {
-          "doi": "10.1111/ijcp.12550",
-          "title": "Issue Information"
-        },
-        {
-          "doi": "10.1111/ijcp.12630",
-          "title": "A meta-analysis of published studies of endothelial dysfunction does not support its routine clinical use"
-        },
-        {
-          "doi": "10.1111/ijcp.12617",
-          "title": "Response to clarifying the costs of conflicts of interest"
-        },
-        {
-          "doi": "10.1111/ijcp.12621",
-          "title": "Skin reactions at the application site of rivastigmine patch (4.6 mg/24 h, 9.5 mg/24 h or 13.3 mg/24 h): a qualitative analysis of clinical studies in patients with Alzheimer's disease"
-        }
-      ]
-    },
-    {
       "id": "resource_url",
       "label": "Resource URL",
       "category": "accessible_essential",
@@ -3439,99 +2957,6 @@
       ]
     },
     {
-      "id": "references_count",
-      "label": "References Count",
-      "category": "accessible_essential",
-      "effort": "voluntary",
-      "crossref": 0.7606605504587156,
-      "openalex": 0.7800366972477064,
-      "gap": 0.0193761467889908,
-      "samples": [
-        {
-          "doi": "10.1155/2015/904686",
-          "title": "Adult Lactose Digestion Status and Effects on Disease"
-        },
-        {
-          "doi": "10.1155/2015/189360",
-          "title": "Inflammatory Bowel Disease: Appreciating Disability and Impact of Disease"
-        },
-        {
-          "doi": "10.1155/2015/350587",
-          "title": "Polyethylene Glycol versus sodium picosulfalte Bowel Preparation in the Setting of a Colorectal Cancer Screening Program"
-        },
-        {
-          "doi": "10.1155/2015/950734",
-          "title": "Neutrophil Infiltration and the Distribution of Intestinal Metaplasia Is Associated with Metachronous Gastric Cancer following Endoscopic Submucosal Dissection"
-        },
-        {
-          "doi": "10.1155/2015/851063",
-          "title": "Association among Fraction of Exhaled Nitrous Oxide, Bronchodilator Response and Inhaled Corticosteroid Type"
-        }
-      ]
-    },
-    {
-      "id": "is_referenced_by",
-      "label": "Is Referenced By",
-      "category": "accessible_essential",
-      "effort": "automatic",
-      "crossref": 0.7412844036697248,
-      "openalex": 0.7660183486238532,
-      "gap": 0.024733944954128395,
-      "samples": [
-        {
-          "doi": "10.1111/anu.12236",
-          "title": "Effective use of glucose rather than starch in formulated semimoist diets of common octopus (<i>Octopus vulgaris</i>)"
-        },
-        {
-          "doi": "10.1155/2015/234878",
-          "title": "Antiphospholipid Syndrome in a Pregnant Female Presenting with Severe Thrombocytopenia and Bleeding"
-        },
-        {
-          "doi": "10.1155/2015/171509",
-          "title": "Cerebellum as Initial Site of Distant Metastasis from Papillary Carcinoma of Thyroid: Review of Three Cases"
-        },
-        {
-          "doi": "10.1155/2015/154864",
-          "title": "Estimating Potential Evapotranspiration by Missing Temperature Data Reconstruction"
-        },
-        {
-          "doi": "10.1155/2015/315465",
-          "title": "Cicatricial Ectropion Secondary to Psoriatic Arthritis"
-        }
-      ]
-    },
-    {
-      "id": "author_sequence",
-      "label": "Author Sequence",
-      "category": "accessible_support",
-      "effort": "automatic",
-      "crossref": 0.8198165137614679,
-      "openalex": 0.8567339449541285,
-      "gap": 0.036917431192660555,
-      "samples": [
-        {
-          "doi": "10.1155/2015/452154",
-          "title": "Pulsus Gastroenterology &amp; Hepatology News"
-        },
-        {
-          "doi": "10.1002/humu.22643",
-          "title": "Contents"
-        },
-        {
-          "doi": "10.1111/ijcp.12550",
-          "title": "Issue Information"
-        },
-        {
-          "doi": "10.1017/s0016672314000214",
-          "title": "Abstracts of papers presented at the 25th Genetics Society's Mammalian Genetics and Development Workshop held at the Institute of Child Health, University College London on 7th November 2014."
-        },
-        {
-          "doi": "10.1111/cmi.12345",
-          "title": "Issue Information"
-        }
-      ]
-    },
-    {
       "id": "affiliation_ids_ror",
       "label": "Affiliation IDs (ROR)",
       "category": "accessible_support",
@@ -3539,37 +2964,6 @@
       "crossref": 0,
       "openalex": 0.8002201834862386,
       "gap": 0.8002201834862386,
-      "samples": [
-        {
-          "doi": "10.1155/2015/741307",
-          "title": "Adaptive Inverse Optimal Control of a Novel Fractional-Order Four-Wing Hyperchaotic System with Uncertain Parameter and Circuitry Implementation"
-        },
-        {
-          "doi": "10.1111/anu.12236",
-          "title": "Effective use of glucose rather than starch in formulated semimoist diets of common octopus (<i>Octopus vulgaris</i>)"
-        },
-        {
-          "doi": "10.1155/2015/453931",
-          "title": "Deformation Behavior of Press Formed Shell by Indentation and Its Numerical Simulation"
-        },
-        {
-          "doi": "10.1155/2015/234878",
-          "title": "Antiphospholipid Syndrome in a Pregnant Female Presenting with Severe Thrombocytopenia and Bleeding"
-        },
-        {
-          "doi": "10.1155/2015/171509",
-          "title": "Cerebellum as Initial Site of Distant Metastasis from Papillary Carcinoma of Thyroid: Review of Three Cases"
-        }
-      ]
-    },
-    {
-      "id": "relations",
-      "label": "Relations",
-      "category": "accessible_support",
-      "effort": "voluntary",
-      "crossref": 0,
-      "openalex": 0.9986055045871559,
-      "gap": 0.9986055045871559,
       "samples": [
         {
           "doi": "10.1155/2015/741307",
@@ -3625,37 +3019,6 @@
       ]
     },
     {
-      "id": "affiliation_ror",
-      "label": "Affiliation with ROR",
-      "category": "evaluation_coara",
-      "effort": "voluntary",
-      "crossref": 0,
-      "openalex": 0.8002201834862386,
-      "gap": 0.8002201834862386,
-      "samples": [
-        {
-          "doi": "10.1155/2015/741307",
-          "title": "Adaptive Inverse Optimal Control of a Novel Fractional-Order Four-Wing Hyperchaotic System with Uncertain Parameter and Circuitry Implementation"
-        },
-        {
-          "doi": "10.1111/anu.12236",
-          "title": "Effective use of glucose rather than starch in formulated semimoist diets of common octopus (<i>Octopus vulgaris</i>)"
-        },
-        {
-          "doi": "10.1155/2015/453931",
-          "title": "Deformation Behavior of Press Formed Shell by Indentation and Its Numerical Simulation"
-        },
-        {
-          "doi": "10.1155/2015/234878",
-          "title": "Antiphospholipid Syndrome in a Pregnant Female Presenting with Severe Thrombocytopenia and Bleeding"
-        },
-        {
-          "doi": "10.1155/2015/171509",
-          "title": "Cerebellum as Initial Site of Distant Metastasis from Papillary Carcinoma of Thyroid: Review of Three Cases"
-        }
-      ]
-    },
-    {
       "id": "funding_complete",
       "label": "Complete Funding Info",
       "category": "evaluation_coara",
@@ -3683,37 +3046,6 @@
         {
           "doi": "10.1155/2015/931418",
           "title": "Complementary Therapies for Significant Dysfunction from Tinnitus: Treatment Review and Potential for Integrative Medicine"
-        }
-      ]
-    },
-    {
-      "id": "preprint_version_link",
-      "label": "Preprint / Version Link",
-      "category": "evaluation_coara",
-      "effort": "voluntary",
-      "crossref": 0,
-      "openalex": 0.3843669724770642,
-      "gap": 0.3843669724770642,
-      "samples": [
-        {
-          "doi": "10.1155/2015/741307",
-          "title": "Adaptive Inverse Optimal Control of a Novel Fractional-Order Four-Wing Hyperchaotic System with Uncertain Parameter and Circuitry Implementation"
-        },
-        {
-          "doi": "10.1155/2015/453931",
-          "title": "Deformation Behavior of Press Formed Shell by Indentation and Its Numerical Simulation"
-        },
-        {
-          "doi": "10.1155/2015/234878",
-          "title": "Antiphospholipid Syndrome in a Pregnant Female Presenting with Severe Thrombocytopenia and Bleeding"
-        },
-        {
-          "doi": "10.1155/2015/171509",
-          "title": "Cerebellum as Initial Site of Distant Metastasis from Papillary Carcinoma of Thyroid: Review of Three Cases"
-        },
-        {
-          "doi": "10.1155/2015/780903",
-          "title": "Comment on “Renal Protective Effect of Sirtuin 1”"
         }
       ]
     },

@@ -1,28 +1,28 @@
 {
   "totalPublishers": 14,
   "totalWorks": 835664,
-  "avgCrossrefScore": 0.5668844937889256,
-  "avgOpenAlexScore": 0.7825525163464732,
-  "avgGap": 0.21566802255754758,
-  "avgCrossrefScoreAll": 0.5275693907146786,
-  "avgOpenAlexScoreAll": 0.6404172406446174,
-  "avgGapAll": 0.11284784992993879,
-  "comparableFields": 38,
+  "avgCrossrefScore": 0.5964036127249138,
+  "avgOpenAlexScore": 0.7768944204345752,
+  "avgGap": 0.18049080770966142,
+  "avgCrossrefScoreAll": 0.5273923873729168,
+  "avgOpenAlexScoreAll": 0.6404157812774078,
+  "avgGapAll": 0.11302339390449101,
+  "comparableFields": 26,
   "totalFields": 48,
-  "voluntaryFields": 16,
-  "avgVoluntaryCrossref": 0.2687792513392352,
-  "avgVoluntaryOpenAlex": 0.6606518490796226,
-  "avgAutomaticCrossref": 0.8262422480521686,
+  "voluntaryFields": 10,
+  "avgVoluntaryCrossref": 0.3068547005793915,
+  "avgVoluntaryOpenAlex": 0.5649605565973712,
+  "avgAutomaticCrossref": 0.7573182507269463,
   "categoryAverages": {
     "findable_essential": {
-      "crossref": 0.7222322397565469,
-      "openalex": 0.8975397446585707,
-      "gap": 0.17530750490202374
+      "crossref": 0.7222176365345401,
+      "openalex": 0.8975371566628334,
+      "gap": 0.17531952012829333
     },
     "findable_support": {
-      "crossref": 0.5180886527482232,
-      "openalex": 0.6555151361560829,
-      "gap": 0.13742648340785968
+      "crossref": 0.5169378369138247,
+      "openalex": 0.6555105830328276,
+      "gap": 0.13857274611900294
     },
     "accessible_essential": {
       "crossref": 0.6777339155743709,

@@ -8,10 +8,10 @@
   "totalWorksMatched": 87920,
   "totalWorksUniverse": 88000,
   "crossref": {
-    "overall": 0.5618551268365473,
+    "overall": 0.561838003902663,
     "categories": {
-      "findable_essential": 0.7541619318181817,
-      "findable_support": 0.611206611570248,
+      "findable_essential": 0.7541193181818181,
+      "findable_support": 0.6111776859504133,
       "accessible_essential": 0.6655593434343435,
       "accessible_support": 0.3210094696969697,
       "evaluation_coara": 0.22717386363636366
@@ -26,17 +26,17 @@
       "publisher": 1,
       "resource_type": 1,
       "subject_keywords": 0,
-      "funder_name": 0.30226136363636363,
+      "funder_name": 0.30175,
       "container_title": 1,
       "language": 0.9993863636363637,
       "author_orcid": 0.38172727272727275,
       "all_authors_orcid": 0.15611363636363637,
       "funder_doi": 0.19798863636363637,
-      "award_number": 0.2099090909090909,
+      "award_number": 0.20960227272727272,
       "issn": 1,
       "volume": 0.9593295454545454,
       "issue": 0.9115340909090909,
-      "page": 0.9584659090909091,
+      "page": 0.9584545454545454,
       "published_print_date": 0.9114431818181818,
       "published_online_date": 0.9979431818181819,
       "article_number": 0.03881818181818182,
@@ -127,79 +127,79 @@
       "open_access_status": 0.32292993630573247
     }
   },
-  "gap": 0.04257969396013661,
+  "gap": 0.04259681689402084,
   "comparable": {
     "crossref": {
       "categories": {
-        "findable_essential": 0.7541619318181817,
-        "findable_support": 0.6684454545454546,
-        "accessible_essential": 0.6310738636363636,
-        "accessible_support": 0.3273825757575758,
-        "evaluation_coara": 0.26608409090909085
+        "findable_essential": 0.8226756198347107,
+        "findable_support": 0.653823051948052,
+        "accessible_essential": 0.5653863636363636,
+        "accessible_support": 0,
+        "evaluation_coara": 0.4426704545454545
       },
-      "overall": 0.5702389393939393
+      "overall": 0.5747568255608028
     },
     "openalex": {
       "categories": {
-        "findable_essential": 0.9170694949954504,
-        "findable_support": 0.7585520928116469,
-        "accessible_essential": 0.5543804026387625,
-        "accessible_support": 0.9555353351531695,
-        "evaluation_coara": 0.5490263876251137
+        "findable_essential": 0.90956654810158,
+        "findable_support": 0.7607955284024437,
+        "accessible_essential": 0.5816537761601456,
+        "accessible_support": 0.919722474977252,
+        "evaluation_coara": 0.4893804974218987
       },
-      "overall": 0.7328575741204125
+      "overall": 0.7222510847129819
     },
-    "gap": 0.1626186347264732,
-    "fieldCount": 38,
+    "gap": 0.14749425915217917,
+    "fieldCount": 26,
     "totalFieldCount": 48
   },
   "voluntary": {
     "crossref": {
       "categories": {
-        "findable_essential": 0.2683494318181818,
-        "findable_support": 0.2364346590909091,
-        "accessible_essential": 0.629814393939394,
-        "accessible_support": 0.002693181818181818,
-        "evaluation_coara": 0.050768939393939394
+        "findable_essential": 0.3576287878787879,
+        "findable_support": 0.24914772727272727,
+        "accessible_essential": 0.5237329545454545,
+        "accessible_support": 0,
+        "evaluation_coara": 0.14989772727272727
       },
-      "overall": 0.2838467329545455
+      "overall": 0.30557357954545455
     },
     "openalex": {
       "categories": {
-        "findable_essential": 0.758226228389445,
-        "findable_support": 0.4333257506824386,
-        "accessible_essential": 0.649859720958447,
-        "accessible_support": 0.9436874431301183,
-        "evaluation_coara": 0.48099408553230205
+        "findable_essential": 0.6777676675765848,
+        "findable_support": 0.49111692447679717,
+        "accessible_essential": 0.5448020928116469,
+        "accessible_support": 0.919722474977252,
+        "evaluation_coara": 0.16599181073703367
       },
-      "overall": 0.6454992227782833
+      "overall": 0.5383689717925388
     },
-    "gap": 0.3616524898237378,
-    "fieldCount": 16
+    "gap": 0.2327953922470843,
+    "fieldCount": 10
   },
   "automatic": {
     "crossref": {
       "categories": {
         "findable_essential": 0.9970681818181818,
-        "findable_support": 0.9564526515151516,
-        "accessible_essential": 0.6318295454545455,
-        "accessible_support": 0.9767613636363637,
+        "findable_support": 0.9573295454545454,
+        "accessible_essential": 0.6070397727272727,
+        "accessible_support": 0,
         "evaluation_coara": 0.5890568181818182
       },
-      "overall": 0.8160332386363638
+      "overall": 0.7122911931818182
     },
     "openalex": {
       "categories": {
         "findable_essential": 0.9964911282984532,
-        "findable_support": 0.9753696542311192,
-        "accessible_essential": 0.49709281164695174,
-        "accessible_support": 0.9792311191992721,
+        "findable_support": 0.9630544813466788,
+        "accessible_essential": 0.6185054595086442,
+        "accessible_support": 0,
         "evaluation_coara": 0.6510748407643312
       },
-      "overall": 0.7976640696087353
+      "overall": 0.7282468437215651
     },
-    "gap": -0.01836916902762853,
-    "fieldCount": 22
+    "gap": 0.0159556505397469,
+    "fieldCount": 16
   },
   "yearlyScores": [
     {
@@ -330,29 +330,29 @@
       "comparable": {
         "crossref": {
           "categories": {
-            "findable_essential": 0.6930729166666666,
-            "findable_support": 0.601075,
-            "accessible_essential": 0.5621875000000001,
-            "accessible_support": 0.3219166666666667,
-            "evaluation_coara": 0.21475
+            "findable_essential": 0.7560795454545454,
+            "findable_support": 0.5699821428571428,
+            "accessible_essential": 0.47409375,
+            "accessible_support": 0,
+            "evaluation_coara": 0.35775
           },
-          "overall": 0.5137716666666667
+          "overall": 0.502394622564935
         },
         "openalex": {
           "categories": {
-            "findable_essential": 0.9119056548735259,
-            "findable_support": 0.7374796849606201,
-            "accessible_essential": 0.5008751093886736,
-            "accessible_support": 0.9490352960786765,
-            "evaluation_coara": 0.4958619827478435
+            "findable_essential": 0.9038970780438464,
+            "findable_support": 0.7386994802921795,
+            "accessible_essential": 0.5168458557319665,
+            "accessible_support": 0.8841105138142268,
+            "evaluation_coara": 0.42484477226319955
           },
-          "overall": 0.7034883527107555
+          "overall": 0.6845655152240351
         },
-        "gap": 0.18971668604408876
+        "gap": 0.18217089265910014
       },
       "voluntary": {
-        "crossref": 0.16983125,
-        "openalex": 0.6027571154727673
+        "crossref": 0.15536875,
+        "openalex": 0.48139767470933864
       }
     },
     {
@@ -361,10 +361,10 @@
       "matched": 7998,
       "universeSize": 153832,
       "crossref": {
-        "overall": 0.5315101704545455,
+        "overall": 0.5314783522727273,
         "categories": {
-          "findable_essential": 0.7198229166666668,
-          "findable_support": 0.5659886363636363,
+          "findable_essential": 0.7197395833333333,
+          "findable_support": 0.5659431818181818,
           "accessible_essential": 0.6240416666666668,
           "accessible_support": 0.3210208333333333,
           "evaluation_coara": 0.21276250000000002
@@ -379,13 +379,13 @@
           "publisher": 1,
           "resource_type": 1,
           "subject_keywords": 0,
-          "funder_name": 0.20925,
+          "funder_name": 0.20825,
           "container_title": 1,
           "language": 0.998125,
           "author_orcid": 0.0295,
           "all_authors_orcid": 0.008125,
           "funder_doi": 0.132,
-          "award_number": 0.169,
+          "award_number": 0.1685,
           "issn": 1,
           "volume": 0.977875,
           "issue": 0.95875,
@@ -483,29 +483,29 @@
       "comparable": {
         "crossref": {
           "categories": {
-            "findable_essential": 0.7198229166666668,
-            "findable_support": 0.6222,
-            "accessible_essential": 0.5822500000000002,
-            "accessible_support": 0.32183333333333336,
-            "evaluation_coara": 0.23420000000000005
+            "findable_essential": 0.7851704545454545,
+            "findable_support": 0.5909107142857143,
+            "accessible_essential": 0.49928125,
+            "accessible_support": 0,
+            "evaluation_coara": 0.39025000000000004
           },
-          "overall": 0.5338627083333334
+          "overall": 0.5270580560064935
         },
         "openalex": {
           "categories": {
-            "findable_essential": 0.9163853463365842,
-            "findable_support": 0.7524881220305076,
-            "accessible_essential": 0.5147380595148787,
-            "accessible_support": 0.9508210385929816,
-            "evaluation_coara": 0.5168292073018255
+            "findable_essential": 0.9087840141853646,
+            "findable_support": 0.754938734683671,
+            "accessible_essential": 0.5287571892973243,
+            "accessible_support": 0.8892223055763941,
+            "evaluation_coara": 0.45269650746019846
           },
-          "overall": 0.7149212824039344
+          "overall": 0.6975268438321702
         },
-        "gap": 0.181058574070601
+        "gap": 0.17046878782567676
       },
       "voluntary": {
-        "crossref": 0.2110015625,
-        "openalex": 0.6204358381261983
+        "crossref": 0.21194375,
+        "openalex": 0.5060983995999
       }
     },
     {
@@ -514,10 +514,10 @@
       "matched": 7999,
       "universeSize": 150509,
       "crossref": {
-        "overall": 0.5519541414141413,
+        "overall": 0.551909255050505,
         "categories": {
-          "findable_essential": 0.7559791666666665,
-          "findable_support": 0.5970340909090909,
+          "findable_essential": 0.755875,
+          "findable_support": 0.5969431818181818,
           "accessible_essential": 0.6371944444444444,
           "accessible_support": 0.32229166666666664,
           "evaluation_coara": 0.22038750000000004
@@ -532,17 +532,17 @@
           "publisher": 1,
           "resource_type": 1,
           "subject_keywords": 0,
-          "funder_name": 0.27025,
+          "funder_name": 0.269,
           "container_title": 1,
           "language": 0.998375,
           "author_orcid": 0.201,
           "all_authors_orcid": 0.061375,
           "funder_doi": 0.20125,
-          "award_number": 0.217625,
+          "award_number": 0.21675,
           "issn": 1,
           "volume": 0.98875,
           "issue": 0.950875,
-          "page": 0.991875,
+          "page": 0.99175,
           "published_print_date": 0.95125,
           "published_online_date": 0.9965,
           "article_number": 0.006875,
@@ -636,29 +636,29 @@
       "comparable": {
         "crossref": {
           "categories": {
-            "findable_essential": 0.7559791666666665,
-            "findable_support": 0.65605,
-            "accessible_essential": 0.5974531249999999,
-            "accessible_support": 0.3250416666666667,
-            "evaluation_coara": 0.24982500000000002
+            "findable_essential": 0.824590909090909,
+            "findable_support": 0.6300714285714285,
+            "accessible_essential": 0.51225,
+            "accessible_support": 0,
+            "evaluation_coara": 0.416
           },
-          "overall": 0.5570336979166666
+          "overall": 0.5531504870129869
         },
         "openalex": {
           "categories": {
-            "findable_essential": 0.9241988581906072,
-            "findable_support": 0.7667333416677085,
-            "accessible_essential": 0.5318321040130016,
-            "accessible_support": 0.9561611868150185,
-            "evaluation_coara": 0.5384923115389423
+            "findable_essential": 0.9173078452988442,
+            "findable_support": 0.7664350901005484,
+            "accessible_essential": 0.5465370671333917,
+            "accessible_support": 0.9008626078259783,
+            "evaluation_coara": 0.4781847730966371
           },
-          "overall": 0.7285422656998791
+          "overall": 0.7125150992900087
         },
-        "gap": 0.17150856778321255
+        "gap": 0.1593646122770218
       },
       "voluntary": {
-        "crossref": 0.2628427083333333,
-        "openalex": 0.6436314956036171
+        "crossref": 0.282334375,
+        "openalex": 0.5361013876734592
       }
     },
     {
@@ -667,10 +667,10 @@
       "matched": 7999,
       "universeSize": 143471,
       "crossref": {
-        "overall": 0.556758529040404,
+        "overall": 0.5567315404040404,
         "categories": {
-          "findable_essential": 0.76328125,
-          "findable_support": 0.6162045454545455,
+          "findable_essential": 0.7632083333333335,
+          "findable_support": 0.6161704545454546,
           "accessible_essential": 0.6340555555555556,
           "accessible_support": 0.32214583333333335,
           "evaluation_coara": 0.22307499999999997
@@ -685,13 +685,13 @@
           "publisher": 1,
           "resource_type": 1,
           "subject_keywords": 0,
-          "funder_name": 0.32775,
+          "funder_name": 0.326875,
           "container_title": 1,
           "language": 0.99975,
           "author_orcid": 0.30575,
           "all_authors_orcid": 0.09975,
           "funder_doi": 0.236625,
-          "award_number": 0.24975,
+          "award_number": 0.249375,
           "issn": 1,
           "volume": 0.993875,
           "issue": 0.94825,
@@ -789,29 +789,29 @@
       "comparable": {
         "crossref": {
           "categories": {
-            "findable_essential": 0.76328125,
-            "findable_support": 0.6771,
-            "accessible_essential": 0.594703125,
-            "accessible_support": 0.32675000000000004,
-            "evaluation_coara": 0.25637499999999996
+            "findable_essential": 0.8325909090909093,
+            "findable_support": 0.6555000000000001,
+            "accessible_essential": 0.51046875,
+            "accessible_support": 0,
+            "evaluation_coara": 0.42675
           },
-          "overall": 0.5631751562499999
+          "overall": 0.5610694602272728
         },
         "openalex": {
           "categories": {
-            "findable_essential": 0.9270950535483603,
-            "findable_support": 0.7758719839979997,
-            "accessible_essential": 0.5447243405425678,
-            "accessible_support": 0.9598283118723175,
-            "evaluation_coara": 0.5524690586323291
+            "findable_essential": 0.9204673311436657,
+            "findable_support": 0.7760791527512367,
+            "accessible_essential": 0.5591948993624203,
+            "accessible_support": 0.9039879984998125,
+            "evaluation_coara": 0.4973955077718048
           },
-          "overall": 0.7371670417135474
+          "overall": 0.7222286985007325
         },
-        "gap": 0.1739918854635475
+        "gap": 0.16115923827345968
       },
       "voluntary": {
-        "crossref": 0.2766546875,
-        "openalex": 0.6534353252489894
+        "crossref": 0.302371875,
+        "openalex": 0.550206275784473
       }
     },
     {
@@ -820,10 +820,10 @@
       "matched": 8000,
       "universeSize": 157639,
       "crossref": {
-        "overall": 0.5588324305555554,
+        "overall": 0.558827601010101,
         "categories": {
-          "findable_essential": 0.7579895833333331,
-          "findable_support": 0.6157499999999999,
+          "findable_essential": 0.7579791666666665,
+          "findable_support": 0.6157386363636363,
           "accessible_essential": 0.6502638888888889,
           "accessible_support": 0.32339583333333327,
           "evaluation_coara": 0.22083750000000002
@@ -838,13 +838,13 @@
           "publisher": 1,
           "resource_type": 1,
           "subject_keywords": 0,
-          "funder_name": 0.239125,
+          "funder_name": 0.239,
           "container_title": 1,
           "language": 0.9995,
           "author_orcid": 0.392875,
           "all_authors_orcid": 0.134,
           "funder_doi": 0.1635,
-          "award_number": 0.177875,
+          "award_number": 0.17775,
           "issn": 1,
           "volume": 0.997625,
           "issue": 0.9555,
@@ -942,29 +942,29 @@
       "comparable": {
         "crossref": {
           "categories": {
-            "findable_essential": 0.7579895833333331,
-            "findable_support": 0.6763499999999999,
-            "accessible_essential": 0.6126406249999999,
-            "accessible_support": 0.32825,
-            "evaluation_coara": 0.251275
+            "findable_essential": 0.8268863636363636,
+            "findable_support": 0.6639464285714285,
+            "accessible_essential": 0.5306875,
+            "accessible_support": 0,
+            "evaluation_coara": 0.41804166666666664
           },
-          "overall": 0.5650895312499999
+          "overall": 0.5639380817099566
         },
         "openalex": {
           "categories": {
-            "findable_essential": 0.9231458333333333,
-            "findable_support": 0.7643875,
-            "accessible_essential": 0.55075,
-            "accessible_support": 0.966125,
-            "evaluation_coara": 0.543475
+            "findable_essential": 0.9161590909090909,
+            "findable_support": 0.7717678571428571,
+            "accessible_essential": 0.5659687499999999,
+            "accessible_support": 0.91925,
+            "evaluation_coara": 0.4759166666666667
           },
-          "overall": 0.7345968749999999
+          "overall": 0.7192134266774892
         },
-        "gap": 0.16950734374999998
+        "gap": 0.1552753449675326
       },
       "voluntary": {
-        "crossref": 0.2735177083333333,
-        "openalex": 0.6474520833333333
+        "crossref": 0.293196875,
+        "openalex": 0.536584375
       }
     },
     {
@@ -973,10 +973,10 @@
       "matched": 8000,
       "universeSize": 162580,
       "crossref": {
-        "overall": 0.567291957070707,
+        "overall": 0.5672791729797979,
         "categories": {
-          "findable_essential": 0.7598333333333334,
-          "findable_support": 0.6259204545454545,
+          "findable_essential": 0.7598020833333333,
+          "findable_support": 0.6258977272727272,
           "accessible_essential": 0.6730972222222222,
           "accessible_support": 0.32139583333333327,
           "evaluation_coara": 0.22519999999999998
@@ -991,13 +991,13 @@
           "publisher": 1,
           "resource_type": 1,
           "subject_keywords": 0,
-          "funder_name": 0.26925,
+          "funder_name": 0.268875,
           "container_title": 1,
           "language": 1,
           "author_orcid": 0.477875,
           "all_authors_orcid": 0.170125,
           "funder_doi": 0.18325,
-          "award_number": 0.19525,
+          "award_number": 0.195,
           "issn": 1,
           "volume": 0.995875,
           "issue": 0.932875,
@@ -1095,29 +1095,29 @@
       "comparable": {
         "crossref": {
           "categories": {
-            "findable_essential": 0.7598333333333334,
-            "findable_support": 0.6872375,
-            "accessible_essential": 0.64046875,
-            "accessible_support": 0.33025,
-            "evaluation_coara": 0.26355
+            "findable_essential": 0.828875,
+            "findable_support": 0.6796249999999999,
+            "accessible_essential": 0.56196875,
+            "accessible_support": 0,
+            "evaluation_coara": 0.43775000000000003
           },
-          "overall": 0.5768878125
+          "overall": 0.5786484375000001
         },
         "openalex": {
           "categories": {
-            "findable_essential": 0.92409375,
-            "findable_support": 0.7659375,
-            "accessible_essential": 0.56903125,
-            "accessible_support": 0.9705416666666666,
-            "evaluation_coara": 0.5567
+            "findable_essential": 0.9171931818181819,
+            "findable_support": 0.777,
+            "accessible_essential": 0.5815625,
+            "accessible_support": 0.927625,
+            "evaluation_coara": 0.4938749999999999
           },
-          "overall": 0.7427707291666666
+          "overall": 0.7286360795454545
         },
-        "gap": 0.16588291666666666
+        "gap": 0.14998764204545445
       },
       "voluntary": {
-        "crossref": 0.29378437500000004,
-        "openalex": 0.6561557291666666
+        "crossref": 0.31609374999999995,
+        "openalex": 0.549215625
       }
     },
     {
@@ -1126,10 +1126,10 @@
       "matched": 8000,
       "universeSize": 163288,
       "crossref": {
-        "overall": 0.5764514835858586,
+        "overall": 0.576443529040404,
         "categories": {
-          "findable_essential": 0.7654270833333334,
-          "findable_support": 0.640715909090909,
+          "findable_essential": 0.76540625,
+          "findable_support": 0.6407045454545455,
           "accessible_essential": 0.6896805555555555,
           "accessible_support": 0.3207083333333333,
           "evaluation_coara": 0.23112499999999997
@@ -1144,13 +1144,13 @@
           "publisher": 1,
           "resource_type": 1,
           "subject_keywords": 0,
-          "funder_name": 0.338625,
+          "funder_name": 0.338375,
           "container_title": 1,
           "language": 0.99975,
           "author_orcid": 0.543625,
           "all_authors_orcid": 0.211125,
           "funder_doi": 0.217875,
-          "award_number": 0.226,
+          "award_number": 0.225875,
           "issn": 1,
           "volume": 0.993625,
           "issue": 0.929875,
@@ -1248,29 +1248,29 @@
       "comparable": {
         "crossref": {
           "categories": {
-            "findable_essential": 0.7654270833333334,
-            "findable_support": 0.7024999999999999,
-            "accessible_essential": 0.659640625,
-            "accessible_support": 0.33045833333333335,
-            "evaluation_coara": 0.27612499999999995
+            "findable_essential": 0.8349886363636364,
+            "findable_support": 0.6969107142857143,
+            "accessible_essential": 0.5875312500000001,
+            "accessible_support": 0,
+            "evaluation_coara": 0.45841666666666664
           },
-          "overall": 0.5881841145833333
+          "overall": 0.5935993438852813
         },
         "openalex": {
           "categories": {
-            "findable_essential": 0.9257604166666669,
-            "findable_support": 0.7729375,
-            "accessible_essential": 0.5777343749999999,
-            "accessible_support": 0.9710833333333332,
-            "evaluation_coara": 0.56765
+            "findable_essential": 0.9190113636363637,
+            "findable_support": 0.7821071428571429,
+            "accessible_essential": 0.5925937499999999,
+            "accessible_support": 0.93175,
+            "evaluation_coara": 0.5074166666666666
           },
-          "overall": 0.7487406770833335
+          "overall": 0.7358262513528139
         },
-        "gap": 0.16055656250000017
+        "gap": 0.14222690746753253
       },
       "voluntary": {
-        "crossref": 0.31301406249999997,
-        "openalex": 0.6662317708333333
+        "crossref": 0.34094375,
+        "openalex": 0.56125625
       }
     },
     {
@@ -1279,10 +1279,10 @@
       "matched": 8000,
       "universeSize": 149787,
       "crossref": {
-        "overall": 0.5824696401515151,
+        "overall": 0.5824247537878787,
         "categories": {
-          "findable_essential": 0.7698854166666668,
-          "findable_support": 0.6503295454545456,
+          "findable_essential": 0.76978125,
+          "findable_support": 0.6502386363636363,
           "accessible_essential": 0.7000833333333332,
           "accessible_support": 0.32056250000000003,
           "evaluation_coara": 0.23438750000000003
@@ -1297,13 +1297,13 @@
           "publisher": 1,
           "resource_type": 1,
           "subject_keywords": 0,
-          "funder_name": 0.388625,
+          "funder_name": 0.387375,
           "container_title": 1,
           "language": 0.99975,
           "author_orcid": 0.581625,
           "all_authors_orcid": 0.249125,
           "funder_doi": 0.2265,
-          "award_number": 0.2315,
+          "award_number": 0.2305,
           "issn": 1,
           "volume": 0.99675,
           "issue": 0.935,
@@ -1401,29 +1401,29 @@
       "comparable": {
         "crossref": {
           "categories": {
-            "findable_essential": 0.7698854166666668,
-            "findable_support": 0.7108000000000001,
-            "accessible_essential": 0.6709062499999999,
-            "accessible_support": 0.32949999999999996,
-            "evaluation_coara": 0.282075
+            "findable_essential": 0.8397613636363637,
+            "findable_support": 0.7066071428571429,
+            "accessible_essential": 0.6063125,
+            "accessible_support": 0,
+            "evaluation_coara": 0.4690833333333333
           },
-          "overall": 0.5946771875
+          "overall": 0.6033142721861472
         },
         "openalex": {
           "categories": {
-            "findable_essential": 0.92234375,
-            "findable_support": 0.774925,
-            "accessible_essential": 0.58728125,
-            "accessible_support": 0.967625,
-            "evaluation_coara": 0.5681
+            "findable_essential": 0.9152840909090909,
+            "findable_support": 0.7830535714285715,
+            "accessible_essential": 0.616125,
+            "accessible_support": 0.93225,
+            "evaluation_coara": 0.5088750000000001
           },
-          "overall": 0.7501446875000001
+          "overall": 0.7410745129870131
         },
-        "gap": 0.1554675000000001
+        "gap": 0.1377602408008659
       },
       "voluntary": {
-        "crossref": 0.3236145833333333,
-        "openalex": 0.6683187500000001
+        "crossref": 0.35473750000000004,
+        "openalex": 0.56479375
       }
     },
     {
@@ -1432,10 +1432,10 @@
       "matched": 7999,
       "universeSize": 144175,
       "crossref": {
-        "overall": 0.5864664457070707,
+        "overall": 0.5864522411616162,
         "categories": {
-          "findable_essential": 0.77065625,
-          "findable_support": 0.6488295454545454,
+          "findable_essential": 0.7706145833333333,
+          "findable_support": 0.6488181818181817,
           "accessible_essential": 0.7116805555555555,
           "accessible_support": 0.32075,
           "evaluation_coara": 0.23975000000000005
@@ -1450,13 +1450,13 @@
           "publisher": 1,
           "resource_type": 1,
           "subject_keywords": 0,
-          "funder_name": 0.395125,
+          "funder_name": 0.394625,
           "container_title": 1,
           "language": 1,
           "author_orcid": 0.560875,
           "all_authors_orcid": 0.254375,
           "funder_doi": 0.241,
-          "award_number": 0.23875,
+          "award_number": 0.238625,
           "issn": 1,
           "volume": 0.9875,
           "issue": 0.93025,
@@ -1554,29 +1554,29 @@
       "comparable": {
         "crossref": {
           "categories": {
-            "findable_essential": 0.77065625,
-            "findable_support": 0.704175,
-            "accessible_essential": 0.683453125,
-            "accessible_support": 0.328875,
-            "evaluation_coara": 0.291975
+            "findable_essential": 0.8406704545454545,
+            "findable_support": 0.6958035714285715,
+            "accessible_essential": 0.63,
+            "accessible_support": 0,
+            "evaluation_coara": 0.48537500000000006
           },
-          "overall": 0.5989689062499999
+          "overall": 0.6111466720779221
         },
         "openalex": {
           "categories": {
-            "findable_essential": 0.9272200691753135,
-            "findable_support": 0.775884485560695,
-            "accessible_essential": 0.6116389548693587,
-            "accessible_support": 0.972579905821561,
-            "evaluation_coara": 0.5850731341417676
+            "findable_essential": 0.9206037118276147,
+            "findable_support": 0.7793116996767454,
+            "accessible_essential": 0.6431428928616078,
+            "accessible_support": 0.9354919364920615,
+            "evaluation_coara": 0.5301496020335875
           },
-          "overall": 0.7617310497145476
+          "overall": 0.7534427057711218
         },
-        "gap": 0.16276214346454776
+        "gap": 0.14229603369319976
       },
       "voluntary": {
-        "crossref": 0.32861874999999996,
-        "openalex": 0.682346751677293
+        "crossref": 0.36184375,
+        "openalex": 0.5824540567570946
       }
     },
     {
@@ -1707,29 +1707,29 @@
       "comparable": {
         "crossref": {
           "categories": {
-            "findable_essential": 0.7694999999999999,
-            "findable_support": 0.6915250000000001,
-            "accessible_essential": 0.6891562499999999,
-            "accessible_support": 0.32975,
-            "evaluation_coara": 0.30115000000000003
+            "findable_essential": 0.8394545454545453,
+            "findable_support": 0.6830714285714287,
+            "accessible_essential": 0.65375,
+            "accessible_support": 0,
+            "evaluation_coara": 0.5010416666666667
           },
-          "overall": 0.6000728124999999
+          "overall": 0.6179429112554112
         },
         "openalex": {
           "categories": {
-            "findable_essential": 0.9084135717560752,
-            "findable_support": 0.7614230336376142,
-            "accessible_essential": 0.5920657746654996,
-            "accessible_support": 0.9755324913509232,
-            "evaluation_coara": 0.5815430786544955
+            "findable_essential": 0.900110268623461,
+            "findable_support": 0.7602315153896997,
+            "accessible_essential": 0.6319869951231712,
+            "accessible_support": 0.9451044141553082,
+            "evaluation_coara": 0.529573590096286
           },
-          "overall": 0.748615835104831
+          "overall": 0.7424897161110742
         },
-        "gap": 0.1485430226048311
+        "gap": 0.12454680485566294
       },
       "voluntary": {
-        "crossref": 0.3323828125,
-        "openalex": 0.6617945271143346
+        "crossref": 0.367296875,
+        "openalex": 0.5556896336126048
       }
     },
     {
@@ -1860,29 +1860,29 @@
       "comparable": {
         "crossref": {
           "categories": {
-            "findable_essential": 0.7703333333333333,
-            "findable_support": 0.6238875,
-            "accessible_essential": 0.648953125,
-            "accessible_support": 0.32858333333333334,
-            "evaluation_coara": 0.305625
+            "findable_essential": 0.8403636363636363,
+            "findable_support": 0.6196250000000001,
+            "accessible_essential": 0.65290625,
+            "accessible_support": 0,
+            "evaluation_coara": 0.5089166666666667
           },
-          "overall": 0.5809047395833333
+          "overall": 0.6100627367424243
         },
         "openalex": {
           "categories": {
-            "findable_essential": 0.8768444948921679,
-            "findable_support": 0.6954470929499307,
-            "accessible_essential": 0.517183755833018,
-            "accessible_support": 0.870811787951402,
-            "evaluation_coara": 0.5329549754067348
+            "findable_essential": 0.8660268978089637,
+            "findable_support": 0.6783957623912221,
+            "accessible_essential": 0.61577752553916,
+            "accessible_support": 0.9475343675116661,
+            "evaluation_coara": 0.4842140665069155
           },
-          "overall": 0.6903385252448816
+          "overall": 0.7071080651387122
         },
-        "gap": 0.10943378566154827
+        "gap": 0.09704532839628788
       },
       "voluntary": {
-        "crossref": 0.3370515625,
-        "openalex": 0.5975059906671711
+        "crossref": 0.375178125,
+        "openalex": 0.49790011350737806
       }
     }
   ],
@@ -1958,28 +1958,6 @@
     "publication_date": [],
     "publisher": [],
     "resource_type": [],
-    "subject_keywords": [
-      {
-        "doi": "10.1080/09639489.2014.987224",
-        "title": "De-Stalinisation? Grassroots Responses to the XXth Congress of the Communist Party of the Soviet Union in France's ‘Var rouge’"
-      },
-      {
-        "doi": "10.1080/08824096.2014.989979",
-        "title": "The Influence of Fiction Versus Nonfiction on Political Attitudes"
-      },
-      {
-        "doi": "10.1080/02529203.2015.1001487",
-        "title": "Fiscal Cycles and the Low-Level Equilibrium under the Qing: A Comparative Analysis"
-      },
-      {
-        "doi": "10.1080/03057070.2015.1013778",
-        "title": "Principals, Chiefs and School Committees: The Localisation of Rural School Administration in Lebowa, 1972–1990"
-      },
-      {
-        "doi": "10.1080/23302674.2014.997818",
-        "title": "A single-vendor multi-buyer integrated model with controllable lead time and quality improvement through reduction in defective items"
-      }
-    ],
     "funder_name": [
       {
         "doi": "10.1080/02634937.2015.1007663",
@@ -2067,28 +2045,6 @@
       {
         "doi": "10.1080/14443058.2014.996952",
         "title": "Art in Oceania: A New History"
-      }
-    ],
-    "funder_doi": [
-      {
-        "doi": "10.1080/02634937.2015.1007663",
-        "title": "Observing protest: media use and student involvement on 7 April 2010 in Bishkek, Kyrgyzstan"
-      },
-      {
-        "doi": "10.1080/15257770.2014.990156",
-        "title": "Towards Metal-Mediated G-Quartet Analogues: 1,2,4-Triazole Nucleotides"
-      },
-      {
-        "doi": "10.1080/23743670.2015.1008161",
-        "title": "Journalism and ‘the African story’"
-      },
-      {
-        "doi": "10.1080/21683603.2014.917061",
-        "title": "The Shortened Visuospatial Questionnaire for Children: A Useful Tool to Identify Students With Low Visuospatial Abilities"
-      },
-      {
-        "doi": "10.1080/00051144.2015.11828665",
-        "title": "Predicting Influential Mobile-Subscriber Churners using Low-level User Features"
       }
     ],
     "award_number": [
@@ -2180,73 +2136,7 @@
         "title": "Predictors of posttraumatic stress and appetitive aggression in active soldiers and former combatants"
       }
     ],
-    "published_print_date": [
-      {
-        "doi": "10.2147/opth.s75659",
-        "title": "Outcomes of microincision vitrectomy surgery with internal limiting membrane peeling for macular edema secondary to branch retinal vein occlusion"
-      },
-      {
-        "doi": "10.2147/rrn.s47072",
-        "title": "The ongoing debate over fetal anatomic surveys in the first trimester: a matter of timing?"
-      },
-      {
-        "doi": "10.2147/dddt.s76021",
-        "title": "Proteomic response to 5,6-dimethylxanthenone 4-acetic acid (DMXAA, vadimezan) in human non-small cell lung cancer A549 cells determined by the stable-isotope labeling by amino acids in cell culture (SILAC) approach"
-      },
-      {
-        "doi": "10.3109/14756366.2015.1022172",
-        "title": "Synthesis and antiviral activity of 1-(1,3-disubstitutedimidazolidyn-2-ylidene)-3-ethoxycarbonylmethylurea derivatives"
-      },
-      {
-        "doi": "10.2147/opth.s69466",
-        "title": "Progression to macula-off tractional retinal detachment after a contralateral intraoperative intravitreal bevacizumab injection for proliferative diabetic retinopathy"
-      }
-    ],
-    "published_online_date": [
-      {
-        "doi": "10.4169/amer.math.monthly.122.02.173",
-        "title": "From the First Borel–Cantelli Lemma to Poincaré's Recurrence Theorem"
-      },
-      {
-        "doi": "10.4169/amer.math.monthly.122.8.809",
-        "title": "Reviews"
-      },
-      {
-        "doi": "10.7158/s13-043.2015.16.1",
-        "title": "Non-destructive structural integrity assessment of a decommissioned rail wagon system"
-      },
-      {
-        "doi": "10.1179/1059865014z.00000000073",
-        "title": "Building Staff Capacity to Evaluate in Museum Education"
-      },
-      {
-        "doi": "10.4169/amer.math.monthly.122.6.bm",
-        "title": "Back Matter"
-      }
-    ],
     "license": [
-      {
-        "doi": "10.1080/19336950.2015.1018000",
-        "title": "The unusual suspects: Regulation of retinal calcium channels by somatostatin"
-      },
-      {
-        "doi": "10.1080/19370679.2015.12023258",
-        "title": "Analysis on the Potential of Strategic Cooperation between China and OIC under the “Silk Road Strategy” Framework"
-      },
-      {
-        "doi": "10.1080/23080477.2015.11665651",
-        "title": "Smart Control of Air Climatization System in Function on the Values of Mean Local Radiant Temperature"
-      },
-      {
-        "doi": "10.4161/2162402x.2014.994370",
-        "title": "CD4<sup>+</sup>T cell plasticity engenders robust immunity in response to cytokine therapy"
-      },
-      {
-        "doi": "10.1080/19445571.2015.1114759",
-        "title": "Jihadism in North Africa: A House of Many Mansions"
-      }
-    ],
-    "license_url": [
       {
         "doi": "10.1080/19336950.2015.1018000",
         "title": "The unusual suspects: Regulation of retinal calcium channels by somatostatin"
@@ -2290,28 +2180,6 @@
         "title": "Animal models play a vital role in translational aging research"
       }
     ],
-    "full_text_links": [
-      {
-        "doi": "10.1080/19475020.2015.1047464",
-        "title": "Commemorating the disabled soldier: 1914–1940"
-      },
-      {
-        "doi": "10.1111/jsbm.12152",
-        "title": "Entrepreneurial Orientation and International Performance: The Moderating Effect of Decision-Making Rationality"
-      },
-      {
-        "doi": "10.2147/ott.s77408",
-        "title": "The impact of anesthesia providers on major morbidity following screening colonoscopies"
-      },
-      {
-        "doi": "10.1080/02664763.2015.1077939",
-        "title": "Academic performance of students from entrance to graduation via quasi U-statistics: a study at a Brazilian research university"
-      },
-      {
-        "doi": "10.1080/02664763.2015.1063113",
-        "title": "Short-term wind speed forecasting in Germany"
-      }
-    ],
     "resource_url": [],
     "references": [
       {
@@ -2333,72 +2201,6 @@
       {
         "doi": "10.2147/dddt.s76021",
         "title": "Proteomic response to 5,6-dimethylxanthenone 4-acetic acid (DMXAA, vadimezan) in human non-small cell lung cancer A549 cells determined by the stable-isotope labeling by amino acids in cell culture (SILAC) approach"
-      }
-    ],
-    "references_count": [
-      {
-        "doi": "10.2147/opth.s75659",
-        "title": "Outcomes of microincision vitrectomy surgery with internal limiting membrane peeling for macular edema secondary to branch retinal vein occlusion"
-      },
-      {
-        "doi": "10.2147/rrn.s47072",
-        "title": "The ongoing debate over fetal anatomic surveys in the first trimester: a matter of timing?"
-      },
-      {
-        "doi": "10.1080/23743670.2015.1008161",
-        "title": "Journalism and ‘the African story’"
-      },
-      {
-        "doi": "10.1080/19445571.2015.1114759",
-        "title": "Jihadism in North Africa: A House of Many Mansions"
-      },
-      {
-        "doi": "10.2147/dddt.s76021",
-        "title": "Proteomic response to 5,6-dimethylxanthenone 4-acetic acid (DMXAA, vadimezan) in human non-small cell lung cancer A549 cells determined by the stable-isotope labeling by amino acids in cell culture (SILAC) approach"
-      }
-    ],
-    "is_referenced_by": [
-      {
-        "doi": "10.1080/14443058.2014.996952",
-        "title": "Art in Oceania: A New History"
-      },
-      {
-        "doi": "10.1080/19424396.2015.12222822",
-        "title": "Computer-Guided Implant Surgery: Placing the Perfect Implant"
-      },
-      {
-        "doi": "10.1080/23257962.2015.1007853",
-        "title": "Elizabethan naval administration"
-      },
-      {
-        "doi": "10.1080/19370679.2015.12023258",
-        "title": "Analysis on the Potential of Strategic Cooperation between China and OIC under the “Silk Road Strategy” Framework"
-      },
-      {
-        "doi": "10.1080/0950236x.2014.994270",
-        "title": "Transatlantic Avant-Gardes: Little Magazines and Localist Modernism"
-      }
-    ],
-    "author_sequence": [
-      {
-        "doi": "10.2469/faj.v71.n1.12",
-        "title": "In the Future"
-      },
-      {
-        "doi": "10.1080/09205071.2015.1080407",
-        "title": "Erratum"
-      },
-      {
-        "doi": "10.1080/21645515.2015.1080522",
-        "title": "Letter from the Editor"
-      },
-      {
-        "doi": "10.1128/mcb.00657-15",
-        "title": "Retraction for Leung et al., A Negative-Feedback Loop between the Detoxification/Antioxidant Response Factor SKN-1 and Its Repressor WDR-23 Matches Organism Needs with Environmental Conditions"
-      },
-      {
-        "doi": "10.1080/15384101.2015.1066140",
-        "title": "Corrigendum"
       }
     ],
     "affiliation_ids_ror": [
@@ -2423,28 +2225,6 @@
         "title": "Legal Issues in the Protection of Marine Biological Diversity Beyond National Jurisdiction"
       }
     ],
-    "relations": [
-      {
-        "doi": "10.1080/09639489.2014.987224",
-        "title": "De-Stalinisation? Grassroots Responses to the XXth Congress of the Communist Party of the Soviet Union in France's ‘Var rouge’"
-      },
-      {
-        "doi": "10.1080/08824096.2014.989979",
-        "title": "The Influence of Fiction Versus Nonfiction on Political Attitudes"
-      },
-      {
-        "doi": "10.1080/02529203.2015.1001487",
-        "title": "Fiscal Cycles and the Low-Level Equilibrium under the Qing: A Comparative Analysis"
-      },
-      {
-        "doi": "10.1080/03057070.2015.1013778",
-        "title": "Principals, Chiefs and School Committees: The Localisation of Rural School Administration in Lebowa, 1972–1990"
-      },
-      {
-        "doi": "10.1080/23302674.2014.997818",
-        "title": "A single-vendor multi-buyer integrated model with controllable lead time and quality improvement through reduction in defective items"
-      }
-    ],
     "author_given_family": [
       {
         "doi": "10.4169/amer.math.monthly.122.02.173",
@@ -2467,28 +2247,6 @@
         "title": "Elemental, biochemical and essential oil modulation in developing seedlings of<i>Psoralea corylifolia</i>L. exposed to different presowing gamma irradiation treatment"
       }
     ],
-    "affiliation_ror": [
-      {
-        "doi": "10.1080/09639489.2014.987224",
-        "title": "De-Stalinisation? Grassroots Responses to the XXth Congress of the Communist Party of the Soviet Union in France's ‘Var rouge’"
-      },
-      {
-        "doi": "10.1080/08824096.2014.989979",
-        "title": "The Influence of Fiction Versus Nonfiction on Political Attitudes"
-      },
-      {
-        "doi": "10.1080/02529203.2015.1001487",
-        "title": "Fiscal Cycles and the Low-Level Equilibrium under the Qing: A Comparative Analysis"
-      },
-      {
-        "doi": "10.1080/23302674.2014.997818",
-        "title": "A single-vendor multi-buyer integrated model with controllable lead time and quality improvement through reduction in defective items"
-      },
-      {
-        "doi": "10.1080/09733159.2015.1037116",
-        "title": "Legal Issues in the Protection of Marine Biological Diversity Beyond National Jurisdiction"
-      }
-    ],
     "funding_complete": [
       {
         "doi": "10.2147/opth.s69466",
@@ -2509,28 +2267,6 @@
       {
         "doi": "10.2147/ijn.s74204",
         "title": "Therapeutic antitumor efficacy of tumor-derived autophagosome (DRibble) vaccine on head and&amp;nbsp;neck cancer"
-      }
-    ],
-    "preprint_version_link": [
-      {
-        "doi": "10.1080/03057070.2015.1013778",
-        "title": "Principals, Chiefs and School Committees: The Localisation of Rural School Administration in Lebowa, 1972–1990"
-      },
-      {
-        "doi": "10.1080/02664763.2015.1005062",
-        "title": "Testing the homogeneity of proportions for clustered binary data without knowing the correlation structure"
-      },
-      {
-        "doi": "10.1080/02634937.2015.1007663",
-        "title": "Observing protest: media use and student involvement on 7 April 2010 in Bishkek, Kyrgyzstan"
-      },
-      {
-        "doi": "10.2147/opth.s75659",
-        "title": "Outcomes of microincision vitrectomy surgery with internal limiting membrane peeling for macular edema secondary to branch retinal vein occlusion"
-      },
-      {
-        "doi": "10.2147/rrn.s47072",
-        "title": "The ongoing debate over fetal anatomic surveys in the first trimester: a matter of timing?"
       }
     ],
     "open_access_status": [
@@ -2561,168 +2297,150 @@
       "doi": "10.1080/09639489.2014.987224",
       "title": "De-Stalinisation? Grassroots Responses to the XXth Congress of the Communist Party of the Soviet Union in France's ‘Var rouge’",
       "year": 2015,
-      "crossrefScore": 0.631578947368421,
-      "openalexScore": 0.7368421052631579,
-      "gap": 8,
+      "crossrefScore": 0.5769230769230769,
+      "openalexScore": 0.7692307692307693,
+      "gap": 5,
       "openalexAdds": [
         "abstract",
         "author_affiliation",
-        "subject_keywords",
         "author_orcid",
         "all_authors_orcid",
-        "affiliation_ids_ror",
-        "relations",
-        "affiliation_ror"
+        "affiliation_ids_ror"
       ]
     },
     {
       "doi": "10.1080/08824096.2014.989979",
       "title": "The Influence of Fiction Versus Nonfiction on Political Attitudes",
       "year": 2015,
-      "crossrefScore": 0.631578947368421,
-      "openalexScore": 0.7368421052631579,
-      "gap": 8,
+      "crossrefScore": 0.5769230769230769,
+      "openalexScore": 0.7692307692307693,
+      "gap": 5,
       "openalexAdds": [
         "abstract",
         "author_affiliation",
-        "subject_keywords",
         "author_orcid",
         "all_authors_orcid",
-        "affiliation_ids_ror",
-        "relations",
-        "affiliation_ror"
-      ]
-    },
-    {
-      "doi": "10.1080/02529203.2015.1001487",
-      "title": "Fiscal Cycles and the Low-Level Equilibrium under the Qing: A Comparative Analysis",
-      "year": 2015,
-      "crossrefScore": 0.631578947368421,
-      "openalexScore": 0.6842105263157895,
-      "gap": 6,
-      "openalexAdds": [
-        "abstract",
-        "author_affiliation",
-        "subject_keywords",
-        "affiliation_ids_ror",
-        "relations",
-        "affiliation_ror"
-      ]
-    },
-    {
-      "doi": "10.1080/03057070.2015.1013778",
-      "title": "Principals, Chiefs and School Committees: The Localisation of Rural School Administration in Lebowa, 1972–1990",
-      "year": 2015,
-      "crossrefScore": 0.5789473684210527,
-      "openalexScore": 0.5789473684210527,
-      "gap": 4,
-      "openalexAdds": [
-        "abstract",
-        "subject_keywords",
-        "relations",
-        "preprint_version_link"
+        "affiliation_ids_ror"
       ]
     },
     {
       "doi": "10.1080/23302674.2014.997818",
       "title": "A single-vendor multi-buyer integrated model with controllable lead time and quality improvement through reduction in defective items",
       "year": 2015,
-      "crossrefScore": 0.6842105263157895,
-      "openalexScore": 0.7368421052631579,
-      "gap": 8,
-      "openalexAdds": [
-        "abstract",
-        "author_affiliation",
-        "subject_keywords",
-        "author_orcid",
-        "all_authors_orcid",
-        "affiliation_ids_ror",
-        "relations",
-        "affiliation_ror"
-      ]
-    },
-    {
-      "doi": "10.1080/09733159.2015.1037116",
-      "title": "Legal Issues in the Protection of Marine Biological Diversity Beyond National Jurisdiction",
-      "year": 2015,
-      "crossrefScore": 0.5789473684210527,
-      "openalexScore": 0.631578947368421,
-      "gap": 6,
-      "openalexAdds": [
-        "abstract",
-        "author_affiliation",
-        "subject_keywords",
-        "affiliation_ids_ror",
-        "relations",
-        "affiliation_ror"
-      ]
-    },
-    {
-      "doi": "10.1080/02664763.2015.1005062",
-      "title": "Testing the homogeneity of proportions for clustered binary data without knowing the correlation structure",
-      "year": 2015,
-      "crossrefScore": 0.5789473684210527,
-      "openalexScore": 0.6842105263157895,
-      "gap": 7,
-      "openalexAdds": [
-        "abstract",
-        "author_affiliation",
-        "subject_keywords",
-        "affiliation_ids_ror",
-        "relations",
-        "affiliation_ror",
-        "preprint_version_link"
-      ]
-    },
-    {
-      "doi": "10.3109/00365521.2015.1028995",
-      "title": "Scandinavian journal of gastroenterology – the editors-in-chief",
-      "year": 2015,
-      "crossrefScore": 0.631578947368421,
-      "openalexScore": 0.631578947368421,
+      "crossrefScore": 0.6538461538461539,
+      "openalexScore": 0.7692307692307693,
       "gap": 5,
       "openalexAdds": [
         "abstract",
-        "subject_keywords",
+        "author_affiliation",
         "author_orcid",
         "all_authors_orcid",
-        "relations"
+        "affiliation_ids_ror"
       ]
     },
     {
       "doi": "10.1080/14443058.2014.996952",
       "title": "Art in Oceania: A New History",
       "year": 2015,
-      "crossrefScore": 0.5526315789473685,
-      "openalexScore": 0.6842105263157895,
-      "gap": 9,
+      "crossrefScore": 0.5384615384615384,
+      "openalexScore": 0.7307692307692307,
+      "gap": 5,
       "openalexAdds": [
         "abstract",
         "author_affiliation",
-        "subject_keywords",
         "author_orcid",
         "all_authors_orcid",
-        "is_referenced_by",
-        "affiliation_ids_ror",
-        "relations",
-        "affiliation_ror"
+        "affiliation_ids_ror"
       ]
     },
     {
       "doi": "10.1080/0972060x.2014.935018",
       "title": "Constituents of the Essential Oil and Antioxidant Activity of Extracts of<i>Achillea eriophora</i>from Iran",
       "year": 2015,
-      "crossrefScore": 0.631578947368421,
-      "openalexScore": 0.7105263157894737,
-      "gap": 7,
+      "crossrefScore": 0.5769230769230769,
+      "openalexScore": 0.7307692307692307,
+      "gap": 4,
       "openalexAdds": [
         "abstract",
         "author_affiliation",
-        "subject_keywords",
         "author_orcid",
-        "affiliation_ids_ror",
-        "relations",
-        "affiliation_ror"
+        "affiliation_ids_ror"
+      ]
+    },
+    {
+      "doi": "10.1080/02634937.2015.1007663",
+      "title": "Observing protest: media use and student involvement on 7 April 2010 in Bishkek, Kyrgyzstan",
+      "year": 2015,
+      "crossrefScore": 0.5769230769230769,
+      "openalexScore": 0.8076923076923077,
+      "gap": 6,
+      "openalexAdds": [
+        "abstract",
+        "author_affiliation",
+        "funder_name",
+        "author_orcid",
+        "all_authors_orcid",
+        "affiliation_ids_ror"
+      ]
+    },
+    {
+      "doi": "10.3109/09553002.2014.996262",
+      "title": "Cell inactivation by combined low dose-rate irradiation and intermittent hypoxia",
+      "year": 2015,
+      "crossrefScore": 0.5769230769230769,
+      "openalexScore": 0.7307692307692307,
+      "gap": 4,
+      "openalexAdds": [
+        "abstract",
+        "author_affiliation",
+        "author_orcid",
+        "affiliation_ids_ror"
+      ]
+    },
+    {
+      "doi": "10.1080/15257770.2014.990156",
+      "title": "Towards Metal-Mediated G-Quartet Analogues: 1,2,4-Triazole Nucleotides",
+      "year": 2015,
+      "crossrefScore": 0.5769230769230769,
+      "openalexScore": 0.8076923076923077,
+      "gap": 6,
+      "openalexAdds": [
+        "abstract",
+        "author_affiliation",
+        "funder_name",
+        "author_orcid",
+        "all_authors_orcid",
+        "affiliation_ids_ror"
+      ]
+    },
+    {
+      "doi": "10.1080/2326716x.2015.1007179",
+      "title": "Promoting Counselor Professional and Personal Well-Being Through Advocacy",
+      "year": 2015,
+      "crossrefScore": 0.5769230769230769,
+      "openalexScore": 0.7307692307692307,
+      "gap": 4,
+      "openalexAdds": [
+        "abstract",
+        "author_affiliation",
+        "author_orcid",
+        "affiliation_ids_ror"
+      ]
+    },
+    {
+      "doi": "10.2147/opth.s75659",
+      "title": "Outcomes of microincision vitrectomy surgery with internal limiting membrane peeling for macular edema secondary to branch retinal vein occlusion",
+      "year": 2015,
+      "crossrefScore": 0.5769230769230769,
+      "openalexScore": 0.8076923076923077,
+      "gap": 6,
+      "openalexAdds": [
+        "abstract",
+        "author_affiliation",
+        "author_orcid",
+        "volume",
+        "references",
+        "affiliation_ids_ror"
       ]
     }
   ],
@@ -2871,44 +2589,13 @@
       "samples": []
     },
     {
-      "id": "subject_keywords",
-      "label": "Subject / Keywords",
-      "category": "findable_essential",
-      "effort": "voluntary",
-      "crossref": 0,
-      "openalex": 0.9996019108280255,
-      "gap": 0.9996019108280255,
-      "samples": [
-        {
-          "doi": "10.1080/09639489.2014.987224",
-          "title": "De-Stalinisation? Grassroots Responses to the XXth Congress of the Communist Party of the Soviet Union in France's ‘Var rouge’"
-        },
-        {
-          "doi": "10.1080/08824096.2014.989979",
-          "title": "The Influence of Fiction Versus Nonfiction on Political Attitudes"
-        },
-        {
-          "doi": "10.1080/02529203.2015.1001487",
-          "title": "Fiscal Cycles and the Low-Level Equilibrium under the Qing: A Comparative Analysis"
-        },
-        {
-          "doi": "10.1080/03057070.2015.1013778",
-          "title": "Principals, Chiefs and School Committees: The Localisation of Rural School Administration in Lebowa, 1972–1990"
-        },
-        {
-          "doi": "10.1080/23302674.2014.997818",
-          "title": "A single-vendor multi-buyer integrated model with controllable lead time and quality improvement through reduction in defective items"
-        }
-      ]
-    },
-    {
       "id": "funder_name",
       "label": "Funder Name",
       "category": "findable_essential",
       "effort": "voluntary",
-      "crossref": 0.30226136363636363,
+      "crossref": 0.30175,
       "openalex": 0.25995222929936307,
-      "gap": -0.042309134337000565,
+      "gap": -0.04179777070063695,
       "samples": [
         {
           "doi": "10.1080/02634937.2015.1007663",
@@ -3036,44 +2723,13 @@
       ]
     },
     {
-      "id": "funder_doi",
-      "label": "Funder DOI",
-      "category": "findable_support",
-      "effort": "voluntary",
-      "crossref": 0.19798863636363637,
-      "openalex": 0.25995222929936307,
-      "gap": 0.0619635929357267,
-      "samples": [
-        {
-          "doi": "10.1080/02634937.2015.1007663",
-          "title": "Observing protest: media use and student involvement on 7 April 2010 in Bishkek, Kyrgyzstan"
-        },
-        {
-          "doi": "10.1080/15257770.2014.990156",
-          "title": "Towards Metal-Mediated G-Quartet Analogues: 1,2,4-Triazole Nucleotides"
-        },
-        {
-          "doi": "10.1080/23743670.2015.1008161",
-          "title": "Journalism and ‘the African story’"
-        },
-        {
-          "doi": "10.1080/21683603.2014.917061",
-          "title": "The Shortened Visuospatial Questionnaire for Children: A Useful Tool to Identify Students With Low Visuospatial Abilities"
-        },
-        {
-          "doi": "10.1080/00051144.2015.11828665",
-          "title": "Predicting Influential Mobile-Subscriber Churners using Low-level User Features"
-        }
-      ]
-    },
-    {
       "id": "award_number",
       "label": "Award Number",
       "category": "findable_support",
       "effort": "voluntary",
-      "crossref": 0.2099090909090909,
+      "crossref": 0.20960227272727272,
       "openalex": 0.16599181073703367,
-      "gap": -0.04391728017205723,
+      "gap": -0.04361046199023905,
       "samples": [
         {
           "doi": "10.2147/opth.s69466",
@@ -3174,9 +2830,9 @@
       "label": "Page",
       "category": "findable_support",
       "effort": "automatic",
-      "crossref": 0.9584659090909091,
+      "crossref": 0.9584545454545454,
       "openalex": 0.9753184713375797,
-      "gap": 0.016852562246670533,
+      "gap": 0.016863925883034203,
       "samples": [
         {
           "doi": "10.3402/ejpt.v6.27514",
@@ -3201,101 +2857,8 @@
       ]
     },
     {
-      "id": "published_print_date",
-      "label": "Published Print Date",
-      "category": "findable_support",
-      "effort": "automatic",
-      "crossref": 0.9114431818181818,
-      "openalex": 1,
-      "gap": 0.08855681818181815,
-      "samples": [
-        {
-          "doi": "10.2147/opth.s75659",
-          "title": "Outcomes of microincision vitrectomy surgery with internal limiting membrane peeling for macular edema secondary to branch retinal vein occlusion"
-        },
-        {
-          "doi": "10.2147/rrn.s47072",
-          "title": "The ongoing debate over fetal anatomic surveys in the first trimester: a matter of timing?"
-        },
-        {
-          "doi": "10.2147/dddt.s76021",
-          "title": "Proteomic response to 5,6-dimethylxanthenone 4-acetic acid (DMXAA, vadimezan) in human non-small cell lung cancer A549 cells determined by the stable-isotope labeling by amino acids in cell culture (SILAC) approach"
-        },
-        {
-          "doi": "10.3109/14756366.2015.1022172",
-          "title": "Synthesis and antiviral activity of 1-(1,3-disubstitutedimidazolidyn-2-ylidene)-3-ethoxycarbonylmethylurea derivatives"
-        },
-        {
-          "doi": "10.2147/opth.s69466",
-          "title": "Progression to macula-off tractional retinal detachment after a contralateral intraoperative intravitreal bevacizumab injection for proliferative diabetic retinopathy"
-        }
-      ]
-    },
-    {
-      "id": "published_online_date",
-      "label": "Published Online Date",
-      "category": "findable_support",
-      "effort": "automatic",
-      "crossref": 0.9979431818181819,
-      "openalex": 1,
-      "gap": 0.002056818181818132,
-      "samples": [
-        {
-          "doi": "10.4169/amer.math.monthly.122.02.173",
-          "title": "From the First Borel–Cantelli Lemma to Poincaré's Recurrence Theorem"
-        },
-        {
-          "doi": "10.4169/amer.math.monthly.122.8.809",
-          "title": "Reviews"
-        },
-        {
-          "doi": "10.7158/s13-043.2015.16.1",
-          "title": "Non-destructive structural integrity assessment of a decommissioned rail wagon system"
-        },
-        {
-          "doi": "10.1179/1059865014z.00000000073",
-          "title": "Building Staff Capacity to Evaluate in Museum Education"
-        },
-        {
-          "doi": "10.4169/amer.math.monthly.122.6.bm",
-          "title": "Back Matter"
-        }
-      ]
-    },
-    {
       "id": "license",
       "label": "License",
-      "category": "accessible_essential",
-      "effort": "automatic",
-      "crossref": 0.21407954545454547,
-      "openalex": 0.23701091901728844,
-      "gap": 0.022931373562742968,
-      "samples": [
-        {
-          "doi": "10.1080/19336950.2015.1018000",
-          "title": "The unusual suspects: Regulation of retinal calcium channels by somatostatin"
-        },
-        {
-          "doi": "10.1080/19370679.2015.12023258",
-          "title": "Analysis on the Potential of Strategic Cooperation between China and OIC under the “Silk Road Strategy” Framework"
-        },
-        {
-          "doi": "10.1080/23080477.2015.11665651",
-          "title": "Smart Control of Air Climatization System in Function on the Values of Mean Local Radiant Temperature"
-        },
-        {
-          "doi": "10.4161/2162402x.2014.994370",
-          "title": "CD4<sup>+</sup>T cell plasticity engenders robust immunity in response to cytokine therapy"
-        },
-        {
-          "doi": "10.1080/19445571.2015.1114759",
-          "title": "Jihadism in North Africa: A House of Many Mansions"
-        }
-      ]
-    },
-    {
-      "id": "license_url",
-      "label": "License URL",
       "category": "accessible_essential",
       "effort": "automatic",
       "crossref": 0.21407954545454547,
@@ -3356,37 +2919,6 @@
       ]
     },
     {
-      "id": "full_text_links",
-      "label": "Full-text Links",
-      "category": "accessible_essential",
-      "effort": "automatic",
-      "crossref": 0.9953181818181818,
-      "openalex": 0.2315400363967243,
-      "gap": -0.7637781454214575,
-      "samples": [
-        {
-          "doi": "10.1080/19475020.2015.1047464",
-          "title": "Commemorating the disabled soldier: 1914–1940"
-        },
-        {
-          "doi": "10.1111/jsbm.12152",
-          "title": "Entrepreneurial Orientation and International Performance: The Moderating Effect of Decision-Making Rationality"
-        },
-        {
-          "doi": "10.2147/ott.s77408",
-          "title": "The impact of anesthesia providers on major morbidity following screening colonoscopies"
-        },
-        {
-          "doi": "10.1080/02664763.2015.1077939",
-          "title": "Academic performance of students from entrance to graduation via quasi U-statistics: a study at a Brazilian research university"
-        },
-        {
-          "doi": "10.1080/02664763.2015.1063113",
-          "title": "Short-term wind speed forecasting in Germany"
-        }
-      ]
-    },
-    {
       "id": "resource_url",
       "label": "Resource URL",
       "category": "accessible_essential",
@@ -3428,99 +2960,6 @@
       ]
     },
     {
-      "id": "references_count",
-      "label": "References Count",
-      "category": "accessible_essential",
-      "effort": "voluntary",
-      "crossref": 0.8419772727272727,
-      "openalex": 0.8599749772520473,
-      "gap": 0.01799770452477456,
-      "samples": [
-        {
-          "doi": "10.2147/opth.s75659",
-          "title": "Outcomes of microincision vitrectomy surgery with internal limiting membrane peeling for macular edema secondary to branch retinal vein occlusion"
-        },
-        {
-          "doi": "10.2147/rrn.s47072",
-          "title": "The ongoing debate over fetal anatomic surveys in the first trimester: a matter of timing?"
-        },
-        {
-          "doi": "10.1080/23743670.2015.1008161",
-          "title": "Journalism and ‘the African story’"
-        },
-        {
-          "doi": "10.1080/19445571.2015.1114759",
-          "title": "Jihadism in North Africa: A House of Many Mansions"
-        },
-        {
-          "doi": "10.2147/dddt.s76021",
-          "title": "Proteomic response to 5,6-dimethylxanthenone 4-acetic acid (DMXAA, vadimezan) in human non-small cell lung cancer A549 cells determined by the stable-isotope labeling by amino acids in cell culture (SILAC) approach"
-        }
-      ]
-    },
-    {
-      "id": "is_referenced_by",
-      "label": "Is Referenced By",
-      "category": "accessible_essential",
-      "effort": "automatic",
-      "crossref": 0.7356704545454545,
-      "openalex": 0.7799021838034577,
-      "gap": 0.044231729258003116,
-      "samples": [
-        {
-          "doi": "10.1080/14443058.2014.996952",
-          "title": "Art in Oceania: A New History"
-        },
-        {
-          "doi": "10.1080/19424396.2015.12222822",
-          "title": "Computer-Guided Implant Surgery: Placing the Perfect Implant"
-        },
-        {
-          "doi": "10.1080/23257962.2015.1007853",
-          "title": "Elizabethan naval administration"
-        },
-        {
-          "doi": "10.1080/19370679.2015.12023258",
-          "title": "Analysis on the Potential of Strategic Cooperation between China and OIC under the “Silk Road Strategy” Framework"
-        },
-        {
-          "doi": "10.1080/0950236x.2014.994270",
-          "title": "Transatlantic Avant-Gardes: Little Magazines and Localist Modernism"
-        }
-      ]
-    },
-    {
-      "id": "author_sequence",
-      "label": "Author Sequence",
-      "category": "accessible_support",
-      "effort": "automatic",
-      "crossref": 0.9767613636363637,
-      "openalex": 0.9792311191992721,
-      "gap": 0.0024697555629084045,
-      "samples": [
-        {
-          "doi": "10.2469/faj.v71.n1.12",
-          "title": "In the Future"
-        },
-        {
-          "doi": "10.1080/09205071.2015.1080407",
-          "title": "Erratum"
-        },
-        {
-          "doi": "10.1080/21645515.2015.1080522",
-          "title": "Letter from the Editor"
-        },
-        {
-          "doi": "10.1128/mcb.00657-15",
-          "title": "Retraction for Leung et al., A Negative-Feedback Loop between the Detoxification/Antioxidant Response Factor SKN-1 and Its Repressor WDR-23 Matches Organism Needs with Environmental Conditions"
-        },
-        {
-          "doi": "10.1080/15384101.2015.1066140",
-          "title": "Corrigendum"
-        }
-      ]
-    },
-    {
       "id": "affiliation_ids_ror",
       "label": "Affiliation IDs (ROR)",
       "category": "accessible_support",
@@ -3548,37 +2987,6 @@
         {
           "doi": "10.1080/09733159.2015.1037116",
           "title": "Legal Issues in the Protection of Marine Biological Diversity Beyond National Jurisdiction"
-        }
-      ]
-    },
-    {
-      "id": "relations",
-      "label": "Relations",
-      "category": "accessible_support",
-      "effort": "voluntary",
-      "crossref": 0.005386363636363636,
-      "openalex": 0.9676524112829845,
-      "gap": 0.9622660476466208,
-      "samples": [
-        {
-          "doi": "10.1080/09639489.2014.987224",
-          "title": "De-Stalinisation? Grassroots Responses to the XXth Congress of the Communist Party of the Soviet Union in France's ‘Var rouge’"
-        },
-        {
-          "doi": "10.1080/08824096.2014.989979",
-          "title": "The Influence of Fiction Versus Nonfiction on Political Attitudes"
-        },
-        {
-          "doi": "10.1080/02529203.2015.1001487",
-          "title": "Fiscal Cycles and the Low-Level Equilibrium under the Qing: A Comparative Analysis"
-        },
-        {
-          "doi": "10.1080/03057070.2015.1013778",
-          "title": "Principals, Chiefs and School Committees: The Localisation of Rural School Administration in Lebowa, 1972–1990"
-        },
-        {
-          "doi": "10.1080/23302674.2014.997818",
-          "title": "A single-vendor multi-buyer integrated model with controllable lead time and quality improvement through reduction in defective items"
         }
       ]
     },
@@ -3614,37 +3022,6 @@
       ]
     },
     {
-      "id": "affiliation_ror",
-      "label": "Affiliation with ROR",
-      "category": "evaluation_coara",
-      "effort": "voluntary",
-      "crossref": 0,
-      "openalex": 0.919722474977252,
-      "gap": 0.919722474977252,
-      "samples": [
-        {
-          "doi": "10.1080/09639489.2014.987224",
-          "title": "De-Stalinisation? Grassroots Responses to the XXth Congress of the Communist Party of the Soviet Union in France's ‘Var rouge’"
-        },
-        {
-          "doi": "10.1080/08824096.2014.989979",
-          "title": "The Influence of Fiction Versus Nonfiction on Political Attitudes"
-        },
-        {
-          "doi": "10.1080/02529203.2015.1001487",
-          "title": "Fiscal Cycles and the Low-Level Equilibrium under the Qing: A Comparative Analysis"
-        },
-        {
-          "doi": "10.1080/23302674.2014.997818",
-          "title": "A single-vendor multi-buyer integrated model with controllable lead time and quality improvement through reduction in defective items"
-        },
-        {
-          "doi": "10.1080/09733159.2015.1037116",
-          "title": "Legal Issues in the Protection of Marine Biological Diversity Beyond National Jurisdiction"
-        }
-      ]
-    },
-    {
       "id": "funding_complete",
       "label": "Complete Funding Info",
       "category": "evaluation_coara",
@@ -3672,37 +3049,6 @@
         {
           "doi": "10.2147/ijn.s74204",
           "title": "Therapeutic antitumor efficacy of tumor-derived autophagosome (DRibble) vaccine on head and&amp;nbsp;neck cancer"
-        }
-      ]
-    },
-    {
-      "id": "preprint_version_link",
-      "label": "Preprint / Version Link",
-      "category": "evaluation_coara",
-      "effort": "voluntary",
-      "crossref": 0.002409090909090909,
-      "openalex": 0.3572679708826206,
-      "gap": 0.35485887997352966,
-      "samples": [
-        {
-          "doi": "10.1080/03057070.2015.1013778",
-          "title": "Principals, Chiefs and School Committees: The Localisation of Rural School Administration in Lebowa, 1972–1990"
-        },
-        {
-          "doi": "10.1080/02664763.2015.1005062",
-          "title": "Testing the homogeneity of proportions for clustered binary data without knowing the correlation structure"
-        },
-        {
-          "doi": "10.1080/02634937.2015.1007663",
-          "title": "Observing protest: media use and student involvement on 7 April 2010 in Bishkek, Kyrgyzstan"
-        },
-        {
-          "doi": "10.2147/opth.s75659",
-          "title": "Outcomes of microincision vitrectomy surgery with internal limiting membrane peeling for macular edema secondary to branch retinal vein occlusion"
-        },
-        {
-          "doi": "10.2147/rrn.s47072",
-          "title": "The ongoing debate over fetal anatomic surveys in the first trimester: a matter of timing?"
         }
       ]
     },

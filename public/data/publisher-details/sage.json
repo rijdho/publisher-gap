@@ -8,10 +8,10 @@
   "totalWorksMatched": 87852,
   "totalWorksUniverse": 88000,
   "crossref": {
-    "overall": 0.5933490719696969,
+    "overall": 0.5933422279614324,
     "categories": {
-      "findable_essential": 0.8098589015151516,
-      "findable_support": 0.5985795454545455,
+      "findable_essential": 0.8098541666666668,
+      "findable_support": 0.598543388429752,
       "accessible_essential": 0.8148749999999999,
       "accessible_support": 0.2851685606060606,
       "evaluation_coara": 0.14184431818181817
@@ -26,17 +26,17 @@
       "publisher": 1,
       "resource_type": 1,
       "subject_keywords": 0,
-      "funder_name": 0.18034090909090908,
+      "funder_name": 0.18028409090909092,
       "container_title": 1,
       "language": 0.9628636363636364,
       "author_orcid": 0.4445340909090909,
       "all_authors_orcid": 0.10767045454545454,
       "funder_doi": 0.13245454545454546,
-      "award_number": 0.14614772727272726,
+      "award_number": 0.146125,
       "issn": 0.9994545454545455,
-      "volume": 0.9665909090909091,
-      "issue": 0.9164659090909091,
-      "page": 0.8600113636363637,
+      "volume": 0.9665,
+      "issue": 0.9162613636363637,
+      "page": 0.8599318181818182,
       "published_print_date": 0.9650454545454545,
       "published_online_date": 0.910784090909091,
       "article_number": 0.13521590909090908,
@@ -68,10 +68,10 @@
     }
   },
   "openalex": {
-    "overall": 0.5952913905480154,
+    "overall": 0.5952876652745182,
     "categories": {
       "findable_essential": 0.9026819727116817,
-      "findable_support": 0.6744783582305779,
+      "findable_support": 0.6744535230739301,
       "accessible_essential": 0.4911517855787765,
       "accessible_support": 0.46613243485255507,
       "evaluation_coara": 0.26956927559987254
@@ -94,9 +94,9 @@
       "funder_doi": 0.1970017757137003,
       "award_number": 0.12628056276464963,
       "issn": 0.9995902199153122,
-      "volume": 0.9676387560897873,
-      "issue": 0.9180439830624232,
-      "page": 0.9331034011747029,
+      "volume": 0.9675476938487456,
+      "issue": 0.9179529208213815,
+      "page": 0.9330123389336612,
       "published_print_date": 1,
       "published_online_date": 1,
       "article_number": 0,
@@ -127,79 +127,79 @@
       "open_access_status": 0.3800824113281428
     }
   },
-  "gap": 0.0019423185783185026,
+  "gap": 0.0019454373130857183,
   "comparable": {
     "crossref": {
       "categories": {
-        "findable_essential": 0.8098589015151516,
-        "findable_support": 0.6449159090909091,
-        "accessible_essential": 0.8046235795454544,
-        "accessible_support": 0.32159848484848486,
-        "evaluation_coara": 0.24832727272727267
+        "findable_essential": 0.8834772727272728,
+        "findable_support": 0.634353896103896,
+        "accessible_essential": 0.7392500000000001,
+        "accessible_support": 0,
+        "evaluation_coara": 0.4129393939393939
       },
-      "overall": 0.6226762547348484
+      "overall": 0.627596645021645
     },
     "openalex": {
       "categories": {
-        "findable_essential": 0.9026819727116817,
-        "findable_support": 0.7419261940536357,
-        "accessible_essential": 0.5525457587761236,
-        "accessible_support": 0.9322648697051101,
-        "evaluation_coara": 0.5391385511997451
+        "findable_essential": 0.8938597144784826,
+        "findable_support": 0.7459981397285045,
+        "accessible_essential": 0.5853623138915449,
+        "accessible_support": 0.8703273687565451,
+        "evaluation_coara": 0.488981468833948
       },
-      "overall": 0.7212841578260407
+      "overall": 0.7112272444181507
     },
-    "gap": 0.09860790309119227,
-    "fieldCount": 38,
+    "gap": 0.08363059939650563,
+    "fieldCount": 26,
     "totalFieldCount": 48
   },
   "voluntary": {
     "crossref": {
       "categories": {
-        "findable_essential": 0.4493835227272727,
-        "findable_support": 0.20770170454545456,
-        "accessible_essential": 0.6131590909090909,
-        "accessible_support": 0.0034431818181818183,
-        "evaluation_coara": 0.038693181818181814
+        "findable_essential": 0.5991590909090908,
+        "findable_support": 0.23277651515151518,
+        "accessible_essential": 0.5035170454545455,
+        "accessible_support": 0,
+        "evaluation_coara": 0.11326136363636363
       },
-      "overall": 0.3273430397727273
+      "overall": 0.36319573863636356
     },
     "openalex": {
       "categories": {
-        "findable_essential": 0.7210934298593088,
-        "findable_support": 0.4002213950735328,
-        "accessible_essential": 0.6408087844708524,
-        "accessible_support": 0.918089514182944,
-        "evaluation_coara": 0.4516763040871769
+        "findable_essential": 0.6282156353867869,
+        "findable_support": 0.467961268193477,
+        "accessible_essential": 0.5425829804671493,
+        "accessible_support": 0.8703273687565451,
+        "evaluation_coara": 0.12628056276464963
       },
-      "overall": 0.6187076465722654
+      "overall": 0.5065934753904293
     },
-    "gap": 0.29136460679953813,
-    "fieldCount": 16
+    "gap": 0.14339773675406575,
+    "fieldCount": 10
   },
   "automatic": {
     "crossref": {
       "categories": {
         "findable_essential": 0.9900965909090909,
-        "findable_support": 0.9363920454545456,
-        "accessible_essential": 0.9195022727272727,
-        "accessible_support": 0.9579090909090909,
+        "findable_support": 0.9355369318181819,
+        "accessible_essential": 0.9749829545454545,
+        "accessible_support": 0,
         "evaluation_coara": 0.562778409090909
       },
-      "overall": 0.8757099431818183
+      "overall": 0.7936609374999999
     },
     "openalex": {
       "categories": {
         "findable_essential": 0.9934762441378682,
-        "findable_support": 0.9697293933737043,
-        "accessible_essential": 0.4995879433592861,
-        "accessible_support": 0.9606155807494422,
+        "findable_support": 0.9545257933797752,
+        "accessible_essential": 0.6281416473159405,
+        "accessible_support": 0,
         "evaluation_coara": 0.6703319218685972
       },
-      "overall": 0.7985272105359013
+      "overall": 0.7323235384510313
     },
-    "gap": -0.07718273264591702,
-    "fieldCount": 22
+    "gap": -0.06133739904896862,
+    "fieldCount": 16
   },
   "yearlyScores": [
     {
@@ -208,10 +208,10 @@
       "matched": 7995,
       "universeSize": 81957,
       "crossref": {
-        "overall": 0.554765587121212,
+        "overall": 0.5547451325757575,
         "categories": {
           "findable_essential": 0.77959375,
-          "findable_support": 0.5359886363636363,
+          "findable_support": 0.5358522727272726,
           "accessible_essential": 0.7694583333333332,
           "accessible_support": 0.26377083333333334,
           "evaluation_coara": 0.1087375
@@ -234,8 +234,8 @@
           "funder_doi": 0.0135,
           "award_number": 0.014125,
           "issn": 1,
-          "volume": 0.99875,
-          "issue": 0.9835,
+          "volume": 0.998625,
+          "issue": 0.982125,
           "page": 0.94975,
           "published_print_date": 0.993625,
           "published_online_date": 0.892875,
@@ -268,10 +268,10 @@
         }
       },
       "openalex": {
-        "overall": 0.5684960549838598,
+        "overall": 0.5684909381494747,
         "categories": {
           "findable_essential": 0.8904106733375025,
-          "findable_support": 0.6614702370799932,
+          "findable_support": 0.6614361248507591,
           "accessible_essential": 0.42969911750399553,
           "accessible_support": 0.461496768813842,
           "evaluation_coara": 0.24288930581613508
@@ -294,9 +294,9 @@
           "funder_doi": 0.16460287679799876,
           "award_number": 0.04715447154471545,
           "issn": 1,
-          "volume": 0.998874296435272,
-          "issue": 0.9852407754846779,
-          "page": 0.973358348968105,
+          "volume": 0.9987492182614134,
+          "issue": 0.9851156973108193,
+          "page": 0.9732332707942464,
           "published_print_date": 1,
           "published_online_date": 1,
           "article_number": 0,
@@ -330,29 +330,29 @@
       "comparable": {
         "crossref": {
           "categories": {
-            "findable_essential": 0.77959375,
-            "findable_support": 0.5851875,
-            "accessible_essential": 0.756203125,
-            "accessible_support": 0.314375,
-            "evaluation_coara": 0.19267499999999999
+            "findable_essential": 0.850465909090909,
+            "findable_support": 0.5643392857142857,
+            "accessible_essential": 0.6685625,
+            "accessible_support": 0,
+            "evaluation_coara": 0.3209166666666667
           },
-          "overall": 0.5806795312499999
+          "overall": 0.5711146239177488
         },
         "openalex": {
           "categories": {
-            "findable_essential": 0.8904106733375025,
-            "findable_support": 0.7276172607879925,
-            "accessible_essential": 0.483411507191995,
-            "accessible_support": 0.922993537627684,
-            "evaluation_coara": 0.48577861163227015
+            "findable_essential": 0.8804480072772756,
+            "findable_support": 0.7301706423657643,
+            "accessible_essential": 0.5055972482801752,
+            "accessible_support": 0.8281425891181988,
+            "evaluation_coara": 0.42518240567021054
           },
-          "overall": 0.6865737440066708
+          "overall": 0.667910050653953
         },
-        "gap": 0.10589421275667088
+        "gap": 0.09679542673620423
       },
       "voluntary": {
-        "crossref": 0.23557135416666664,
-        "openalex": 0.5652704815509695
+        "crossref": 0.243496875,
+        "openalex": 0.4364696685428393
       }
     },
     {
@@ -361,10 +361,10 @@
       "matched": 7996,
       "universeSize": 93137,
       "crossref": {
-        "overall": 0.5600214772727273,
+        "overall": 0.5600061363636363,
         "categories": {
           "findable_essential": 0.7857500000000001,
-          "findable_support": 0.5365681818181819,
+          "findable_support": 0.5364659090909091,
           "accessible_essential": 0.7807083333333333,
           "accessible_support": 0.26754166666666673,
           "evaluation_coara": 0.10940000000000001
@@ -387,9 +387,9 @@
           "funder_doi": 0.026625,
           "award_number": 0.029875,
           "issn": 1,
-          "volume": 0.997375,
-          "issue": 0.9805,
-          "page": 0.948375,
+          "volume": 0.997,
+          "issue": 0.980125,
+          "page": 0.948,
           "published_print_date": 0.994375,
           "published_online_date": 0.871875,
           "article_number": 0.0495,
@@ -421,10 +421,10 @@
         }
       },
       "openalex": {
-        "overall": 0.5750483006654843,
+        "overall": 0.5750329520821017,
         "categories": {
           "findable_essential": 0.8944576454894113,
-          "findable_support": 0.6662535813361227,
+          "findable_support": 0.6661512574469053,
           "accessible_essential": 0.44359679839919963,
           "accessible_support": 0.4654410538602634,
           "evaluation_coara": 0.24664832416208107
@@ -447,9 +447,9 @@
           "funder_doi": 0.1634567283641821,
           "award_number": 0.04577288644322161,
           "issn": 1,
-          "volume": 0.9974987493746873,
-          "issue": 0.9811155577788895,
-          "page": 0.9708604302151076,
+          "volume": 0.9971235617808905,
+          "issue": 0.9807403701850925,
+          "page": 0.9704852426213106,
           "published_print_date": 1,
           "published_online_date": 1,
           "article_number": 0,
@@ -483,29 +483,29 @@
       "comparable": {
         "crossref": {
           "categories": {
-            "findable_essential": 0.7857500000000001,
-            "findable_support": 0.585275,
-            "accessible_essential": 0.77090625,
-            "accessible_support": 0.31587499999999996,
-            "evaluation_coara": 0.194575
+            "findable_essential": 0.8571818181818182,
+            "findable_support": 0.5655357142857144,
+            "accessible_essential": 0.67896875,
+            "accessible_support": 0,
+            "evaluation_coara": 0.3242083333333333
           },
-          "overall": 0.5867453125000001
+          "overall": 0.5765687567640693
         },
         "openalex": {
           "categories": {
-            "findable_essential": 0.8944576454894113,
-            "findable_support": 0.7328789394697349,
-            "accessible_essential": 0.4990463981990996,
-            "accessible_support": 0.9308821077205268,
-            "evaluation_coara": 0.49329664832416215
+            "findable_essential": 0.8848628859884488,
+            "findable_support": 0.7377438719359679,
+            "accessible_essential": 0.5164769884942471,
+            "accessible_support": 0.8461730865432716,
+            "evaluation_coara": 0.42892279473069866
           },
-          "overall": 0.6947782745539437
+          "overall": 0.6756415613109583
         },
-        "gap": 0.10803296205394364
+        "gap": 0.09907280454688905
       },
       "voluntary": {
-        "crossref": 0.24946770833333332,
-        "openalex": 0.57820107970652
+        "crossref": 0.25764687499999994,
+        "openalex": 0.44963731865932965
       }
     },
     {
@@ -514,10 +514,10 @@
       "matched": 7990,
       "universeSize": 87576,
       "crossref": {
-        "overall": 0.5681438383838383,
+        "overall": 0.5681387247474746,
         "categories": {
           "findable_essential": 0.7926458333333333,
-          "findable_support": 0.5476931818181817,
+          "findable_support": 0.5476590909090908,
           "accessible_essential": 0.7922777777777777,
           "accessible_support": 0.27041666666666664,
           "evaluation_coara": 0.11542500000000003
@@ -540,9 +540,9 @@
           "funder_doi": 0.0635,
           "award_number": 0.06775,
           "issn": 1,
-          "volume": 0.9955,
-          "issue": 0.978625,
-          "page": 0.936625,
+          "volume": 0.995375,
+          "issue": 0.9785,
+          "page": 0.9365,
           "published_print_date": 0.994375,
           "published_online_date": 0.88625,
           "article_number": 0.058875,
@@ -574,10 +574,10 @@
         }
       },
       "openalex": {
-        "overall": 0.5836373370753846,
+        "overall": 0.5836305103601724,
         "categories": {
           "findable_essential": 0.8973091364205256,
-          "findable_support": 0.6711343725110934,
+          "findable_support": 0.6710888610763455,
           "accessible_essential": 0.4640940063968849,
           "accessible_support": 0.46677096370463084,
           "evaluation_coara": 0.25536921151439296
@@ -600,9 +600,9 @@
           "funder_doi": 0.1842302878598248,
           "award_number": 0.07559449311639549,
           "issn": 1,
-          "volume": 0.9956195244055068,
-          "issue": 0.97909887359199,
-          "page": 0.962578222778473,
+          "volume": 0.9954943679599499,
+          "issue": 0.978973717146433,
+          "page": 0.9623279098873592,
           "published_print_date": 1,
           "published_online_date": 1,
           "article_number": 0,
@@ -636,29 +636,29 @@
       "comparable": {
         "crossref": {
           "categories": {
-            "findable_essential": 0.7926458333333333,
-            "findable_support": 0.596575,
-            "accessible_essential": 0.782125,
-            "accessible_support": 0.31716666666666665,
-            "evaluation_coara": 0.20354999999999998
+            "findable_essential": 0.8647045454545453,
+            "findable_support": 0.5744642857142858,
+            "accessible_essential": 0.69003125,
+            "accessible_support": 0,
+            "evaluation_coara": 0.33908333333333335
           },
-          "overall": 0.5952379166666666
+          "overall": 0.5859054856601731
         },
         "openalex": {
           "categories": {
-            "findable_essential": 0.8973091364205256,
-            "findable_support": 0.7382478097622027,
-            "accessible_essential": 0.5221057571964955,
-            "accessible_support": 0.9335419274092617,
-            "evaluation_coara": 0.5107384230287859
+            "findable_essential": 0.8879849812265331,
+            "findable_support": 0.7425353119971393,
+            "accessible_essential": 0.539424280350438,
+            "accessible_support": 0.8514392991239049,
+            "evaluation_coara": 0.44960367125573636
           },
-          "overall": 0.7059582290362952
+          "overall": 0.6876965254186782
         },
-        "gap": 0.11072031236962865
+        "gap": 0.10179103975850512
       },
       "voluntary": {
-        "crossref": 0.2650578125,
-        "openalex": 0.5921448685857321
+        "crossref": 0.278784375,
+        "openalex": 0.4679224030037547
       }
     },
     {
@@ -789,29 +789,29 @@
       "comparable": {
         "crossref": {
           "categories": {
-            "findable_essential": 0.8035625000000001,
-            "findable_support": 0.6305875000000001,
-            "accessible_essential": 0.791296875,
-            "accessible_support": 0.3198333333333333,
-            "evaluation_coara": 0.21739999999999998
+            "findable_essential": 0.8766136363636364,
+            "findable_support": 0.6120892857142858,
+            "accessible_essential": 0.69965625,
+            "accessible_support": 0,
+            "evaluation_coara": 0.361875
           },
-          "overall": 0.6089444270833334
+          "overall": 0.6020865462662337
         },
         "openalex": {
           "categories": {
-            "findable_essential": 0.9015568912263129,
-            "findable_support": 0.7518031555221637,
-            "accessible_essential": 0.5331048084147257,
-            "accessible_support": 0.933633859253694,
-            "evaluation_coara": 0.5264963686451289
+            "findable_essential": 0.892607517701432,
+            "findable_support": 0.7545883868197917,
+            "accessible_essential": 0.5450475832707238,
+            "accessible_support": 0.8473578762834961,
+            "evaluation_coara": 0.4773770765506303
           },
-          "overall": 0.715176402454295
+          "overall": 0.6974436120895551
         },
-        "gap": 0.10623197537096163
+        "gap": 0.09535706582332137
       },
       "voluntary": {
-        "crossref": 0.29447552083333334,
-        "openalex": 0.6070060105184072
+        "crossref": 0.318890625,
+        "openalex": 0.489763335837716
       }
     },
     {
@@ -820,10 +820,10 @@
       "matched": 7994,
       "universeSize": 90744,
       "crossref": {
-        "overall": 0.590919172979798,
+        "overall": 0.5909126388888889,
         "categories": {
-          "findable_essential": 0.8088229166666667,
-          "findable_support": 0.6085227272727273,
+          "findable_essential": 0.8088125,
+          "findable_support": 0.6085,
           "accessible_essential": 0.8114305555555555,
           "accessible_support": 0.27993749999999995,
           "evaluation_coara": 0.1307125
@@ -838,17 +838,17 @@
           "publisher": 1,
           "resource_type": 1,
           "subject_keywords": 0,
-          "funder_name": 0.200875,
+          "funder_name": 0.20075,
           "container_title": 1,
           "language": 0.965375,
           "author_orcid": 0.44775,
           "all_authors_orcid": 0.0815,
           "funder_doi": 0.151375,
-          "award_number": 0.158375,
+          "award_number": 0.15825,
           "issn": 1,
           "volume": 0.997125,
           "issue": 0.949125,
-          "page": 0.893125,
+          "page": 0.893,
           "published_print_date": 0.99475,
           "published_online_date": 0.916125,
           "article_number": 0.1045,
@@ -942,29 +942,29 @@
       "comparable": {
         "crossref": {
           "categories": {
-            "findable_essential": 0.8088229166666667,
-            "findable_support": 0.658925,
-            "accessible_essential": 0.799546875,
-            "accessible_support": 0.32066666666666666,
-            "evaluation_coara": 0.22745
+            "findable_essential": 0.8823409090909091,
+            "findable_support": 0.6466785714285714,
+            "accessible_essential": 0.7104999999999999,
+            "accessible_support": 0,
+            "evaluation_coara": 0.37833333333333335
           },
-          "overall": 0.6189290104166667
+          "overall": 0.6149957251082251
         },
         "openalex": {
           "categories": {
-            "findable_essential": 0.9029376198815778,
-            "findable_support": 0.7551913935451589,
-            "accessible_essential": 0.5545409056792595,
-            "accessible_support": 0.9386206321407723,
-            "evaluation_coara": 0.5448586439829872
+            "findable_essential": 0.8941251393090273,
+            "findable_support": 0.7602487579970693,
+            "accessible_essential": 0.5669251938954215,
+            "accessible_support": 0.8590192644483362,
+            "evaluation_coara": 0.49829038445500795
           },
-          "overall": 0.7256290134267367
+          "overall": 0.7095661573019592
         },
-        "gap": 0.10670000301006999
+        "gap": 0.09457043219373407
       },
       "voluntary": {
-        "crossref": 0.31669270833333335,
-        "openalex": 0.6189845509131848
+        "crossref": 0.348478125,
+        "openalex": 0.5042719539654741
       }
     },
     {
@@ -973,10 +973,10 @@
       "matched": 7994,
       "universeSize": 99660,
       "crossref": {
-        "overall": 0.6081116603535355,
+        "overall": 0.6081082512626264,
         "categories": {
           "findable_essential": 0.81653125,
-          "findable_support": 0.6273522727272728,
+          "findable_support": 0.6273295454545456,
           "accessible_essential": 0.8379861111111112,
           "accessible_support": 0.29022916666666665,
           "evaluation_coara": 0.15265
@@ -999,8 +999,8 @@
           "funder_doi": 0.166375,
           "award_number": 0.175875,
           "issn": 1,
-          "volume": 0.996625,
-          "issue": 0.94,
+          "volume": 0.9965,
+          "issue": 0.939875,
           "page": 0.879625,
           "published_print_date": 0.9945,
           "published_online_date": 0.91625,
@@ -1033,10 +1033,10 @@
         }
       },
       "openalex": {
-        "overall": 0.6061919103469016,
+        "overall": 0.6061884986972552,
         "categories": {
           "findable_essential": 0.9053977983487616,
-          "findable_support": 0.6884254099665659,
+          "findable_support": 0.6884026656355903,
           "accessible_essential": 0.5126622744836404,
           "accessible_support": 0.4745642565257276,
           "evaluation_coara": 0.2784338253690267
@@ -1059,8 +1059,8 @@
           "funder_doi": 0.18989241931448586,
           "award_number": 0.15261446084563424,
           "issn": 1,
-          "volume": 0.9967475606705029,
-          "issue": 0.9400800600450337,
+          "volume": 0.9966224668501376,
+          "issue": 0.9399549662246685,
           "page": 0.954340755566675,
           "published_print_date": 1,
           "published_online_date": 1,
@@ -1095,29 +1095,29 @@
       "comparable": {
         "crossref": {
           "categories": {
-            "findable_essential": 0.81653125,
-            "findable_support": 0.6784,
-            "accessible_essential": 0.8295781250000002,
-            "accessible_support": 0.32475,
-            "evaluation_coara": 0.264225
+            "findable_essential": 0.8907613636363636,
+            "findable_support": 0.672375,
+            "accessible_essential": 0.756125,
+            "accessible_support": 0,
+            "evaluation_coara": 0.4390416666666666
           },
-          "overall": 0.6394339062500001
+          "overall": 0.6449242424242423
         },
         "openalex": {
           "categories": {
-            "findable_essential": 0.9053977983487616,
-            "findable_support": 0.7572679509632224,
-            "accessible_essential": 0.5767450587940955,
-            "accessible_support": 0.9491285130514552,
-            "evaluation_coara": 0.5568676507380534
+            "findable_essential": 0.896797598198649,
+            "findable_support": 0.7689338432395726,
+            "accessible_essential": 0.5913497623217413,
+            "accessible_support": 0.8815361521140855,
+            "evaluation_coara": 0.5084229839045952
           },
-          "overall": 0.735682178300392
+          "overall": 0.7220550085182935
         },
-        "gap": 0.09624827205039188
+        "gap": 0.07713076609405123
       },
       "voluntary": {
-        "crossref": 0.35024895833333336,
-        "openalex": 0.6328527645734301
+        "crossref": 0.39320312500000004,
+        "openalex": 0.522272954716037
       }
     },
     {
@@ -1248,29 +1248,29 @@
       "comparable": {
         "crossref": {
           "categories": {
-            "findable_essential": 0.8181979166666665,
-            "findable_support": 0.6806625,
-            "accessible_essential": 0.8305,
-            "accessible_support": 0.3248333333333333,
-            "evaluation_coara": 0.2734249999999999
+            "findable_essential": 0.8925795454545452,
+            "findable_support": 0.6777142857142857,
+            "accessible_essential": 0.765625,
+            "accessible_support": 0,
+            "evaluation_coara": 0.4533749999999999
           },
-          "overall": 0.6423520833333332
+          "overall": 0.6515122564935064
         },
         "openalex": {
           "categories": {
-            "findable_essential": 0.9061640410102526,
-            "findable_support": 0.7575018754688673,
-            "accessible_essential": 0.5794573643410853,
-            "accessible_support": 0.9494456947570226,
-            "evaluation_coara": 0.5612903225806452
+            "findable_essential": 0.897633499283912,
+            "findable_support": 0.7690672668167041,
+            "accessible_essential": 0.6061515378844711,
+            "accessible_support": 0.8909727431857964,
+            "evaluation_coara": 0.5087521880470117
           },
-          "overall": 0.7375414687005086
+          "overall": 0.7270357362067789
         },
-        "gap": 0.09518938536717547
+        "gap": 0.07552347971327245
       },
       "voluntary": {
-        "crossref": 0.3615098958333333,
-        "openalex": 0.6393843252479787
+        "crossref": 0.407840625,
+        "openalex": 0.5298574643660915
       }
     },
     {
@@ -1279,10 +1279,10 @@
       "matched": 7985,
       "universeSize": 97953,
       "crossref": {
-        "overall": 0.6123696148989899,
+        "overall": 0.6123593876262625,
         "categories": {
           "findable_essential": 0.81984375,
-          "findable_support": 0.6373636363636364,
+          "findable_support": 0.6372954545454546,
           "accessible_essential": 0.8365277777777778,
           "accessible_support": 0.29649999999999993,
           "evaluation_coara": 0.16015000000000001
@@ -1305,9 +1305,9 @@
           "funder_doi": 0.175875,
           "award_number": 0.1945,
           "issn": 0.999375,
-          "volume": 0.9905,
-          "issue": 0.917875,
-          "page": 0.85325,
+          "volume": 0.99025,
+          "issue": 0.917625,
+          "page": 0.853,
           "published_print_date": 0.9885,
           "published_online_date": 0.915375,
           "article_number": 0.141625,
@@ -1339,10 +1339,10 @@
         }
       },
       "openalex": {
-        "overall": 0.6053749833968994,
+        "overall": 0.6053647369120131,
         "categories": {
           "findable_essential": 0.90554164057608,
-          "findable_support": 0.6865714123071669,
+          "findable_support": 0.6865031024079239,
           "accessible_essential": 0.5103736171989146,
           "accessible_support": 0.4695053224796493,
           "evaluation_coara": 0.28091421415153406
@@ -1365,9 +1365,9 @@
           "funder_doi": 0.2,
           "award_number": 0.16681277395115843,
           "issn": 0.9996242955541641,
-          "volume": 0.9908578584846587,
-          "issue": 0.9183469004383219,
-          "page": 0.9331246086412023,
+          "volume": 0.9906073888541015,
+          "issue": 0.9180964308077646,
+          "page": 0.932874139010645,
           "published_print_date": 1,
           "published_online_date": 1,
           "article_number": 0,
@@ -1401,29 +1401,29 @@
       "comparable": {
         "crossref": {
           "categories": {
-            "findable_essential": 0.81984375,
-            "findable_support": 0.6869375,
-            "accessible_essential": 0.8282031249999999,
-            "accessible_support": 0.3237083333333333,
-            "evaluation_coara": 0.2792
+            "findable_essential": 0.894375,
+            "findable_support": 0.684125,
+            "accessible_essential": 0.77084375,
+            "accessible_support": 0,
+            "evaluation_coara": 0.46374999999999994
           },
-          "overall": 0.6442553645833333
+          "overall": 0.6563921875
         },
         "openalex": {
           "categories": {
-            "findable_essential": 0.90554164057608,
-            "findable_support": 0.7552285535378835,
-            "accessible_essential": 0.5741703193487789,
-            "accessible_support": 0.9390106449592986,
-            "evaluation_coara": 0.5618284283030681
+            "findable_essential": 0.8970114419081231,
+            "findable_support": 0.764504875212452,
+            "accessible_essential": 0.6159048215403883,
+            "accessible_support": 0.8745147150907953,
+            "evaluation_coara": 0.5128783135044875
           },
-          "overall": 0.7347561051972448
+          "overall": 0.7277825034493788
         },
-        "gap": 0.09050074061391145
+        "gap": 0.07139031594937884
       },
       "voluntary": {
-        "crossref": 0.3659041666666667,
-        "openalex": 0.6382733249843456
+        "crossref": 0.41640625,
+        "openalex": 0.5319098309329993
       }
     },
     {
@@ -1432,9 +1432,9 @@
       "matched": 7998,
       "universeSize": 93344,
       "crossref": {
-        "overall": 0.6121961805555556,
+        "overall": 0.6121899305555555,
         "categories": {
-          "findable_essential": 0.8209062500000001,
+          "findable_essential": 0.8208854166666666,
           "findable_support": 0.63675,
           "accessible_essential": 0.8345972222222223,
           "accessible_support": 0.29587499999999994,
@@ -1450,7 +1450,7 @@
           "publisher": 1,
           "resource_type": 1,
           "subject_keywords": 0,
-          "funder_name": 0.23775,
+          "funder_name": 0.2375,
           "container_title": 1,
           "language": 0.94825,
           "author_orcid": 0.689,
@@ -1554,29 +1554,29 @@
       "comparable": {
         "crossref": {
           "categories": {
-            "findable_essential": 0.8209062500000001,
-            "findable_support": 0.6858625,
-            "accessible_essential": 0.8270312500000001,
-            "accessible_support": 0.32458333333333333,
-            "evaluation_coara": 0.28307499999999997
+            "findable_essential": 0.8955113636363635,
+            "findable_support": 0.6849999999999999,
+            "accessible_essential": 0.779,
+            "accessible_support": 0,
+            "evaluation_coara": 0.4705833333333333
           },
-          "overall": 0.6449823958333334
+          "overall": 0.6602700757575757
         },
         "openalex": {
           "categories": {
-            "findable_essential": 0.9096649162290573,
-            "findable_support": 0.7614528632158039,
-            "accessible_essential": 0.6000718929732433,
-            "accessible_support": 0.950654330249229,
-            "evaluation_coara": 0.568867216804201
+            "findable_essential": 0.9014867353201939,
+            "findable_support": 0.768977958775408,
+            "accessible_essential": 0.6321267816954239,
+            "accessible_support": 0.8905976494123531,
+            "evaluation_coara": 0.5243810952738185
           },
-          "overall": 0.7459742539801617
+          "overall": 0.7377603938322244
         },
-        "gap": 0.10099185814682832
+        "gap": 0.07749031807464868
       },
       "voluntary": {
-        "crossref": 0.3709078125,
-        "openalex": 0.6509648245394682
+        "crossref": 0.42185312499999994,
+        "openalex": 0.5477213053263317
       }
     },
     {
@@ -1585,10 +1585,10 @@
       "matched": 8000,
       "universeSize": 95437,
       "crossref": {
-        "overall": 0.6164175946969698,
+        "overall": 0.6164127651515151,
         "categories": {
-          "findable_essential": 0.8275729166666667,
-          "findable_support": 0.6363409090909092,
+          "findable_essential": 0.8275625,
+          "findable_support": 0.6363295454545456,
           "accessible_essential": 0.836625,
           "accessible_support": 0.3009583333333333,
           "evaluation_coara": 0.1672125
@@ -1603,13 +1603,13 @@
           "publisher": 1,
           "resource_type": 1,
           "subject_keywords": 0,
-          "funder_name": 0.26275,
+          "funder_name": 0.262625,
           "container_title": 1,
           "language": 0.96125,
           "author_orcid": 0.737625,
           "all_authors_orcid": 0.178875,
           "funder_doi": 0.182125,
-          "award_number": 0.21225,
+          "award_number": 0.212125,
           "issn": 0.998125,
           "volume": 0.946625,
           "issue": 0.871875,
@@ -1707,29 +1707,29 @@
       "comparable": {
         "crossref": {
           "categories": {
-            "findable_essential": 0.8275729166666667,
-            "findable_support": 0.6807375000000001,
-            "accessible_essential": 0.827,
-            "accessible_support": 0.3264166666666667,
-            "evaluation_coara": 0.29295
+            "findable_essential": 0.9027954545454545,
+            "findable_support": 0.6781428571428572,
+            "accessible_essential": 0.79659375,
+            "accessible_support": 0,
+            "evaluation_coara": 0.48691666666666666
           },
-          "overall": 0.6483641666666667
+          "overall": 0.6690918357683984
         },
         "openalex": {
           "categories": {
-            "findable_essential": 0.9114166666666667,
-            "findable_support": 0.7478374999999999,
-            "accessible_essential": 0.60828125,
-            "accessible_support": 0.9547916666666666,
-            "evaluation_coara": 0.5744250000000001
+            "findable_essential": 0.9033636363636363,
+            "findable_support": 0.7497857142857143,
+            "accessible_essential": 0.65525,
+            "accessible_support": 0.89825,
+            "evaluation_coara": 0.535125
           },
-          "overall": 0.7480351041666666
+          "overall": 0.7441394480519481
         },
-        "gap": 0.09967093749999989
+        "gap": 0.07504761228354973
       },
       "voluntary": {
-        "crossref": 0.3852536458333333,
-        "openalex": 0.657834375
+        "crossref": 0.4404156250000001,
+        "openalex": 0.556725
       }
     },
     {
@@ -1738,9 +1738,9 @@
       "matched": 7916,
       "universeSize": 99528,
       "crossref": {
-        "overall": 0.6130830934343435,
+        "overall": 0.6130799684343435,
         "categories": {
-          "findable_essential": 0.8350208333333334,
+          "findable_essential": 0.8350104166666666,
           "findable_support": 0.6072613636363638,
           "accessible_essential": 0.825138888888889,
           "accessible_support": 0.30197916666666663,
@@ -1756,7 +1756,7 @@
           "publisher": 1,
           "resource_type": 1,
           "subject_keywords": 0,
-          "funder_name": 0.3015,
+          "funder_name": 0.301375,
           "container_title": 1,
           "language": 0.998875,
           "author_orcid": 0.841125,
@@ -1860,29 +1860,29 @@
       "comparable": {
         "crossref": {
           "categories": {
-            "findable_essential": 0.8350208333333334,
-            "findable_support": 0.6249250000000002,
-            "accessible_essential": 0.8084687500000001,
-            "accessible_support": 0.325375,
-            "evaluation_coara": 0.30307500000000004
+            "findable_essential": 0.9109204545454546,
+            "findable_support": 0.6174285714285715,
+            "accessible_essential": 0.81584375,
+            "accessible_support": 0,
+            "evaluation_coara": 0.50425
           },
-          "overall": 0.6395146875000001
+          "overall": 0.6707013595779221
         },
         "openalex": {
           "categories": {
-            "findable_essential": 0.9046551288529562,
-            "findable_support": 0.6755179383527035,
-            "accessible_essential": 0.5469460586154623,
-            "accessible_support": 0.8513980124642074,
-            "evaluation_coara": 0.5461091460333501
+            "findable_essential": 0.8961481923836648,
+            "findable_support": 0.6585757597632281,
+            "accessible_essential": 0.6654244567963619,
+            "accessible_support": 0.9058868115209702,
+            "evaluation_coara": 0.5100218965807647
           },
-          "overall": 0.7038223745157487
+          "overall": 0.7265799963469242
         },
-        "gap": 0.06430768701574863
+        "gap": 0.055878636769002066
       },
       "voluntary": {
-        "crossref": 0.40568385416666664,
-        "openalex": 0.6248857798551457
+        "crossref": 0.4681375,
+        "openalex": 0.536211470439616
       }
     }
   ],
@@ -1958,28 +1958,6 @@
     "publication_date": [],
     "publisher": [],
     "resource_type": [],
-    "subject_keywords": [
-      {
-        "doi": "10.4997/jrcpe.2015.110",
-        "title": "Intra-arterial treatment in acute ischaemic stroke: What we learn from the MR CLEAN trial"
-      },
-      {
-        "doi": "10.1177/inr-2014-10107",
-        "title": "Carotid rete mirabile associated with subarachnoid hemorrhage from intracranial aneurysm: A case report and systematic review"
-      },
-      {
-        "doi": "10.1016/s1094-9968(15)00008-0",
-        "title": "Editorial Board"
-      },
-      {
-        "doi": "10.1177/155698451501000111",
-        "title": "Using Cardiac Magnetic Resonance Imaging to Evaluate Cardiac Function and Predict Outcomes in Patients with Valvular Heart Disease"
-      },
-      {
-        "doi": "10.1177/2156759x1501604s02",
-        "title": "Students with Anxiety: Implications for Professional School Counselors"
-      }
-    ],
     "funder_name": [
       {
         "doi": "10.1177/2050312114566488",
@@ -2069,28 +2047,6 @@
         "title": "Learning Discriminative Transferable Sparse Coding for Cross-View Action Recognition in Wireless Sensor Networks"
       }
     ],
-    "funder_doi": [
-      {
-        "doi": "10.1177/2050312114566488",
-        "title": "Mental health utilization among older Veterans with coexisting depression and dementia"
-      },
-      {
-        "doi": "10.1177/1934578x1501000218",
-        "title": "Synthesis and Antihyperlipidemic Activity of Piperic Acid Derivatives"
-      },
-      {
-        "doi": "10.1177/1934578x1501000244",
-        "title": "Essential Oil Composition and Antimicrobial Activity of <i>Vismia macrophylla</i> Leaves and Fruits Collected in Táchira-Venezuela"
-      },
-      {
-        "doi": "10.1177/0022167815570091",
-        "title": "Alvin R. Mahrer, PhD"
-      },
-      {
-        "doi": "10.3233/xst-140466",
-        "title": "Deformation vector fields (DVF)-driven image reconstruction for 4D-CBCT"
-      }
-    ],
     "award_number": [
       {
         "doi": "10.3233/bme-151333",
@@ -2163,20 +2119,20 @@
         "title": "Editorial Board"
       },
       {
+        "doi": "10.1155/2014/542135",
+        "title": "Finite Element Analyses of Face/Core Interfacial Fracture Toughness of Composite Sandwich with Reinforced Chopped Fibers"
+      },
+      {
+        "doi": "10.1155/2014/791047",
+        "title": "Determination Method of the Structure Size Intervals of Dynamic Distorted Model of Elastic Cantilever Thin Plate"
+      },
+      {
         "doi": "10.4137/ccrpm.s23283",
         "title": "Genetics of Interstitial Lung Disease:<i>Vol de Nuit</i>(Night Flight)"
       },
       {
         "doi": "10.4137/bcbcr.s29421",
         "title": "Use of Targeted Liposome-based Chemotherapeutics to Treat Breast Cancer"
-      },
-      {
-        "doi": "10.4137/cin.s19338",
-        "title": "The Impact of Microenvironmental Heterogeneity on the Evolution of Drug Resistance in Cancer Cells"
-      },
-      {
-        "doi": "10.4137/cin.s17294",
-        "title": "What Tumor Dynamics Modeling Can Teach us about Exploiting the Stem-Cell View for Better Cancer Treatment"
       }
     ],
     "page": [
@@ -2201,73 +2157,7 @@
         "title": "Essential Oil Composition and Antimicrobial Activity of <i>Vismia macrophylla</i> Leaves and Fruits Collected in Táchira-Venezuela"
       }
     ],
-    "published_print_date": [
-      {
-        "doi": "10.5958/2349-3011.2015.00015.8",
-        "title": "Child and adolescent personality assessment: A practice primer"
-      },
-      {
-        "doi": "10.1177/0892705715589891",
-        "title": "Retraction notice"
-      },
-      {
-        "doi": "10.1177/0306419015572053",
-        "title": "Performance of at-risk students in dynamics following a statics class with additional recitation time"
-      },
-      {
-        "doi": "10.5958/0974-0848.2015.00018.4",
-        "title": "Husain-Usmani Model for Grief Truncation Acronym “Seeding of Solace” (SOS): An Integrated Approach"
-      },
-      {
-        "doi": "10.5958/0974-0848.2015.00079.2",
-        "title": "Infant with Congenital Anomalies: Born To Die?"
-      }
-    ],
-    "published_online_date": [
-      {
-        "doi": "10.1016/s1094-9968(15)00008-0",
-        "title": "Editorial Board"
-      },
-      {
-        "doi": "10.1155/2015/156361",
-        "title": "Advanced Service Technology and Application in Smart Sensor Networks"
-      },
-      {
-        "doi": "10.1155/2015/619546",
-        "title": "Energy Efficiency Oriented Access Point Selection for Cognitive Sensors in Internet of Things"
-      },
-      {
-        "doi": "10.1155/2015/952951",
-        "title": "MAC Protocol for Quality-Aware Real-Time Voice Delivery in Cognitive Radio-Enabled WSNs"
-      },
-      {
-        "doi": "10.1155/2015/415021",
-        "title": "Learning Discriminative Transferable Sparse Coding for Cross-View Action Recognition in Wireless Sensor Networks"
-      }
-    ],
     "license": [
-      {
-        "doi": "10.5958/0974-0848.2015.00018.4",
-        "title": "Husain-Usmani Model for Grief Truncation Acronym “Seeding of Solace” (SOS): An Integrated Approach"
-      },
-      {
-        "doi": "10.5958/0974-0848.2015.00079.2",
-        "title": "Infant with Congenital Anomalies: Born To Die?"
-      },
-      {
-        "doi": "10.5958/0974-0848.2015.00077.9",
-        "title": "Medico-Legal Cases Need a More Professional Approach"
-      },
-      {
-        "doi": "10.5772/61675",
-        "title": "Minimizing Hexapod Robot Foot Deviations Using Multilayer Perceptron"
-      },
-      {
-        "doi": "10.4103/0973-1296.149721",
-        "title": "Spectrophotometric determination of the total flavonoid content in Ocimum basilicum L. (Lamiaceae) leaves"
-      }
-    ],
-    "license_url": [
       {
         "doi": "10.5958/0974-0848.2015.00018.4",
         "title": "Husain-Usmani Model for Grief Truncation Acronym “Seeding of Solace” (SOS): An Integrated Approach"
@@ -2311,28 +2201,6 @@
         "title": "Fibrosarcoma of the urinary bladder in a cat"
       }
     ],
-    "full_text_links": [
-      {
-        "doi": "10.4997/jrcpe.2015.110",
-        "title": "Intra-arterial treatment in acute ischaemic stroke: What we learn from the MR CLEAN trial"
-      },
-      {
-        "doi": "10.1016/s1094-9968(15)00008-0",
-        "title": "Editorial Board"
-      },
-      {
-        "doi": "10.4103/0973-1296.153063",
-        "title": "New free radical scavenging neolignans from fruits of<i>Piper attenuatum</i>"
-      },
-      {
-        "doi": "10.4997/jrcpe.2015.212",
-        "title": "Mentoring for new consultants"
-      },
-      {
-        "doi": "10.4103/0973-1296.166052",
-        "title": "Selectivity of Pinus sylvestris extract and essential oil to estrogen-insensitive breast cancer cells Pinus sylvestris against cancer cells"
-      }
-    ],
     "resource_url": [],
     "references": [
       {
@@ -2354,72 +2222,6 @@
       {
         "doi": "10.3233/bme-151524",
         "title": "Discrete virus infection model of hepatitis B virus"
-      }
-    ],
-    "references_count": [
-      {
-        "doi": "10.4997/jrcpe.2015.110",
-        "title": "Intra-arterial treatment in acute ischaemic stroke: What we learn from the MR CLEAN trial"
-      },
-      {
-        "doi": "10.3233/xst-140466",
-        "title": "Deformation vector fields (DVF)-driven image reconstruction for 4D-CBCT"
-      },
-      {
-        "doi": "10.3233/bme-151333",
-        "title": "Dielectric analysis of heterogeneous biological tissues based on mixing rule"
-      },
-      {
-        "doi": "10.3233/bme-151338",
-        "title": "Influence of the hypothalamic paraventricular nucleus (PVN) on heart rate variability (HRV) in rat hearts via electronic lesion"
-      },
-      {
-        "doi": "10.3233/bme-151524",
-        "title": "Discrete virus infection model of hepatitis B virus"
-      }
-    ],
-    "is_referenced_by": [
-      {
-        "doi": "10.4997/jrcpe.2015.110",
-        "title": "Intra-arterial treatment in acute ischaemic stroke: What we learn from the MR CLEAN trial"
-      },
-      {
-        "doi": "10.1177/2156759x1501604s02",
-        "title": "Students with Anxiety: Implications for Professional School Counselors"
-      },
-      {
-        "doi": "10.1155/2015/156361",
-        "title": "Advanced Service Technology and Application in Smart Sensor Networks"
-      },
-      {
-        "doi": "10.5958/2349-3011.2015.00015.8",
-        "title": "Child and adolescent personality assessment: A practice primer"
-      },
-      {
-        "doi": "10.1177/0019556120150102",
-        "title": "Anti-Terror Measures and Federal Balance in India"
-      }
-    ],
-    "author_sequence": [
-      {
-        "doi": "10.1177/1757913914561734",
-        "title": "Mind, the mental health charity: improving maternal mental wellbeing"
-      },
-      {
-        "doi": "10.1179/1743275815y.0000000006",
-        "title": "Abstracts"
-      },
-      {
-        "doi": "10.1177/1468795x14567832",
-        "title": "Introduction"
-      },
-      {
-        "doi": "10.1177/0042098015579175",
-        "title": "Books received"
-      },
-      {
-        "doi": "10.1177/0972820114561933",
-        "title": "Summaries and Discussion Questions"
       }
     ],
     "affiliation_ids_ror": [
@@ -2444,28 +2246,6 @@
         "title": "MAC Protocol for Quality-Aware Real-Time Voice Delivery in Cognitive Radio-Enabled WSNs"
       }
     ],
-    "relations": [
-      {
-        "doi": "10.4997/jrcpe.2015.110",
-        "title": "Intra-arterial treatment in acute ischaemic stroke: What we learn from the MR CLEAN trial"
-      },
-      {
-        "doi": "10.1177/inr-2014-10107",
-        "title": "Carotid rete mirabile associated with subarachnoid hemorrhage from intracranial aneurysm: A case report and systematic review"
-      },
-      {
-        "doi": "10.1016/s1094-9968(15)00008-0",
-        "title": "Editorial Board"
-      },
-      {
-        "doi": "10.1177/155698451501000111",
-        "title": "Using Cardiac Magnetic Resonance Imaging to Evaluate Cardiac Function and Predict Outcomes in Patients with Valvular Heart Disease"
-      },
-      {
-        "doi": "10.1177/2156759x1501604s02",
-        "title": "Students with Anxiety: Implications for Professional School Counselors"
-      }
-    ],
     "author_given_family": [
       {
         "doi": "10.1177/1757913914561734",
@@ -2488,28 +2268,6 @@
         "title": "Musical Chairs and the Role of Specialist Palliative Care"
       }
     ],
-    "affiliation_ror": [
-      {
-        "doi": "10.4997/jrcpe.2015.110",
-        "title": "Intra-arterial treatment in acute ischaemic stroke: What we learn from the MR CLEAN trial"
-      },
-      {
-        "doi": "10.1177/155698451501000111",
-        "title": "Using Cardiac Magnetic Resonance Imaging to Evaluate Cardiac Function and Predict Outcomes in Patients with Valvular Heart Disease"
-      },
-      {
-        "doi": "10.1177/2156759x1501604s02",
-        "title": "Students with Anxiety: Implications for Professional School Counselors"
-      },
-      {
-        "doi": "10.1155/2015/156361",
-        "title": "Advanced Service Technology and Application in Smart Sensor Networks"
-      },
-      {
-        "doi": "10.1155/2015/952951",
-        "title": "MAC Protocol for Quality-Aware Real-Time Voice Delivery in Cognitive Radio-Enabled WSNs"
-      }
-    ],
     "funding_complete": [
       {
         "doi": "10.3233/bme-151333",
@@ -2530,28 +2288,6 @@
       {
         "doi": "10.3233/bme-151483",
         "title": "Improve the diagnosis of atrial hypertrophy with the local discriminative support vector machine"
-      }
-    ],
-    "preprint_version_link": [
-      {
-        "doi": "10.1155/2015/156361",
-        "title": "Advanced Service Technology and Application in Smart Sensor Networks"
-      },
-      {
-        "doi": "10.1155/2015/619546",
-        "title": "Energy Efficiency Oriented Access Point Selection for Cognitive Sensors in Internet of Things"
-      },
-      {
-        "doi": "10.1155/2015/952951",
-        "title": "MAC Protocol for Quality-Aware Real-Time Voice Delivery in Cognitive Radio-Enabled WSNs"
-      },
-      {
-        "doi": "10.1155/2015/415021",
-        "title": "Learning Discriminative Transferable Sparse Coding for Cross-View Action Recognition in Wireless Sensor Networks"
-      },
-      {
-        "doi": "10.1155/2015/908417",
-        "title": "A Two-Stage Range-Free Localization Method for Wireless Sensor Networks"
       }
     ],
     "open_access_status": [
@@ -2582,177 +2318,148 @@
       "doi": "10.4997/jrcpe.2015.110",
       "title": "Intra-arterial treatment in acute ischaemic stroke: What we learn from the MR CLEAN trial",
       "year": 2015,
-      "crossrefScore": 0.42105263157894735,
-      "openalexScore": 0.7894736842105263,
-      "gap": 14,
+      "crossrefScore": 0.5,
+      "openalexScore": 0.8076923076923077,
+      "gap": 8,
       "openalexAdds": [
         "abstract",
         "author_affiliation",
-        "subject_keywords",
         "language",
         "author_orcid",
         "all_authors_orcid",
-        "full_text_links",
         "references",
-        "references_count",
-        "is_referenced_by",
         "affiliation_ids_ror",
-        "relations",
-        "affiliation_ror",
         "open_access_status"
-      ]
-    },
-    {
-      "doi": "10.1016/s1094-9968(15)00008-0",
-      "title": "Editorial Board",
-      "year": 2015,
-      "crossrefScore": 0.3157894736842105,
-      "openalexScore": 0.47368421052631576,
-      "gap": 6,
-      "openalexAdds": [
-        "subject_keywords",
-        "issue",
-        "published_online_date",
-        "full_text_links",
-        "relations",
-        "open_access_status"
-      ]
-    },
-    {
-      "doi": "10.1177/155698451501000111",
-      "title": "Using Cardiac Magnetic Resonance Imaging to Evaluate Cardiac Function and Predict Outcomes in Patients with Valvular Heart Disease",
-      "year": 2015,
-      "crossrefScore": 0.631578947368421,
-      "openalexScore": 0.6578947368421053,
-      "gap": 5,
-      "openalexAdds": [
-        "subject_keywords",
-        "author_orcid",
-        "affiliation_ids_ror",
-        "relations",
-        "affiliation_ror"
-      ]
-    },
-    {
-      "doi": "10.1177/2156759x1501604s02",
-      "title": "Students with Anxiety: Implications for Professional School Counselors",
-      "year": 2015,
-      "crossrefScore": 0.631578947368421,
-      "openalexScore": 0.6842105263157895,
-      "gap": 6,
-      "openalexAdds": [
-        "subject_keywords",
-        "author_orcid",
-        "is_referenced_by",
-        "affiliation_ids_ror",
-        "relations",
-        "affiliation_ror"
       ]
     },
     {
       "doi": "10.1155/2015/156361",
       "title": "Advanced Service Technology and Application in Smart Sensor Networks",
       "year": 2015,
-      "crossrefScore": 0.5789473684210527,
-      "openalexScore": 0.8157894736842105,
-      "gap": 10,
+      "crossrefScore": 0.6538461538461539,
+      "openalexScore": 0.8076923076923077,
+      "gap": 4,
       "openalexAdds": [
         "author_affiliation",
-        "subject_keywords",
         "author_orcid",
         "all_authors_orcid",
-        "published_online_date",
-        "is_referenced_by",
-        "affiliation_ids_ror",
-        "relations",
-        "affiliation_ror",
-        "preprint_version_link"
-      ]
-    },
-    {
-      "doi": "10.1155/2015/619546",
-      "title": "Energy Efficiency Oriented Access Point Selection for Cognitive Sensors in Internet of Things",
-      "year": 2015,
-      "crossrefScore": 0.7631578947368421,
-      "openalexScore": 0.868421052631579,
-      "gap": 6,
-      "openalexAdds": [
-        "subject_keywords",
-        "author_orcid",
-        "all_authors_orcid",
-        "published_online_date",
-        "relations",
-        "preprint_version_link"
+        "affiliation_ids_ror"
       ]
     },
     {
       "doi": "10.1155/2015/952951",
       "title": "MAC Protocol for Quality-Aware Real-Time Voice Delivery in Cognitive Radio-Enabled WSNs",
       "year": 2015,
-      "crossrefScore": 0.7631578947368421,
-      "openalexScore": 0.9473684210526315,
-      "gap": 9,
+      "crossrefScore": 0.8076923076923077,
+      "openalexScore": 0.9615384615384616,
+      "gap": 4,
       "openalexAdds": [
         "author_affiliation",
-        "subject_keywords",
         "author_orcid",
         "all_authors_orcid",
-        "published_online_date",
-        "affiliation_ids_ror",
-        "relations",
-        "affiliation_ror",
-        "preprint_version_link"
+        "affiliation_ids_ror"
       ]
     },
     {
       "doi": "10.1155/2015/415021",
       "title": "Learning Discriminative Transferable Sparse Coding for Cross-View Action Recognition in Wireless Sensor Networks",
       "year": 2015,
-      "crossrefScore": 0.7368421052631579,
-      "openalexScore": 0.9210526315789473,
-      "gap": 9,
+      "crossrefScore": 0.8076923076923077,
+      "openalexScore": 0.9615384615384616,
+      "gap": 4,
       "openalexAdds": [
         "author_affiliation",
-        "subject_keywords",
         "author_orcid",
         "all_authors_orcid",
-        "published_online_date",
-        "affiliation_ids_ror",
-        "relations",
-        "affiliation_ror",
-        "preprint_version_link"
+        "affiliation_ids_ror"
       ]
     },
     {
       "doi": "10.1155/2015/908417",
       "title": "A Two-Stage Range-Free Localization Method for Wireless Sensor Networks",
       "year": 2015,
-      "crossrefScore": 0.8421052631578947,
-      "openalexScore": 0.9736842105263158,
-      "gap": 8,
+      "crossrefScore": 0.8461538461538461,
+      "openalexScore": 1,
+      "gap": 4,
       "openalexAdds": [
-        "subject_keywords",
         "all_authors_orcid",
         "open_access_license",
         "affiliation_ids_ror",
-        "relations",
-        "affiliation_ror",
-        "preprint_version_link",
         "open_access_status"
       ]
     },
     {
-      "doi": "10.5958/2349-3011.2015.00015.8",
-      "title": "Child and adolescent personality assessment: A practice primer",
+      "doi": "10.4137/bic.s23088",
+      "title": "Similarity of Serum and Plasma Insulin-like Growth Factor Concentrations",
       "year": 2015,
-      "crossrefScore": 0.42105263157894735,
-      "openalexScore": 0.5263157894736842,
+      "crossrefScore": 0.6538461538461539,
+      "openalexScore": 0.8076923076923077,
       "gap": 4,
       "openalexAdds": [
-        "subject_keywords",
-        "published_print_date",
-        "is_referenced_by",
-        "relations"
+        "author_orcid",
+        "open_access_license",
+        "affiliation_ids_ror",
+        "open_access_status"
+      ]
+    },
+    {
+      "doi": "10.1177/1687814015575951",
+      "title": "Economical evaluation of a cogeneration system for a building complex",
+      "year": 2015,
+      "crossrefScore": 0.6538461538461539,
+      "openalexScore": 0.8461538461538461,
+      "gap": 5,
+      "openalexAdds": [
+        "author_orcid",
+        "all_authors_orcid",
+        "open_access_license",
+        "affiliation_ids_ror",
+        "open_access_status"
+      ]
+    },
+    {
+      "doi": "10.1177/2050312114566488",
+      "title": "Mental health utilization among older Veterans with coexisting depression and dementia",
+      "year": 2015,
+      "crossrefScore": 0.6153846153846154,
+      "openalexScore": 0.8461538461538461,
+      "gap": 6,
+      "openalexAdds": [
+        "funder_name",
+        "author_orcid",
+        "page",
+        "open_access_license",
+        "affiliation_ids_ror",
+        "open_access_status"
+      ]
+    },
+    {
+      "doi": "10.1177/2055116915585019",
+      "title": "Fibrosarcoma of the urinary bladder in a cat",
+      "year": 2015,
+      "crossrefScore": 0.6538461538461539,
+      "openalexScore": 0.7692307692307693,
+      "gap": 4,
+      "openalexAdds": [
+        "author_orcid",
+        "page",
+        "open_access_license",
+        "open_access_status"
+      ]
+    },
+    {
+      "doi": "10.1177/1934578x1501000228",
+      "title": "Phenolic Compounds from <i>Limonium pruinosum</i>",
+      "year": 2015,
+      "crossrefScore": 0.6538461538461539,
+      "openalexScore": 0.8461538461538461,
+      "gap": 5,
+      "openalexAdds": [
+        "author_orcid",
+        "page",
+        "open_access_license",
+        "affiliation_ids_ror",
+        "open_access_status"
       ]
     }
   ],
@@ -2901,44 +2608,13 @@
       "samples": []
     },
     {
-      "id": "subject_keywords",
-      "label": "Subject / Keywords",
-      "category": "findable_essential",
-      "effort": "voluntary",
-      "crossref": 0,
-      "openalex": 0.9997268132768747,
-      "gap": 0.9997268132768747,
-      "samples": [
-        {
-          "doi": "10.4997/jrcpe.2015.110",
-          "title": "Intra-arterial treatment in acute ischaemic stroke: What we learn from the MR CLEAN trial"
-        },
-        {
-          "doi": "10.1177/inr-2014-10107",
-          "title": "Carotid rete mirabile associated with subarachnoid hemorrhage from intracranial aneurysm: A case report and systematic review"
-        },
-        {
-          "doi": "10.1016/s1094-9968(15)00008-0",
-          "title": "Editorial Board"
-        },
-        {
-          "doi": "10.1177/155698451501000111",
-          "title": "Using Cardiac Magnetic Resonance Imaging to Evaluate Cardiac Function and Predict Outcomes in Patients with Valvular Heart Disease"
-        },
-        {
-          "doi": "10.1177/2156759x1501604s02",
-          "title": "Students with Anxiety: Implications for Professional School Counselors"
-        }
-      ]
-    },
-    {
       "id": "funder_name",
       "label": "Funder Name",
       "category": "findable_essential",
       "effort": "voluntary",
-      "crossref": 0.18034090909090908,
+      "crossref": 0.18028409090909092,
       "openalex": 0.1970017757137003,
-      "gap": 0.01666086662279123,
+      "gap": 0.01671768480460939,
       "samples": [
         {
           "doi": "10.1177/2050312114566488",
@@ -3066,44 +2742,13 @@
       ]
     },
     {
-      "id": "funder_doi",
-      "label": "Funder DOI",
-      "category": "findable_support",
-      "effort": "voluntary",
-      "crossref": 0.13245454545454546,
-      "openalex": 0.1970017757137003,
-      "gap": 0.06454723025915485,
-      "samples": [
-        {
-          "doi": "10.1177/2050312114566488",
-          "title": "Mental health utilization among older Veterans with coexisting depression and dementia"
-        },
-        {
-          "doi": "10.1177/1934578x1501000218",
-          "title": "Synthesis and Antihyperlipidemic Activity of Piperic Acid Derivatives"
-        },
-        {
-          "doi": "10.1177/1934578x1501000244",
-          "title": "Essential Oil Composition and Antimicrobial Activity of <i>Vismia macrophylla</i> Leaves and Fruits Collected in Táchira-Venezuela"
-        },
-        {
-          "doi": "10.1177/0022167815570091",
-          "title": "Alvin R. Mahrer, PhD"
-        },
-        {
-          "doi": "10.3233/xst-140466",
-          "title": "Deformation vector fields (DVF)-driven image reconstruction for 4D-CBCT"
-        }
-      ]
-    },
-    {
       "id": "award_number",
       "label": "Award Number",
       "category": "findable_support",
       "effort": "voluntary",
-      "crossref": 0.14614772727272726,
+      "crossref": 0.146125,
       "openalex": 0.12628056276464963,
-      "gap": -0.019867164508077628,
+      "gap": -0.01984443723535037,
       "samples": [
         {
           "doi": "10.3233/bme-151333",
@@ -3163,9 +2808,9 @@
       "label": "Volume",
       "category": "findable_support",
       "effort": "automatic",
-      "crossref": 0.9665909090909091,
-      "openalex": 0.9676387560897873,
-      "gap": 0.0010478469988782768,
+      "crossref": 0.9665,
+      "openalex": 0.9675476938487456,
+      "gap": 0.00104769384874559,
       "samples": [
         {
           "doi": "10.1097/jim.0000000000000239",
@@ -3194,13 +2839,21 @@
       "label": "Issue",
       "category": "findable_support",
       "effort": "automatic",
-      "crossref": 0.9164659090909091,
-      "openalex": 0.9180439830624232,
-      "gap": 0.0015780739715141046,
+      "crossref": 0.9162613636363637,
+      "openalex": 0.9179529208213815,
+      "gap": 0.001691557185017789,
       "samples": [
         {
           "doi": "10.1016/s1094-9968(15)00008-0",
           "title": "Editorial Board"
+        },
+        {
+          "doi": "10.1155/2014/542135",
+          "title": "Finite Element Analyses of Face/Core Interfacial Fracture Toughness of Composite Sandwich with Reinforced Chopped Fibers"
+        },
+        {
+          "doi": "10.1155/2014/791047",
+          "title": "Determination Method of the Structure Size Intervals of Dynamic Distorted Model of Elastic Cantilever Thin Plate"
         },
         {
           "doi": "10.4137/ccrpm.s23283",
@@ -3209,14 +2862,6 @@
         {
           "doi": "10.4137/bcbcr.s29421",
           "title": "Use of Targeted Liposome-based Chemotherapeutics to Treat Breast Cancer"
-        },
-        {
-          "doi": "10.4137/cin.s19338",
-          "title": "The Impact of Microenvironmental Heterogeneity on the Evolution of Drug Resistance in Cancer Cells"
-        },
-        {
-          "doi": "10.4137/cin.s17294",
-          "title": "What Tumor Dynamics Modeling Can Teach us about Exploiting the Stem-Cell View for Better Cancer Treatment"
         }
       ]
     },
@@ -3225,9 +2870,9 @@
       "label": "Page",
       "category": "findable_support",
       "effort": "automatic",
-      "crossref": 0.8600113636363637,
-      "openalex": 0.9331034011747029,
-      "gap": 0.07309203753833926,
+      "crossref": 0.8599318181818182,
+      "openalex": 0.9330123389336612,
+      "gap": 0.07308052075184301,
       "samples": [
         {
           "doi": "10.1177/2050312114566488",
@@ -3252,101 +2897,8 @@
       ]
     },
     {
-      "id": "published_print_date",
-      "label": "Published Print Date",
-      "category": "findable_support",
-      "effort": "automatic",
-      "crossref": 0.9650454545454545,
-      "openalex": 1,
-      "gap": 0.03495454545454546,
-      "samples": [
-        {
-          "doi": "10.5958/2349-3011.2015.00015.8",
-          "title": "Child and adolescent personality assessment: A practice primer"
-        },
-        {
-          "doi": "10.1177/0892705715589891",
-          "title": "Retraction notice"
-        },
-        {
-          "doi": "10.1177/0306419015572053",
-          "title": "Performance of at-risk students in dynamics following a statics class with additional recitation time"
-        },
-        {
-          "doi": "10.5958/0974-0848.2015.00018.4",
-          "title": "Husain-Usmani Model for Grief Truncation Acronym “Seeding of Solace” (SOS): An Integrated Approach"
-        },
-        {
-          "doi": "10.5958/0974-0848.2015.00079.2",
-          "title": "Infant with Congenital Anomalies: Born To Die?"
-        }
-      ]
-    },
-    {
-      "id": "published_online_date",
-      "label": "Published Online Date",
-      "category": "findable_support",
-      "effort": "automatic",
-      "crossref": 0.910784090909091,
-      "openalex": 1,
-      "gap": 0.08921590909090904,
-      "samples": [
-        {
-          "doi": "10.1016/s1094-9968(15)00008-0",
-          "title": "Editorial Board"
-        },
-        {
-          "doi": "10.1155/2015/156361",
-          "title": "Advanced Service Technology and Application in Smart Sensor Networks"
-        },
-        {
-          "doi": "10.1155/2015/619546",
-          "title": "Energy Efficiency Oriented Access Point Selection for Cognitive Sensors in Internet of Things"
-        },
-        {
-          "doi": "10.1155/2015/952951",
-          "title": "MAC Protocol for Quality-Aware Real-Time Voice Delivery in Cognitive Radio-Enabled WSNs"
-        },
-        {
-          "doi": "10.1155/2015/415021",
-          "title": "Learning Discriminative Transferable Sparse Coding for Cross-View Action Recognition in Wireless Sensor Networks"
-        }
-      ]
-    },
-    {
       "id": "license",
       "label": "License",
-      "category": "accessible_essential",
-      "effort": "automatic",
-      "crossref": 0.949965909090909,
-      "openalex": 0.2562832946318809,
-      "gap": -0.6936826144590282,
-      "samples": [
-        {
-          "doi": "10.5958/0974-0848.2015.00018.4",
-          "title": "Husain-Usmani Model for Grief Truncation Acronym “Seeding of Solace” (SOS): An Integrated Approach"
-        },
-        {
-          "doi": "10.5958/0974-0848.2015.00079.2",
-          "title": "Infant with Congenital Anomalies: Born To Die?"
-        },
-        {
-          "doi": "10.5958/0974-0848.2015.00077.9",
-          "title": "Medico-Legal Cases Need a More Professional Approach"
-        },
-        {
-          "doi": "10.5772/61675",
-          "title": "Minimizing Hexapod Robot Foot Deviations Using Multilayer Perceptron"
-        },
-        {
-          "doi": "10.4103/0973-1296.149721",
-          "title": "Spectrophotometric determination of the total flavonoid content in Ocimum basilicum L. (Lamiaceae) leaves"
-        }
-      ]
-    },
-    {
-      "id": "license_url",
-      "label": "License URL",
       "category": "accessible_essential",
       "effort": "automatic",
       "crossref": 0.949965909090909,
@@ -3407,37 +2959,6 @@
       ]
     },
     {
-      "id": "full_text_links",
-      "label": "Full-text Links",
-      "category": "accessible_essential",
-      "effort": "automatic",
-      "crossref": 0.9942840909090909,
-      "openalex": 0.2526977188908619,
-      "gap": -0.741586372018229,
-      "samples": [
-        {
-          "doi": "10.4997/jrcpe.2015.110",
-          "title": "Intra-arterial treatment in acute ischaemic stroke: What we learn from the MR CLEAN trial"
-        },
-        {
-          "doi": "10.1016/s1094-9968(15)00008-0",
-          "title": "Editorial Board"
-        },
-        {
-          "doi": "10.4103/0973-1296.153063",
-          "title": "New free radical scavenging neolignans from fruits of<i>Piper attenuatum</i>"
-        },
-        {
-          "doi": "10.4997/jrcpe.2015.212",
-          "title": "Mentoring for new consultants"
-        },
-        {
-          "doi": "10.4103/0973-1296.166052",
-          "title": "Selectivity of Pinus sylvestris extract and essential oil to estrogen-insensitive breast cancer cells Pinus sylvestris against cancer cells"
-        }
-      ]
-    },
-    {
       "id": "resource_url",
       "label": "Resource URL",
       "category": "accessible_essential",
@@ -3479,99 +3000,6 @@
       ]
     },
     {
-      "id": "references_count",
-      "label": "References Count",
-      "category": "accessible_essential",
-      "effort": "voluntary",
-      "crossref": 0.8324431818181818,
-      "openalex": 0.8372603924782589,
-      "gap": 0.00481721066007712,
-      "samples": [
-        {
-          "doi": "10.4997/jrcpe.2015.110",
-          "title": "Intra-arterial treatment in acute ischaemic stroke: What we learn from the MR CLEAN trial"
-        },
-        {
-          "doi": "10.3233/xst-140466",
-          "title": "Deformation vector fields (DVF)-driven image reconstruction for 4D-CBCT"
-        },
-        {
-          "doi": "10.3233/bme-151333",
-          "title": "Dielectric analysis of heterogeneous biological tissues based on mixing rule"
-        },
-        {
-          "doi": "10.3233/bme-151338",
-          "title": "Influence of the hypothalamic paraventricular nucleus (PVN) on heart rate variability (HRV) in rat hearts via electronic lesion"
-        },
-        {
-          "doi": "10.3233/bme-151524",
-          "title": "Discrete virus infection model of hepatitis B virus"
-        }
-      ]
-    },
-    {
-      "id": "is_referenced_by",
-      "label": "Is Referenced By",
-      "category": "accessible_essential",
-      "effort": "automatic",
-      "crossref": 0.7032954545454545,
-      "openalex": 0.7326754086418067,
-      "gap": 0.02937995409635219,
-      "samples": [
-        {
-          "doi": "10.4997/jrcpe.2015.110",
-          "title": "Intra-arterial treatment in acute ischaemic stroke: What we learn from the MR CLEAN trial"
-        },
-        {
-          "doi": "10.1177/2156759x1501604s02",
-          "title": "Students with Anxiety: Implications for Professional School Counselors"
-        },
-        {
-          "doi": "10.1155/2015/156361",
-          "title": "Advanced Service Technology and Application in Smart Sensor Networks"
-        },
-        {
-          "doi": "10.5958/2349-3011.2015.00015.8",
-          "title": "Child and adolescent personality assessment: A practice primer"
-        },
-        {
-          "doi": "10.1177/0019556120150102",
-          "title": "Anti-Terror Measures and Federal Balance in India"
-        }
-      ]
-    },
-    {
-      "id": "author_sequence",
-      "label": "Author Sequence",
-      "category": "accessible_support",
-      "effort": "automatic",
-      "crossref": 0.9579090909090909,
-      "openalex": 0.9606155807494422,
-      "gap": 0.002706489840351267,
-      "samples": [
-        {
-          "doi": "10.1177/1757913914561734",
-          "title": "Mind, the mental health charity: improving maternal mental wellbeing"
-        },
-        {
-          "doi": "10.1179/1743275815y.0000000006",
-          "title": "Abstracts"
-        },
-        {
-          "doi": "10.1177/1468795x14567832",
-          "title": "Introduction"
-        },
-        {
-          "doi": "10.1177/0042098015579175",
-          "title": "Books received"
-        },
-        {
-          "doi": "10.1177/0972820114561933",
-          "title": "Summaries and Discussion Questions"
-        }
-      ]
-    },
-    {
       "id": "affiliation_ids_ror",
       "label": "Affiliation IDs (ROR)",
       "category": "accessible_support",
@@ -3599,37 +3027,6 @@
         {
           "doi": "10.1155/2015/952951",
           "title": "MAC Protocol for Quality-Aware Real-Time Voice Delivery in Cognitive Radio-Enabled WSNs"
-        }
-      ]
-    },
-    {
-      "id": "relations",
-      "label": "Relations",
-      "category": "accessible_support",
-      "effort": "voluntary",
-      "crossref": 0.006886363636363637,
-      "openalex": 0.9658516596093429,
-      "gap": 0.9589652959729793,
-      "samples": [
-        {
-          "doi": "10.4997/jrcpe.2015.110",
-          "title": "Intra-arterial treatment in acute ischaemic stroke: What we learn from the MR CLEAN trial"
-        },
-        {
-          "doi": "10.1177/inr-2014-10107",
-          "title": "Carotid rete mirabile associated with subarachnoid hemorrhage from intracranial aneurysm: A case report and systematic review"
-        },
-        {
-          "doi": "10.1016/s1094-9968(15)00008-0",
-          "title": "Editorial Board"
-        },
-        {
-          "doi": "10.1177/155698451501000111",
-          "title": "Using Cardiac Magnetic Resonance Imaging to Evaluate Cardiac Function and Predict Outcomes in Patients with Valvular Heart Disease"
-        },
-        {
-          "doi": "10.1177/2156759x1501604s02",
-          "title": "Students with Anxiety: Implications for Professional School Counselors"
         }
       ]
     },
@@ -3665,37 +3062,6 @@
       ]
     },
     {
-      "id": "affiliation_ror",
-      "label": "Affiliation with ROR",
-      "category": "evaluation_coara",
-      "effort": "voluntary",
-      "crossref": 0,
-      "openalex": 0.8703273687565451,
-      "gap": 0.8703273687565451,
-      "samples": [
-        {
-          "doi": "10.4997/jrcpe.2015.110",
-          "title": "Intra-arterial treatment in acute ischaemic stroke: What we learn from the MR CLEAN trial"
-        },
-        {
-          "doi": "10.1177/155698451501000111",
-          "title": "Using Cardiac Magnetic Resonance Imaging to Evaluate Cardiac Function and Predict Outcomes in Patients with Valvular Heart Disease"
-        },
-        {
-          "doi": "10.1177/2156759x1501604s02",
-          "title": "Students with Anxiety: Implications for Professional School Counselors"
-        },
-        {
-          "doi": "10.1155/2015/156361",
-          "title": "Advanced Service Technology and Application in Smart Sensor Networks"
-        },
-        {
-          "doi": "10.1155/2015/952951",
-          "title": "MAC Protocol for Quality-Aware Real-Time Voice Delivery in Cognitive Radio-Enabled WSNs"
-        }
-      ]
-    },
-    {
       "id": "funding_complete",
       "label": "Complete Funding Info",
       "category": "evaluation_coara",
@@ -3723,37 +3089,6 @@
         {
           "doi": "10.3233/bme-151483",
           "title": "Improve the diagnosis of atrial hypertrophy with the local discriminative support vector machine"
-        }
-      ]
-    },
-    {
-      "id": "preprint_version_link",
-      "label": "Preprint / Version Link",
-      "category": "evaluation_coara",
-      "effort": "voluntary",
-      "crossref": 0.002818181818181818,
-      "openalex": 0.358420980740336,
-      "gap": 0.3556027989221542,
-      "samples": [
-        {
-          "doi": "10.1155/2015/156361",
-          "title": "Advanced Service Technology and Application in Smart Sensor Networks"
-        },
-        {
-          "doi": "10.1155/2015/619546",
-          "title": "Energy Efficiency Oriented Access Point Selection for Cognitive Sensors in Internet of Things"
-        },
-        {
-          "doi": "10.1155/2015/952951",
-          "title": "MAC Protocol for Quality-Aware Real-Time Voice Delivery in Cognitive Radio-Enabled WSNs"
-        },
-        {
-          "doi": "10.1155/2015/415021",
-          "title": "Learning Discriminative Transferable Sparse Coding for Cross-View Action Recognition in Wireless Sensor Networks"
-        },
-        {
-          "doi": "10.1155/2015/908417",
-          "title": "A Two-Stage Range-Free Localization Method for Wireless Sensor Networks"
         }
       ]
     },

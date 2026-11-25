@@ -53,15 +53,18 @@ A push to `main` runs the tests, builds the page and publishes it to GitHub Page
 
 ## Caveats
 
-- **The two sources are not always asked the same thing.** A check of the fields made on
-  2026-11-25 found that for eight of the 38 compared fields the Crossref check and the OpenAlex
-  check do not ask the same thing (for example, the subjects of an article in Crossref against
-  the topics OpenAlex assigns by itself), and that some fields have exactly as many records as
-  another field. The scores on the page do not account for this yet.
+- **The page was revised on 2026-11-25.** A check of the fields found that for eight of the 38
+  comparable fields the Crossref check and the OpenAlex check do not ask the same thing (for
+  example, the subjects of an article in Crossref against the topics OpenAlex assigns by
+  itself), and that four fields have exactly as many records as another field. The page now
+  compares the other 26, and does not count a value that is only a placeholder ("0", "None",
+  "N/A"). The mean score of the publishers went from 56.7% to 59.6% for Crossref and from 78.3%
+  to 77.7% for OpenAlex; About says which fields were left out.
 - **A category named "Essential" is the page's own grouping.** It does not say that Crossref
   requires the field.
-- **The texts of the page were written with the data of March 2026** and have not been reviewed
-  since.
+- **Most texts of the page were written in March 2026** and have not been reviewed since; on
+  About, the sampling of 5,000 articles per year and the table of works per publisher do not
+  match the data files, which hold up to 8,000 per year.
 - **The data are of March 2026.** Both sources have changed since.
 - **A score is a weighted mean of shares of records**, per publisher, and the figure for all
   publishers is a plain mean of theirs: each publisher counts once, whatever its size.

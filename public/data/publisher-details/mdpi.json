@@ -8,10 +8,10 @@
   "totalWorksMatched": 87397,
   "totalWorksUniverse": 88000,
   "crossref": {
-    "overall": 0.6768896309687786,
+    "overall": 0.6768836134067953,
     "categories": {
-      "findable_essential": 0.8739725378787879,
-      "findable_support": 0.6041942148760331,
+      "findable_essential": 0.8739545454545455,
+      "findable_support": 0.6041900826446281,
       "accessible_essential": 0.9803320707070706,
       "accessible_support": 0.33375946969696973,
       "evaluation_coara": 0.22804886363636362
@@ -26,13 +26,13 @@
       "publisher": 1,
       "resource_type": 1,
       "subject_keywords": 0,
-      "funder_name": 0.5274090909090909,
+      "funder_name": 0.5271931818181819,
       "container_title": 1,
       "language": 0.996,
       "author_orcid": 0.7532613636363636,
       "all_authors_orcid": 0.10922727272727273,
       "funder_doi": 0.29213636363636364,
-      "award_number": 0.49210227272727275,
+      "award_number": 0.4920568181818182,
       "issn": 1,
       "volume": 0.998125,
       "issue": 0.9981136363636364,
@@ -127,79 +127,79 @@
       "open_access_status": 0.9976658237696946
     }
   },
-  "gap": 0.07914346045208354,
+  "gap": 0.07914947801406691,
   "comparable": {
     "crossref": {
       "categories": {
-        "findable_essential": 0.8739725378787879,
-        "findable_support": 0.6646034090909091,
-        "accessible_essential": 0.9803522727272728,
-        "accessible_support": 0.3373787878787879,
-        "evaluation_coara": 0.45589772727272726
+        "findable_essential": 0.953404958677686,
+        "findable_support": 0.7639285714285714,
+        "accessible_essential": 0.9895482954545454,
+        "accessible_support": 0,
+        "evaluation_coara": 0.7549431818181818
       },
-      "overall": 0.7318877651515152
+      "overall": 0.7989864835448642
     },
     "openalex": {
       "categories": {
-        "findable_essential": 0.9588763534980225,
-        "findable_support": 0.831771113424946,
-        "accessible_essential": 0.9812293328146273,
-        "accessible_support": 0.9856516814078287,
-        "evaluation_coara": 0.8761330480451273
+        "findable_essential": 0.9551378401796609,
+        "findable_support": 0.8265893402682997,
+        "accessible_essential": 0.9936582491389865,
+        "accessible_support": 0.9878714372346877,
+        "evaluation_coara": 0.80848694272496
       },
-      "overall": 0.9315276840166138
+      "overall": 0.9194288476473507
     },
-    "gap": 0.19963991886509858,
-    "fieldCount": 38,
+    "gap": 0.12044236410248643,
+    "fieldCount": 26,
     "totalFieldCount": 48
   },
   "voluntary": {
     "crossref": {
       "categories": {
-        "findable_essential": 0.6242869318181818,
-        "findable_support": 0.4116818181818182,
-        "accessible_essential": 0.9824393939393938,
-        "accessible_support": 0.008806818181818181,
-        "evaluation_coara": 0.10059848484848484
+        "findable_essential": 0.8323106060606061,
+        "findable_support": 0.4515151515151515,
+        "accessible_essential": 0.9840852272727272,
+        "accessible_support": 0,
+        "evaluation_coara": 0.28713636363636363
       },
-      "overall": 0.5156485795454545
+      "overall": 0.6208690340909091
     },
     "openalex": {
       "categories": {
-        "findable_essential": 0.8785742073526551,
-        "findable_support": 0.5809667379887181,
-        "accessible_essential": 0.9886227978839853,
-        "accessible_support": 0.9790210190281131,
-        "evaluation_coara": 0.7947831924055365
+        "findable_essential": 0.8380989431368735,
+        "findable_support": 0.5974270665278366,
+        "accessible_essential": 0.990079751021202,
+        "accessible_support": 0.9878714372346877,
+        "evaluation_coara": 0.4291451651658524
       },
-      "overall": 0.8547317127590193
+      "overall": 0.7731798574321773
     },
-    "gap": 0.33908313321356476,
-    "fieldCount": 16
+    "gap": 0.15231082334126822,
+    "fieldCount": 10
   },
   "automatic": {
     "crossref": {
       "categories": {
         "findable_essential": 0.998815340909091,
-        "findable_support": 0.833217803030303,
-        "accessible_essential": 0.9791000000000001,
-        "accessible_support": 0.9945227272727273,
+        "findable_support": 0.9982386363636364,
+        "accessible_essential": 0.9950113636363636,
+        "accessible_support": 0,
         "evaluation_coara": 0.9888465909090909
       },
-      "overall": 0.9666238636363638
+      "overall": 0.8959025568181819
     },
     "openalex": {
       "categories": {
         "findable_essential": 0.9990274265707061,
-        "findable_support": 0.9989740303824312,
-        "accessible_essential": 0.9767932537730127,
-        "accessible_support": 0.9989130061672598,
+        "findable_support": 0.9984610455736467,
+        "accessible_essential": 0.9972367472567708,
+        "accessible_support": 0,
         "evaluation_coara": 0.9981578315045139
       },
-      "overall": 0.9932755128894584
+      "overall": 0.8984181379223544
     },
-    "gap": 0.0266516492530946,
-    "fieldCount": 22
+    "gap": 0.002515581104172493,
+    "fieldCount": 16
   },
   "yearlyScores": [
     {
@@ -208,10 +208,10 @@
       "matched": 7952,
       "universeSize": 18588,
       "crossref": {
-        "overall": 0.6486187689393939,
+        "overall": 0.6485920643939393,
         "categories": {
-          "findable_essential": 0.8456354166666666,
-          "findable_support": 0.5219431818181818,
+          "findable_essential": 0.8455520833333333,
+          "findable_support": 0.5219318181818182,
           "accessible_essential": 0.9665416666666666,
           "accessible_support": 0.3298125,
           "evaluation_coara": 0.2101
@@ -226,13 +226,13 @@
           "publisher": 1,
           "resource_type": 1,
           "subject_keywords": 0,
-          "funder_name": 0.24625,
+          "funder_name": 0.24525,
           "container_title": 1,
           "language": 0.98175,
           "author_orcid": 0.344,
           "all_authors_orcid": 0.018625,
           "funder_doi": 0.153625,
-          "award_number": 0.222,
+          "award_number": 0.221875,
           "issn": 1,
           "volume": 0.9985,
           "issue": 0.9985,
@@ -330,29 +330,29 @@
       "comparable": {
         "crossref": {
           "categories": {
-            "findable_essential": 0.8456354166666666,
-            "findable_support": 0.5741124999999999,
-            "accessible_essential": 0.9694062499999999,
-            "accessible_support": 0.33241666666666664,
-            "evaluation_coara": 0.41945
+            "findable_essential": 0.9224204545454545,
+            "findable_support": 0.653982142857143,
+            "accessible_essential": 0.973375,
+            "accessible_support": 0,
+            "evaluation_coara": 0.6989166666666667
           },
-          "overall": 0.6992907291666666
+          "overall": 0.7579505411255412
         },
         "openalex": {
           "categories": {
-            "findable_essential": 0.9623574782025486,
-            "findable_support": 0.8208375251509054,
-            "accessible_essential": 0.980193661971831,
-            "accessible_support": 0.9924128101945003,
-            "evaluation_coara": 0.8640342052313883
+            "findable_essential": 0.9589354307664166,
+            "findable_support": 0.804254096004599,
+            "accessible_essential": 0.9869215291750503,
+            "accessible_support": 0.983274647887324,
+            "evaluation_coara": 0.7834087860496312
           },
-          "overall": 0.9289294097920858
+          "overall": 0.9100583479230361
         },
-        "gap": 0.22963868062541926
+        "gap": 0.15210780679749492
       },
       "voluntary": {
-        "crossref": 0.438484375,
-        "openalex": 0.8490908995640509
+        "crossref": 0.51400625,
+        "openalex": 0.7532853370221329
       }
     },
     {
@@ -361,10 +361,10 @@
       "matched": 7950,
       "universeSize": 25299,
       "crossref": {
-        "overall": 0.6529701830808081,
+        "overall": 0.6529559785353536,
         "categories": {
-          "findable_essential": 0.84990625,
-          "findable_support": 0.5589090909090909,
+          "findable_essential": 0.8498645833333334,
+          "findable_support": 0.5588977272727272,
           "accessible_essential": 0.9556111111111112,
           "accessible_support": 0.3249166666666667,
           "evaluation_coara": 0.21383749999999999
@@ -379,13 +379,13 @@
           "publisher": 1,
           "resource_type": 1,
           "subject_keywords": 0,
-          "funder_name": 0.346625,
+          "funder_name": 0.346125,
           "container_title": 1,
           "language": 0.991375,
           "author_orcid": 0.536,
           "all_authors_orcid": 0.046625,
           "funder_doi": 0.22325,
-          "award_number": 0.322375,
+          "award_number": 0.32225,
           "issn": 1,
           "volume": 0.998625,
           "issue": 0.998625,
@@ -483,29 +483,29 @@
       "comparable": {
         "crossref": {
           "categories": {
-            "findable_essential": 0.84990625,
-            "findable_support": 0.6147875,
-            "accessible_essential": 0.958515625,
-            "accessible_support": 0.328625,
-            "evaluation_coara": 0.42745
+            "findable_essential": 0.9271250000000001,
+            "findable_support": 0.6991071428571429,
+            "accessible_essential": 0.9619687499999999,
+            "accessible_support": 0,
+            "evaluation_coara": 0.7089166666666666
           },
-          "overall": 0.7051714062500001
+          "overall": 0.7652790922619048
         },
         "openalex": {
           "categories": {
-            "findable_essential": 0.9571383647798744,
-            "findable_support": 0.826301886792453,
-            "accessible_essential": 0.9708333333333335,
-            "accessible_support": 0.9856184486373166,
-            "evaluation_coara": 0.8667421383647799
+            "findable_essential": 0.9532418524871354,
+            "findable_support": 0.8164420485175202,
+            "accessible_essential": 0.9772012578616353,
+            "accessible_support": 0.9669182389937107,
+            "evaluation_coara": 0.8006289308176101
           },
-          "overall": 0.9257053983228513
+          "overall": 0.9095567875520705
         },
-        "gap": 0.22053399207285118
+        "gap": 0.14427769529016565
       },
       "voluntary": {
-        "crossref": 0.46049270833333333,
-        "openalex": 0.8431519916142558
+        "crossref": 0.546821875,
+        "openalex": 0.7571981132075472
       }
     },
     {
@@ -514,10 +514,10 @@
       "matched": 7947,
       "universeSize": 38335,
       "crossref": {
-        "overall": 0.6612725252525253,
+        "overall": 0.6612614457070708,
         "categories": {
-          "findable_essential": 0.8549166666666667,
-          "findable_support": 0.5640909090909092,
+          "findable_essential": 0.8548854166666667,
+          "findable_support": 0.5640795454545455,
           "accessible_essential": 0.974388888888889,
           "accessible_support": 0.33104166666666673,
           "evaluation_coara": 0.2174125
@@ -532,13 +532,13 @@
           "publisher": 1,
           "resource_type": 1,
           "subject_keywords": 0,
-          "funder_name": 0.3435,
+          "funder_name": 0.343125,
           "container_title": 1,
           "language": 0.99775,
           "author_orcid": 0.603125,
           "all_authors_orcid": 0.055875,
           "funder_doi": 0.21425,
-          "award_number": 0.315875,
+          "award_number": 0.31575,
           "issn": 1,
           "volume": 0.99925,
           "issue": 0.99925,
@@ -636,29 +636,29 @@
       "comparable": {
         "crossref": {
           "categories": {
-            "findable_essential": 0.8549166666666667,
-            "findable_support": 0.6205,
-            "accessible_essential": 0.97603125,
-            "accessible_support": 0.33645833333333336,
-            "evaluation_coara": 0.43445
+            "findable_essential": 0.9326022727272728,
+            "findable_support": 0.7101785714285714,
+            "accessible_essential": 0.9783125,
+            "accessible_support": 0,
+            "evaluation_coara": 0.7165416666666666
           },
-          "overall": 0.7140936458333335
+          "overall": 0.7741939258658009
         },
         "openalex": {
           "categories": {
-            "findable_essential": 0.9596388574304769,
-            "findable_support": 0.8323392475147855,
-            "accessible_essential": 0.9843494400402668,
-            "accessible_support": 0.9920305356318947,
-            "evaluation_coara": 0.8745438530262992
+            "findable_essential": 0.9559696626514295,
+            "findable_support": 0.8247137284509878,
+            "accessible_essential": 0.9899333081666036,
+            "accessible_support": 0.9823832892915566,
+            "evaluation_coara": 0.8049997902772535
           },
-          "overall": 0.932941728534877
+          "overall": 0.9172195720893342
         },
-        "gap": 0.21884808270154354
+        "gap": 0.1430256462235333
       },
       "voluntary": {
-        "crossref": 0.4733078125,
-        "openalex": 0.8541173818212323
+        "crossref": 0.5587281249999999,
+        "openalex": 0.7697181326286648
       }
     },
     {
@@ -667,9 +667,9 @@
       "matched": 7926,
       "universeSize": 67217,
       "crossref": {
-        "overall": 0.6780889646464646,
+        "overall": 0.6780827146464646,
         "categories": {
-          "findable_essential": 0.8681666666666666,
+          "findable_essential": 0.8681458333333333,
           "findable_support": 0.6006477272727273,
           "accessible_essential": 0.9869305555555555,
           "accessible_support": 0.33779166666666666,
@@ -685,7 +685,7 @@
           "publisher": 1,
           "resource_type": 1,
           "subject_keywords": 0,
-          "funder_name": 0.45725,
+          "funder_name": 0.457,
           "container_title": 1,
           "language": 0.99725,
           "author_orcid": 0.73925,
@@ -789,29 +789,29 @@
       "comparable": {
         "crossref": {
           "categories": {
-            "findable_essential": 0.8681666666666666,
-            "findable_support": 0.6607125,
-            "accessible_essential": 0.98759375,
-            "accessible_support": 0.34575,
-            "evaluation_coara": 0.47015
+            "findable_essential": 0.9470681818181818,
+            "findable_support": 0.7519107142857143,
+            "accessible_essential": 0.99025,
+            "accessible_support": 0,
+            "evaluation_coara": 0.770625
           },
-          "overall": 0.7350603124999999
+          "overall": 0.7985945616883117
         },
         "openalex": {
           "categories": {
-            "findable_essential": 0.9636744049121035,
-            "findable_support": 0.8460005046681808,
-            "accessible_essential": 0.9899539490285139,
-            "accessible_support": 0.9936075363781646,
-            "evaluation_coara": 0.891218773656321
+            "findable_essential": 0.9603720780859312,
+            "findable_support": 0.8387404924119535,
+            "accessible_essential": 0.9944171082513248,
+            "accessible_support": 0.9870047943477164,
+            "evaluation_coara": 0.8266044242577172
           },
-          "overall": 0.9410953928000673
+          "overall": 0.9265483386367186
         },
-        "gap": 0.20603508030006734
+        "gap": 0.12795377694840693
       },
       "voluntary": {
-        "crossref": 0.5150578125,
-        "openalex": 0.8706241063167633
+        "crossref": 0.6190218749999999,
+        "openalex": 0.7941048448145345
       }
     },
     {
@@ -942,29 +942,29 @@
       "comparable": {
         "crossref": {
           "categories": {
-            "findable_essential": 0.8789791666666665,
-            "findable_support": 0.6882750000000002,
-            "accessible_essential": 0.992,
-            "accessible_support": 0.33841666666666664,
-            "evaluation_coara": 0.486975
+            "findable_essential": 0.9588863636363635,
+            "findable_support": 0.7784107142857142,
+            "accessible_essential": 0.99525,
+            "accessible_support": 0,
+            "evaluation_coara": 0.8073333333333333
           },
-          "overall": 0.7461716666666667
+          "overall": 0.8147066829004328
         },
         "openalex": {
           "categories": {
-            "findable_essential": 0.9657078717690499,
-            "findable_support": 0.851963746223565,
-            "accessible_essential": 0.9931552114803625,
-            "accessible_support": 0.9951745552198724,
-            "evaluation_coara": 0.9022910372608258
+            "findable_essential": 0.9625904055662363,
+            "findable_support": 0.8453100273341965,
+            "accessible_essential": 0.9974509063444108,
+            "accessible_support": 0.9898036253776435,
+            "evaluation_coara": 0.8431520644511581
           },
-          "overall": 0.9457713893084927
+          "overall": 0.932547127784099
         },
-        "gap": 0.19959972264182602
+        "gap": 0.11784044488366618
       },
       "voluntary": {
-        "crossref": 0.5403432291666665,
-        "openalex": 0.8796854019805304
+        "crossref": 0.662478125,
+        "openalex": 0.8094694108761329
       }
     },
     {
@@ -1095,29 +1095,29 @@
       "comparable": {
         "crossref": {
           "categories": {
-            "findable_essential": 0.8791875,
-            "findable_support": 0.6972125,
-            "accessible_essential": 0.993671875,
-            "accessible_support": 0.3408333333333333,
-            "evaluation_coara": 0.487625
+            "findable_essential": 0.9591136363636363,
+            "findable_support": 0.7922321428571429,
+            "accessible_essential": 0.9962187499999999,
+            "accessible_support": 0,
+            "evaluation_coara": 0.8060833333333334
           },
-          "overall": 0.7483644270833333
+          "overall": 0.816840266504329
         },
         "openalex": {
           "categories": {
-            "findable_essential": 0.9631513543114706,
-            "findable_support": 0.8494755465689373,
-            "accessible_essential": 0.9942025780361431,
-            "accessible_support": 0.9961245208307005,
-            "evaluation_coara": 0.899810438518893
+            "findable_essential": 0.9598014774306951,
+            "findable_support": 0.8466176815728187,
+            "accessible_essential": 0.9977252622267156,
+            "accessible_support": 0.9927966637179325,
+            "evaluation_coara": 0.8370613757951051
           },
-          "overall": 0.9444919225746662
+          "overall": 0.9310563525526245
         },
-        "gap": 0.1961274954913329
+        "gap": 0.11421608604829558
       },
       "voluntary": {
-        "crossref": 0.5448203125,
-        "openalex": 0.8760041492901975
+        "crossref": 0.66665,
+        "openalex": 0.8035921900669784
       }
     },
     {
@@ -1248,29 +1248,29 @@
       "comparable": {
         "crossref": {
           "categories": {
-            "findable_essential": 0.8778645833333334,
-            "findable_support": 0.695925,
-            "accessible_essential": 0.99475,
-            "accessible_support": 0.34429166666666666,
-            "evaluation_coara": 0.4824
+            "findable_essential": 0.9576704545454546,
+            "findable_support": 0.7953749999999999,
+            "accessible_essential": 0.9972812499999999,
+            "accessible_support": 0,
+            "evaluation_coara": 0.7938749999999999
           },
-          "overall": 0.7473447916666667
+          "overall": 0.8147026988636363
         },
         "openalex": {
           "categories": {
-            "findable_essential": 0.9582015935247249,
-            "findable_support": 0.8391298849121032,
-            "accessible_essential": 0.9943088402681168,
-            "accessible_support": 0.9966274608996248,
-            "evaluation_coara": 0.889465030985203
+            "findable_essential": 0.954401738390609,
+            "findable_support": 0.8397803031671754,
+            "accessible_essential": 0.998166181864171,
+            "accessible_support": 0.9924117870241558,
+            "evaluation_coara": 0.8193583744361536
           },
-          "overall": 0.9394629231482653
+          "overall": 0.9249419660479481
         },
-        "gap": 0.19211813148159862
+        "gap": 0.11023926718431176
       },
       "voluntary": {
-        "crossref": 0.542678125,
-        "openalex": 0.8646357657771596
+        "crossref": 0.65965625,
+        "openalex": 0.7850006323510814
       }
     },
     {
@@ -1401,29 +1401,29 @@
       "comparable": {
         "crossref": {
           "categories": {
-            "findable_essential": 0.8879895833333333,
-            "findable_support": 0.6913375,
-            "accessible_essential": 0.9915000000000002,
-            "accessible_support": 0.338875,
-            "evaluation_coara": 0.4617
+            "findable_essential": 0.9687159090909091,
+            "findable_support": 0.801732142857143,
+            "accessible_essential": 0.9985,
+            "accessible_support": 0,
+            "evaluation_coara": 0.7647916666666666
           },
-          "overall": 0.7442
+          "overall": 0.8134579274891774
         },
         "openalex": {
           "categories": {
-            "findable_essential": 0.9529712339137019,
-            "findable_support": 0.8238581882412314,
-            "accessible_essential": 0.9937231895029017,
-            "accessible_support": 0.9969719909159728,
-            "evaluation_coara": 0.877491799142064
+            "findable_essential": 0.9486958915422202,
+            "findable_support": 0.8264121697126997,
+            "accessible_essential": 0.9986121625031541,
+            "accessible_support": 0.9923038102447641,
+            "evaluation_coara": 0.7993523425014719
           },
-          "overall": 0.9330964547060306
+          "overall": 0.9173244830701304
         },
-        "gap": 0.18889645470603067
+        "gap": 0.10386655558095292
       },
       "voluntary": {
-        "crossref": 0.5422666666666667,
-        "openalex": 0.8504715493313146
+        "crossref": 0.656034375,
+        "openalex": 0.7621845823870805
       }
     },
     {
@@ -1432,10 +1432,10 @@
       "matched": 7960,
       "universeSize": 286163,
       "crossref": {
-        "overall": 0.6875881818181818,
+        "overall": 0.6875833522727273,
         "categories": {
-          "findable_essential": 0.8913125000000001,
-          "findable_support": 0.6257045454545455,
+          "findable_essential": 0.8913020833333335,
+          "findable_support": 0.6256931818181818,
           "accessible_essential": 0.9908749999999998,
           "accessible_support": 0.333875,
           "evaluation_coara": 0.2261625
@@ -1450,13 +1450,13 @@
           "publisher": 1,
           "resource_type": 1,
           "subject_keywords": 0,
-          "funder_name": 0.703,
+          "funder_name": 0.702875,
           "container_title": 1,
           "language": 0.99825,
           "author_orcid": 0.863625,
           "all_authors_orcid": 0.132875,
           "funder_doi": 0.2655,
-          "award_number": 0.62525,
+          "award_number": 0.625125,
           "issn": 1,
           "volume": 0.99875,
           "issue": 0.99875,
@@ -1554,29 +1554,29 @@
       "comparable": {
         "crossref": {
           "categories": {
-            "findable_essential": 0.8913125000000001,
-            "findable_support": 0.688275,
-            "accessible_essential": 0.9901249999999999,
-            "accessible_support": 0.3350416666666667,
-            "evaluation_coara": 0.452325
+            "findable_essential": 0.9723295454545456,
+            "findable_support": 0.8024285714285714,
+            "accessible_essential": 0.9978125,
+            "accessible_support": 0,
+            "evaluation_coara": 0.7526666666666667
           },
-          "overall": 0.7421354166666667
+          "overall": 0.8120496076839827
         },
         "openalex": {
           "categories": {
-            "findable_essential": 0.9598513400335009,
-            "findable_support": 0.8329522613065328,
-            "accessible_essential": 0.992179648241206,
-            "accessible_support": 0.9980318257956449,
-            "evaluation_coara": 0.8779396984924623
+            "findable_essential": 0.9562014618547283,
+            "findable_support": 0.8278356066044509,
+            "accessible_essential": 0.998461055276382,
+            "accessible_support": 0.9940954773869347,
+            "evaluation_coara": 0.8102177554438862
           },
-          "overall": 0.9363342755443886
+          "overall": 0.9221041421936523
         },
-        "gap": 0.19419885887772192
+        "gap": 0.11005453450966962
       },
       "voluntary": {
-        "crossref": 0.5404041666666667,
-        "openalex": 0.8604794807370184
+        "crossref": 0.65309375,
+        "openalex": 0.7777638190954774
       }
     },
     {
@@ -1707,29 +1707,29 @@
       "comparable": {
         "crossref": {
           "categories": {
-            "findable_essential": 0.8910729166666665,
-            "findable_support": 0.6870375,
-            "accessible_essential": 0.9805468749999999,
-            "accessible_support": 0.335875,
-            "evaluation_coara": 0.44567499999999993
+            "findable_essential": 0.9720795454545453,
+            "findable_support": 0.8059821428571429,
+            "accessible_essential": 0.99653125,
+            "accessible_support": 0,
+            "evaluation_coara": 0.7410416666666667
           },
-          "overall": 0.7382367187499999
+          "overall": 0.8098623308982684
         },
         "openalex": {
           "categories": {
-            "findable_essential": 0.9541849300772282,
-            "findable_support": 0.8175328741390107,
-            "accessible_essential": 0.9767689417658109,
-            "accessible_support": 0.9970361093717387,
-            "evaluation_coara": 0.8548027551659361
+            "findable_essential": 0.9500199237206125,
+            "findable_support": 0.8143483316933536,
+            "accessible_essential": 0.9987789605510331,
+            "accessible_support": 0.9912335629304947,
+            "evaluation_coara": 0.7923606762680024
           },
-          "overall": 0.9237418075558338
+          "overall": 0.914448458554595
         },
-        "gap": 0.18550508880583394
+        "gap": 0.10458612765632658
       },
       "voluntary": {
-        "crossref": 0.5365114583333332,
-        "openalex": 0.8420783761218952
+        "crossref": 0.64583125,
+        "openalex": 0.7556574827802129
       }
     },
     {
@@ -1738,9 +1738,9 @@
       "matched": 7987,
       "universeSize": 266310,
       "crossref": {
-        "overall": 0.6779094823232322,
+        "overall": 0.6779063573232322,
         "categories": {
-          "findable_essential": 0.8886666666666666,
+          "findable_essential": 0.8886562499999999,
           "findable_support": 0.6295113636363637,
           "accessible_essential": 0.9552777777777778,
           "accessible_support": 0.33395833333333336,
@@ -1756,7 +1756,7 @@
           "publisher": 1,
           "resource_type": 1,
           "subject_keywords": 0,
-          "funder_name": 0.664375,
+          "funder_name": 0.66425,
           "container_title": 1,
           "language": 0.999625,
           "author_orcid": 0.9005,
@@ -1860,29 +1860,29 @@
       "comparable": {
         "crossref": {
           "categories": {
-            "findable_essential": 0.8886666666666666,
-            "findable_support": 0.6924625000000001,
-            "accessible_essential": 0.949734375,
-            "accessible_support": 0.3345833333333333,
-            "evaluation_coara": 0.44667500000000004
+            "findable_essential": 0.9694431818181818,
+            "findable_support": 0.811875,
+            "accessible_essential": 0.99953125,
+            "accessible_support": 0,
+            "evaluation_coara": 0.7435833333333334
           },
-          "overall": 0.7306963020833334
+          "overall": 0.8112136837121212
         },
         "openalex": {
           "categories": {
-            "findable_essential": 0.9508367764283626,
-            "findable_support": 0.8094152998622762,
-            "accessible_essential": 0.9243301615124577,
-            "accessible_support": 0.8990442802888027,
-            "evaluation_coara": 0.8396394140478278
+            "findable_essential": 0.9463673924673048,
+            "findable_support": 0.8083850542846411,
+            "accessible_essential": 0.9926129961186929,
+            "accessible_support": 0.9943658444973081,
+            "evaluation_coara": 0.7766787696673761
           },
-          "overall": 0.8955781791244106
+          "overall": 0.9080935632957668
         },
-        "gap": 0.16488187704107726
+        "gap": 0.09687987958364563
       },
       "voluntary": {
-        "crossref": 0.5377677083333333,
-        "openalex": 0.8121640373940988
+        "crossref": 0.6472375,
+        "openalex": 0.737507825215976
       }
     }
   ],
@@ -1958,28 +1958,6 @@
     "publication_date": [],
     "publisher": [],
     "resource_type": [],
-    "subject_keywords": [
-      {
-        "doi": "10.5603/piap.2015.0013",
-        "title": "Lekarze Polskiego Pochodzenia na Ukrainie (XVIII–XX w.)"
-      },
-      {
-        "doi": "10.3797/scipharm.1406-19",
-        "title": "Enhancing Skin Permeation of Biphenylacetic Acid (BPA) Using Salt Formation with Organic and Alkali Metal Bases"
-      },
-      {
-        "doi": "10.3797/scipharm.1411-05",
-        "title": "Dosage Form Data Used for Estimating Pediatric Antibiotic Use"
-      },
-      {
-        "doi": "10.4081/thal.2015.4597",
-        "title": "Hemoglobin SE Disease in Hatay, in the Southern Part of Turkey"
-      },
-      {
-        "doi": "10.3390/molecules20010645",
-        "title": "Molecules after 20 Years—Looking Back and Looking Forward"
-      }
-    ],
     "funder_name": [
       {
         "doi": "10.3797/scipharm.1406-19",
@@ -2063,28 +2041,6 @@
       {
         "doi": "10.3390/toxins7020553",
         "title": "Sulfasalazine Attenuates Staphylococcal Enterotoxin B-Induced Immune Responses"
-      },
-      {
-        "doi": "10.3390/s150305649",
-        "title": "An Efficient Mosaic Algorithm Considering Seasonal Variation: Application to KOMPSAT-2 Satellite Images"
-      }
-    ],
-    "funder_doi": [
-      {
-        "doi": "10.3797/scipharm.1406-19",
-        "title": "Enhancing Skin Permeation of Biphenylacetic Acid (BPA) Using Salt Formation with Organic and Alkali Metal Bases"
-      },
-      {
-        "doi": "10.3390/toxins7020553",
-        "title": "Sulfasalazine Attenuates Staphylococcal Enterotoxin B-Induced Immune Responses"
-      },
-      {
-        "doi": "10.3390/ph8010107",
-        "title": "A Retrospective Study of the Impact of 21-Gene Recurrence Score Assay on Treatment Choice in Node Positive Micrometastatic Breast Cancer"
-      },
-      {
-        "doi": "10.3390/s150203023",
-        "title": "Spatial and Temporal Characteristics of Insulator Contaminations Revealed by Daily Observations of  Equivalent Salt Deposit Density"
       },
       {
         "doi": "10.3390/s150305649",
@@ -2180,50 +2136,6 @@
         "title": "Regulation of Ion Channel and Transporter Function Through RNA Editing"
       }
     ],
-    "published_print_date": [
-      {
-        "doi": "10.5603/piap.2015.0013",
-        "title": "Lekarze Polskiego Pochodzenia na Ukrainie (XVIII–XX w.)"
-      },
-      {
-        "doi": "10.4081/thal.2015.4597",
-        "title": "Hemoglobin SE Disease in Hatay, in the Southern Part of Turkey"
-      },
-      {
-        "doi": "10.3390/molecules20010645",
-        "title": "Molecules after 20 Years—Looking Back and Looking Forward"
-      },
-      {
-        "doi": "10.3390/toxics3010018",
-        "title": "Acknowledgement to Reviewers of Toxics in 2014"
-      },
-      {
-        "doi": "10.3390/robotics4010023",
-        "title": "Acknowledgement to Reviewers of Robotics in 2014"
-      }
-    ],
-    "published_online_date": [
-      {
-        "doi": "10.3797/scipharm.1406-19",
-        "title": "Enhancing Skin Permeation of Biphenylacetic Acid (BPA) Using Salt Formation with Organic and Alkali Metal Bases"
-      },
-      {
-        "doi": "10.3797/scipharm.1411-05",
-        "title": "Dosage Form Data Used for Estimating Pediatric Antibiotic Use"
-      },
-      {
-        "doi": "10.21775/cimb.017.037",
-        "title": "ADARs and the Balance Game between Virus Infection and Innate Immune Cell Response"
-      },
-      {
-        "doi": "10.1016/j.medici.2015.11.004",
-        "title": "Nutritional habits among high-performance endurance athletes"
-      },
-      {
-        "doi": "10.1016/j.medici.2015.06.005",
-        "title": "Prevalence and etiology of midfacial fractures: A study of 799 cases"
-      }
-    ],
     "license": [
       {
         "doi": "10.3797/scipharm.1406-19",
@@ -2246,51 +2158,7 @@
         "title": "Isolation, Identification, and Characterisation of Degradation Products and the Development and Validation of a Stability-Indicating Method for the Estimation of Impurities in the Tolterodine Tartrate Formulation"
       }
     ],
-    "license_url": [
-      {
-        "doi": "10.3797/scipharm.1406-19",
-        "title": "Enhancing Skin Permeation of Biphenylacetic Acid (BPA) Using Salt Formation with Organic and Alkali Metal Bases"
-      },
-      {
-        "doi": "10.3797/scipharm.1411-05",
-        "title": "Dosage Form Data Used for Estimating Pediatric Antibiotic Use"
-      },
-      {
-        "doi": "10.21775/cimb.017.037",
-        "title": "ADARs and the Balance Game between Virus Infection and Innate Immune Cell Response"
-      },
-      {
-        "doi": "10.3797/scipharm.1503-02",
-        "title": "A Novel, Rapid, and Validated Stability-Indicating UPLC Method for the Estimation of Drotaverine Hydrochloride and Ibuprofen Impurities in Oral Solid Dosage Form"
-      },
-      {
-        "doi": "10.3797/scipharm.1407-18",
-        "title": "Isolation, Identification, and Characterisation of Degradation Products and the Development and Validation of a Stability-Indicating Method for the Estimation of Impurities in the Tolterodine Tartrate Formulation"
-      }
-    ],
     "open_access_license": [
-      {
-        "doi": "10.3797/scipharm.1406-19",
-        "title": "Enhancing Skin Permeation of Biphenylacetic Acid (BPA) Using Salt Formation with Organic and Alkali Metal Bases"
-      },
-      {
-        "doi": "10.3797/scipharm.1411-05",
-        "title": "Dosage Form Data Used for Estimating Pediatric Antibiotic Use"
-      },
-      {
-        "doi": "10.21775/cimb.017.037",
-        "title": "ADARs and the Balance Game between Virus Infection and Innate Immune Cell Response"
-      },
-      {
-        "doi": "10.3797/scipharm.1503-02",
-        "title": "A Novel, Rapid, and Validated Stability-Indicating UPLC Method for the Estimation of Drotaverine Hydrochloride and Ibuprofen Impurities in Oral Solid Dosage Form"
-      },
-      {
-        "doi": "10.3797/scipharm.1407-18",
-        "title": "Isolation, Identification, and Characterisation of Degradation Products and the Development and Validation of a Stability-Indicating Method for the Estimation of Impurities in the Tolterodine Tartrate Formulation"
-      }
-    ],
-    "full_text_links": [
       {
         "doi": "10.3797/scipharm.1406-19",
         "title": "Enhancing Skin Permeation of Biphenylacetic Acid (BPA) Using Salt Formation with Organic and Alkali Metal Bases"
@@ -2335,72 +2203,6 @@
         "title": "Systemic Targeted Therapy for her2-Positive Early Female Breast Cancer: A Systematic Review of the Evidence for the 2014 Cancer Care Ontario Systemic Therapy Guideline"
       }
     ],
-    "references_count": [
-      {
-        "doi": "10.5603/piap.2015.0013",
-        "title": "Lekarze Polskiego Pochodzenia na Ukrainie (XVIII–XX w.)"
-      },
-      {
-        "doi": "10.3797/scipharm.1406-19",
-        "title": "Enhancing Skin Permeation of Biphenylacetic Acid (BPA) Using Salt Formation with Organic and Alkali Metal Bases"
-      },
-      {
-        "doi": "10.3797/scipharm.1411-05",
-        "title": "Dosage Form Data Used for Estimating Pediatric Antibiotic Use"
-      },
-      {
-        "doi": "10.1515/limre-2015-0001",
-        "title": "Roosting Colony of Cormorants (Phalacrocorax Carbo Sinensis L.) as a Source of Nutrients for the Lake"
-      },
-      {
-        "doi": "10.3747/co.22.2322",
-        "title": "Systemic Targeted Therapy for her2-Positive Early Female Breast Cancer: A Systematic Review of the Evidence for the 2014 Cancer Care Ontario Systemic Therapy Guideline"
-      }
-    ],
-    "is_referenced_by": [
-      {
-        "doi": "10.3390/robotics4010023",
-        "title": "Acknowledgement to Reviewers of Robotics in 2014"
-      },
-      {
-        "doi": "10.7547/0003-0538-105.2.198",
-        "title": "The Role of Podiatric Medicine in the Health-Care Team"
-      },
-      {
-        "doi": "10.3390/rs70100684",
-        "title": "Correction: Yu, Q., et al. Narrowband Bio-Indicator Monitoring of Temperate Forest Carbon Fluxes in Northeastern China. Remote Sens. 2014, 6, 8986-9013"
-      },
-      {
-        "doi": "10.3390/cryst5010045",
-        "title": "Acknowledgement to Reviewers of Crystals in 2014"
-      },
-      {
-        "doi": "10.3390/computers4010002",
-        "title": "A Hybrid Autonomic Computing-Based Approach to Distributed Constraint Satisfaction Problems"
-      }
-    ],
-    "author_sequence": [
-      {
-        "doi": "10.21775/cimb.017.037",
-        "title": "ADARs and the Balance Game between Virus Infection and Innate Immune Cell Response"
-      },
-      {
-        "doi": "10.4414/cvm.2015.00283",
-        "title": "Update on cardiovascular risk factors as a critical issue of modern preventive cardiology"
-      },
-      {
-        "doi": "10.4414/cvm.2015.00329",
-        "title": "Announcement of the 4th European Live Summit on Retrograde CTO Revascularization"
-      },
-      {
-        "doi": "10.4414/cvm.2015.00300",
-        "title": "Outcome  after simultaneous PCI and left atrial appendage occlusion"
-      },
-      {
-        "doi": "10.21775/cimb.017.057",
-        "title": "Allele Mining Strategies: Principles and Utilisation for Blast Resistance Genes in Rice (<i>Oryza sativa</i>L.)"
-      }
-    ],
     "affiliation_ids_ror": [
       {
         "doi": "10.5603/piap.2015.0013",
@@ -2421,28 +2223,6 @@
       {
         "doi": "10.3390/molecules20010645",
         "title": "Molecules after 20 Years—Looking Back and Looking Forward"
-      }
-    ],
-    "relations": [
-      {
-        "doi": "10.3797/scipharm.1406-19",
-        "title": "Enhancing Skin Permeation of Biphenylacetic Acid (BPA) Using Salt Formation with Organic and Alkali Metal Bases"
-      },
-      {
-        "doi": "10.3797/scipharm.1411-05",
-        "title": "Dosage Form Data Used for Estimating Pediatric Antibiotic Use"
-      },
-      {
-        "doi": "10.4081/thal.2015.4597",
-        "title": "Hemoglobin SE Disease in Hatay, in the Southern Part of Turkey"
-      },
-      {
-        "doi": "10.3390/molecules20010645",
-        "title": "Molecules after 20 Years—Looking Back and Looking Forward"
-      },
-      {
-        "doi": "10.3390/toxics3010018",
-        "title": "Acknowledgement to Reviewers of Toxics in 2014"
       }
     ],
     "author_given_family": [
@@ -2467,28 +2247,6 @@
         "title": "Update on cardiovascular risk factors as a critical issue of modern preventive cardiology"
       }
     ],
-    "affiliation_ror": [
-      {
-        "doi": "10.5603/piap.2015.0013",
-        "title": "Lekarze Polskiego Pochodzenia na Ukrainie (XVIII–XX w.)"
-      },
-      {
-        "doi": "10.3797/scipharm.1406-19",
-        "title": "Enhancing Skin Permeation of Biphenylacetic Acid (BPA) Using Salt Formation with Organic and Alkali Metal Bases"
-      },
-      {
-        "doi": "10.3797/scipharm.1411-05",
-        "title": "Dosage Form Data Used for Estimating Pediatric Antibiotic Use"
-      },
-      {
-        "doi": "10.4081/thal.2015.4597",
-        "title": "Hemoglobin SE Disease in Hatay, in the Southern Part of Turkey"
-      },
-      {
-        "doi": "10.3390/molecules20010645",
-        "title": "Molecules after 20 Years—Looking Back and Looking Forward"
-      }
-    ],
     "funding_complete": [
       {
         "doi": "10.3390/s150203023",
@@ -2509,28 +2267,6 @@
       {
         "doi": "10.21775/cimb.017.037",
         "title": "ADARs and the Balance Game between Virus Infection and Innate Immune Cell Response"
-      }
-    ],
-    "preprint_version_link": [
-      {
-        "doi": "10.5603/piap.2015.0013",
-        "title": "Lekarze Polskiego Pochodzenia na Ukrainie (XVIII–XX w.)"
-      },
-      {
-        "doi": "10.3797/scipharm.1406-19",
-        "title": "Enhancing Skin Permeation of Biphenylacetic Acid (BPA) Using Salt Formation with Organic and Alkali Metal Bases"
-      },
-      {
-        "doi": "10.3797/scipharm.1411-05",
-        "title": "Dosage Form Data Used for Estimating Pediatric Antibiotic Use"
-      },
-      {
-        "doi": "10.4081/thal.2015.4597",
-        "title": "Hemoglobin SE Disease in Hatay, in the Southern Part of Turkey"
-      },
-      {
-        "doi": "10.3390/molecules20010645",
-        "title": "Molecules after 20 Years—Looking Back and Looking Forward"
       }
     ],
     "open_access_status": [
@@ -2558,50 +2294,23 @@
   },
   "sampleWorks": [
     {
-      "doi": "10.5603/piap.2015.0013",
-      "title": "Lekarze Polskiego Pochodzenia na Ukrainie (XVIII–XX w.)",
-      "year": 2015,
-      "crossrefScore": 0.631578947368421,
-      "openalexScore": 0.7894736842105263,
-      "gap": 8,
-      "openalexAdds": [
-        "author_affiliation",
-        "subject_keywords",
-        "published_print_date",
-        "references",
-        "references_count",
-        "affiliation_ids_ror",
-        "affiliation_ror",
-        "preprint_version_link"
-      ]
-    },
-    {
       "doi": "10.3797/scipharm.1406-19",
       "title": "Enhancing Skin Permeation of Biphenylacetic Acid (BPA) Using Salt Formation with Organic and Alkali Metal Bases",
       "year": 2015,
-      "crossrefScore": 0.42105263157894735,
-      "openalexScore": 0.9473684210526315,
-      "gap": 20,
+      "crossrefScore": 0.5,
+      "openalexScore": 0.9230769230769231,
+      "gap": 11,
       "openalexAdds": [
         "abstract",
         "author_affiliation",
-        "subject_keywords",
         "funder_name",
         "language",
         "author_orcid",
         "all_authors_orcid",
-        "funder_doi",
-        "published_online_date",
         "license",
-        "license_url",
         "open_access_license",
-        "full_text_links",
         "references",
-        "references_count",
         "affiliation_ids_ror",
-        "relations",
-        "affiliation_ror",
-        "preprint_version_link",
         "open_access_status"
       ]
     },
@@ -2609,152 +2318,145 @@
       "doi": "10.3797/scipharm.1411-05",
       "title": "Dosage Form Data Used for Estimating Pediatric Antibiotic Use",
       "year": 2015,
-      "crossrefScore": 0.42105263157894735,
-      "openalexScore": 0.8947368421052632,
-      "gap": 18,
+      "crossrefScore": 0.5,
+      "openalexScore": 0.8846153846153846,
+      "gap": 10,
       "openalexAdds": [
         "abstract",
         "author_affiliation",
-        "subject_keywords",
         "language",
         "author_orcid",
         "all_authors_orcid",
-        "published_online_date",
         "license",
-        "license_url",
         "open_access_license",
-        "full_text_links",
         "references",
-        "references_count",
         "affiliation_ids_ror",
-        "relations",
-        "affiliation_ror",
-        "preprint_version_link",
         "open_access_status"
-      ]
-    },
-    {
-      "doi": "10.4081/thal.2015.4597",
-      "title": "Hemoglobin SE Disease in Hatay, in the Southern Part of Turkey",
-      "year": 2015,
-      "crossrefScore": 0.7105263157894737,
-      "openalexScore": 0.868421052631579,
-      "gap": 7,
-      "openalexAdds": [
-        "subject_keywords",
-        "author_orcid",
-        "published_print_date",
-        "affiliation_ids_ror",
-        "relations",
-        "affiliation_ror",
-        "preprint_version_link"
-      ]
-    },
-    {
-      "doi": "10.3390/molecules20010645",
-      "title": "Molecules after 20 Years—Looking Back and Looking Forward",
-      "year": 2015,
-      "crossrefScore": 0.7368421052631579,
-      "openalexScore": 0.8947368421052632,
-      "gap": 8,
-      "openalexAdds": [
-        "subject_keywords",
-        "author_orcid",
-        "all_authors_orcid",
-        "published_print_date",
-        "affiliation_ids_ror",
-        "relations",
-        "affiliation_ror",
-        "preprint_version_link"
-      ]
-    },
-    {
-      "doi": "10.3390/toxics3010018",
-      "title": "Acknowledgement to Reviewers of Toxics in 2014",
-      "year": 2015,
-      "crossrefScore": 0.631578947368421,
-      "openalexScore": 0.7631578947368421,
-      "gap": 7,
-      "openalexAdds": [
-        "subject_keywords",
-        "published_print_date",
-        "affiliation_ids_ror",
-        "relations",
-        "author_given_family",
-        "affiliation_ror",
-        "preprint_version_link"
-      ]
-    },
-    {
-      "doi": "10.3390/robotics4010023",
-      "title": "Acknowledgement to Reviewers of Robotics in 2014",
-      "year": 2015,
-      "crossrefScore": 0.631578947368421,
-      "openalexScore": 0.7894736842105263,
-      "gap": 8,
-      "openalexAdds": [
-        "subject_keywords",
-        "published_print_date",
-        "is_referenced_by",
-        "affiliation_ids_ror",
-        "relations",
-        "author_given_family",
-        "affiliation_ror",
-        "preprint_version_link"
-      ]
-    },
-    {
-      "doi": "10.3390/rs70201279",
-      "title": "Modeling and Mapping Soil Moisture of Plateau Pasture Using RADARSAT-2 Imagery",
-      "year": 2015,
-      "crossrefScore": 0.7368421052631579,
-      "openalexScore": 0.868421052631579,
-      "gap": 7,
-      "openalexAdds": [
-        "subject_keywords",
-        "author_orcid",
-        "published_print_date",
-        "affiliation_ids_ror",
-        "relations",
-        "affiliation_ror",
-        "preprint_version_link"
-      ]
-    },
-    {
-      "doi": "10.3390/molecules20011452",
-      "title": "Glutathionylspermidine in the Modification of Protein SH Groups: The Enzymology and Its Application to Study  Protein Glutathionylation",
-      "year": 2015,
-      "crossrefScore": 0.8421052631578947,
-      "openalexScore": 0.9736842105263158,
-      "gap": 7,
-      "openalexAdds": [
-        "subject_keywords",
-        "author_orcid",
-        "published_print_date",
-        "affiliation_ids_ror",
-        "relations",
-        "affiliation_ror",
-        "preprint_version_link"
       ]
     },
     {
       "doi": "10.3390/toxins7020553",
       "title": "Sulfasalazine Attenuates Staphylococcal Enterotoxin B-Induced Immune Responses",
       "year": 2015,
-      "crossrefScore": 0.7368421052631579,
-      "openalexScore": 0.9473684210526315,
-      "gap": 10,
+      "crossrefScore": 0.7692307692307693,
+      "openalexScore": 0.9230769230769231,
+      "gap": 4,
       "openalexAdds": [
-        "subject_keywords",
         "funder_name",
         "author_orcid",
         "all_authors_orcid",
-        "funder_doi",
-        "published_print_date",
+        "affiliation_ids_ror"
+      ]
+    },
+    {
+      "doi": "10.3390/s150305649",
+      "title": "An Efficient Mosaic Algorithm Considering Seasonal Variation: Application to KOMPSAT-2 Satellite Images",
+      "year": 2015,
+      "crossrefScore": 0.8076923076923077,
+      "openalexScore": 1,
+      "gap": 5,
+      "openalexAdds": [
+        "funder_name",
+        "all_authors_orcid",
+        "award_number",
         "affiliation_ids_ror",
-        "relations",
-        "affiliation_ror",
-        "preprint_version_link"
+        "funding_complete"
+      ]
+    },
+    {
+      "doi": "10.3390/chemosensors3020036",
+      "title": "Synthesis and Properties of 2'-Deoxyuridine Analogues Bearing Various Azobenzene Derivatives at the C5 Position",
+      "year": 2015,
+      "crossrefScore": 0.7692307692307693,
+      "openalexScore": 0.9230769230769231,
+      "gap": 4,
+      "openalexAdds": [
+        "funder_name",
+        "author_orcid",
+        "all_authors_orcid",
+        "affiliation_ids_ror"
+      ]
+    },
+    {
+      "doi": "10.3390/molecules20045423",
+      "title": "Dereplication of Known Nucleobase and Nucleoside Compounds in Natural Product Extracts by Capillary Electrophoresis-High Resolution Mass Spectrometry",
+      "year": 2015,
+      "crossrefScore": 0.7692307692307693,
+      "openalexScore": 0.9230769230769231,
+      "gap": 4,
+      "openalexAdds": [
+        "funder_name",
+        "author_orcid",
+        "all_authors_orcid",
+        "affiliation_ids_ror"
+      ]
+    },
+    {
+      "doi": "10.1515/limre-2015-0001",
+      "title": "Roosting Colony of Cormorants (Phalacrocorax Carbo Sinensis L.) as a Source of Nutrients for the Lake",
+      "year": 2015,
+      "crossrefScore": 0.7307692307692307,
+      "openalexScore": 0.8846153846153846,
+      "gap": 4,
+      "openalexAdds": [
+        "author_orcid",
+        "all_authors_orcid",
+        "references",
+        "affiliation_ids_ror"
+      ]
+    },
+    {
+      "doi": "10.3390/molecules20022707",
+      "title": "Diversity of Heparan Sulfate and HSV Entry:  Basic Understanding and Treatment Strategies",
+      "year": 2015,
+      "crossrefScore": 0.7692307692307693,
+      "openalexScore": 0.9615384615384616,
+      "gap": 5,
+      "openalexAdds": [
+        "funder_name",
+        "author_orcid",
+        "award_number",
+        "affiliation_ids_ror",
+        "funding_complete"
+      ]
+    },
+    {
+      "doi": "10.3747/co.22.2322",
+      "title": "Systemic Targeted Therapy for her2-Positive Early Female Breast Cancer: A Systematic Review of the Evidence for the 2014 Cancer Care Ontario Systemic Therapy Guideline",
+      "year": 2015,
+      "crossrefScore": 0.6923076923076923,
+      "openalexScore": 0.8461538461538461,
+      "gap": 4,
+      "openalexAdds": [
+        "author_affiliation",
+        "author_orcid",
+        "references",
+        "affiliation_ids_ror"
+      ]
+    },
+    {
+      "doi": "10.21775/cimb.017.037",
+      "title": "ADARs and the Balance Game between Virus Infection and Innate Immune Cell Response",
+      "year": 2015,
+      "crossrefScore": 0.34615384615384615,
+      "openalexScore": 0.9230769230769231,
+      "gap": 15,
+      "openalexAdds": [
+        "abstract",
+        "author",
+        "author_affiliation",
+        "funder_name",
+        "author_orcid",
+        "award_number",
+        "volume",
+        "page",
+        "license",
+        "open_access_license",
+        "references",
+        "affiliation_ids_ror",
+        "author_given_family",
+        "funding_complete",
+        "open_access_status"
       ]
     }
   ],
@@ -2903,44 +2605,13 @@
       "samples": []
     },
     {
-      "id": "subject_keywords",
-      "label": "Subject / Keywords",
-      "category": "findable_essential",
-      "effort": "voluntary",
-      "crossref": 0,
-      "openalex": 1,
-      "gap": 1,
-      "samples": [
-        {
-          "doi": "10.5603/piap.2015.0013",
-          "title": "Lekarze Polskiego Pochodzenia na Ukrainie (XVIII–XX w.)"
-        },
-        {
-          "doi": "10.3797/scipharm.1406-19",
-          "title": "Enhancing Skin Permeation of Biphenylacetic Acid (BPA) Using Salt Formation with Organic and Alkali Metal Bases"
-        },
-        {
-          "doi": "10.3797/scipharm.1411-05",
-          "title": "Dosage Form Data Used for Estimating Pediatric Antibiotic Use"
-        },
-        {
-          "doi": "10.4081/thal.2015.4597",
-          "title": "Hemoglobin SE Disease in Hatay, in the Southern Part of Turkey"
-        },
-        {
-          "doi": "10.3390/molecules20010645",
-          "title": "Molecules after 20 Years—Looking Back and Looking Forward"
-        }
-      ]
-    },
-    {
       "id": "funder_name",
       "label": "Funder Name",
       "category": "findable_essential",
       "effort": "voluntary",
-      "crossref": 0.5274090909090909,
+      "crossref": 0.5271931818181819,
       "openalex": 0.5315857523713629,
-      "gap": 0.004176661462271913,
+      "gap": 0.0043925705531809855,
       "samples": [
         {
           "doi": "10.3797/scipharm.1406-19",
@@ -3068,44 +2739,13 @@
       ]
     },
     {
-      "id": "funder_doi",
-      "label": "Funder DOI",
-      "category": "findable_support",
-      "effort": "voluntary",
-      "crossref": 0.29213636363636364,
-      "openalex": 0.5315857523713629,
-      "gap": 0.2394493887349992,
-      "samples": [
-        {
-          "doi": "10.3797/scipharm.1406-19",
-          "title": "Enhancing Skin Permeation of Biphenylacetic Acid (BPA) Using Salt Formation with Organic and Alkali Metal Bases"
-        },
-        {
-          "doi": "10.3390/toxins7020553",
-          "title": "Sulfasalazine Attenuates Staphylococcal Enterotoxin B-Induced Immune Responses"
-        },
-        {
-          "doi": "10.3390/ph8010107",
-          "title": "A Retrospective Study of the Impact of 21-Gene Recurrence Score Assay on Treatment Choice in Node Positive Micrometastatic Breast Cancer"
-        },
-        {
-          "doi": "10.3390/s150203023",
-          "title": "Spatial and Temporal Characteristics of Insulator Contaminations Revealed by Daily Observations of  Equivalent Salt Deposit Density"
-        },
-        {
-          "doi": "10.3390/s150305649",
-          "title": "An Efficient Mosaic Algorithm Considering Seasonal Variation: Application to KOMPSAT-2 Satellite Images"
-        }
-      ]
-    },
-    {
       "id": "award_number",
       "label": "Award Number",
       "category": "findable_support",
       "effort": "voluntary",
-      "crossref": 0.49210227272727275,
+      "crossref": 0.4920568181818182,
       "openalex": 0.4291451651658524,
-      "gap": -0.06295710756142037,
+      "gap": -0.0629116530159658,
       "samples": [
         {
           "doi": "10.3390/s150305649",
@@ -3233,101 +2873,8 @@
       ]
     },
     {
-      "id": "published_print_date",
-      "label": "Published Print Date",
-      "category": "findable_support",
-      "effort": "automatic",
-      "crossref": 0.009886363636363636,
-      "openalex": 1,
-      "gap": 0.9901136363636364,
-      "samples": [
-        {
-          "doi": "10.5603/piap.2015.0013",
-          "title": "Lekarze Polskiego Pochodzenia na Ukrainie (XVIII–XX w.)"
-        },
-        {
-          "doi": "10.4081/thal.2015.4597",
-          "title": "Hemoglobin SE Disease in Hatay, in the Southern Part of Turkey"
-        },
-        {
-          "doi": "10.3390/molecules20010645",
-          "title": "Molecules after 20 Years—Looking Back and Looking Forward"
-        },
-        {
-          "doi": "10.3390/toxics3010018",
-          "title": "Acknowledgement to Reviewers of Toxics in 2014"
-        },
-        {
-          "doi": "10.3390/robotics4010023",
-          "title": "Acknowledgement to Reviewers of Robotics in 2014"
-        }
-      ]
-    },
-    {
-      "id": "published_online_date",
-      "label": "Published Online Date",
-      "category": "findable_support",
-      "effort": "automatic",
-      "crossref": 0.996465909090909,
-      "openalex": 1,
-      "gap": 0.003534090909090959,
-      "samples": [
-        {
-          "doi": "10.3797/scipharm.1406-19",
-          "title": "Enhancing Skin Permeation of Biphenylacetic Acid (BPA) Using Salt Formation with Organic and Alkali Metal Bases"
-        },
-        {
-          "doi": "10.3797/scipharm.1411-05",
-          "title": "Dosage Form Data Used for Estimating Pediatric Antibiotic Use"
-        },
-        {
-          "doi": "10.21775/cimb.017.037",
-          "title": "ADARs and the Balance Game between Virus Infection and Innate Immune Cell Response"
-        },
-        {
-          "doi": "10.1016/j.medici.2015.11.004",
-          "title": "Nutritional habits among high-performance endurance athletes"
-        },
-        {
-          "doi": "10.1016/j.medici.2015.06.005",
-          "title": "Prevalence and etiology of midfacial fractures: A study of 799 cases"
-        }
-      ]
-    },
-    {
       "id": "license",
       "label": "License",
-      "category": "accessible_essential",
-      "effort": "automatic",
-      "crossref": 0.9900227272727272,
-      "openalex": 0.9944734945135416,
-      "gap": 0.004450767240814391,
-      "samples": [
-        {
-          "doi": "10.3797/scipharm.1406-19",
-          "title": "Enhancing Skin Permeation of Biphenylacetic Acid (BPA) Using Salt Formation with Organic and Alkali Metal Bases"
-        },
-        {
-          "doi": "10.3797/scipharm.1411-05",
-          "title": "Dosage Form Data Used for Estimating Pediatric Antibiotic Use"
-        },
-        {
-          "doi": "10.21775/cimb.017.037",
-          "title": "ADARs and the Balance Game between Virus Infection and Innate Immune Cell Response"
-        },
-        {
-          "doi": "10.3797/scipharm.1503-02",
-          "title": "A Novel, Rapid, and Validated Stability-Indicating UPLC Method for the Estimation of Drotaverine Hydrochloride and Ibuprofen Impurities in Oral Solid Dosage Form"
-        },
-        {
-          "doi": "10.3797/scipharm.1407-18",
-          "title": "Isolation, Identification, and Characterisation of Degradation Products and the Development and Validation of a Stability-Indicating Method for the Estimation of Impurities in the Tolterodine Tartrate Formulation"
-        }
-      ]
-    },
-    {
-      "id": "license_url",
-      "label": "License URL",
       "category": "accessible_essential",
       "effort": "automatic",
       "crossref": 0.9900227272727272,
@@ -3364,37 +2911,6 @@
       "crossref": 0.9890227272727272,
       "openalex": 0.9944506104328524,
       "gap": 0.005427883160125213,
-      "samples": [
-        {
-          "doi": "10.3797/scipharm.1406-19",
-          "title": "Enhancing Skin Permeation of Biphenylacetic Acid (BPA) Using Salt Formation with Organic and Alkali Metal Bases"
-        },
-        {
-          "doi": "10.3797/scipharm.1411-05",
-          "title": "Dosage Form Data Used for Estimating Pediatric Antibiotic Use"
-        },
-        {
-          "doi": "10.21775/cimb.017.037",
-          "title": "ADARs and the Balance Game between Virus Infection and Innate Immune Cell Response"
-        },
-        {
-          "doi": "10.3797/scipharm.1503-02",
-          "title": "A Novel, Rapid, and Validated Stability-Indicating UPLC Method for the Estimation of Drotaverine Hydrochloride and Ibuprofen Impurities in Oral Solid Dosage Form"
-        },
-        {
-          "doi": "10.3797/scipharm.1407-18",
-          "title": "Isolation, Identification, and Characterisation of Degradation Products and the Development and Validation of a Stability-Indicating Method for the Estimation of Impurities in the Tolterodine Tartrate Formulation"
-        }
-      ]
-    },
-    {
-      "id": "full_text_links",
-      "label": "Full-text Links",
-      "category": "accessible_essential",
-      "effort": "automatic",
-      "crossref": 0.9969090909090909,
-      "openalex": 0.9687975559801824,
-      "gap": -0.0281115349289085,
       "samples": [
         {
           "doi": "10.3797/scipharm.1406-19",
@@ -3460,99 +2976,6 @@
       ]
     },
     {
-      "id": "references_count",
-      "label": "References Count",
-      "category": "accessible_essential",
-      "effort": "voluntary",
-      "crossref": 0.9791477272727273,
-      "openalex": 0.9857088916095518,
-      "gap": 0.006561164336824521,
-      "samples": [
-        {
-          "doi": "10.5603/piap.2015.0013",
-          "title": "Lekarze Polskiego Pochodzenia na Ukrainie (XVIII–XX w.)"
-        },
-        {
-          "doi": "10.3797/scipharm.1406-19",
-          "title": "Enhancing Skin Permeation of Biphenylacetic Acid (BPA) Using Salt Formation with Organic and Alkali Metal Bases"
-        },
-        {
-          "doi": "10.3797/scipharm.1411-05",
-          "title": "Dosage Form Data Used for Estimating Pediatric Antibiotic Use"
-        },
-        {
-          "doi": "10.1515/limre-2015-0001",
-          "title": "Roosting Colony of Cormorants (Phalacrocorax Carbo Sinensis L.) as a Source of Nutrients for the Lake"
-        },
-        {
-          "doi": "10.3747/co.22.2322",
-          "title": "Systemic Targeted Therapy for her2-Positive Early Female Breast Cancer: A Systematic Review of the Evidence for the 2014 Cancer Care Ontario Systemic Therapy Guideline"
-        }
-      ]
-    },
-    {
-      "id": "is_referenced_by",
-      "label": "Is Referenced By",
-      "category": "accessible_essential",
-      "effort": "automatic",
-      "crossref": 0.9185454545454546,
-      "openalex": 0.9262217238577983,
-      "gap": 0.007676269312343775,
-      "samples": [
-        {
-          "doi": "10.3390/robotics4010023",
-          "title": "Acknowledgement to Reviewers of Robotics in 2014"
-        },
-        {
-          "doi": "10.7547/0003-0538-105.2.198",
-          "title": "The Role of Podiatric Medicine in the Health-Care Team"
-        },
-        {
-          "doi": "10.3390/rs70100684",
-          "title": "Correction: Yu, Q., et al. Narrowband Bio-Indicator Monitoring of Temperate Forest Carbon Fluxes in Northeastern China. Remote Sens. 2014, 6, 8986-9013"
-        },
-        {
-          "doi": "10.3390/cryst5010045",
-          "title": "Acknowledgement to Reviewers of Crystals in 2014"
-        },
-        {
-          "doi": "10.3390/computers4010002",
-          "title": "A Hybrid Autonomic Computing-Based Approach to Distributed Constraint Satisfaction Problems"
-        }
-      ]
-    },
-    {
-      "id": "author_sequence",
-      "label": "Author Sequence",
-      "category": "accessible_support",
-      "effort": "automatic",
-      "crossref": 0.9945227272727273,
-      "openalex": 0.9989130061672598,
-      "gap": 0.004390278894532473,
-      "samples": [
-        {
-          "doi": "10.21775/cimb.017.037",
-          "title": "ADARs and the Balance Game between Virus Infection and Innate Immune Cell Response"
-        },
-        {
-          "doi": "10.4414/cvm.2015.00283",
-          "title": "Update on cardiovascular risk factors as a critical issue of modern preventive cardiology"
-        },
-        {
-          "doi": "10.4414/cvm.2015.00329",
-          "title": "Announcement of the 4th European Live Summit on Retrograde CTO Revascularization"
-        },
-        {
-          "doi": "10.4414/cvm.2015.00300",
-          "title": "Outcome  after simultaneous PCI and left atrial appendage occlusion"
-        },
-        {
-          "doi": "10.21775/cimb.017.057",
-          "title": "Allele Mining Strategies: Principles and Utilisation for Blast Resistance Genes in Rice (<i>Oryza sativa</i>L.)"
-        }
-      ]
-    },
-    {
       "id": "affiliation_ids_ror",
       "label": "Affiliation IDs (ROR)",
       "category": "accessible_support",
@@ -3580,37 +3003,6 @@
         {
           "doi": "10.3390/molecules20010645",
           "title": "Molecules after 20 Years—Looking Back and Looking Forward"
-        }
-      ]
-    },
-    {
-      "id": "relations",
-      "label": "Relations",
-      "category": "accessible_support",
-      "effort": "voluntary",
-      "crossref": 0.017613636363636363,
-      "openalex": 0.9701706008215385,
-      "gap": 0.9525569644579022,
-      "samples": [
-        {
-          "doi": "10.3797/scipharm.1406-19",
-          "title": "Enhancing Skin Permeation of Biphenylacetic Acid (BPA) Using Salt Formation with Organic and Alkali Metal Bases"
-        },
-        {
-          "doi": "10.3797/scipharm.1411-05",
-          "title": "Dosage Form Data Used for Estimating Pediatric Antibiotic Use"
-        },
-        {
-          "doi": "10.4081/thal.2015.4597",
-          "title": "Hemoglobin SE Disease in Hatay, in the Southern Part of Turkey"
-        },
-        {
-          "doi": "10.3390/molecules20010645",
-          "title": "Molecules after 20 Years—Looking Back and Looking Forward"
-        },
-        {
-          "doi": "10.3390/toxics3010018",
-          "title": "Acknowledgement to Reviewers of Toxics in 2014"
         }
       ]
     },
@@ -3646,37 +3038,6 @@
       ]
     },
     {
-      "id": "affiliation_ror",
-      "label": "Affiliation with ROR",
-      "category": "evaluation_coara",
-      "effort": "voluntary",
-      "crossref": 0,
-      "openalex": 0.9878714372346877,
-      "gap": 0.9878714372346877,
-      "samples": [
-        {
-          "doi": "10.5603/piap.2015.0013",
-          "title": "Lekarze Polskiego Pochodzenia na Ukrainie (XVIII–XX w.)"
-        },
-        {
-          "doi": "10.3797/scipharm.1406-19",
-          "title": "Enhancing Skin Permeation of Biphenylacetic Acid (BPA) Using Salt Formation with Organic and Alkali Metal Bases"
-        },
-        {
-          "doi": "10.3797/scipharm.1411-05",
-          "title": "Dosage Form Data Used for Estimating Pediatric Antibiotic Use"
-        },
-        {
-          "doi": "10.4081/thal.2015.4597",
-          "title": "Hemoglobin SE Disease in Hatay, in the Southern Part of Turkey"
-        },
-        {
-          "doi": "10.3390/molecules20010645",
-          "title": "Molecules after 20 Years—Looking Back and Looking Forward"
-        }
-      ]
-    },
-    {
       "id": "funding_complete",
       "label": "Complete Funding Info",
       "category": "evaluation_coara",
@@ -3704,37 +3065,6 @@
         {
           "doi": "10.21775/cimb.017.037",
           "title": "ADARs and the Balance Game between Virus Infection and Innate Immune Cell Response"
-        }
-      ]
-    },
-    {
-      "id": "preprint_version_link",
-      "label": "Preprint / Version Link",
-      "category": "evaluation_coara",
-      "effort": "voluntary",
-      "crossref": 0.01465909090909091,
-      "openalex": 0.9673329748160692,
-      "gap": 0.9526738839069783,
-      "samples": [
-        {
-          "doi": "10.5603/piap.2015.0013",
-          "title": "Lekarze Polskiego Pochodzenia na Ukrainie (XVIII–XX w.)"
-        },
-        {
-          "doi": "10.3797/scipharm.1406-19",
-          "title": "Enhancing Skin Permeation of Biphenylacetic Acid (BPA) Using Salt Formation with Organic and Alkali Metal Bases"
-        },
-        {
-          "doi": "10.3797/scipharm.1411-05",
-          "title": "Dosage Form Data Used for Estimating Pediatric Antibiotic Use"
-        },
-        {
-          "doi": "10.4081/thal.2015.4597",
-          "title": "Hemoglobin SE Disease in Hatay, in the Southern Part of Turkey"
-        },
-        {
-          "doi": "10.3390/molecules20010645",
-          "title": "Molecules after 20 Years—Looking Back and Looking Forward"
         }
       ]
     },

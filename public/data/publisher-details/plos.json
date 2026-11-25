@@ -8,10 +8,10 @@
   "totalWorksMatched": 87961,
   "totalWorksUniverse": 88000,
   "crossref": {
-    "overall": 0.6411269266528926,
+    "overall": 0.6411212190082645,
     "categories": {
-      "findable_essential": 0.750902462121212,
-      "findable_support": 0.6134359504132232,
+      "findable_essential": 0.7508844696969698,
+      "findable_support": 0.6134338842975207,
       "accessible_essential": 0.9843977272727273,
       "accessible_support": 0.26327272727272727,
       "evaluation_coara": 0.2570704545454545
@@ -26,13 +26,13 @@
       "publisher": 1,
       "resource_type": 1,
       "subject_keywords": 0,
-      "funder_name": 0.5671590909090909,
+      "funder_name": 0.5669431818181818,
       "container_title": 1,
       "language": 0.9998295454545455,
       "author_orcid": 0.7728636363636363,
       "all_authors_orcid": 0.04265909090909091,
       "funder_doi": 0.4445454545454545,
-      "award_number": 0.491375,
+      "award_number": 0.4913522727272727,
       "issn": 1,
       "volume": 0.9987840909090909,
       "issue": 0.9987840909090909,
@@ -127,79 +127,79 @@
       "open_access_status": 0.9999090506019713
     }
   },
-  "gap": 0.12105006202402224,
+  "gap": 0.12105576966865039,
   "comparable": {
     "crossref": {
       "categories": {
-        "findable_essential": 0.750902462121212,
-        "findable_support": 0.6747795454545454,
-        "accessible_essential": 0.9825994318181819,
-        "accessible_support": 0.3785606060606061,
-        "evaluation_coara": 0.4855954545454545
+        "findable_essential": 0.8191466942148761,
+        "findable_support": 0.7576038961038961,
+        "accessible_essential": 0.9943465909090909,
+        "accessible_support": 0,
+        "evaluation_coara": 0.7859393939393939
       },
-      "overall": 0.7071126799242423
+      "overall": 0.7651591191951986
     },
     "openalex": {
       "categories": {
-        "findable_essential": 0.9692894199323185,
-        "findable_support": 0.8542956537556418,
-        "accessible_essential": 0.9719904275758576,
-        "accessible_support": 0.9761409412504785,
-        "evaluation_coara": 0.90090380964291
+        "findable_essential": 0.9664975490170746,
+        "findable_support": 0.8350194160723828,
+        "accessible_essential": 0.9996788349382112,
+        "accessible_support": 0.9556280624367618,
+        "evaluation_coara": 0.8508619350242342
       },
-      "overall": 0.9397236369906361
+      "overall": 0.9308570790990557
     },
-    "gap": 0.2326109570663938,
-    "fieldCount": 38,
+    "gap": 0.16569795990385705,
+    "fieldCount": 26,
     "totalFieldCount": 48
   },
   "voluntary": {
     "crossref": {
       "categories": {
-        "findable_essential": 0.25279829545454546,
-        "findable_support": 0.4378607954545455,
-        "accessible_essential": 0.9906363636363636,
-        "accessible_support": 0.0679375,
-        "evaluation_coara": 0.1554810606060606
+        "findable_essential": 0.33699242424242426,
+        "findable_support": 0.435625,
+        "accessible_essential": 0.9915454545454545,
+        "accessible_support": 0,
+        "evaluation_coara": 0.3962840909090909
       },
-      "overall": 0.4270676609848485
+      "overall": 0.4935846590909091
     },
     "openalex": {
       "categories": {
-        "findable_essential": 0.907908050158593,
-        "findable_support": 0.6363928331874353,
-        "accessible_essential": 0.9992458779080122,
-        "accessible_support": 0.9642909925989928,
-        "evaluation_coara": 0.8349230530197095
+        "findable_essential": 0.8772107335447906,
+        "findable_support": 0.6159169025666679,
+        "accessible_essential": 0.9994088289128136,
+        "accessible_support": 0.9556280624367618,
+        "evaluation_coara": 0.5528359159172815
       },
-      "overall": 0.8810565193665374
+      "overall": 0.8115329521037733
     },
-    "gap": 0.4539888583816889,
-    "fieldCount": 16
+    "gap": 0.3179482930128642,
+    "fieldCount": 10
   },
   "automatic": {
     "crossref": {
       "categories": {
         "findable_essential": 0.9999545454545455,
-        "findable_support": 0.8327253787878789,
-        "accessible_essential": 0.9777772727272728,
-        "accessible_support": 0.9998068181818182,
+        "findable_support": 0.9990880681818183,
+        "accessible_essential": 0.9971477272727273,
+        "accessible_support": 0,
         "evaluation_coara": 0.9807670454545454
       },
-      "overall": 0.9654735795454547
+      "overall": 0.8952899147727272
     },
     "openalex": {
       "categories": {
         "findable_essential": 0.9999801048191812,
-        "findable_support": 0.9995642008011126,
-        "accessible_essential": 0.9556371573765645,
-        "accessible_support": 0.9998408385534499,
+        "findable_support": 0.9993463012016689,
+        "accessible_essential": 0.9999488409636088,
+        "accessible_support": 0,
         "evaluation_coara": 0.9998749445777106
       },
-      "overall": 0.9887970236809495
+      "overall": 0.899858175782449
     },
-    "gap": 0.02332344413549481,
-    "fieldCount": 22
+    "gap": 0.004568261009721741,
+    "fieldCount": 16
   },
   "yearlyScores": [
     {
@@ -330,29 +330,29 @@
       "comparable": {
         "crossref": {
           "categories": {
-            "findable_essential": 0.6667395833333334,
-            "findable_support": 0.4986125,
-            "accessible_essential": 0.965671875,
-            "accessible_support": 0.3469583333333333,
-            "evaluation_coara": 0.38942499999999997
+            "findable_essential": 0.7273522727272728,
+            "findable_support": 0.5694464285714286,
+            "accessible_essential": 0.9766249999999999,
+            "accessible_support": 0,
+            "evaluation_coara": 0.6479583333333333
           },
-          "overall": 0.6288125520833334
+          "overall": 0.6773705627705627
         },
         "openalex": {
           "categories": {
-            "findable_essential": 0.9704472510524781,
-            "findable_support": 0.8479429786169813,
-            "accessible_essential": 0.9947949230961611,
-            "accessible_support": 0.9792422158309367,
-            "evaluation_coara": 0.8966362385894711
+            "findable_essential": 0.9677606375117942,
+            "findable_support": 0.8181282266564247,
+            "accessible_essential": 0.9990621483056146,
+            "accessible_support": 0.938101788170564,
+            "evaluation_coara": 0.848734942270018
           },
-          "overall": 0.9442758221833187
+          "overall": 0.9263701295994656
         },
-        "gap": 0.3154632700999853
+        "gap": 0.2489995668289029
       },
       "voluntary": {
-        "crossref": 0.23983958333333333,
-        "openalex": 0.8789665916385312
+        "crossref": 0.23997812500000001,
+        "openalex": 0.8044079029636115
       }
     },
     {
@@ -483,29 +483,29 @@
       "comparable": {
         "crossref": {
           "categories": {
-            "findable_essential": 0.7065000000000001,
-            "findable_support": 0.5990375,
-            "accessible_essential": 0.964203125,
-            "accessible_support": 0.34925,
-            "evaluation_coara": 0.4521
+            "findable_essential": 0.7707272727272728,
+            "findable_support": 0.6602857142857143,
+            "accessible_essential": 0.9665312500000001,
+            "accessible_support": 0,
+            "evaluation_coara": 0.7507083333333333
           },
-          "overall": 0.6682014062500001
+          "overall": 0.7220355181277056
         },
         "openalex": {
           "categories": {
-            "findable_essential": 0.9763765578758701,
-            "findable_support": 0.8624234087782918,
-            "accessible_essential": 0.9956233587595349,
-            "accessible_support": 0.985744654245342,
-            "evaluation_coara": 0.9138426910091285
+            "findable_essential": 0.9742289722282219,
+            "findable_support": 0.8346522803194054,
+            "accessible_essential": 0.9995935975990997,
+            "accessible_support": 0.9577341503063649,
+            "evaluation_coara": 0.8706181484723438
           },
-          "overall": 0.9525253219957485
+          "overall": 0.9372619778412576
         },
-        "gap": 0.28432391574574833
+        "gap": 0.21522645971355203
       },
       "voluntary": {
-        "crossref": 0.3365473958333333,
-        "openalex": 0.8963027802092451
+        "crossref": 0.382646875,
+        "openalex": 0.8321214205326998
       }
     },
     {
@@ -514,10 +514,10 @@
       "matched": 7998,
       "universeSize": 24569,
       "crossref": {
-        "overall": 0.625838611111111,
+        "overall": 0.6258337815656566,
         "categories": {
-          "findable_essential": 0.7224791666666667,
-          "findable_support": 0.62,
+          "findable_essential": 0.72246875,
+          "findable_support": 0.6199886363636363,
           "accessible_essential": 0.9958611111111113,
           "accessible_support": 0.18389583333333334,
           "evaluation_coara": 0.24369999999999997
@@ -532,13 +532,13 @@
           "publisher": 1,
           "resource_type": 1,
           "subject_keywords": 0,
-          "funder_name": 0.67,
+          "funder_name": 0.669875,
           "container_title": 1,
           "language": 0.99925,
           "author_orcid": 0.72975,
           "all_authors_orcid": 0.01675,
           "funder_doi": 0.50875,
-          "award_number": 0.573375,
+          "award_number": 0.57325,
           "issn": 1,
           "volume": 0.997125,
           "issue": 0.997125,
@@ -636,29 +636,29 @@
       "comparable": {
         "crossref": {
           "categories": {
-            "findable_essential": 0.7224791666666667,
-            "findable_support": 0.682,
-            "accessible_essential": 0.9957031250000001,
-            "accessible_support": 0.36741666666666667,
-            "evaluation_coara": 0.48737499999999995
+            "findable_essential": 0.7881477272727273,
+            "findable_support": 0.758732142857143,
+            "accessible_essential": 0.99775,
+            "accessible_support": 0,
+            "evaluation_coara": 0.8058333333333333
           },
-          "overall": 0.7021861979166666
+          "overall": 0.7608583062770563
         },
         "openalex": {
           "categories": {
-            "findable_essential": 0.9780049178961407,
-            "findable_support": 0.86807951987997,
-            "accessible_essential": 0.9953582145536384,
-            "accessible_support": 0.9884554471951321,
-            "evaluation_coara": 0.9196049012253062
+            "findable_essential": 0.976005364977608,
+            "findable_support": 0.8423713071124925,
+            "accessible_essential": 0.9998749687421855,
+            "accessible_support": 0.9658664666166542,
+            "evaluation_coara": 0.8774276902558973
           },
-          "overall": 0.9552194819538218
+          "overall": 0.9411982324585475
         },
-        "gap": 0.2530332840371552
+        "gap": 0.1803399261814912
       },
       "voluntary": {
-        "crossref": 0.40434531250000005,
-        "openalex": 0.9024464449445695
+        "crossref": 0.471671875,
+        "openalex": 0.8418729682420605
       }
     },
     {
@@ -667,9 +667,9 @@
       "matched": 7995,
       "universeSize": 22183,
       "crossref": {
-        "overall": 0.6275450252525252,
+        "overall": 0.6275387752525252,
         "categories": {
-          "findable_essential": 0.7202916666666667,
+          "findable_essential": 0.7202708333333333,
           "findable_support": 0.633715909090909,
           "accessible_essential": 0.9945972222222222,
           "accessible_support": 0.1889583333333333,
@@ -685,7 +685,7 @@
           "publisher": 1,
           "resource_type": 1,
           "subject_keywords": 0,
-          "funder_name": 0.6435,
+          "funder_name": 0.64325,
           "container_title": 1,
           "language": 0.999375,
           "author_orcid": 0.917625,
@@ -789,29 +789,29 @@
       "comparable": {
         "crossref": {
           "categories": {
-            "findable_essential": 0.7202916666666667,
-            "findable_support": 0.6970875,
-            "accessible_essential": 0.99434375,
-            "accessible_support": 0.3775833333333333,
-            "evaluation_coara": 0.4885
+            "findable_essential": 0.7857500000000001,
+            "findable_support": 0.7831428571428571,
+            "accessible_essential": 0.99734375,
+            "accessible_support": 0,
+            "evaluation_coara": 0.7987083333333334
           },
-          "overall": 0.7046948958333333
+          "overall": 0.7622740327380952
         },
         "openalex": {
           "categories": {
-            "findable_essential": 0.9742234730039607,
-            "findable_support": 0.8638524077548467,
-            "accessible_essential": 0.992104440275172,
-            "accessible_support": 0.9854492391077757,
-            "evaluation_coara": 0.9095934959349593
+            "findable_essential": 0.9718801523679571,
+            "findable_support": 0.8415974269632807,
+            "accessible_essential": 0.999718574108818,
+            "accessible_support": 0.9565978736710444,
+            "evaluation_coara": 0.8638732541171565
           },
-          "overall": 0.9503346362309777
+          "overall": 0.9361677414726195
         },
-        "gap": 0.24563974039764436
+        "gap": 0.17389370873452425
       },
       "voluntary": {
-        "crossref": 0.4099291666666667,
-        "openalex": 0.8935902647488013
+        "crossref": 0.473575,
+        "openalex": 0.8279362101313321
       }
     },
     {
@@ -820,10 +820,10 @@
       "matched": 7996,
       "universeSize": 19633,
       "crossref": {
-        "overall": 0.6280816035353536,
+        "overall": 0.628061148989899,
         "categories": {
-          "findable_essential": 0.7138541666666667,
-          "findable_support": 0.6308977272727273,
+          "findable_essential": 0.7137916666666667,
+          "findable_support": 0.6308863636363636,
           "accessible_essential": 0.9970277777777778,
           "accessible_support": 0.19943749999999996,
           "evaluation_coara": 0.25045
@@ -838,13 +838,13 @@
           "publisher": 1,
           "resource_type": 1,
           "subject_keywords": 0,
-          "funder_name": 0.565625,
+          "funder_name": 0.564875,
           "container_title": 1,
           "language": 1,
           "author_orcid": 0.927,
           "all_authors_orcid": 0.03625,
           "funder_doi": 0.4655,
-          "award_number": 0.511125,
+          "award_number": 0.511,
           "issn": 1,
           "volume": 1,
           "issue": 1,
@@ -942,29 +942,29 @@
       "comparable": {
         "crossref": {
           "categories": {
-            "findable_essential": 0.7138541666666667,
-            "findable_support": 0.6939875,
-            "accessible_essential": 0.99665625,
-            "accessible_support": 0.398625,
-            "evaluation_coara": 0.500875
+            "findable_essential": 0.7786818181818181,
+            "findable_support": 0.7820357142857143,
+            "accessible_essential": 0.99996875,
+            "accessible_support": 0,
+            "evaluation_coara": 0.7980416666666666
           },
-          "overall": 0.7074559375
+          "overall": 0.7605104234307359
         },
         "openalex": {
           "categories": {
-            "findable_essential": 0.972090211772553,
-            "findable_support": 0.862456228114057,
-            "accessible_essential": 0.9809748624312157,
-            "accessible_support": 0.9827413706853427,
-            "evaluation_coara": 0.9064032016008003
+            "findable_essential": 0.9695529582973305,
+            "findable_support": 0.8422246837704567,
+            "accessible_essential": 1,
+            "accessible_support": 0.948224112056028,
+            "evaluation_coara": 0.8612639653159914
           },
-          "overall": 0.9457939907453727
+          "overall": 0.9342747943235687
         },
-        "gap": 0.23833805324537272
+        "gap": 0.1737643708928328
       },
       "voluntary": {
-        "crossref": 0.41094427083333324,
-        "openalex": 0.8895145489411371
+        "crossref": 0.46603437499999995,
+        "openalex": 0.8228676838419209
       }
     },
     {
@@ -973,9 +973,9 @@
       "matched": 7995,
       "universeSize": 20426,
       "crossref": {
-        "overall": 0.6375329671717171,
+        "overall": 0.6375173421717172,
         "categories": {
-          "findable_essential": 0.7268958333333334,
+          "findable_essential": 0.72684375,
           "findable_support": 0.6361818181818182,
           "accessible_essential": 0.997486111111111,
           "accessible_support": 0.22835416666666666,
@@ -991,7 +991,7 @@
           "publisher": 1,
           "resource_type": 1,
           "subject_keywords": 0,
-          "funder_name": 0.569375,
+          "funder_name": 0.56875,
           "container_title": 1,
           "language": 1,
           "author_orcid": 0.955,
@@ -1095,29 +1095,29 @@
       "comparable": {
         "crossref": {
           "categories": {
-            "findable_essential": 0.7268958333333334,
-            "findable_support": 0.6998,
-            "accessible_essential": 0.9971718749999999,
-            "accessible_support": 0.40558333333333335,
-            "evaluation_coara": 0.508725
+            "findable_essential": 0.7929204545454546,
+            "findable_support": 0.7889464285714285,
+            "accessible_essential": 0.9999375,
+            "accessible_support": 0,
+            "evaluation_coara": 0.8029166666666666
           },
-          "overall": 0.7146350520833333
+          "overall": 0.7667858089826839
         },
         "openalex": {
           "categories": {
-            "findable_essential": 0.9743693975401292,
-            "findable_support": 0.8677923702313945,
-            "accessible_essential": 0.973874296435272,
-            "accessible_support": 0.9892015843235354,
-            "evaluation_coara": 0.9119449656035024
+            "findable_essential": 0.9720393427710501,
+            "findable_support": 0.8485303314571607,
+            "accessible_essential": 0.9999374609130707,
+            "accessible_support": 0.9676047529706067,
+            "evaluation_coara": 0.8640400250156347
           },
-          "overall": 0.94725740045862
+          "overall": 0.9384441980783444
         },
-        "gap": 0.23262234837528661
+        "gap": 0.17165838909566056
       },
       "voluntary": {
-        "crossref": 0.4280104166666667,
-        "openalex": 0.8963414634146342
+        "crossref": 0.4855875,
+        "openalex": 0.8313821138211381
       }
     },
     {
@@ -1126,9 +1126,9 @@
       "matched": 7995,
       "universeSize": 20842,
       "crossref": {
-        "overall": 0.6825305555555556,
+        "overall": 0.6825180555555556,
         "categories": {
-          "findable_essential": 0.8043333333333332,
+          "findable_essential": 0.8042916666666665,
           "findable_support": 0.65075,
           "accessible_essential": 0.9967222222222224,
           "accessible_support": 0.36237500000000006,
@@ -1144,7 +1144,7 @@
           "publisher": 1,
           "resource_type": 1,
           "subject_keywords": 0,
-          "funder_name": 0.693,
+          "funder_name": 0.6925,
           "container_title": 1,
           "language": 1,
           "author_orcid": 0.95925,
@@ -1248,29 +1248,29 @@
       "comparable": {
         "crossref": {
           "categories": {
-            "findable_essential": 0.8043333333333332,
-            "findable_support": 0.715825,
-            "accessible_essential": 0.9963125,
-            "accessible_support": 0.4050416666666667,
-            "evaluation_coara": 0.517
+            "findable_essential": 0.8774090909090908,
+            "findable_support": 0.8024107142857143,
+            "accessible_essential": 0.9999062499999999,
+            "accessible_support": 0,
+            "evaluation_coara": 0.81675
           },
-          "overall": 0.7416560416666667
+          "overall": 0.7969108969155844
         },
         "openalex": {
           "categories": {
-            "findable_essential": 0.9723785699395456,
-            "findable_support": 0.865140712945591,
-            "accessible_essential": 0.96307066916823,
-            "accessible_support": 0.9886178861788618,
-            "evaluation_coara": 0.9087179487179486
+            "findable_essential": 0.9698675308431407,
+            "findable_support": 0.8480836236933798,
+            "accessible_essential": 0.9999687304565353,
+            "accessible_support": 0.9683552220137586,
+            "evaluation_coara": 0.8584948926412341
           },
-          "overall": 0.9428577235772357
+          "overall": 0.9366994861507056
         },
-        "gap": 0.20120168191056909
+        "gap": 0.13978858923512127
       },
       "voluntary": {
-        "crossref": 0.50625,
-        "openalex": 0.892436939754013
+        "crossref": 0.5910500000000001,
+        "openalex": 0.8256378986866791
       }
     },
     {
@@ -1401,29 +1401,29 @@
       "comparable": {
         "crossref": {
           "categories": {
-            "findable_essential": 0.8034791666666666,
-            "findable_support": 0.7152625,
-            "accessible_essential": 0.9938906249999999,
-            "accessible_support": 0.395875,
-            "evaluation_coara": 0.51095
+            "findable_essential": 0.8765227272727273,
+            "findable_support": 0.8015178571428573,
+            "accessible_essential": 0.999875,
+            "accessible_support": 0,
+            "evaluation_coara": 0.812125
           },
-          "overall": 0.73858328125
+          "overall": 0.7955782467532467
         },
         "openalex": {
           "categories": {
-            "findable_essential": 0.9705575712081403,
-            "findable_support": 0.860603027649193,
-            "accessible_essential": 0.9588389841110972,
-            "accessible_support": 0.9883231160598857,
-            "evaluation_coara": 0.9042412110596771
+            "findable_essential": 0.9678809867725168,
+            "findable_support": 0.843023359725474,
+            "accessible_essential": 0.9999687226323033,
+            "accessible_support": 0.9680970849493307,
+            "evaluation_coara": 0.8527878560407022
           },
-          "overall": 0.9396480253555194
+          "overall": 0.9341772603517254
         },
-        "gap": 0.20106474410551944
+        "gap": 0.1385990135984787
       },
       "voluntary": {
-        "crossref": 0.5027380208333333,
-        "openalex": 0.8875359689728513
+        "crossref": 0.58969375,
+        "openalex": 0.8181940447891904
       }
     },
     {
@@ -1554,29 +1554,29 @@
       "comparable": {
         "crossref": {
           "categories": {
-            "findable_essential": 0.8031041666666666,
-            "findable_support": 0.713575,
-            "accessible_essential": 0.9899687500000001,
-            "accessible_support": 0.380625,
-            "evaluation_coara": 0.5005750000000001
+            "findable_essential": 0.8761136363636364,
+            "findable_support": 0.8003571428571429,
+            "accessible_essential": 0.99996875,
+            "accessible_support": 0,
+            "evaluation_coara": 0.8108333333333334
           },
-          "overall": 0.7336371875000001
+          "overall": 0.795046516504329
         },
         "openalex": {
           "categories": {
-            "findable_essential": 0.9700550137534383,
-            "findable_support": 0.8579269817454364,
-            "accessible_essential": 0.9912321830457616,
-            "accessible_support": 0.9897891139451529,
-            "evaluation_coara": 0.9022005501375343
+            "findable_essential": 0.9673327422764781,
+            "findable_support": 0.840781623977423,
+            "accessible_essential": 0.9999374843710928,
+            "accessible_support": 0.9693673418354589,
+            "evaluation_coara": 0.8496290739351505
           },
-          "overall": 0.9469326185713096
+          "overall": 0.933163986342906
         },
-        "gap": 0.21329543107130955
+        "gap": 0.13811746983857698
       },
       "voluntary": {
-        "crossref": 0.49575729166666666,
-        "openalex": 0.8855990039176461
+        "crossref": 0.587159375,
+        "openalex": 0.8150225056264065
       }
     },
     {
@@ -1585,9 +1585,9 @@
       "matched": 8000,
       "universeSize": 22665,
       "crossref": {
-        "overall": 0.6698282386363635,
+        "overall": 0.6698251136363635,
         "categories": {
-          "findable_essential": 0.7970729166666667,
+          "findable_essential": 0.7970625,
           "findable_support": 0.6407840909090909,
           "accessible_essential": 0.9798333333333333,
           "accessible_support": 0.34372916666666664,
@@ -1603,7 +1603,7 @@
           "publisher": 1,
           "resource_type": 1,
           "subject_keywords": 0,
-          "funder_name": 0.635875,
+          "funder_name": 0.63575,
           "container_title": 1,
           "language": 1,
           "author_orcid": 0.936875,
@@ -1707,29 +1707,29 @@
       "comparable": {
         "crossref": {
           "categories": {
-            "findable_essential": 0.7970729166666667,
-            "findable_support": 0.7048625000000001,
-            "accessible_essential": 0.9773125,
-            "accessible_support": 0.3777916666666667,
-            "evaluation_coara": 0.49665
+            "findable_essential": 0.8695227272727273,
+            "findable_support": 0.7929642857142857,
+            "accessible_essential": 0.9999374999999999,
+            "accessible_support": 0,
+            "evaluation_coara": 0.8039166666666667
           },
-          "overall": 0.7262885416666668
+          "overall": 0.7905691693722944
         },
         "openalex": {
           "categories": {
-            "findable_essential": 0.9630624999999999,
-            "findable_support": 0.8454499999999999,
-            "accessible_essential": 0.9790625,
-            "accessible_support": 0.9795833333333333,
-            "evaluation_coara": 0.8893000000000001
+            "findable_essential": 0.9597045454545454,
+            "findable_support": 0.8308392857142858,
+            "accessible_essential": 0.9999375,
+            "accessible_support": 0.93875,
+            "evaluation_coara": 0.8380833333333334
           },
-          "overall": 0.9363202083333333
+          "overall": 0.9240132981601732
         },
-        "gap": 0.2100316666666665
+        "gap": 0.1334441287878788
       },
       "voluntary": {
-        "crossref": 0.48538489583333333,
-        "openalex": 0.8687958333333333
+        "crossref": 0.57335625,
+        "openalex": 0.7931625
       }
     },
     {
@@ -1860,29 +1860,29 @@
       "comparable": {
         "crossref": {
           "categories": {
-            "findable_essential": 0.7951770833333333,
-            "findable_support": 0.702525,
-            "accessible_essential": 0.9373593750000001,
-            "accessible_support": 0.35941666666666666,
-            "evaluation_coara": 0.489375
+            "findable_essential": 0.8674659090909089,
+            "findable_support": 0.7938035714285715,
+            "accessible_essential": 0.99996875,
+            "accessible_support": 0,
+            "evaluation_coara": 0.7975416666666666
           },
-          "overall": 0.7120883854166667
+          "overall": 0.7888108292748918
         },
         "openalex": {
           "categories": {
-            "findable_essential": 0.9406235671710225,
-            "findable_support": 0.7955983493810179,
-            "accessible_essential": 0.8669501062898586,
-            "accessible_support": 0.8804134883914801,
-            "evaluation_coara": 0.8474678004251593
+            "findable_essential": 0.9352257096411154,
+            "findable_support": 0.7949945515282517,
+            "accessible_essential": 0.9984681755658372,
+            "accessible_support": 0.9332249593597599,
+            "evaluation_coara": 0.7745404526697511
           },
-          "overall": 0.8757992580551041
+          "overall": 0.8976645259829579
         },
-        "gap": 0.1637108726384373
+        "gap": 0.1088536967080661
       },
       "voluntary": {
-        "crossref": 0.4779979166666666,
-        "openalex": 0.8001073319161353
+        "crossref": 0.5686781249999999,
+        "openalex": 0.7142772289608602
       }
     }
   ],
@@ -1950,28 +1950,6 @@
     "publication_date": [],
     "publisher": [],
     "resource_type": [],
-    "subject_keywords": [
-      {
-        "doi": "10.1371/journal.pone.0117987",
-        "title": "STBase: One Million Species Trees for Comparative Biology"
-      },
-      {
-        "doi": "10.1371/journal.pone.0117249",
-        "title": "Myc-Induced Liver Tumors in Transgenic Zebrafish Can Regress in tp53 Null Mutation"
-      },
-      {
-        "doi": "10.1371/journal.pone.0120206",
-        "title": "Statistical Properties of Pairwise Distances between Leaves on a Random Yule Tree"
-      },
-      {
-        "doi": "10.1371/journal.pone.0116088",
-        "title": "Characterization of Fetal Antigen 1/Delta-Like 1 Homologue Expressing Cells in the Rat Nigrostriatal System: Effects of a Unilateral 6-Hydroxydopamine Lesion"
-      },
-      {
-        "doi": "10.1371/journal.pone.0119631",
-        "title": "GRYFUN: A Web Application for GO Term Annotation Visualization and Analysis in Protein Sets"
-      }
-    ],
     "funder_name": [
       {
         "doi": "10.1371/journal.pone.0117987",
@@ -2061,28 +2039,6 @@
         "title": "Use of ChemoFx® for Identification of Effective Treatments in Epithelial Ovarian Cancer"
       }
     ],
-    "funder_doi": [
-      {
-        "doi": "10.1371/journal.pone.0117987",
-        "title": "STBase: One Million Species Trees for Comparative Biology"
-      },
-      {
-        "doi": "10.1371/journal.pone.0117249",
-        "title": "Myc-Induced Liver Tumors in Transgenic Zebrafish Can Regress in tp53 Null Mutation"
-      },
-      {
-        "doi": "10.1371/journal.pone.0119631",
-        "title": "GRYFUN: A Web Application for GO Term Annotation Visualization and Analysis in Protein Sets"
-      },
-      {
-        "doi": "10.1371/journal.pone.0121992",
-        "title": "Use of Surveillance Data on HIV Diagnoses with HIV-Related Symptoms to Estimate the Number of People Living with Undiagnosed HIV in Need of Antiretroviral Therapy"
-      },
-      {
-        "doi": "10.1371/journal.pone.0119213",
-        "title": "Acquired Alterations of Hypothalamic Gene Expression of Insulin and Leptin Receptors and Glucose Transporters in Prenatally High-Glucose Exposed Three-Week Old Chickens Do Not Coincide with Aberrant Promoter DNA Methylation"
-      }
-    ],
     "award_number": [
       {
         "doi": "10.1371/journal.pone.0117987",
@@ -2130,52 +2086,7 @@
     ],
     "issue": [],
     "page": [],
-    "published_print_date": [
-      {
-        "doi": "10.1371/journal.pone.0117987",
-        "title": "STBase: One Million Species Trees for Comparative Biology"
-      },
-      {
-        "doi": "10.1371/journal.pone.0117249",
-        "title": "Myc-Induced Liver Tumors in Transgenic Zebrafish Can Regress in tp53 Null Mutation"
-      },
-      {
-        "doi": "10.1371/journal.pone.0120206",
-        "title": "Statistical Properties of Pairwise Distances between Leaves on a Random Yule Tree"
-      },
-      {
-        "doi": "10.1371/journal.pone.0116088",
-        "title": "Characterization of Fetal Antigen 1/Delta-Like 1 Homologue Expressing Cells in the Rat Nigrostriatal System: Effects of a Unilateral 6-Hydroxydopamine Lesion"
-      },
-      {
-        "doi": "10.1371/journal.pone.0119631",
-        "title": "GRYFUN: A Web Application for GO Term Annotation Visualization and Analysis in Protein Sets"
-      }
-    ],
-    "published_online_date": [],
     "license": [
-      {
-        "doi": "10.1371/currents.eogt.8b0b6fffc7b999b34bc4c8152edbf237",
-        "title": "Use of ChemoFx® for Identification of Effective Treatments in Epithelial Ovarian Cancer"
-      },
-      {
-        "doi": "10.1371/currents.dis.22247d6293d4109d09794890bcda1878",
-        "title": "Moving Forward after Sendai: How Countries Want to Use Science, Evidence and Technology for Disaster Risk Reduction"
-      },
-      {
-        "doi": "10.1371/currents.outbreaks.aa5372d90826e6cb0136ff66bb7a62fc",
-        "title": "Whole Genome Sequence Analysis of Salmonella Enteritidis PT4 Outbreaks from a National Reference Laboratory’s Viewpoint"
-      },
-      {
-        "doi": "10.1371/currents.tol.75134257bd389c04bc1d26d42aa9089f",
-        "title": "EAPhy: A Flexible Tool for High-throughput Quality Filtering of Exon-alignments and Data Processing for Phylogenetic Methods"
-      },
-      {
-        "doi": "10.1371/currents.md.28266819ca0ec5fefcac767ea9a3461c",
-        "title": "The FVB Background Does Not Dramatically Alter the Dystrophic Phenotype of Mdx Mice"
-      }
-    ],
-    "license_url": [
       {
         "doi": "10.1371/currents.eogt.8b0b6fffc7b999b34bc4c8152edbf237",
         "title": "Use of ChemoFx® for Identification of Effective Treatments in Epithelial Ovarian Cancer"
@@ -2219,28 +2130,6 @@
         "title": "The FVB Background Does Not Dramatically Alter the Dystrophic Phenotype of Mdx Mice"
       }
     ],
-    "full_text_links": [
-      {
-        "doi": "10.1371/10.1371/currents.dis.79dc64efd8e2af3488a126afa464c5d7",
-        "title": "Support Needs for Canadian Health Providers Responding to Disaster: New Insights from a Grounded Theory Approach"
-      },
-      {
-        "doi": "10.1371/currents.eogt.8b0b6fffc7b999b34bc4c8152edbf237",
-        "title": "Use of ChemoFx® for Identification of Effective Treatments in Epithelial Ovarian Cancer"
-      },
-      {
-        "doi": "10.1371/journal.pntd.0003613",
-        "title": "Correction: Evaluation of the Diagnostic Accuracy of Prototype Rapid Tests for Human African Trypanosomiasis"
-      },
-      {
-        "doi": "10.1371/journal.ppat.1004718",
-        "title": "Correction: Hepatitis B Virus Infection and Immunopathogenesis in a Humanized Mouse Model: Induction of Human-Specific Liver Fibrosis and M2-Like Macrophages"
-      },
-      {
-        "doi": "10.1371/journal.pone.0117621",
-        "title": "Correction: Genome and Transcriptome Analysis of the Fungal Pathogen Fusarium oxysporum f. sp. cubense Causing Banana Vascular Wilt Disease"
-      }
-    ],
     "resource_url": [],
     "references": [
       {
@@ -2264,87 +2153,7 @@
         "title": "Correction: Genome and Transcriptome Analysis of the Fungal Pathogen Fusarium oxysporum f. sp. cubense Causing Banana Vascular Wilt Disease"
       }
     ],
-    "references_count": [
-      {
-        "doi": "10.1371/10.1371/currents.dis.79dc64efd8e2af3488a126afa464c5d7",
-        "title": "Support Needs for Canadian Health Providers Responding to Disaster: New Insights from a Grounded Theory Approach"
-      },
-      {
-        "doi": "10.1371/currents.eogt.8b0b6fffc7b999b34bc4c8152edbf237",
-        "title": "Use of ChemoFx® for Identification of Effective Treatments in Epithelial Ovarian Cancer"
-      },
-      {
-        "doi": "10.1371/journal.pntd.0003613",
-        "title": "Correction: Evaluation of the Diagnostic Accuracy of Prototype Rapid Tests for Human African Trypanosomiasis"
-      },
-      {
-        "doi": "10.1371/journal.ppat.1004718",
-        "title": "Correction: Hepatitis B Virus Infection and Immunopathogenesis in a Humanized Mouse Model: Induction of Human-Specific Liver Fibrosis and M2-Like Macrophages"
-      },
-      {
-        "doi": "10.1371/journal.pone.0117621",
-        "title": "Correction: Genome and Transcriptome Analysis of the Fungal Pathogen Fusarium oxysporum f. sp. cubense Causing Banana Vascular Wilt Disease"
-      }
-    ],
-    "is_referenced_by": [
-      {
-        "doi": "10.1371/10.1371/currents.dis.79dc64efd8e2af3488a126afa464c5d7",
-        "title": "Support Needs for Canadian Health Providers Responding to Disaster: New Insights from a Grounded Theory Approach"
-      },
-      {
-        "doi": "10.1371/journal.ppat.1004718",
-        "title": "Correction: Hepatitis B Virus Infection and Immunopathogenesis in a Humanized Mouse Model: Induction of Human-Specific Liver Fibrosis and M2-Like Macrophages"
-      },
-      {
-        "doi": "10.1371/journal.pone.0118636",
-        "title": "Correction: Histidine-Rich Glycoprotein Uptake and Turnover Is Mediated by Mononuclear Phagocytes"
-      },
-      {
-        "doi": "10.1371/10.1371/currents.md.28266819ca0ec5fefcac767ea9a3461c",
-        "title": "The FVB Background Does Not Dramatically Alter the Dystrophic Phenotype of Mdx Mice"
-      },
-      {
-        "doi": "10.1371/10.1371/currents.tol.8f3c6526c49b136b98ec28e00b570a1e",
-        "title": "Visualising Geophylogenies in Web Maps Using GeoJSON"
-      }
-    ],
-    "author_sequence": [
-      {
-        "doi": "10.1371/journal.pone.0174259",
-        "title": "PLOS ONE 2016 Reviewer and Editorial Board Thank You"
-      },
-      {
-        "doi": "10.1371/journal.pone.0194158",
-        "title": "PLOS ONE 2017 Reviewer and Editorial Board Thank You"
-      },
-      {
-        "doi": "10.1371/journal.pntd.0007252",
-        "title": "PLOS Neglected Tropical Diseases 2018 Reviewer and Editorial Board Thank You"
-      }
-    ],
     "affiliation_ids_ror": [
-      {
-        "doi": "10.1371/journal.pone.0117987",
-        "title": "STBase: One Million Species Trees for Comparative Biology"
-      },
-      {
-        "doi": "10.1371/journal.pone.0117249",
-        "title": "Myc-Induced Liver Tumors in Transgenic Zebrafish Can Regress in tp53 Null Mutation"
-      },
-      {
-        "doi": "10.1371/journal.pone.0120206",
-        "title": "Statistical Properties of Pairwise Distances between Leaves on a Random Yule Tree"
-      },
-      {
-        "doi": "10.1371/journal.pone.0116088",
-        "title": "Characterization of Fetal Antigen 1/Delta-Like 1 Homologue Expressing Cells in the Rat Nigrostriatal System: Effects of a Unilateral 6-Hydroxydopamine Lesion"
-      },
-      {
-        "doi": "10.1371/journal.pone.0119631",
-        "title": "GRYFUN: A Web Application for GO Term Annotation Visualization and Analysis in Protein Sets"
-      }
-    ],
-    "relations": [
       {
         "doi": "10.1371/journal.pone.0117987",
         "title": "STBase: One Million Species Trees for Comparative Biology"
@@ -2388,28 +2197,6 @@
         "title": "Correction: Absence of Gamma-Interferon-Inducible Lysosomal Thiol Reductase (GILT) Is Associated with Poor Disease-Free Survival in Breast Cancer Patients"
       }
     ],
-    "affiliation_ror": [
-      {
-        "doi": "10.1371/journal.pone.0117987",
-        "title": "STBase: One Million Species Trees for Comparative Biology"
-      },
-      {
-        "doi": "10.1371/journal.pone.0117249",
-        "title": "Myc-Induced Liver Tumors in Transgenic Zebrafish Can Regress in tp53 Null Mutation"
-      },
-      {
-        "doi": "10.1371/journal.pone.0120206",
-        "title": "Statistical Properties of Pairwise Distances between Leaves on a Random Yule Tree"
-      },
-      {
-        "doi": "10.1371/journal.pone.0116088",
-        "title": "Characterization of Fetal Antigen 1/Delta-Like 1 Homologue Expressing Cells in the Rat Nigrostriatal System: Effects of a Unilateral 6-Hydroxydopamine Lesion"
-      },
-      {
-        "doi": "10.1371/journal.pone.0119631",
-        "title": "GRYFUN: A Web Application for GO Term Annotation Visualization and Analysis in Protein Sets"
-      }
-    ],
     "funding_complete": [
       {
         "doi": "10.1371/journal.pone.0117987",
@@ -2430,28 +2217,6 @@
       {
         "doi": "10.1371/journal.pone.0119780",
         "title": "Different Associations of CD45 Isoforms with STAT3, PKC and ERK Regulate IL-6-Induced Proliferation in Myeloma"
-      }
-    ],
-    "preprint_version_link": [
-      {
-        "doi": "10.1371/journal.pone.0117987",
-        "title": "STBase: One Million Species Trees for Comparative Biology"
-      },
-      {
-        "doi": "10.1371/journal.pone.0117249",
-        "title": "Myc-Induced Liver Tumors in Transgenic Zebrafish Can Regress in tp53 Null Mutation"
-      },
-      {
-        "doi": "10.1371/journal.pone.0120206",
-        "title": "Statistical Properties of Pairwise Distances between Leaves on a Random Yule Tree"
-      },
-      {
-        "doi": "10.1371/journal.pone.0116088",
-        "title": "Characterization of Fetal Antigen 1/Delta-Like 1 Homologue Expressing Cells in the Rat Nigrostriatal System: Effects of a Unilateral 6-Hydroxydopamine Lesion"
-      },
-      {
-        "doi": "10.1371/journal.pone.0119631",
-        "title": "GRYFUN: A Web Application for GO Term Annotation Visualization and Analysis in Protein Sets"
       }
     ],
     "open_access_status": [
@@ -2482,204 +2247,160 @@
       "doi": "10.1371/journal.pone.0117987",
       "title": "STBase: One Million Species Trees for Comparative Biology",
       "year": 2015,
-      "crossrefScore": 0.6578947368421053,
-      "openalexScore": 0.9736842105263158,
-      "gap": 13,
+      "crossrefScore": 0.6923076923076923,
+      "openalexScore": 0.9615384615384616,
+      "gap": 7,
       "openalexAdds": [
         "abstract",
         "author_affiliation",
-        "subject_keywords",
         "funder_name",
         "author_orcid",
-        "funder_doi",
         "award_number",
-        "published_print_date",
         "affiliation_ids_ror",
-        "relations",
-        "affiliation_ror",
-        "funding_complete",
-        "preprint_version_link"
+        "funding_complete"
       ]
     },
     {
       "doi": "10.1371/journal.pone.0117249",
       "title": "Myc-Induced Liver Tumors in Transgenic Zebrafish Can Regress in tp53 Null Mutation",
       "year": 2015,
-      "crossrefScore": 0.6578947368421053,
-      "openalexScore": 0.9210526315789473,
-      "gap": 11,
+      "crossrefScore": 0.6923076923076923,
+      "openalexScore": 0.8846153846153846,
+      "gap": 5,
       "openalexAdds": [
         "abstract",
         "author_affiliation",
-        "subject_keywords",
         "funder_name",
         "author_orcid",
-        "funder_doi",
-        "published_print_date",
-        "affiliation_ids_ror",
-        "relations",
-        "affiliation_ror",
-        "preprint_version_link"
+        "affiliation_ids_ror"
       ]
     },
     {
       "doi": "10.1371/journal.pone.0120206",
       "title": "Statistical Properties of Pairwise Distances between Leaves on a Random Yule Tree",
       "year": 2015,
-      "crossrefScore": 0.6578947368421053,
-      "openalexScore": 0.8947368421052632,
-      "gap": 10,
+      "crossrefScore": 0.6923076923076923,
+      "openalexScore": 0.8846153846153846,
+      "gap": 5,
       "openalexAdds": [
         "abstract",
         "author_affiliation",
-        "subject_keywords",
         "author_orcid",
         "all_authors_orcid",
-        "published_print_date",
-        "affiliation_ids_ror",
-        "relations",
-        "affiliation_ror",
-        "preprint_version_link"
+        "affiliation_ids_ror"
       ]
     },
     {
       "doi": "10.1371/journal.pone.0116088",
       "title": "Characterization of Fetal Antigen 1/Delta-Like 1 Homologue Expressing Cells in the Rat Nigrostriatal System: Effects of a Unilateral 6-Hydroxydopamine Lesion",
       "year": 2015,
-      "crossrefScore": 0.6578947368421053,
-      "openalexScore": 0.868421052631579,
-      "gap": 9,
+      "crossrefScore": 0.6923076923076923,
+      "openalexScore": 0.8461538461538461,
+      "gap": 4,
       "openalexAdds": [
         "abstract",
         "author_affiliation",
-        "subject_keywords",
         "author_orcid",
-        "published_print_date",
-        "affiliation_ids_ror",
-        "relations",
-        "affiliation_ror",
-        "preprint_version_link"
+        "affiliation_ids_ror"
       ]
     },
     {
       "doi": "10.1371/journal.pone.0119631",
       "title": "GRYFUN: A Web Application for GO Term Annotation Visualization and Analysis in Protein Sets",
       "year": 2015,
-      "crossrefScore": 0.6578947368421053,
+      "crossrefScore": 0.6923076923076923,
       "openalexScore": 1,
-      "gap": 14,
+      "gap": 8,
       "openalexAdds": [
         "abstract",
         "author_affiliation",
-        "subject_keywords",
         "funder_name",
         "author_orcid",
         "all_authors_orcid",
-        "funder_doi",
         "award_number",
-        "published_print_date",
         "affiliation_ids_ror",
-        "relations",
-        "affiliation_ror",
-        "funding_complete",
-        "preprint_version_link"
+        "funding_complete"
       ]
     },
     {
       "doi": "10.1371/journal.pone.0121992",
       "title": "Use of Surveillance Data on HIV Diagnoses with HIV-Related Symptoms to Estimate the Number of People Living with Undiagnosed HIV in Need of Antiretroviral Therapy",
       "year": 2015,
-      "crossrefScore": 0.6578947368421053,
-      "openalexScore": 0.9473684210526315,
-      "gap": 12,
+      "crossrefScore": 0.6923076923076923,
+      "openalexScore": 0.9230769230769231,
+      "gap": 6,
       "openalexAdds": [
         "abstract",
         "author_affiliation",
-        "subject_keywords",
         "funder_name",
         "author_orcid",
         "all_authors_orcid",
-        "funder_doi",
-        "published_print_date",
-        "affiliation_ids_ror",
-        "relations",
-        "affiliation_ror",
-        "preprint_version_link"
+        "affiliation_ids_ror"
       ]
     },
     {
       "doi": "10.1371/journal.pone.0119213",
       "title": "Acquired Alterations of Hypothalamic Gene Expression of Insulin and Leptin Receptors and Glucose Transporters in Prenatally High-Glucose Exposed Three-Week Old Chickens Do Not Coincide with Aberrant Promoter DNA Methylation",
       "year": 2015,
-      "crossrefScore": 0.6578947368421053,
-      "openalexScore": 0.9736842105263158,
-      "gap": 13,
+      "crossrefScore": 0.6923076923076923,
+      "openalexScore": 0.9615384615384616,
+      "gap": 7,
       "openalexAdds": [
         "abstract",
         "author_affiliation",
-        "subject_keywords",
         "funder_name",
         "author_orcid",
-        "funder_doi",
         "award_number",
-        "published_print_date",
         "affiliation_ids_ror",
-        "relations",
-        "affiliation_ror",
-        "funding_complete",
-        "preprint_version_link"
+        "funding_complete"
       ]
     },
     {
       "doi": "10.1371/journal.pone.0119125",
       "title": "The GerW Protein Is Not Involved in the Germination of Spores of Bacillus Species",
       "year": 2015,
-      "crossrefScore": 0.6578947368421053,
-      "openalexScore": 0.9736842105263158,
-      "gap": 13,
+      "crossrefScore": 0.6923076923076923,
+      "openalexScore": 0.9615384615384616,
+      "gap": 7,
       "openalexAdds": [
         "abstract",
         "author_affiliation",
-        "subject_keywords",
         "funder_name",
         "author_orcid",
-        "funder_doi",
         "award_number",
-        "published_print_date",
         "affiliation_ids_ror",
-        "relations",
-        "affiliation_ror",
-        "funding_complete",
-        "preprint_version_link"
+        "funding_complete"
       ]
     },
     {
-      "doi": "10.1371/journal.pbio.1002101",
-      "title": "PLOS Biology 2014 Reviewer Thank You",
+      "doi": "10.1371/10.1371/currents.dis.79dc64efd8e2af3488a126afa464c5d7",
+      "title": "Support Needs for Canadian Health Providers Responding to Disaster: New Insights from a Grounded Theory Approach",
       "year": 2015,
-      "crossrefScore": 0.5789473684210527,
-      "openalexScore": 0.6578947368421053,
-      "gap": 4,
+      "crossrefScore": 0.4230769230769231,
+      "openalexScore": 0.6538461538461539,
+      "gap": 6,
       "openalexAdds": [
-        "subject_keywords",
-        "published_print_date",
-        "relations",
-        "preprint_version_link"
+        "abstract",
+        "author_affiliation",
+        "author_orcid",
+        "references",
+        "affiliation_ids_ror",
+        "open_access_status"
       ]
     },
     {
-      "doi": "10.1371/journal.pntd.0003621",
-      "title": "PLOS Neglected Tropical Diseases 2014 Reviewer Thank You",
+      "doi": "10.1371/journal.pone.0120723",
+      "title": "Conspicuous Female Ornamentation and Tests of Male Mate Preference in Threespine Sticklebacks (Gasterosteus aculeatus)",
       "year": 2015,
-      "crossrefScore": 0.5789473684210527,
-      "openalexScore": 0.6842105263157895,
+      "crossrefScore": 0.6923076923076923,
+      "openalexScore": 0.8846153846153846,
       "gap": 5,
       "openalexAdds": [
         "abstract",
-        "subject_keywords",
-        "published_print_date",
-        "relations",
-        "preprint_version_link"
+        "author_affiliation",
+        "author_orcid",
+        "all_authors_orcid",
+        "affiliation_ids_ror"
       ]
     }
   ],
@@ -2820,44 +2541,13 @@
       "samples": []
     },
     {
-      "id": "subject_keywords",
-      "label": "Subject / Keywords",
-      "category": "findable_essential",
-      "effort": "voluntary",
-      "crossref": 0,
-      "openalex": 1,
-      "gap": 1,
-      "samples": [
-        {
-          "doi": "10.1371/journal.pone.0117987",
-          "title": "STBase: One Million Species Trees for Comparative Biology"
-        },
-        {
-          "doi": "10.1371/journal.pone.0117249",
-          "title": "Myc-Induced Liver Tumors in Transgenic Zebrafish Can Regress in tp53 Null Mutation"
-        },
-        {
-          "doi": "10.1371/journal.pone.0120206",
-          "title": "Statistical Properties of Pairwise Distances between Leaves on a Random Yule Tree"
-        },
-        {
-          "doi": "10.1371/journal.pone.0116088",
-          "title": "Characterization of Fetal Antigen 1/Delta-Like 1 Homologue Expressing Cells in the Rat Nigrostriatal System: Effects of a Unilateral 6-Hydroxydopamine Lesion"
-        },
-        {
-          "doi": "10.1371/journal.pone.0119631",
-          "title": "GRYFUN: A Web Application for GO Term Annotation Visualization and Analysis in Protein Sets"
-        }
-      ]
-    },
-    {
       "id": "funder_name",
       "label": "Funder Name",
       "category": "findable_essential",
       "effort": "voluntary",
-      "crossref": 0.5671590909090909,
+      "crossref": 0.5669431818181818,
       "openalex": 0.697820625049738,
-      "gap": 0.13066153414064707,
+      "gap": 0.13087744323155615,
       "samples": [
         {
           "doi": "10.1371/journal.pone.0117987",
@@ -2985,44 +2675,13 @@
       ]
     },
     {
-      "id": "funder_doi",
-      "label": "Funder DOI",
-      "category": "findable_support",
-      "effort": "voluntary",
-      "crossref": 0.4445454545454545,
-      "openalex": 0.697820625049738,
-      "gap": 0.25327517050428344,
-      "samples": [
-        {
-          "doi": "10.1371/journal.pone.0117987",
-          "title": "STBase: One Million Species Trees for Comparative Biology"
-        },
-        {
-          "doi": "10.1371/journal.pone.0117249",
-          "title": "Myc-Induced Liver Tumors in Transgenic Zebrafish Can Regress in tp53 Null Mutation"
-        },
-        {
-          "doi": "10.1371/journal.pone.0119631",
-          "title": "GRYFUN: A Web Application for GO Term Annotation Visualization and Analysis in Protein Sets"
-        },
-        {
-          "doi": "10.1371/journal.pone.0121992",
-          "title": "Use of Surveillance Data on HIV Diagnoses with HIV-Related Symptoms to Estimate the Number of People Living with Undiagnosed HIV in Need of Antiretroviral Therapy"
-        },
-        {
-          "doi": "10.1371/journal.pone.0119213",
-          "title": "Acquired Alterations of Hypothalamic Gene Expression of Insulin and Leptin Receptors and Glucose Transporters in Prenatally High-Glucose Exposed Three-Week Old Chickens Do Not Coincide with Aberrant Promoter DNA Methylation"
-        }
-      ]
-    },
-    {
       "id": "award_number",
       "label": "Award Number",
       "category": "findable_support",
       "effort": "voluntary",
-      "crossref": 0.491375,
+      "crossref": 0.4913522727272727,
       "openalex": 0.5528359159172815,
-      "gap": 0.06146091591728153,
+      "gap": 0.06148364319000882,
       "samples": [
         {
           "doi": "10.1371/journal.pone.0117987",
@@ -3108,80 +2767,8 @@
       "samples": []
     },
     {
-      "id": "published_print_date",
-      "label": "Published Print Date",
-      "category": "findable_support",
-      "effort": "automatic",
-      "crossref": 0,
-      "openalex": 1,
-      "gap": 1,
-      "samples": [
-        {
-          "doi": "10.1371/journal.pone.0117987",
-          "title": "STBase: One Million Species Trees for Comparative Biology"
-        },
-        {
-          "doi": "10.1371/journal.pone.0117249",
-          "title": "Myc-Induced Liver Tumors in Transgenic Zebrafish Can Regress in tp53 Null Mutation"
-        },
-        {
-          "doi": "10.1371/journal.pone.0120206",
-          "title": "Statistical Properties of Pairwise Distances between Leaves on a Random Yule Tree"
-        },
-        {
-          "doi": "10.1371/journal.pone.0116088",
-          "title": "Characterization of Fetal Antigen 1/Delta-Like 1 Homologue Expressing Cells in the Rat Nigrostriatal System: Effects of a Unilateral 6-Hydroxydopamine Lesion"
-        },
-        {
-          "doi": "10.1371/journal.pone.0119631",
-          "title": "GRYFUN: A Web Application for GO Term Annotation Visualization and Analysis in Protein Sets"
-        }
-      ]
-    },
-    {
-      "id": "published_online_date",
-      "label": "Published Online Date",
-      "category": "findable_support",
-      "effort": "automatic",
-      "crossref": 1,
-      "openalex": 1,
-      "gap": 0,
-      "samples": []
-    },
-    {
       "id": "license",
       "label": "License",
-      "category": "accessible_essential",
-      "effort": "automatic",
-      "crossref": 0.9942954545454545,
-      "openalex": 0.9998976819272177,
-      "gap": 0.005602227381763192,
-      "samples": [
-        {
-          "doi": "10.1371/currents.eogt.8b0b6fffc7b999b34bc4c8152edbf237",
-          "title": "Use of ChemoFx® for Identification of Effective Treatments in Epithelial Ovarian Cancer"
-        },
-        {
-          "doi": "10.1371/currents.dis.22247d6293d4109d09794890bcda1878",
-          "title": "Moving Forward after Sendai: How Countries Want to Use Science, Evidence and Technology for Disaster Risk Reduction"
-        },
-        {
-          "doi": "10.1371/currents.outbreaks.aa5372d90826e6cb0136ff66bb7a62fc",
-          "title": "Whole Genome Sequence Analysis of Salmonella Enteritidis PT4 Outbreaks from a National Reference Laboratory’s Viewpoint"
-        },
-        {
-          "doi": "10.1371/currents.tol.75134257bd389c04bc1d26d42aa9089f",
-          "title": "EAPhy: A Flexible Tool for High-throughput Quality Filtering of Exon-alignments and Data Processing for Phylogenetic Methods"
-        },
-        {
-          "doi": "10.1371/currents.md.28266819ca0ec5fefcac767ea9a3461c",
-          "title": "The FVB Background Does Not Dramatically Alter the Dystrophic Phenotype of Mdx Mice"
-        }
-      ]
-    },
-    {
-      "id": "license_url",
-      "label": "License URL",
       "category": "accessible_essential",
       "effort": "automatic",
       "crossref": 0.9942954545454545,
@@ -3242,37 +2829,6 @@
       ]
     },
     {
-      "id": "full_text_links",
-      "label": "Full-text Links",
-      "category": "accessible_essential",
-      "effort": "automatic",
-      "crossref": 0.9892272727272727,
-      "openalex": 0.860085719807642,
-      "gap": -0.1291415529196307,
-      "samples": [
-        {
-          "doi": "10.1371/10.1371/currents.dis.79dc64efd8e2af3488a126afa464c5d7",
-          "title": "Support Needs for Canadian Health Providers Responding to Disaster: New Insights from a Grounded Theory Approach"
-        },
-        {
-          "doi": "10.1371/currents.eogt.8b0b6fffc7b999b34bc4c8152edbf237",
-          "title": "Use of ChemoFx® for Identification of Effective Treatments in Epithelial Ovarian Cancer"
-        },
-        {
-          "doi": "10.1371/journal.pntd.0003613",
-          "title": "Correction: Evaluation of the Diagnostic Accuracy of Prototype Rapid Tests for Human African Trypanosomiasis"
-        },
-        {
-          "doi": "10.1371/journal.ppat.1004718",
-          "title": "Correction: Hepatitis B Virus Infection and Immunopathogenesis in a Humanized Mouse Model: Induction of Human-Specific Liver Fibrosis and M2-Like Macrophages"
-        },
-        {
-          "doi": "10.1371/journal.pone.0117621",
-          "title": "Correction: Genome and Transcriptome Analysis of the Fungal Pathogen Fusarium oxysporum f. sp. cubense Causing Banana Vascular Wilt Disease"
-        }
-      ]
-    },
-    {
       "id": "resource_url",
       "label": "Resource URL",
       "category": "accessible_essential",
@@ -3314,91 +2870,6 @@
       ]
     },
     {
-      "id": "references_count",
-      "label": "References Count",
-      "category": "accessible_essential",
-      "effort": "voluntary",
-      "crossref": 0.9888181818181818,
-      "openalex": 0.9989199758984095,
-      "gap": 0.01010179408022771,
-      "samples": [
-        {
-          "doi": "10.1371/10.1371/currents.dis.79dc64efd8e2af3488a126afa464c5d7",
-          "title": "Support Needs for Canadian Health Providers Responding to Disaster: New Insights from a Grounded Theory Approach"
-        },
-        {
-          "doi": "10.1371/currents.eogt.8b0b6fffc7b999b34bc4c8152edbf237",
-          "title": "Use of ChemoFx® for Identification of Effective Treatments in Epithelial Ovarian Cancer"
-        },
-        {
-          "doi": "10.1371/journal.pntd.0003613",
-          "title": "Correction: Evaluation of the Diagnostic Accuracy of Prototype Rapid Tests for Human African Trypanosomiasis"
-        },
-        {
-          "doi": "10.1371/journal.ppat.1004718",
-          "title": "Correction: Hepatitis B Virus Infection and Immunopathogenesis in a Humanized Mouse Model: Induction of Human-Specific Liver Fibrosis and M2-Like Macrophages"
-        },
-        {
-          "doi": "10.1371/journal.pone.0117621",
-          "title": "Correction: Genome and Transcriptome Analysis of the Fungal Pathogen Fusarium oxysporum f. sp. cubense Causing Banana Vascular Wilt Disease"
-        }
-      ]
-    },
-    {
-      "id": "is_referenced_by",
-      "label": "Is Referenced By",
-      "category": "accessible_essential",
-      "effort": "automatic",
-      "crossref": 0.9110681818181818,
-      "openalex": 0.9183047032207455,
-      "gap": 0.0072365214025637,
-      "samples": [
-        {
-          "doi": "10.1371/10.1371/currents.dis.79dc64efd8e2af3488a126afa464c5d7",
-          "title": "Support Needs for Canadian Health Providers Responding to Disaster: New Insights from a Grounded Theory Approach"
-        },
-        {
-          "doi": "10.1371/journal.ppat.1004718",
-          "title": "Correction: Hepatitis B Virus Infection and Immunopathogenesis in a Humanized Mouse Model: Induction of Human-Specific Liver Fibrosis and M2-Like Macrophages"
-        },
-        {
-          "doi": "10.1371/journal.pone.0118636",
-          "title": "Correction: Histidine-Rich Glycoprotein Uptake and Turnover Is Mediated by Mononuclear Phagocytes"
-        },
-        {
-          "doi": "10.1371/10.1371/currents.md.28266819ca0ec5fefcac767ea9a3461c",
-          "title": "The FVB Background Does Not Dramatically Alter the Dystrophic Phenotype of Mdx Mice"
-        },
-        {
-          "doi": "10.1371/10.1371/currents.tol.8f3c6526c49b136b98ec28e00b570a1e",
-          "title": "Visualising Geophylogenies in Web Maps Using GeoJSON"
-        }
-      ]
-    },
-    {
-      "id": "author_sequence",
-      "label": "Author Sequence",
-      "category": "accessible_support",
-      "effort": "automatic",
-      "crossref": 0.9998068181818182,
-      "openalex": 0.9998408385534499,
-      "gap": 0.00003402037163169336,
-      "samples": [
-        {
-          "doi": "10.1371/journal.pone.0174259",
-          "title": "PLOS ONE 2016 Reviewer and Editorial Board Thank You"
-        },
-        {
-          "doi": "10.1371/journal.pone.0194158",
-          "title": "PLOS ONE 2017 Reviewer and Editorial Board Thank You"
-        },
-        {
-          "doi": "10.1371/journal.pntd.0007252",
-          "title": "PLOS Neglected Tropical Diseases 2018 Reviewer and Editorial Board Thank You"
-        }
-      ]
-    },
-    {
       "id": "affiliation_ids_ror",
       "label": "Affiliation IDs (ROR)",
       "category": "accessible_support",
@@ -3406,37 +2877,6 @@
       "crossref": 0,
       "openalex": 0.9556280624367618,
       "gap": 0.9556280624367618,
-      "samples": [
-        {
-          "doi": "10.1371/journal.pone.0117987",
-          "title": "STBase: One Million Species Trees for Comparative Biology"
-        },
-        {
-          "doi": "10.1371/journal.pone.0117249",
-          "title": "Myc-Induced Liver Tumors in Transgenic Zebrafish Can Regress in tp53 Null Mutation"
-        },
-        {
-          "doi": "10.1371/journal.pone.0120206",
-          "title": "Statistical Properties of Pairwise Distances between Leaves on a Random Yule Tree"
-        },
-        {
-          "doi": "10.1371/journal.pone.0116088",
-          "title": "Characterization of Fetal Antigen 1/Delta-Like 1 Homologue Expressing Cells in the Rat Nigrostriatal System: Effects of a Unilateral 6-Hydroxydopamine Lesion"
-        },
-        {
-          "doi": "10.1371/journal.pone.0119631",
-          "title": "GRYFUN: A Web Application for GO Term Annotation Visualization and Analysis in Protein Sets"
-        }
-      ]
-    },
-    {
-      "id": "relations",
-      "label": "Relations",
-      "category": "accessible_support",
-      "effort": "voluntary",
-      "crossref": 0.135875,
-      "openalex": 0.9729539227612237,
-      "gap": 0.8370789227612238,
       "samples": [
         {
           "doi": "10.1371/journal.pone.0117987",
@@ -3492,37 +2932,6 @@
       ]
     },
     {
-      "id": "affiliation_ror",
-      "label": "Affiliation with ROR",
-      "category": "evaluation_coara",
-      "effort": "voluntary",
-      "crossref": 0,
-      "openalex": 0.9556280624367618,
-      "gap": 0.9556280624367618,
-      "samples": [
-        {
-          "doi": "10.1371/journal.pone.0117987",
-          "title": "STBase: One Million Species Trees for Comparative Biology"
-        },
-        {
-          "doi": "10.1371/journal.pone.0117249",
-          "title": "Myc-Induced Liver Tumors in Transgenic Zebrafish Can Regress in tp53 Null Mutation"
-        },
-        {
-          "doi": "10.1371/journal.pone.0120206",
-          "title": "Statistical Properties of Pairwise Distances between Leaves on a Random Yule Tree"
-        },
-        {
-          "doi": "10.1371/journal.pone.0116088",
-          "title": "Characterization of Fetal Antigen 1/Delta-Like 1 Homologue Expressing Cells in the Rat Nigrostriatal System: Effects of a Unilateral 6-Hydroxydopamine Lesion"
-        },
-        {
-          "doi": "10.1371/journal.pone.0119631",
-          "title": "GRYFUN: A Web Application for GO Term Annotation Visualization and Analysis in Protein Sets"
-        }
-      ]
-    },
-    {
       "id": "funding_complete",
       "label": "Complete Funding Info",
       "category": "evaluation_coara",
@@ -3550,37 +2959,6 @@
         {
           "doi": "10.1371/journal.pone.0119780",
           "title": "Different Associations of CD45 Isoforms with STAT3, PKC and ERK Regulate IL-6-Induced Proliferation in Myeloma"
-        }
-      ]
-    },
-    {
-      "id": "preprint_version_link",
-      "label": "Preprint / Version Link",
-      "category": "evaluation_coara",
-      "effort": "voluntary",
-      "crossref": 0.07015909090909091,
-      "openalex": 0.9963051807050852,
-      "gap": 0.9261460897959943,
-      "samples": [
-        {
-          "doi": "10.1371/journal.pone.0117987",
-          "title": "STBase: One Million Species Trees for Comparative Biology"
-        },
-        {
-          "doi": "10.1371/journal.pone.0117249",
-          "title": "Myc-Induced Liver Tumors in Transgenic Zebrafish Can Regress in tp53 Null Mutation"
-        },
-        {
-          "doi": "10.1371/journal.pone.0120206",
-          "title": "Statistical Properties of Pairwise Distances between Leaves on a Random Yule Tree"
-        },
-        {
-          "doi": "10.1371/journal.pone.0116088",
-          "title": "Characterization of Fetal Antigen 1/Delta-Like 1 Homologue Expressing Cells in the Rat Nigrostriatal System: Effects of a Unilateral 6-Hydroxydopamine Lesion"
-        },
-        {
-          "doi": "10.1371/journal.pone.0119631",
-          "title": "GRYFUN: A Web Application for GO Term Annotation Visualization and Analysis in Protein Sets"
         }
       ]
     },

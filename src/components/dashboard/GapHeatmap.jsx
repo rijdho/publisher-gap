@@ -67,7 +67,7 @@ function SampleModal({ field, publisher, samples, crossref, openalex, onClose })
           </button>
         </div>
         <p className="text-xs mb-3" style={{ color: "var(--color-text-muted)" }}>
-          Sample articles where OpenAlex has this field but Crossref does not (gap examples):
+          Examples of articles whose Crossref record does not have this field while their OpenAlex record has it:
         </p>
         <table className="w-full text-xs">
           <thead>

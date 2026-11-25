@@ -8,16 +8,16 @@
   "totalWorksMatched": 11696,
   "totalWorksUniverse": 11715,
   "crossref": {
-    "overall": 0.38502117633871796,
+    "overall": 0.3830751475488991,
     "categories": {
-      "findable_essential": 0.6350618864703371,
-      "findable_support": 0.4370542816125403,
+      "findable_essential": 0.635054773082942,
+      "findable_support": 0.42409498312187177,
       "accessible_essential": 0.30975482524778297,
       "accessible_support": 0.2615877080665813,
       "evaluation_coara": 0.12673495518565941
     },
     "fields": {
-      "title": 0.9863422962014511,
+      "title": 0.9862569355527102,
       "abstract": 0.5703798548868971,
       "author": 0.9991463935125907,
       "author_affiliation": 0,
@@ -34,9 +34,9 @@
       "funder_doi": 0,
       "award_number": 0,
       "issn": 1,
-      "volume": 0.7335894152795561,
+      "volume": 0.5912078531796842,
       "issue": 0.8990183525394793,
-      "page": 0.6635936833119932,
+      "page": 0.6634229620145113,
       "published_print_date": 0,
       "published_online_date": 1,
       "article_number": 0,
@@ -68,16 +68,16 @@
     }
   },
   "openalex": {
-    "overall": 0.6084211083129517,
+    "overall": 0.6084189708300515,
     "categories": {
-      "findable_essential": 0.8494285795713635,
+      "findable_essential": 0.8494214546283629,
       "findable_support": 0.5709488869543589,
       "accessible_essential": 0.6367324061407509,
       "accessible_support": 0.46580027359781123,
       "evaluation_coara": 0.31093536251709986
     },
     "fields": {
-      "title": 0.9863201094391245,
+      "title": 0.986234610123119,
       "abstract": 0.7662448700410397,
       "author": 0.9992305061559508,
       "author_affiliation": 0.8655095759233926,
@@ -127,79 +127,79 @@
       "open_access_status": 0.9999145006839946
     }
   },
-  "gap": 0.22339993197423375,
+  "gap": 0.22534382328115238,
   "comparable": {
     "crossref": {
       "categories": {
-        "findable_essential": 0.6350618864703371,
-        "findable_support": 0.48075970977379434,
-        "accessible_essential": 0.34847417840375583,
-        "accessible_support": 0.3330487978375302,
-        "evaluation_coara": 0.25346991037131883
+        "findable_essential": 0.6927870251813913,
+        "findable_support": 0.5235778306200841,
+        "accessible_essential": 0.38437900128040975,
+        "accessible_support": 0,
+        "evaluation_coara": 0.4224498506188647
       },
-      "overall": 0.433749928866126
+      "overall": 0.4669575025913054
     },
     "openalex": {
       "categories": {
-        "findable_essential": 0.8494285795713635,
-        "findable_support": 0.6280437756497947,
-        "accessible_essential": 0.7163239569083447,
-        "accessible_support": 0.9316005471956225,
-        "evaluation_coara": 0.6218707250341997
+        "findable_essential": 0.8357791319487625,
+        "findable_support": 0.6090971272229823,
+        "accessible_essential": 0.7821477428180574,
+        "accessible_support": 0.8651675786593708,
+        "evaluation_coara": 0.6682911536707706
       },
-      "overall": 0.7456503291723666
+      "overall": 0.7578102329726817
     },
-    "gap": 0.3119004003062406,
-    "fieldCount": 38,
+    "gap": 0.29085273038137627,
+    "fieldCount": 26,
     "totalFieldCount": 48
   },
   "voluntary": {
     "crossref": {
       "categories": {
-        "findable_essential": 0.14259496372172428,
-        "findable_support": 0.12784891165172857,
-        "accessible_essential": 0.08957177407881634,
+        "findable_essential": 0.19012661829563238,
+        "findable_support": 0.1704652155356381,
+        "accessible_essential": 0.1343576611182245,
         "accessible_support": 0,
         "evaluation_coara": 0
       },
-      "overall": 0.08434876938398066
+      "overall": 0.11619718309859155
     },
     "openalex": {
       "categories": {
-        "findable_essential": 0.661999829001368,
-        "findable_support": 0.2447204172366621,
-        "accessible_essential": 0.590999772001824,
-        "accessible_support": 0.8977855677154583,
-        "evaluation_coara": 0.37006953944368454
+        "findable_essential": 0.5495041039671683,
+        "findable_support": 0.3207079343365253,
+        "accessible_essential": 0.6501795485636115,
+        "accessible_support": 0.8651675786593708,
+        "evaluation_coara": 0.005728454172366621
       },
-      "overall": 0.5468504189466484
+      "overall": 0.46316475718194255
     },
-    "gap": 0.46250164956266776,
-    "fieldCount": 16
+    "gap": 0.346967574083351,
+    "fieldCount": 10
   },
   "automatic": {
     "crossref": {
       "categories": {
-        "findable_essential": 0.8812953478446436,
-        "findable_support": 0.7160335751885047,
-        "accessible_essential": 0.5038156209987196,
-        "accessible_support": 0.9991463935125907,
+        "findable_essential": 0.881284677763551,
+        "findable_support": 0.7884122919334187,
+        "accessible_essential": 0.6344003414425949,
+        "accessible_support": 0,
         "evaluation_coara": 0.633674775928297
       },
-      "overall": 0.7243971404182672
+      "overall": 0.6679822876653863
     },
     "openalex": {
       "categories": {
-        "findable_essential": 0.9431429548563611,
-        "findable_support": 0.8835926812585498,
-        "accessible_essential": 0.7915184678522572,
-        "accessible_support": 0.9992305061559508,
+        "findable_essential": 0.9431322674418604,
+        "findable_support": 0.8253890218878248,
+        "accessible_essential": 0.9141159370725034,
+        "accessible_support": 0,
         "evaluation_coara": 0.9995725034199727
       },
-      "overall": 0.9131989569083448
+      "overall": 0.8351915184678522
     },
-    "gap": 0.18880181649007766,
-    "fieldCount": 22
+    "gap": 0.16720923080246597,
+    "fieldCount": 16
   },
   "yearlyScores": [
     {
@@ -208,10 +208,10 @@
       "matched": 946,
       "universeSize": 947,
       "crossref": {
-        "overall": 0.33322944332448035,
+        "overall": 0.3270088423837104,
         "categories": {
           "findable_essential": 0.6147483280535023,
-          "findable_support": 0.38417970624940007,
+          "findable_support": 0.34270903331093405,
           "accessible_essential": 0.19629238531033677,
           "accessible_support": 0.2147131291798662,
           "evaluation_coara": 0.10316789862724392
@@ -234,7 +234,7 @@
           "funder_doi": 0,
           "award_number": 0,
           "issn": 1,
-          "volume": 0.8996832101372756,
+          "volume": 0.44350580781414994,
           "issue": 0.9609292502639916,
           "page": 0.36219640971488914,
           "published_print_date": 0,
@@ -330,29 +330,29 @@
       "comparable": {
         "crossref": {
           "categories": {
-            "findable_essential": 0.6147483280535023,
-            "findable_support": 0.4225976768743401,
-            "accessible_essential": 0.22082893347412885,
-            "accessible_support": 0.332277367124252,
-            "evaluation_coara": 0.20633579725448783
+            "findable_essential": 0.6706345396947297,
+            "findable_support": 0.3956856237743249,
+            "accessible_essential": 0.2674234424498416,
+            "accessible_support": 0,
+            "evaluation_coara": 0.34389299542414636
           },
-          "overall": 0.37751627947905664
+          "overall": 0.3961776651718574
         },
         "openalex": {
           "categories": {
-            "findable_essential": 0.8644291754756871,
-            "findable_support": 0.5974630021141649,
-            "accessible_essential": 0.7267441860465117,
-            "accessible_support": 0.9408033826638477,
-            "evaluation_coara": 0.6150105708245243
+            "findable_essential": 0.8522006534691524,
+            "findable_support": 0.5653881002718212,
+            "accessible_essential": 0.7846194503171248,
+            "accessible_support": 0.861522198731501,
+            "evaluation_coara": 0.6670190274841437
           },
-          "overall": 0.7477167019027484
+          "overall": 0.756179299030779
         },
-        "gap": 0.3702004224236918
+        "gap": 0.3600016338589216
       },
       "voluntary": {
-        "crossref": 0.024881203801478353,
-        "openalex": 0.5367908738548274
+        "crossref": 0.03365892291446673,
+        "openalex": 0.45248414376321355
       }
     },
     {
@@ -361,16 +361,16 @@
       "matched": 2514,
       "universeSize": 2516,
       "crossref": {
-        "overall": 0.319795008912656,
+        "overall": 0.3135468155321096,
         "categories": {
-          "findable_essential": 0.6010863804981452,
-          "findable_support": 0.36656308715132246,
+          "findable_essential": 0.6010532591414944,
+          "findable_support": 0.32497470732764855,
           "accessible_essential": 0.17726550079491254,
           "accessible_support": 0.19667461579226284,
           "evaluation_coara": 0.1025039745627981
         },
         "fields": {
-          "title": 1,
+          "title": 0.9996025437201908,
           "abstract": 0.18044515103338632,
           "author": 0.9996025437201908,
           "author_affiliation": 0,
@@ -387,7 +387,7 @@
           "funder_doi": 0,
           "award_number": 0,
           "issn": 1,
-          "volume": 0.8676470588235294,
+          "volume": 0.41017488076311603,
           "issue": 0.8493640699523053,
           "page": 0.3143879173290938,
           "published_print_date": 0,
@@ -421,16 +421,16 @@
         }
       },
       "openalex": {
-        "overall": 0.5556994366898902,
+        "overall": 0.5556894923780366,
         "categories": {
-          "findable_essential": 0.8280297003447362,
+          "findable_essential": 0.8279965526385574,
           "findable_support": 0.5020611846387503,
           "accessible_essential": 0.5175461858039424,
           "accessible_support": 0.4529965526385575,
           "evaluation_coara": 0.28647573587907715
         },
         "fields": {
-          "title": 1,
+          "title": 0.9996022275258553,
           "abstract": 0.5469371519490851,
           "author": 1,
           "author_affiliation": 0.7430389817024662,
@@ -483,29 +483,29 @@
       "comparable": {
         "crossref": {
           "categories": {
-            "findable_essential": 0.6010863804981452,
-            "findable_support": 0.4032193958664547,
-            "accessible_essential": 0.19942368839427663,
-            "accessible_support": 0.33320084790673027,
-            "evaluation_coara": 0.2050079491255962
+            "findable_essential": 0.6556944645179938,
+            "findable_support": 0.367817397229162,
+            "accessible_essential": 0.2627186009538951,
+            "accessible_support": 0,
+            "evaluation_coara": 0.341679915209327
           },
-          "overall": 0.36498642024377326
+          "overall": 0.3858965822201116
         },
         "openalex": {
           "categories": {
-            "findable_essential": 0.8280297003447362,
-            "findable_support": 0.5522673031026253,
-            "accessible_essential": 0.5822394590294352,
-            "accessible_support": 0.905993105277115,
-            "evaluation_coara": 0.5729514717581543
+            "findable_essential": 0.812359875605699,
+            "findable_support": 0.5019888623707239,
+            "accessible_essential": 0.6463802704852825,
+            "accessible_support": 0.7430389817024662,
+            "evaluation_coara": 0.6671970299655264
           },
-          "overall": 0.6819984752055159
+          "overall": 0.6883446638219909
         },
-        "gap": 0.3170120549617427
+        "gap": 0.3024480816018793
       },
       "voluntary": {
-        "crossref": 0.015682962374138843,
-        "openalex": 0.42733194112967376
+        "crossref": 0.02126391096979332,
+        "openalex": 0.34082140015910894
       }
     },
     {
@@ -514,10 +514,10 @@
       "matched": 971,
       "universeSize": 971,
       "crossref": {
-        "overall": 0.35095845166391,
+        "overall": 0.3497647432096454,
         "categories": {
           "findable_essential": 0.6289907312049434,
-          "findable_support": 0.38554442467933714,
+          "findable_support": 0.37758636831757325,
           "accessible_essential": 0.23801350268909482,
           "accessible_support": 0.24287675935461725,
           "evaluation_coara": 0.1031925849639547
@@ -540,7 +540,7 @@
           "funder_doi": 0,
           "award_number": 0,
           "issn": 1,
-          "volume": 0.7662203913491246,
+          "volume": 0.678681771369722,
           "issue": 0.9052523171987642,
           "page": 0.5520082389289392,
           "published_print_date": 0,
@@ -636,29 +636,29 @@
       "comparable": {
         "crossref": {
           "categories": {
-            "findable_essential": 0.6289907312049434,
-            "findable_support": 0.42409886714727085,
-            "accessible_essential": 0.2677651905252317,
-            "accessible_support": 0.33299004462753173,
-            "evaluation_coara": 0.2063851699279094
+            "findable_essential": 0.6861717067690292,
+            "findable_support": 0.4504928644990437,
+            "accessible_essential": 0.26699279093717815,
+            "accessible_support": 0,
+            "evaluation_coara": 0.3439752832131823
           },
-          "overall": 0.39382938551321667
+          "overall": 0.4089686960824963
         },
         "openalex": {
           "categories": {
-            "findable_essential": 0.8609680741503604,
-            "findable_support": 0.5987641606591143,
-            "accessible_essential": 0.721292481977343,
-            "accessible_support": 0.965671129419842,
-            "evaluation_coara": 0.6494335736354274
+            "findable_essential": 0.8483288081640297,
+            "findable_support": 0.5670148594968368,
+            "accessible_essential": 0.7837281153450051,
+            "accessible_support": 0.9279093717816684,
+            "evaluation_coara": 0.6687263989014761
           },
-          "overall": 0.7548819945073807
+          "overall": 0.7620191171684478
         },
-        "gap": 0.361052608994164
+        "gap": 0.3530504210859515
       },
       "voluntary": {
-        "crossref": 0.03786045314109166,
-        "openalex": 0.5520554411259869
+        "crossref": 0.050952626158599384,
+        "openalex": 0.4573635427394439
       }
     },
     {
@@ -789,29 +789,29 @@
       "comparable": {
         "crossref": {
           "categories": {
-            "findable_essential": 0.6465480728504871,
-            "findable_support": 0.4570520965692503,
-            "accessible_essential": 0.3287801778907243,
-            "accessible_support": 0.3312155866158408,
-            "evaluation_coara": 0.2282083862770013
+            "findable_essential": 0.7053251703823495,
+            "findable_support": 0.5100744236703576,
+            "accessible_essential": 0.3236975857687421,
+            "accessible_support": 0,
+            "evaluation_coara": 0.3803473104616688
           },
-          "overall": 0.42348051673019904
+          "overall": 0.4451025731997778
         },
         "openalex": {
           "categories": {
-            "findable_essential": 0.8500635324015248,
-            "findable_support": 0.6331639135959339,
-            "accessible_essential": 0.7620711562897078,
-            "accessible_support": 0.9534095722151631,
-            "evaluation_coara": 0.6635324015247777
+            "findable_essential": 0.8364329444380268,
+            "findable_support": 0.6162642947903431,
+            "accessible_essential": 0.8160736975857688,
+            "accessible_support": 0.8843710292249047,
+            "evaluation_coara": 0.6653960186361711
           },
-          "overall": 0.7685588733587463
+          "overall": 0.7689042585961264
         },
-        "gap": 0.34507835662854724
+        "gap": 0.3238016853963486
       },
       "voluntary": {
-        "crossref": 0.0646018636171114,
-        "openalex": 0.5803949597628124
+        "crossref": 0.08818297331639136,
+        "openalex": 0.4772554002541296
       }
     },
     {
@@ -820,10 +820,10 @@
       "matched": 754,
       "universeSize": 755,
       "crossref": {
-        "overall": 0.3902477088768479,
+        "overall": 0.3902115860592682,
         "categories": {
           "findable_essential": 0.6449227373068432,
-          "findable_support": 0.40830824804334737,
+          "findable_support": 0.4080674292594823,
           "accessible_essential": 0.3330389992641648,
           "accessible_support": 0.271523178807947,
           "evaluation_coara": 0.12556291390728477
@@ -848,7 +848,7 @@
           "issn": 1,
           "volume": 0.6357615894039735,
           "issue": 0.8754966887417218,
-          "page": 0.7708609271523179,
+          "page": 0.7682119205298014,
           "published_print_date": 0,
           "published_online_date": 1,
           "article_number": 0,
@@ -942,29 +942,29 @@
       "comparable": {
         "crossref": {
           "categories": {
-            "findable_essential": 0.6449227373068432,
-            "findable_support": 0.4491390728476821,
-            "accessible_essential": 0.3746688741721854,
-            "accessible_support": 0.3333333333333333,
-            "evaluation_coara": 0.25112582781456955
+            "findable_essential": 0.7035520770620107,
+            "findable_support": 0.498391674550615,
+            "accessible_essential": 0.37781456953642384,
+            "accessible_support": 0,
+            "evaluation_coara": 0.4185430463576159
           },
-          "overall": 0.4380733995584989
+          "overall": 0.4639866259568246
         },
         "openalex": {
           "categories": {
-            "findable_essential": 0.8505747126436779,
-            "findable_support": 0.6283819628647215,
-            "accessible_essential": 0.8002320954907163,
-            "accessible_support": 0.9407603890362511,
-            "evaluation_coara": 0.6458885941644563
+            "findable_essential": 0.8369905956112852,
+            "findable_support": 0.6091322470632815,
+            "accessible_essential": 0.8584217506631299,
+            "accessible_support": 0.8461538461538461,
+            "evaluation_coara": 0.6688770999115826
           },
-          "overall": 0.7727414898320071
+          "overall": 0.7754632580063614
         },
-        "gap": 0.3346680902735082
+        "gap": 0.3114766320495368
       },
       "voluntary": {
-        "crossref": 0.07633554083885209,
-        "openalex": 0.5925011052166225
+        "crossref": 0.10533112582781455,
+        "openalex": 0.4937997347480106
       }
     },
     {
@@ -1095,29 +1095,29 @@
       "comparable": {
         "crossref": {
           "categories": {
-            "findable_essential": 0.6407074973600845,
-            "findable_support": 0.4917634635691658,
-            "accessible_essential": 0.3633843717001056,
-            "accessible_support": 0.3333333333333333,
-            "evaluation_coara": 0.24477296726504752
+            "findable_essential": 0.6989536334837285,
+            "findable_support": 0.559662090813094,
+            "accessible_essential": 0.3621964097148891,
+            "accessible_support": 0,
+            "evaluation_coara": 0.4079549454417459
           },
-          "overall": 0.4391107884547694
+          "overall": 0.46577549518415406
         },
         "openalex": {
           "categories": {
-            "findable_essential": 0.8447971781305114,
-            "findable_support": 0.6647619047619048,
-            "accessible_essential": 0.8092592592592591,
-            "accessible_support": 0.9721340388007054,
-            "evaluation_coara": 0.6708994708994709
+            "findable_essential": 0.8306878306878307,
+            "findable_support": 0.6622826908541194,
+            "accessible_essential": 0.8650793650793651,
+            "accessible_support": 0.928042328042328,
+            "evaluation_coara": 0.6673721340388008
           },
-          "overall": 0.7868615520282185
+          "overall": 0.7910972537163015
         },
-        "gap": 0.3477507635734491
+        "gap": 0.3253217585321474
       },
       "voluntary": {
-        "crossref": 0.08454769447377683,
-        "openalex": 0.6221869488536156
+        "crossref": 0.11583949313621963,
+        "openalex": 0.5208201058201058
       }
     },
     {
@@ -1248,29 +1248,29 @@
       "comparable": {
         "crossref": {
           "categories": {
-            "findable_essential": 0.6511721258831086,
-            "findable_support": 0.5066473988439306,
-            "accessible_essential": 0.41148843930635837,
-            "accessible_support": 0.3333333333333333,
-            "evaluation_coara": 0.27302504816955686
+            "findable_essential": 0.710369591872482,
+            "findable_support": 0.5809248554913294,
+            "accessible_essential": 0.4325626204238921,
+            "accessible_support": 0,
+            "evaluation_coara": 0.4550417469492614
           },
-          "overall": 0.4621592003853564
+          "overall": 0.49939861038126937
         },
         "openalex": {
           "categories": {
-            "findable_essential": 0.8588878174220508,
-            "findable_support": 0.6790742526518805,
-            "accessible_essential": 0.8266634522661523,
-            "accessible_support": 0.9633558341369334,
-            "evaluation_coara": 0.6295081967213114
+            "findable_essential": 0.8460594371876918,
+            "findable_support": 0.6817743490838959,
+            "accessible_essential": 0.8818707810993249,
+            "accessible_support": 0.9026036644165863,
+            "evaluation_coara": 0.6685953069752492
           },
-          "overall": 0.7884305689488911
+          "overall": 0.8005311066304317
         },
-        "gap": 0.32627136856353467
+        "gap": 0.30113249624916233
       },
       "voluntary": {
-        "crossref": 0.10369299935773924,
-        "openalex": 0.6255544840887174
+        "crossref": 0.14332851637764932,
+        "openalex": 0.5367647058823528
       }
     },
     {
@@ -1401,29 +1401,29 @@
       "comparable": {
         "crossref": {
           "categories": {
-            "findable_essential": 0.6511582253631724,
-            "findable_support": 0.5396937573616019,
-            "accessible_essential": 0.46554770318021205,
-            "accessible_support": 0.3333333333333333,
-            "evaluation_coara": 0.29988221436984686
+            "findable_essential": 0.7103544276689153,
+            "findable_support": 0.6281339390880027,
+            "accessible_essential": 0.4997055359246172,
+            "accessible_support": 0,
+            "evaluation_coara": 0.49980369061641144
           },
-          "overall": 0.48599823321554764
+          "overall": 0.5322135412683116
         },
         "openalex": {
           "categories": {
-            "findable_essential": 0.8655660377358491,
-            "findable_support": 0.6849056603773584,
-            "accessible_essential": 0.8132370283018869,
-            "accessible_support": 0.9658018867924528,
-            "evaluation_coara": 0.6580188679245282
+            "findable_essential": 0.8533447684391081,
+            "findable_support": 0.6896900269541779,
+            "accessible_essential": 0.8632075471698113,
+            "accessible_support": 0.9139150943396226,
+            "evaluation_coara": 0.6694182389937108
           },
-          "overall": 0.793898879716981
+          "overall": 0.8005339786000164
         },
-        "gap": 0.3079006465014334
+        "gap": 0.26832043733170485
       },
       "voluntary": {
-        "crossref": 0.13538967412642322,
-        "openalex": 0.6376474056603774
+        "crossref": 0.18745583038869257,
+        "openalex": 0.5406544811320755
       }
     },
     {
@@ -1554,29 +1554,29 @@
       "comparable": {
         "crossref": {
           "categories": {
-            "findable_essential": 0.6505011315874556,
-            "findable_support": 0.5410281280310378,
-            "accessible_essential": 0.47793404461687683,
-            "accessible_support": 0.3333333333333333,
-            "evaluation_coara": 0.3092143549951503
+            "findable_essential": 0.709637598095406,
+            "findable_support": 0.6300401829014827,
+            "accessible_essential": 0.5230358874878758,
+            "accessible_support": 0,
+            "evaluation_coara": 0.5153572583252505
           },
-          "overall": 0.4909642741674749
+          "overall": 0.5412277304008632
         },
         "openalex": {
           "categories": {
-            "findable_essential": 0.8639967637540452,
-            "findable_support": 0.6744660194174756,
-            "accessible_essential": 0.7800970873786407,
-            "accessible_support": 0.963430420711974,
-            "evaluation_coara": 0.6306796116504854
+            "findable_essential": 0.8516328331862314,
+            "findable_support": 0.6739251040221914,
+            "accessible_essential": 0.8415048543689321,
+            "accessible_support": 0.9116504854368932,
+            "evaluation_coara": 0.6708737864077671
           },
-          "overall": 0.7778721682847896
+          "overall": 0.792294634976674
         },
-        "gap": 0.28690789411731465
+        "gap": 0.2510669045758107
       },
       "voluntary": {
-        "crossref": 0.14436631102489492,
-        "openalex": 0.6200080906148868
+        "crossref": 0.20007274490785643,
+        "openalex": 0.5326699029126214
       }
     },
     {
@@ -1707,29 +1707,29 @@
       "comparable": {
         "crossref": {
           "categories": {
-            "findable_essential": 0.6563774564330738,
-            "findable_support": 0.5826473859844271,
-            "accessible_essential": 0.48581757508342605,
-            "accessible_support": 0.3333333333333333,
-            "evaluation_coara": 0.3170189098998888
+            "findable_essential": 0.716048134290626,
+            "findable_support": 0.6894962656920388,
+            "accessible_essential": 0.5436596218020022,
+            "accessible_support": 0,
+            "evaluation_coara": 0.528364849833148
           },
-          "overall": 0.5025018539117538
+          "overall": 0.5598267555581238
         },
         "openalex": {
           "categories": {
-            "findable_essential": 0.8688219992567818,
-            "findable_support": 0.6809364548494983,
-            "accessible_essential": 0.6861761426978817,
-            "accessible_support": 0.9583797844667411,
-            "evaluation_coara": 0.6073578595317726
+            "findable_essential": 0.8568967264619439,
+            "findable_support": 0.68434464086638,
+            "accessible_essential": 0.7775919732441472,
+            "accessible_support": 0.907469342251951,
+            "evaluation_coara": 0.6692679301374954
           },
-          "overall": 0.7516406540319582
+          "overall": 0.7787192276322712
         },
-        "gap": 0.2491388001202044
+        "gap": 0.21889247207414742
       },
       "voluntary": {
-        "crossref": 0.16916017797552838,
-        "openalex": 0.5591276477146042
+        "crossref": 0.23370411568409344,
+        "openalex": 0.4977703455964326
       }
     },
     {
@@ -1860,29 +1860,29 @@
       "comparable": {
         "crossref": {
           "categories": {
-            "findable_essential": 0.658974358974359,
-            "findable_support": 0.5901538461538461,
-            "accessible_essential": 0.48602564102564105,
-            "accessible_support": 0.3333333333333333,
-            "evaluation_coara": 0.3230769230769231
+            "findable_essential": 0.7188811188811189,
+            "findable_support": 0.7002197802197802,
+            "accessible_essential": 0.5592307692307692,
+            "accessible_support": 0,
+            "evaluation_coara": 0.5384615384615384
           },
-          "overall": 0.5056705128205128
+          "overall": 0.5681973026973026
         },
         "openalex": {
           "categories": {
-            "findable_essential": 0.8241123750430885,
-            "findable_support": 0.6409513960703206,
-            "accessible_essential": 0.6129782833505687,
-            "accessible_support": 0.7676663219579455,
-            "evaluation_coara": 0.5917269906928645
+            "findable_essential": 0.8085926483030931,
+            "findable_support": 0.6272713842517359,
+            "accessible_essential": 0.7259565667011375,
+            "accessible_support": 0.889348500517063,
+            "evaluation_coara": 0.6697690451568424
           },
-          "overall": 0.6917330230954843
+          "overall": 0.7410463028870475
         },
-        "gap": 0.18606251027497156
+        "gap": 0.17284900018974492
       },
       "voluntary": {
-        "crossref": 0.18084615384615382,
-        "openalex": 0.4723328162702516
+        "crossref": 0.24971794871794872,
+        "openalex": 0.4527921406411582
       }
     }
   ],
@@ -1942,28 +1942,6 @@
     "publication_date": [],
     "publisher": [],
     "resource_type": [],
-    "subject_keywords": [
-      {
-        "doi": "10.5354/0719-5249.1978.36380",
-        "title": "Constitución Política del Estado de Chile 1822"
-      },
-      {
-        "doi": "10.5354/0719-5516.2014.36001",
-        "title": "El negocio jurídico, la abstracción y el Derecho Civil alemán"
-      },
-      {
-        "doi": "10.5354/0719-5516.2014.35834",
-        "title": "Presentación"
-      },
-      {
-        "doi": "10.5354/0719-0581.2014.36155",
-        "title": "Ensayos Freudianos de Juan Marín: psicoanálisis chileno a comienzos del siglo XX"
-      },
-      {
-        "doi": "10.5354/0719-5249.1978.36372",
-        "title": "Presentación"
-      }
-    ],
     "funder_name": [
       {
         "doi": "10.5354/0719-1472.2014.36207",
@@ -2053,28 +2031,6 @@
         "title": "Una revisión de Bergin and Garfield's Handbook of Psychotherapy and Behavior Change (6th Ed.)"
       }
     ],
-    "funder_doi": [
-      {
-        "doi": "10.5354/0719-1472.2014.36207",
-        "title": "Biodiversidad de peces de concheros de la bahía de ilha grande, Rio de Janeiro, Brasil"
-      },
-      {
-        "doi": "10.5354/0719-1472.2014.36205",
-        "title": "Biodiversidad de moluscos marinos del sSambaqui da tarioba, Rio das Ostras, Rio de Janeiro (Brasil)"
-      },
-      {
-        "doi": "10.5354/0719-5516.2014.36005",
-        "title": "La legitimación pasiva de los hospitales autogestionados"
-      },
-      {
-        "doi": "10.4067/s0718-83582015000100003",
-        "title": "Reconstruir con capacidad de resiliencia: El casco histórico de la ciudad de Constitución y el sitio del desastre del terremoto y tsunami del 27 de febrero 2010"
-      },
-      {
-        "doi": "10.4067/s0718-83582015000100002",
-        "title": "El paisaje urbano de emergencia en Valdivia, Chile: contribuciones a la planificación y diseño urbano post-desastre para la restauración"
-      }
-    ],
     "award_number": [
       {
         "doi": "10.5354/0719-1472.2014.36207",
@@ -2100,24 +2056,24 @@
     "issn": [],
     "volume": [
       {
-        "doi": "10.5354/0718-4360.1949.41062",
-        "title": "La filosofía de Goethe"
+        "doi": "10.5354/0719-5249.1978.36380",
+        "title": "Constitución Política del Estado de Chile 1822"
       },
       {
-        "doi": "10.5354/0718-4360.1949.41061",
-        "title": "La imagen del hombre en Goethe"
+        "doi": "10.5354/0719-5516.2014.36001",
+        "title": "El negocio jurídico, la abstracción y el Derecho Civil alemán"
       },
       {
-        "doi": "10.5354/0718-4360.1995.43184",
-        "title": "La vigilia de Diderot."
+        "doi": "10.5354/0719-5516.2014.35834",
+        "title": "Presentación"
       },
       {
-        "doi": "10.5354/0718-4360.1997.43632",
-        "title": "El error de Descartes."
+        "doi": "10.5354/0719-5249.1978.36372",
+        "title": "Presentación"
       },
       {
-        "doi": "10.5354/0718-4360.1996.43335",
-        "title": "Heidegger y la ética."
+        "doi": "10.5354/0718-4735.2014.36321",
+        "title": "La presunción de hecho como figura jurídica en el derecho procesal civil alemán"
       }
     ],
     "issue": [
@@ -2164,52 +2120,7 @@
         "title": "El noticiero televisivo como dispositivo de disciplinamiento social: un análisis de la cobertura de femicidios en Chile"
       }
     ],
-    "published_print_date": [
-      {
-        "doi": "10.5354/0719-5249.1978.36380",
-        "title": "Constitución Política del Estado de Chile 1822"
-      },
-      {
-        "doi": "10.5354/0719-5516.2014.36001",
-        "title": "El negocio jurídico, la abstracción y el Derecho Civil alemán"
-      },
-      {
-        "doi": "10.5354/0719-5516.2014.35834",
-        "title": "Presentación"
-      },
-      {
-        "doi": "10.5354/0719-0581.2014.36155",
-        "title": "Ensayos Freudianos de Juan Marín: psicoanálisis chileno a comienzos del siglo XX"
-      },
-      {
-        "doi": "10.5354/0719-5249.1978.36372",
-        "title": "Presentación"
-      }
-    ],
-    "published_online_date": [],
     "license": [
-      {
-        "doi": "10.5354/0719-5249.1978.36380",
-        "title": "Constitución Política del Estado de Chile 1822"
-      },
-      {
-        "doi": "10.5354/0719-0581.2014.36155",
-        "title": "Ensayos Freudianos de Juan Marín: psicoanálisis chileno a comienzos del siglo XX"
-      },
-      {
-        "doi": "10.5354/0719-5249.1978.36372",
-        "title": "Presentación"
-      },
-      {
-        "doi": "10.5354/0718-4735.2014.36321",
-        "title": "La presunción de hecho como figura jurídica en el derecho procesal civil alemán"
-      },
-      {
-        "doi": "10.5354/0719-5885.2014.35965",
-        "title": "Enseñar derecho de forma colaborativa. Ensayo sobre una primera experiencia"
-      }
-    ],
-    "license_url": [
       {
         "doi": "10.5354/0719-5249.1978.36380",
         "title": "Constitución Política del Estado de Chile 1822"
@@ -2253,28 +2164,6 @@
         "title": "Enseñar derecho de forma colaborativa. Ensayo sobre una primera experiencia"
       }
     ],
-    "full_text_links": [
-      {
-        "doi": "10.5354/0719-5249.1978.36380",
-        "title": "Constitución Política del Estado de Chile 1822"
-      },
-      {
-        "doi": "10.5354/0719-5516.2014.36001",
-        "title": "El negocio jurídico, la abstracción y el Derecho Civil alemán"
-      },
-      {
-        "doi": "10.5354/0719-5516.2014.35834",
-        "title": "Presentación"
-      },
-      {
-        "doi": "10.5354/0719-5249.1978.36372",
-        "title": "Presentación"
-      },
-      {
-        "doi": "10.5354/0718-4735.2014.36321",
-        "title": "La presunción de hecho como figura jurídica en el derecho procesal civil alemán"
-      }
-    ],
     "resource_url": [],
     "references": [
       {
@@ -2296,56 +2185,6 @@
       {
         "doi": "10.5354/0719-1472.2014.36286",
         "title": "Uso de la fauna al momento del contacto hispano-indígena en el río de La Plata: un aporte arqueozoológico y etnohistórico"
-      }
-    ],
-    "references_count": [
-      {
-        "doi": "10.5354/0719-0581.2014.36155",
-        "title": "Ensayos Freudianos de Juan Marín: psicoanálisis chileno a comienzos del siglo XX"
-      },
-      {
-        "doi": "10.5354/0718-4735.2014.36321",
-        "title": "La presunción de hecho como figura jurídica en el derecho procesal civil alemán"
-      },
-      {
-        "doi": "10.5354/0719-5885.2014.35965",
-        "title": "Enseñar derecho de forma colaborativa. Ensayo sobre una primera experiencia"
-      },
-      {
-        "doi": "10.5354/0719-5249.2014.36236",
-        "title": "A 20 años de la reforma constitucional de 1994. Una experiencia de Convención Nacional Constituyente"
-      },
-      {
-        "doi": "10.5354/0719-1472.2014.36286",
-        "title": "Uso de la fauna al momento del contacto hispano-indígena en el río de La Plata: un aporte arqueozoológico y etnohistórico"
-      }
-    ],
-    "is_referenced_by": [
-      {
-        "doi": "10.5354/0719-1472.2014.36219",
-        "title": "Explotación industrial de pinnípedos en la factoría de Bahía Tethis (Tierra del Fuego, Argentina): Una aproximación zooarqueológica"
-      },
-      {
-        "doi": "10.5354/0719-1529.2014.33732",
-        "title": "Prensa y sociedad en Chile, siglo XX"
-      },
-      {
-        "doi": "10.5354/0719-5249.2014.36237",
-        "title": "Oposición política e institucionalidad para el rol opositor en un régimen presidencial de gobierno"
-      },
-      {
-        "doi": "10.5354/0719-1472.2014.36272",
-        "title": "Isótopos estables en camélidos del período tardío del noroeste de Argentina (NOA): estrategias de uso y manejo de rebaños"
-      },
-      {
-        "doi": "10.5354/0719-1472.2014.36270",
-        "title": "Cueros de cueva salamanca 1 y peña de las trampas 1.1 (Antofagasta de la Sierra, Catamarca): una vía de identificación taxonómica y algo más"
-      }
-    ],
-    "author_sequence": [
-      {
-        "doi": "10.4067/s0718-43602016000100013",
-        "title": "Expediente sobre la cuestión de la enseñanza de la filosofía"
       }
     ],
     "affiliation_ids_ror": [
@@ -2370,28 +2209,6 @@
         "title": "A 20 años de la reforma constitucional de 1994. Una experiencia de Convención Nacional Constituyente"
       }
     ],
-    "relations": [
-      {
-        "doi": "10.5354/0719-5249.1978.36380",
-        "title": "Constitución Política del Estado de Chile 1822"
-      },
-      {
-        "doi": "10.5354/0719-5516.2014.36001",
-        "title": "El negocio jurídico, la abstracción y el Derecho Civil alemán"
-      },
-      {
-        "doi": "10.5354/0719-5516.2014.35834",
-        "title": "Presentación"
-      },
-      {
-        "doi": "10.5354/0719-0581.2014.36155",
-        "title": "Ensayos Freudianos de Juan Marín: psicoanálisis chileno a comienzos del siglo XX"
-      },
-      {
-        "doi": "10.5354/0719-5249.1978.36372",
-        "title": "Presentación"
-      }
-    ],
     "author_given_family": [
       {
         "doi": "10.4067/s0718-43602016000100013",
@@ -2414,28 +2231,6 @@
         "title": "II Jornada Científica Eloísa Díaz: Libro de Resúmenes 2025"
       }
     ],
-    "affiliation_ror": [
-      {
-        "doi": "10.5354/0719-5516.2014.36001",
-        "title": "El negocio jurídico, la abstracción y el Derecho Civil alemán"
-      },
-      {
-        "doi": "10.5354/0719-0581.2014.36155",
-        "title": "Ensayos Freudianos de Juan Marín: psicoanálisis chileno a comienzos del siglo XX"
-      },
-      {
-        "doi": "10.5354/0718-4735.2014.36321",
-        "title": "La presunción de hecho como figura jurídica en el derecho procesal civil alemán"
-      },
-      {
-        "doi": "10.5354/0719-5885.2014.35965",
-        "title": "Enseñar derecho de forma colaborativa. Ensayo sobre una primera experiencia"
-      },
-      {
-        "doi": "10.5354/0719-5249.2014.36236",
-        "title": "A 20 años de la reforma constitucional de 1994. Una experiencia de Convención Nacional Constituyente"
-      }
-    ],
     "funding_complete": [
       {
         "doi": "10.5354/0719-1472.2014.36207",
@@ -2456,28 +2251,6 @@
       {
         "doi": "10.4067/s0718-83582016000200002",
         "title": "Puerto Madero 'en movimiento': movilidad de políticas y modelos urbanos en América Latina (1999-2012)"
-      }
-    ],
-    "preprint_version_link": [
-      {
-        "doi": "10.5354/0719-5516.2014.36006",
-        "title": "Marco regulatorio de proyectos de generación eléctrica no convencional mediante digestión anaerobia"
-      },
-      {
-        "doi": "10.5354/0718-4735.2014.36325",
-        "title": "Problemas que enfrenta la prueba digital en los Estados Unidos de Norteamérica"
-      },
-      {
-        "doi": "10.5354/0719-1472.2014.36214",
-        "title": "Estado actual de las investigaciones tafonómicas naturalistas en Punta Entrada y Monte León (Patagonia Meridional)"
-      },
-      {
-        "doi": "10.5354/0718-4735.2014.36320",
-        "title": "El tráfico de órganos humanos. Estudio de su sanción en la legislación chilena y española"
-      },
-      {
-        "doi": "10.5354/0719-1472.2014.36222",
-        "title": "Explotación de materia prima ósea en la pampa de las Lagunas Santafesinas: el sitio laguna El Doce (Provincia de Santa Fe, Argentina)"
       }
     ],
     "open_access_status": [
@@ -2508,18 +2281,14 @@
       "doi": "10.5354/0719-5249.1978.36380",
       "title": "Constitución Política del Estado de Chile 1822",
       "year": 2015,
-      "crossrefScore": 0.3684210526315789,
-      "openalexScore": 0.6052631578947368,
-      "gap": 9,
+      "crossrefScore": 0.4230769230769231,
+      "openalexScore": 0.6153846153846154,
+      "gap": 5,
       "openalexAdds": [
-        "subject_keywords",
         "language",
-        "published_print_date",
+        "volume",
         "license",
-        "license_url",
         "open_access_license",
-        "full_text_links",
-        "relations",
         "open_access_status"
       ]
     },
@@ -2527,19 +2296,15 @@
       "doi": "10.5354/0719-5516.2014.36001",
       "title": "El negocio jurídico, la abstracción y el Derecho Civil alemán",
       "year": 2015,
-      "crossrefScore": 0.3684210526315789,
-      "openalexScore": 0.6052631578947368,
-      "gap": 10,
+      "crossrefScore": 0.4230769230769231,
+      "openalexScore": 0.6153846153846154,
+      "gap": 6,
       "openalexAdds": [
         "abstract",
         "author_affiliation",
-        "subject_keywords",
         "language",
-        "published_print_date",
-        "full_text_links",
+        "volume",
         "affiliation_ids_ror",
-        "relations",
-        "affiliation_ror",
         "open_access_status"
       ]
     },
@@ -2547,16 +2312,13 @@
       "doi": "10.5354/0719-5516.2014.35834",
       "title": "Presentación",
       "year": 2015,
-      "crossrefScore": 0.3684210526315789,
-      "openalexScore": 0.5263157894736842,
-      "gap": 7,
+      "crossrefScore": 0.4230769230769231,
+      "openalexScore": 0.5384615384615384,
+      "gap": 4,
       "openalexAdds": [
         "abstract",
-        "subject_keywords",
         "language",
-        "published_print_date",
-        "full_text_links",
-        "relations",
+        "volume",
         "open_access_status"
       ]
     },
@@ -2564,24 +2326,18 @@
       "doi": "10.5354/0719-0581.2014.36155",
       "title": "Ensayos Freudianos de Juan Marín: psicoanálisis chileno a comienzos del siglo XX",
       "year": 2015,
-      "crossrefScore": 0.42105263157894735,
-      "openalexScore": 0.8157894736842105,
-      "gap": 15,
+      "crossrefScore": 0.46153846153846156,
+      "openalexScore": 0.8076923076923077,
+      "gap": 9,
       "openalexAdds": [
         "author_affiliation",
-        "subject_keywords",
         "language",
         "author_orcid",
         "all_authors_orcid",
-        "published_print_date",
         "license",
-        "license_url",
         "open_access_license",
         "references",
-        "references_count",
         "affiliation_ids_ror",
-        "relations",
-        "affiliation_ror",
         "open_access_status"
       ]
     },
@@ -2589,18 +2345,14 @@
       "doi": "10.5354/0719-5249.1978.36372",
       "title": "Presentación",
       "year": 2015,
-      "crossrefScore": 0.3684210526315789,
-      "openalexScore": 0.6052631578947368,
-      "gap": 9,
+      "crossrefScore": 0.4230769230769231,
+      "openalexScore": 0.6153846153846154,
+      "gap": 5,
       "openalexAdds": [
-        "subject_keywords",
         "language",
-        "published_print_date",
+        "volume",
         "license",
-        "license_url",
         "open_access_license",
-        "full_text_links",
-        "relations",
         "open_access_status"
       ]
     },
@@ -2608,26 +2360,20 @@
       "doi": "10.5354/0718-4735.2014.36321",
       "title": "La presunción de hecho como figura jurídica en el derecho procesal civil alemán",
       "year": 2015,
-      "crossrefScore": 0.3684210526315789,
-      "openalexScore": 0.8157894736842105,
-      "gap": 17,
+      "crossrefScore": 0.4230769230769231,
+      "openalexScore": 0.8461538461538461,
+      "gap": 11,
       "openalexAdds": [
         "abstract",
         "author_affiliation",
-        "subject_keywords",
         "language",
         "author_orcid",
         "all_authors_orcid",
-        "published_print_date",
+        "volume",
         "license",
-        "license_url",
         "open_access_license",
-        "full_text_links",
         "references",
-        "references_count",
         "affiliation_ids_ror",
-        "relations",
-        "affiliation_ror",
         "open_access_status"
       ]
     },
@@ -2635,22 +2381,16 @@
       "doi": "10.5354/0719-5885.2014.35965",
       "title": "Enseñar derecho de forma colaborativa. Ensayo sobre una primera experiencia",
       "year": 2015,
-      "crossrefScore": 0.47368421052631576,
-      "openalexScore": 0.7894736842105263,
-      "gap": 13,
+      "crossrefScore": 0.5384615384615384,
+      "openalexScore": 0.8076923076923077,
+      "gap": 7,
       "openalexAdds": [
         "author_affiliation",
-        "subject_keywords",
         "language",
-        "published_print_date",
         "license",
-        "license_url",
         "open_access_license",
         "references",
-        "references_count",
         "affiliation_ids_ror",
-        "relations",
-        "affiliation_ror",
         "open_access_status"
       ]
     },
@@ -2658,24 +2398,18 @@
       "doi": "10.5354/0719-5249.2014.36236",
       "title": "A 20 años de la reforma constitucional de 1994. Una experiencia de Convención Nacional Constituyente",
       "year": 2015,
-      "crossrefScore": 0.3684210526315789,
-      "openalexScore": 0.7631578947368421,
-      "gap": 15,
+      "crossrefScore": 0.4230769230769231,
+      "openalexScore": 0.7692307692307693,
+      "gap": 9,
       "openalexAdds": [
         "abstract",
         "author_affiliation",
-        "subject_keywords",
         "language",
-        "published_print_date",
+        "volume",
         "license",
-        "license_url",
         "open_access_license",
-        "full_text_links",
         "references",
-        "references_count",
         "affiliation_ids_ror",
-        "relations",
-        "affiliation_ror",
         "open_access_status"
       ]
     },
@@ -2683,24 +2417,19 @@
       "doi": "10.5354/0719-5249.2014.36245",
       "title": "El vicio de la desviación de poder en los actos administrativos",
       "year": 2015,
-      "crossrefScore": 0.3684210526315789,
-      "openalexScore": 0.7631578947368421,
-      "gap": 15,
+      "crossrefScore": 0.4230769230769231,
+      "openalexScore": 0.8076923076923077,
+      "gap": 10,
       "openalexAdds": [
         "abstract",
         "author_affiliation",
-        "subject_keywords",
         "language",
         "author_orcid",
         "all_authors_orcid",
-        "published_print_date",
+        "volume",
         "license",
-        "license_url",
         "open_access_license",
-        "full_text_links",
         "affiliation_ids_ror",
-        "relations",
-        "affiliation_ror",
         "open_access_status"
       ]
     },
@@ -2708,18 +2437,14 @@
       "doi": "10.5354/0719-5249.1978.36381",
       "title": "Reseña legislativa del gobierno de O'Higgins (1817-1822)",
       "year": 2015,
-      "crossrefScore": 0.3684210526315789,
-      "openalexScore": 0.6052631578947368,
-      "gap": 9,
+      "crossrefScore": 0.4230769230769231,
+      "openalexScore": 0.6153846153846154,
+      "gap": 5,
       "openalexAdds": [
-        "subject_keywords",
         "language",
-        "published_print_date",
+        "volume",
         "license",
-        "license_url",
         "open_access_license",
-        "full_text_links",
-        "relations",
         "open_access_status"
       ]
     }
@@ -2730,9 +2455,9 @@
       "label": "Title",
       "category": "findable_essential",
       "effort": "automatic",
-      "crossref": 0.9863422962014511,
-      "openalex": 0.9863201094391245,
-      "gap": -0.000022186762326570353,
+      "crossref": 0.9862569355527102,
+      "openalex": 0.986234610123119,
+      "gap": -0.000022325429591241175,
       "samples": []
     },
     {
@@ -2851,37 +2576,6 @@
       "openalex": 1,
       "gap": 0,
       "samples": []
-    },
-    {
-      "id": "subject_keywords",
-      "label": "Subject / Keywords",
-      "category": "findable_essential",
-      "effort": "voluntary",
-      "crossref": 0,
-      "openalex": 0.9994870041039672,
-      "gap": 0.9994870041039672,
-      "samples": [
-        {
-          "doi": "10.5354/0719-5249.1978.36380",
-          "title": "Constitución Política del Estado de Chile 1822"
-        },
-        {
-          "doi": "10.5354/0719-5516.2014.36001",
-          "title": "El negocio jurídico, la abstracción y el Derecho Civil alemán"
-        },
-        {
-          "doi": "10.5354/0719-5516.2014.35834",
-          "title": "Presentación"
-        },
-        {
-          "doi": "10.5354/0719-0581.2014.36155",
-          "title": "Ensayos Freudianos de Juan Marín: psicoanálisis chileno a comienzos del siglo XX"
-        },
-        {
-          "doi": "10.5354/0719-5249.1978.36372",
-          "title": "Presentación"
-        }
-      ]
     },
     {
       "id": "funder_name",
@@ -3018,37 +2712,6 @@
       ]
     },
     {
-      "id": "funder_doi",
-      "label": "Funder DOI",
-      "category": "findable_support",
-      "effort": "voluntary",
-      "crossref": 0,
-      "openalex": 0.016757865937072503,
-      "gap": 0.016757865937072503,
-      "samples": [
-        {
-          "doi": "10.5354/0719-1472.2014.36207",
-          "title": "Biodiversidad de peces de concheros de la bahía de ilha grande, Rio de Janeiro, Brasil"
-        },
-        {
-          "doi": "10.5354/0719-1472.2014.36205",
-          "title": "Biodiversidad de moluscos marinos del sSambaqui da tarioba, Rio das Ostras, Rio de Janeiro (Brasil)"
-        },
-        {
-          "doi": "10.5354/0719-5516.2014.36005",
-          "title": "La legitimación pasiva de los hospitales autogestionados"
-        },
-        {
-          "doi": "10.4067/s0718-83582015000100003",
-          "title": "Reconstruir con capacidad de resiliencia: El casco histórico de la ciudad de Constitución y el sitio del desastre del terremoto y tsunami del 27 de febrero 2010"
-        },
-        {
-          "doi": "10.4067/s0718-83582015000100002",
-          "title": "El paisaje urbano de emergencia en Valdivia, Chile: contribuciones a la planificación y diseño urbano post-desastre para la restauración"
-        }
-      ]
-    },
-    {
       "id": "award_number",
       "label": "Award Number",
       "category": "findable_support",
@@ -3094,29 +2757,29 @@
       "label": "Volume",
       "category": "findable_support",
       "effort": "automatic",
-      "crossref": 0.7335894152795561,
+      "crossref": 0.5912078531796842,
       "openalex": 0.7348666210670315,
-      "gap": 0.0012772057874753662,
+      "gap": 0.14365876788734733,
       "samples": [
         {
-          "doi": "10.5354/0718-4360.1949.41062",
-          "title": "La filosofía de Goethe"
+          "doi": "10.5354/0719-5249.1978.36380",
+          "title": "Constitución Política del Estado de Chile 1822"
         },
         {
-          "doi": "10.5354/0718-4360.1949.41061",
-          "title": "La imagen del hombre en Goethe"
+          "doi": "10.5354/0719-5516.2014.36001",
+          "title": "El negocio jurídico, la abstracción y el Derecho Civil alemán"
         },
         {
-          "doi": "10.5354/0718-4360.1995.43184",
-          "title": "La vigilia de Diderot."
+          "doi": "10.5354/0719-5516.2014.35834",
+          "title": "Presentación"
         },
         {
-          "doi": "10.5354/0718-4360.1997.43632",
-          "title": "El error de Descartes."
+          "doi": "10.5354/0719-5249.1978.36372",
+          "title": "Presentación"
         },
         {
-          "doi": "10.5354/0718-4360.1996.43335",
-          "title": "Heidegger y la ética."
+          "doi": "10.5354/0718-4735.2014.36321",
+          "title": "La presunción de hecho como figura jurídica en el derecho procesal civil alemán"
         }
       ]
     },
@@ -3156,9 +2819,9 @@
       "label": "Page",
       "category": "findable_support",
       "effort": "automatic",
-      "crossref": 0.6635936833119932,
+      "crossref": 0.6634229620145113,
       "openalex": 0.6665526675786594,
-      "gap": 0.002958984266666187,
+      "gap": 0.0031297055641480442,
       "samples": [
         {
           "doi": "10.5354/0719-1529.2014.33732",
@@ -3183,80 +2846,8 @@
       ]
     },
     {
-      "id": "published_print_date",
-      "label": "Published Print Date",
-      "category": "findable_support",
-      "effort": "automatic",
-      "crossref": 0,
-      "openalex": 1,
-      "gap": 1,
-      "samples": [
-        {
-          "doi": "10.5354/0719-5249.1978.36380",
-          "title": "Constitución Política del Estado de Chile 1822"
-        },
-        {
-          "doi": "10.5354/0719-5516.2014.36001",
-          "title": "El negocio jurídico, la abstracción y el Derecho Civil alemán"
-        },
-        {
-          "doi": "10.5354/0719-5516.2014.35834",
-          "title": "Presentación"
-        },
-        {
-          "doi": "10.5354/0719-0581.2014.36155",
-          "title": "Ensayos Freudianos de Juan Marín: psicoanálisis chileno a comienzos del siglo XX"
-        },
-        {
-          "doi": "10.5354/0719-5249.1978.36372",
-          "title": "Presentación"
-        }
-      ]
-    },
-    {
-      "id": "published_online_date",
-      "label": "Published Online Date",
-      "category": "findable_support",
-      "effort": "automatic",
-      "crossref": 1,
-      "openalex": 1,
-      "gap": 0,
-      "samples": []
-    },
-    {
       "id": "license",
       "label": "License",
-      "category": "accessible_essential",
-      "effort": "automatic",
-      "crossref": 0.26880068288518993,
-      "openalex": 0.8282318741450069,
-      "gap": 0.5594311912598169,
-      "samples": [
-        {
-          "doi": "10.5354/0719-5249.1978.36380",
-          "title": "Constitución Política del Estado de Chile 1822"
-        },
-        {
-          "doi": "10.5354/0719-0581.2014.36155",
-          "title": "Ensayos Freudianos de Juan Marín: psicoanálisis chileno a comienzos del siglo XX"
-        },
-        {
-          "doi": "10.5354/0719-5249.1978.36372",
-          "title": "Presentación"
-        },
-        {
-          "doi": "10.5354/0718-4735.2014.36321",
-          "title": "La presunción de hecho como figura jurídica en el derecho procesal civil alemán"
-        },
-        {
-          "doi": "10.5354/0719-5885.2014.35965",
-          "title": "Enseñar derecho de forma colaborativa. Ensayo sobre una primera experiencia"
-        }
-      ]
-    },
-    {
-      "id": "license_url",
-      "label": "License URL",
       "category": "accessible_essential",
       "effort": "automatic",
       "crossref": 0.26880068288518993,
@@ -3317,37 +2908,6 @@
       ]
     },
     {
-      "id": "full_text_links",
-      "label": "Full-text Links",
-      "category": "accessible_essential",
-      "effort": "automatic",
-      "crossref": 0.7544174135723432,
-      "openalex": 0.9444254445964432,
-      "gap": 0.19000803102410002,
-      "samples": [
-        {
-          "doi": "10.5354/0719-5249.1978.36380",
-          "title": "Constitución Política del Estado de Chile 1822"
-        },
-        {
-          "doi": "10.5354/0719-5516.2014.36001",
-          "title": "El negocio jurídico, la abstracción y el Derecho Civil alemán"
-        },
-        {
-          "doi": "10.5354/0719-5516.2014.35834",
-          "title": "Presentación"
-        },
-        {
-          "doi": "10.5354/0719-5249.1978.36372",
-          "title": "Presentación"
-        },
-        {
-          "doi": "10.5354/0718-4735.2014.36321",
-          "title": "La presunción de hecho como figura jurídica en el derecho procesal civil alemán"
-        }
-      ]
-    },
-    {
       "id": "resource_url",
       "label": "Resource URL",
       "category": "accessible_essential",
@@ -3389,83 +2949,6 @@
       ]
     },
     {
-      "id": "references_count",
-      "label": "References Count",
-      "category": "accessible_essential",
-      "effort": "voluntary",
-      "crossref": 0,
-      "openalex": 0.472640218878249,
-      "gap": 0.472640218878249,
-      "samples": [
-        {
-          "doi": "10.5354/0719-0581.2014.36155",
-          "title": "Ensayos Freudianos de Juan Marín: psicoanálisis chileno a comienzos del siglo XX"
-        },
-        {
-          "doi": "10.5354/0718-4735.2014.36321",
-          "title": "La presunción de hecho como figura jurídica en el derecho procesal civil alemán"
-        },
-        {
-          "doi": "10.5354/0719-5885.2014.35965",
-          "title": "Enseñar derecho de forma colaborativa. Ensayo sobre una primera experiencia"
-        },
-        {
-          "doi": "10.5354/0719-5249.2014.36236",
-          "title": "A 20 años de la reforma constitucional de 1994. Una experiencia de Convención Nacional Constituyente"
-        },
-        {
-          "doi": "10.5354/0719-1472.2014.36286",
-          "title": "Uso de la fauna al momento del contacto hispano-indígena en el río de La Plata: un aporte arqueozoológico y etnohistórico"
-        }
-      ]
-    },
-    {
-      "id": "is_referenced_by",
-      "label": "Is Referenced By",
-      "category": "accessible_essential",
-      "effort": "automatic",
-      "crossref": 0.22705932565087494,
-      "openalex": 0.356703146374829,
-      "gap": 0.12964382072395408,
-      "samples": [
-        {
-          "doi": "10.5354/0719-1472.2014.36219",
-          "title": "Explotación industrial de pinnípedos en la factoría de Bahía Tethis (Tierra del Fuego, Argentina): Una aproximación zooarqueológica"
-        },
-        {
-          "doi": "10.5354/0719-1529.2014.33732",
-          "title": "Prensa y sociedad en Chile, siglo XX"
-        },
-        {
-          "doi": "10.5354/0719-5249.2014.36237",
-          "title": "Oposición política e institucionalidad para el rol opositor en un régimen presidencial de gobierno"
-        },
-        {
-          "doi": "10.5354/0719-1472.2014.36272",
-          "title": "Isótopos estables en camélidos del período tardío del noroeste de Argentina (NOA): estrategias de uso y manejo de rebaños"
-        },
-        {
-          "doi": "10.5354/0719-1472.2014.36270",
-          "title": "Cueros de cueva salamanca 1 y peña de las trampas 1.1 (Antofagasta de la Sierra, Catamarca): una vía de identificación taxonómica y algo más"
-        }
-      ]
-    },
-    {
-      "id": "author_sequence",
-      "label": "Author Sequence",
-      "category": "accessible_support",
-      "effort": "automatic",
-      "crossref": 0.9991463935125907,
-      "openalex": 0.9992305061559508,
-      "gap": 0.00008411264336005697,
-      "samples": [
-        {
-          "doi": "10.4067/s0718-43602016000100013",
-          "title": "Expediente sobre la cuestión de la enseñanza de la filosofía"
-        }
-      ]
-    },
-    {
       "id": "affiliation_ids_ror",
       "label": "Affiliation IDs (ROR)",
       "category": "accessible_support",
@@ -3493,37 +2976,6 @@
         {
           "doi": "10.5354/0719-5249.2014.36236",
           "title": "A 20 años de la reforma constitucional de 1994. Una experiencia de Convención Nacional Constituyente"
-        }
-      ]
-    },
-    {
-      "id": "relations",
-      "label": "Relations",
-      "category": "accessible_support",
-      "effort": "voluntary",
-      "crossref": 0,
-      "openalex": 0.9304035567715458,
-      "gap": 0.9304035567715458,
-      "samples": [
-        {
-          "doi": "10.5354/0719-5249.1978.36380",
-          "title": "Constitución Política del Estado de Chile 1822"
-        },
-        {
-          "doi": "10.5354/0719-5516.2014.36001",
-          "title": "El negocio jurídico, la abstracción y el Derecho Civil alemán"
-        },
-        {
-          "doi": "10.5354/0719-5516.2014.35834",
-          "title": "Presentación"
-        },
-        {
-          "doi": "10.5354/0719-0581.2014.36155",
-          "title": "Ensayos Freudianos de Juan Marín: psicoanálisis chileno a comienzos del siglo XX"
-        },
-        {
-          "doi": "10.5354/0719-5249.1978.36372",
-          "title": "Presentación"
         }
       ]
     },
@@ -3559,37 +3011,6 @@
       ]
     },
     {
-      "id": "affiliation_ror",
-      "label": "Affiliation with ROR",
-      "category": "evaluation_coara",
-      "effort": "voluntary",
-      "crossref": 0,
-      "openalex": 0.8651675786593708,
-      "gap": 0.8651675786593708,
-      "samples": [
-        {
-          "doi": "10.5354/0719-5516.2014.36001",
-          "title": "El negocio jurídico, la abstracción y el Derecho Civil alemán"
-        },
-        {
-          "doi": "10.5354/0719-0581.2014.36155",
-          "title": "Ensayos Freudianos de Juan Marín: psicoanálisis chileno a comienzos del siglo XX"
-        },
-        {
-          "doi": "10.5354/0718-4735.2014.36321",
-          "title": "La presunción de hecho como figura jurídica en el derecho procesal civil alemán"
-        },
-        {
-          "doi": "10.5354/0719-5885.2014.35965",
-          "title": "Enseñar derecho de forma colaborativa. Ensayo sobre una primera experiencia"
-        },
-        {
-          "doi": "10.5354/0719-5249.2014.36236",
-          "title": "A 20 años de la reforma constitucional de 1994. Una experiencia de Convención Nacional Constituyente"
-        }
-      ]
-    },
-    {
       "id": "funding_complete",
       "label": "Complete Funding Info",
       "category": "evaluation_coara",
@@ -3617,37 +3038,6 @@
         {
           "doi": "10.4067/s0718-83582016000200002",
           "title": "Puerto Madero 'en movimiento': movilidad de políticas y modelos urbanos en América Latina (1999-2012)"
-        }
-      ]
-    },
-    {
-      "id": "preprint_version_link",
-      "label": "Preprint / Version Link",
-      "category": "evaluation_coara",
-      "effort": "voluntary",
-      "crossref": 0,
-      "openalex": 0.239312585499316,
-      "gap": 0.239312585499316,
-      "samples": [
-        {
-          "doi": "10.5354/0719-5516.2014.36006",
-          "title": "Marco regulatorio de proyectos de generación eléctrica no convencional mediante digestión anaerobia"
-        },
-        {
-          "doi": "10.5354/0718-4735.2014.36325",
-          "title": "Problemas que enfrenta la prueba digital en los Estados Unidos de Norteamérica"
-        },
-        {
-          "doi": "10.5354/0719-1472.2014.36214",
-          "title": "Estado actual de las investigaciones tafonómicas naturalistas en Punta Entrada y Monte León (Patagonia Meridional)"
-        },
-        {
-          "doi": "10.5354/0718-4735.2014.36320",
-          "title": "El tráfico de órganos humanos. Estudio de su sanción en la legislación chilena y española"
-        },
-        {
-          "doi": "10.5354/0719-1472.2014.36222",
-          "title": "Explotación de materia prima ósea en la pampa de las Lagunas Santafesinas: el sitio laguna El Doce (Provincia de Santa Fe, Argentina)"
         }
       ]
     },

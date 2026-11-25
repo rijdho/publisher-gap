@@ -8,10 +8,10 @@
   "totalWorksMatched": 87933,
   "totalWorksUniverse": 88000,
   "crossref": {
-    "overall": 0.5382570471763085,
+    "overall": 0.5382372899449036,
     "categories": {
-      "findable_essential": 0.6993172348484848,
-      "findable_support": 0.5946198347107438,
+      "findable_essential": 0.6992746212121213,
+      "findable_support": 0.5945733471074379,
       "accessible_essential": 0.7247007575757576,
       "accessible_support": 0.29930303030303035,
       "evaluation_coara": 0.14081704545454546
@@ -26,20 +26,20 @@
       "publisher": 1,
       "resource_type": 1,
       "subject_keywords": 0,
-      "funder_name": 0.3033409090909091,
+      "funder_name": 0.30282954545454543,
       "container_title": 1,
       "language": 0.9953977272727272,
       "author_orcid": 0.35701136363636365,
       "all_authors_orcid": 0.05951136363636363,
       "funder_doi": 0.23277272727272727,
-      "award_number": 0.2399318181818182,
+      "award_number": 0.23981818181818182,
       "issn": 1,
       "volume": 0.9575568181818181,
-      "issue": 0.9569318181818182,
-      "page": 0.6849318181818181,
+      "issue": 0.9568181818181818,
+      "page": 0.6846590909090909,
       "published_print_date": 0.8144545454545454,
       "published_online_date": 0.9650568181818182,
-      "article_number": 0.2726590909090909,
+      "article_number": 0.2726477272727273,
       "license": 0.46870454545454543,
       "license_url": 0.46870454545454543,
       "open_access_license": 0.2565909090909091,
@@ -68,10 +68,10 @@
     }
   },
   "openalex": {
-    "overall": 0.6027458899779872,
+    "overall": 0.6027457349012396,
     "categories": {
       "findable_essential": 0.8683088260380063,
-      "findable_support": 0.6906808179367968,
+      "findable_support": 0.6906797840918136,
       "accessible_essential": 0.5420402149616437,
       "accessible_support": 0.456254572610207,
       "evaluation_coara": 0.28757804237317053
@@ -96,7 +96,7 @@
       "issn": 1,
       "volume": 0.983896830541435,
       "issue": 0.9832713543265895,
-      "page": 0.8879601514789669,
+      "page": 0.8879487791841516,
       "published_print_date": 1,
       "published_online_date": 1,
       "article_number": 0,
@@ -127,79 +127,79 @@
       "open_access_status": 0.439994086406696
     }
   },
-  "gap": 0.06448884280167866,
+  "gap": 0.06450844495633601,
   "comparable": {
     "crossref": {
       "categories": {
-        "findable_essential": 0.6993172348484848,
-        "findable_support": 0.6268159090909091,
-        "accessible_essential": 0.7062642045454545,
-        "accessible_support": 0.3112348484848485,
-        "evaluation_coara": 0.2706022727272727
+        "findable_essential": 0.7628450413223141,
+        "findable_support": 0.6079107142857143,
+        "accessible_essential": 0.6537784090909091,
+        "accessible_support": 0.0008863636363636364,
+        "evaluation_coara": 0.4489848484848485
       },
-      "overall": 0.5656275473484849
+      "overall": 0.5733703278728848
     },
     "openalex": {
       "categories": {
-        "findable_essential": 0.8683088260380063,
-        "findable_support": 0.7597488997304765,
-        "accessible_essential": 0.6097952418318492,
-        "accessible_support": 0.912509145220414,
-        "evaluation_coara": 0.5751560847463411
+        "findable_essential": 0.8563420703572866,
+        "findable_support": 0.7498160125160227,
+        "accessible_essential": 0.6376388841504328,
+        "accessible_support": 0.8584717910227104,
+        "evaluation_coara": 0.536510752504748
       },
-      "overall": 0.7331859247002452
+      "overall": 0.7219340736254182
     },
-    "gap": 0.16755837735176038,
-    "fieldCount": 38,
+    "gap": 0.1485637457525334,
+    "fieldCount": 26,
     "totalFieldCount": 48
   },
   "voluntary": {
     "crossref": {
       "categories": {
-        "findable_essential": 0.11961931818181819,
-        "findable_support": 0.2223068181818182,
-        "accessible_essential": 0.6787424242424244,
-        "accessible_support": 0.007926136363636363,
-        "evaluation_coara": 0.06574999999999999
+        "findable_essential": 0.15932196969696968,
+        "findable_support": 0.21878030303030305,
+        "accessible_essential": 0.5732045454545455,
+        "accessible_support": 0.0008863636363636364,
+        "evaluation_coara": 0.19119318181818182
       },
-      "overall": 0.2528600378787879
+      "overall": 0.26224204545454544
     },
     "openalex": {
       "categories": {
-        "findable_essential": 0.6261159064287583,
-        "findable_support": 0.43559016523944366,
-        "accessible_essential": 0.6990208454163965,
-        "accessible_support": 0.9086236111584957,
-        "evaluation_coara": 0.5051762895234629
+        "findable_essential": 0.5015068290630366,
+        "findable_support": 0.4645317078533277,
+        "accessible_essential": 0.6068995712644855,
+        "accessible_support": 0.8584717910227104,
+        "evaluation_coara": 0.2492807023529278
       },
-      "overall": 0.6198261270891853
+      "overall": 0.5075600172858881
     },
-    "gap": 0.36696608921039736,
-    "fieldCount": 16
+    "gap": 0.24531797183134263,
+    "fieldCount": 10
   },
   "automatic": {
     "crossref": {
       "categories": {
         "findable_essential": 0.9891661931818182,
-        "findable_support": 0.8964886363636363,
-        "accessible_essential": 0.7227772727272728,
-        "accessible_support": 0.9178522727272728,
+        "findable_support": 0.8997585227272726,
+        "accessible_essential": 0.7343522727272727,
+        "accessible_support": 0,
         "evaluation_coara": 0.5778806818181819
       },
-      "overall": 0.8192788352272727
+      "overall": 0.7308778409090909
     },
     "openalex": {
       "categories": {
         "findable_essential": 0.9894052858426302,
-        "findable_support": 0.9758547227244986,
-        "accessible_essential": 0.5562598796811209,
-        "accessible_support": 0.9202802133442507,
+        "findable_support": 0.963779241013044,
+        "accessible_essential": 0.66837819703638,
+        "accessible_support": 0,
         "evaluation_coara": 0.680125777580658
       },
-      "overall": 0.8103179409323007
+      "overall": 0.7445081766799722
     },
-    "gap": -0.008960894294972044,
-    "fieldCount": 22
+    "gap": 0.013630335770881241,
+    "fieldCount": 16
   },
   "yearlyScores": [
     {
@@ -208,10 +208,10 @@
       "matched": 8000,
       "universeSize": 314706,
       "crossref": {
-        "overall": 0.4954552904040404,
+        "overall": 0.49544222222222223,
         "categories": {
-          "findable_essential": 0.6734791666666666,
-          "findable_support": 0.5535454545454545,
+          "findable_essential": 0.6734583333333334,
+          "findable_support": 0.5535,
           "accessible_essential": 0.6688055555555557,
           "accessible_support": 0.20520833333333335,
           "evaluation_coara": 0.11328750000000001
@@ -226,7 +226,7 @@
           "publisher": 1,
           "resource_type": 1,
           "subject_keywords": 0,
-          "funder_name": 0.1025,
+          "funder_name": 0.10225,
           "container_title": 1,
           "language": 0.993125,
           "author_orcid": 0.03825,
@@ -235,7 +235,7 @@
           "award_number": 0.08675,
           "issn": 1,
           "volume": 0.99225,
-          "issue": 0.98975,
+          "issue": 0.98925,
           "page": 0.777,
           "published_print_date": 0.936125,
           "published_online_date": 0.982125,
@@ -268,10 +268,10 @@
         }
       },
       "openalex": {
-        "overall": 0.5917066287878788,
+        "overall": 0.5917049242424243,
         "categories": {
           "findable_essential": 0.8608125000000001,
-          "findable_support": 0.6808636363636363,
+          "findable_support": 0.6808522727272727,
           "accessible_essential": 0.5230833333333333,
           "accessible_support": 0.46175000000000005,
           "evaluation_coara": 0.2719375
@@ -296,7 +296,7 @@
           "issn": 1,
           "volume": 0.992875,
           "issue": 0.990375,
-          "page": 0.924625,
+          "page": 0.9245,
           "published_print_date": 1,
           "published_online_date": 1,
           "article_number": 0,
@@ -330,29 +330,29 @@
       "comparable": {
         "crossref": {
           "categories": {
-            "findable_essential": 0.6734791666666666,
-            "findable_support": 0.5873999999999999,
-            "accessible_essential": 0.63975,
-            "accessible_support": 0.31325000000000003,
-            "evaluation_coara": 0.22537500000000002
+            "findable_essential": 0.7346818181818182,
+            "findable_support": 0.5553214285714285,
+            "accessible_essential": 0.56425,
+            "accessible_support": 0,
+            "evaluation_coara": 0.375375
           },
-          "overall": 0.52649125
+          "overall": 0.5198402597402597
         },
         "openalex": {
           "categories": {
-            "findable_essential": 0.8608125000000001,
-            "findable_support": 0.74895,
-            "accessible_essential": 0.58846875,
-            "accessible_support": 0.9235000000000001,
-            "evaluation_coara": 0.543875
+            "findable_essential": 0.8481590909090909,
+            "findable_support": 0.739,
+            "accessible_essential": 0.60265625,
+            "accessible_support": 0.850375,
+            "evaluation_coara": 0.49695833333333334
           },
-          "overall": 0.7188284375
+          "overall": 0.7003909564393939
         },
-        "gap": 0.19233718750000006
+        "gap": 0.18055069669913415
       },
       "voluntary": {
-        "crossref": 0.18581666666666666,
-        "openalex": 0.5917265625
+        "crossref": 0.16601249999999998,
+        "openalex": 0.463559375
       }
     },
     {
@@ -361,10 +361,10 @@
       "matched": 7999,
       "universeSize": 327111,
       "crossref": {
-        "overall": 0.5089144318181817,
+        "overall": 0.5088510795454545,
         "categories": {
-          "findable_essential": 0.6909999999999998,
-          "findable_support": 0.5805795454545455,
+          "findable_essential": 0.6908229166666665,
+          "findable_support": 0.5805113636363637,
           "accessible_essential": 0.67425,
           "accessible_support": 0.21087500000000003,
           "evaluation_coara": 0.12438749999999998
@@ -379,16 +379,16 @@
           "publisher": 1,
           "resource_type": 1,
           "subject_keywords": 0,
-          "funder_name": 0.271125,
+          "funder_name": 0.269,
           "container_title": 1,
           "language": 0.992,
           "author_orcid": 0.103125,
           "all_authors_orcid": 0.012125,
           "funder_doi": 0.186375,
-          "award_number": 0.21775,
+          "award_number": 0.217125,
           "issn": 1,
           "volume": 0.992,
-          "issue": 0.991875,
+          "issue": 0.99175,
           "page": 0.75125,
           "published_print_date": 0.906125,
           "published_online_date": 0.985875,
@@ -483,29 +483,29 @@
       "comparable": {
         "crossref": {
           "categories": {
-            "findable_essential": 0.6909999999999998,
-            "findable_support": 0.61465,
-            "accessible_essential": 0.6446875,
-            "accessible_support": 0.31695833333333334,
-            "evaluation_coara": 0.24765
+            "findable_essential": 0.7536249999999999,
+            "findable_support": 0.5810535714285715,
+            "accessible_essential": 0.56753125,
+            "accessible_support": 0,
+            "evaluation_coara": 0.412375
           },
-          "overall": 0.5418952083333333
+          "overall": 0.5376033482142857
         },
         "openalex": {
           "categories": {
-            "findable_essential": 0.8689627870150435,
-            "findable_support": 0.7685460682585323,
-            "accessible_essential": 0.6027315914489311,
-            "accessible_support": 0.9256990457140476,
-            "evaluation_coara": 0.5706463307913489
+            "findable_essential": 0.8570503131073202,
+            "findable_support": 0.7571482149554409,
+            "accessible_essential": 0.6158894861857732,
+            "accessible_support": 0.852356544568071,
+            "evaluation_coara": 0.5352335708630246
           },
-          "overall": 0.7333528149352002
+          "overall": 0.7169420663513676
         },
-        "gap": 0.19145760660186695
+        "gap": 0.1793387181370819
       },
       "voluntary": {
-        "crossref": 0.22210572916666665,
-        "openalex": 0.6169083635454433
+        "crossref": 0.21795625000000002,
+        "openalex": 0.5009813726715839
       }
     },
     {
@@ -514,10 +514,10 @@
       "matched": 8000,
       "universeSize": 342005,
       "crossref": {
-        "overall": 0.5101569696969697,
+        "overall": 0.5101285606060606,
         "categories": {
-          "findable_essential": 0.6903541666666667,
-          "findable_support": 0.5929659090909091,
+          "findable_essential": 0.6902708333333334,
+          "findable_support": 0.5929431818181817,
           "accessible_essential": 0.6718333333333333,
           "accessible_support": 0.21350000000000002,
           "evaluation_coara": 0.1239875
@@ -532,20 +532,20 @@
           "publisher": 1,
           "resource_type": 1,
           "subject_keywords": 0,
-          "funder_name": 0.274,
+          "funder_name": 0.273,
           "container_title": 1,
           "language": 0.9945,
           "author_orcid": 0.238875,
           "all_authors_orcid": 0.021125,
           "funder_doi": 0.19725,
-          "award_number": 0.219375,
+          "award_number": 0.21925,
           "issn": 1,
           "volume": 0.989,
           "issue": 0.985375,
           "page": 0.746625,
           "published_print_date": 0.902875,
           "published_online_date": 0.9815,
-          "article_number": 0.240625,
+          "article_number": 0.2405,
           "license": 0.210125,
           "license_url": 0.210125,
           "open_access_license": 0.17575,
@@ -636,29 +636,29 @@
       "comparable": {
         "crossref": {
           "categories": {
-            "findable_essential": 0.6903541666666667,
-            "findable_support": 0.6282,
-            "accessible_essential": 0.6441406249999999,
-            "accessible_support": 0.312125,
-            "evaluation_coara": 0.24735000000000001
+            "findable_essential": 0.7530227272727273,
+            "findable_support": 0.6000357142857142,
+            "accessible_essential": 0.5699062500000001,
+            "accessible_support": 0,
+            "evaluation_coara": 0.41125000000000006
           },
-          "overall": 0.5430539062499999
+          "overall": 0.5406387378246753
         },
         "openalex": {
           "categories": {
-            "findable_essential": 0.8668333333333332,
-            "findable_support": 0.7692249999999999,
-            "accessible_essential": 0.59834375,
-            "accessible_support": 0.9170833333333334,
-            "evaluation_coara": 0.5622
+            "findable_essential": 0.8547272727272727,
+            "findable_support": 0.7582857142857142,
+            "accessible_essential": 0.6170625,
+            "accessible_support": 0.83875,
+            "evaluation_coara": 0.52525
           },
-          "overall": 0.7291680208333332
+          "overall": 0.7133516639610389
         },
-        "gap": 0.18611411458333327
+        "gap": 0.17271292613636358
       },
       "voluntary": {
-        "crossref": 0.2282807291666667,
-        "openalex": 0.6142874999999999
+        "crossref": 0.2268375,
+        "openalex": 0.49852187500000006
       }
     },
     {
@@ -667,10 +667,10 @@
       "matched": 8000,
       "universeSize": 351933,
       "crossref": {
-        "overall": 0.5298585353535353,
+        "overall": 0.5298377967171717,
         "categories": {
-          "findable_essential": 0.6920208333333333,
-          "findable_support": 0.6136022727272726,
+          "findable_essential": 0.69196875,
+          "findable_support": 0.6135681818181817,
           "accessible_essential": 0.6886527777777779,
           "accessible_support": 0.3138125,
           "evaluation_coara": 0.13333750000000003
@@ -685,7 +685,7 @@
           "publisher": 1,
           "resource_type": 1,
           "subject_keywords": 0,
-          "funder_name": 0.3035,
+          "funder_name": 0.302875,
           "container_title": 1,
           "language": 0.99375,
           "author_orcid": 0.3575,
@@ -695,7 +695,7 @@
           "issn": 1,
           "volume": 0.99,
           "issue": 0.989875,
-          "page": 0.753,
+          "page": 0.752625,
           "published_print_date": 0.920875,
           "published_online_date": 0.98075,
           "article_number": 0.2375,
@@ -789,29 +789,29 @@
       "comparable": {
         "crossref": {
           "categories": {
-            "findable_essential": 0.6920208333333333,
-            "findable_support": 0.6512125,
-            "accessible_essential": 0.6641093750000001,
-            "accessible_support": 0.311375,
-            "evaluation_coara": 0.26575000000000004
+            "findable_essential": 0.7548750000000001,
+            "findable_support": 0.6254464285714285,
+            "accessible_essential": 0.5965625,
+            "accessible_support": 0,
+            "evaluation_coara": 0.442
           },
-          "overall": 0.55560296875
+          "overall": 0.5578200892857144
         },
         "openalex": {
           "categories": {
-            "findable_essential": 0.86715625,
-            "findable_support": 0.7717375,
-            "accessible_essential": 0.59478125,
-            "accessible_support": 0.9198750000000001,
-            "evaluation_coara": 0.566925
+            "findable_essential": 0.8550795454545455,
+            "findable_support": 0.7624642857142857,
+            "accessible_essential": 0.61184375,
+            "accessible_support": 0.851,
+            "evaluation_coara": 0.5288333333333334
           },
-          "overall": 0.7299753124999999
+          "overall": 0.7147211106601731
         },
-        "gap": 0.17437234374999988
+        "gap": 0.15690102137445872
       },
       "voluntary": {
-        "crossref": 0.24325156249999996,
-        "openalex": 0.6159145833333334
+        "crossref": 0.2509875,
+        "openalex": 0.5024500000000001
       }
     },
     {
@@ -820,10 +820,10 @@
       "matched": 7995,
       "universeSize": 368703,
       "crossref": {
-        "overall": 0.5403963320707071,
+        "overall": 0.5403846843434343,
         "categories": {
-          "findable_essential": 0.6991145833333334,
-          "findable_support": 0.6282954545454547,
+          "findable_essential": 0.6991041666666667,
+          "findable_support": 0.6282386363636363,
           "accessible_essential": 0.6985972222222222,
           "accessible_support": 0.32958333333333334,
           "evaluation_coara": 0.14405
@@ -838,17 +838,17 @@
           "publisher": 1,
           "resource_type": 1,
           "subject_keywords": 0,
-          "funder_name": 0.326125,
+          "funder_name": 0.326,
           "container_title": 1,
           "language": 0.9955,
           "author_orcid": 0.466375,
           "all_authors_orcid": 0.05,
           "funder_doi": 0.2685,
-          "award_number": 0.283125,
+          "award_number": 0.283,
           "issn": 1,
           "volume": 0.984625,
           "issue": 0.98425,
-          "page": 0.719,
+          "page": 0.7185,
           "published_print_date": 0.90425,
           "published_online_date": 0.984875,
           "article_number": 0.26625,
@@ -942,29 +942,29 @@
       "comparable": {
         "crossref": {
           "categories": {
-            "findable_essential": 0.6991145833333334,
-            "findable_support": 0.6645000000000001,
-            "accessible_essential": 0.674625,
-            "accessible_support": 0.31320833333333337,
-            "evaluation_coara": 0.281025
+            "findable_essential": 0.762659090909091,
+            "findable_support": 0.6409642857142857,
+            "accessible_essential": 0.60978125,
+            "accessible_support": 0,
+            "evaluation_coara": 0.46495833333333336
           },
-          "overall": 0.5655914583333335
+          "overall": 0.5703793492965369
         },
         "openalex": {
           "categories": {
-            "findable_essential": 0.8695955805711902,
-            "findable_support": 0.7757723577235772,
-            "accessible_essential": 0.6033927454659163,
-            "accessible_support": 0.9216593704398582,
-            "evaluation_coara": 0.5787116948092559
+            "findable_essential": 0.8577406333503894,
+            "findable_support": 0.7667828106852497,
+            "accessible_essential": 0.6204502814258912,
+            "accessible_support": 0.8594121325828643,
+            "evaluation_coara": 0.543548050865124
           },
-          "overall": 0.7360009902022097
+          "overall": 0.7221030053956883
         },
-        "gap": 0.1704095318688762
+        "gap": 0.1517236560991514
       },
       "voluntary": {
-        "crossref": 0.2624677083333334,
-        "openalex": 0.6262533875338754
+        "crossref": 0.278375,
+        "openalex": 0.5176860537836148
       }
     },
     {
@@ -973,10 +973,10 @@
       "matched": 7999,
       "universeSize": 400624,
       "crossref": {
-        "overall": 0.5478714204545454,
+        "overall": 0.5478449999999999,
         "categories": {
-          "findable_essential": 0.70928125,
-          "findable_support": 0.6279886363636363,
+          "findable_essential": 0.7092499999999999,
+          "findable_support": 0.627875,
           "accessible_essential": 0.702,
           "accessible_support": 0.34956249999999994,
           "evaluation_coara": 0.1521625
@@ -991,17 +991,17 @@
           "publisher": 1,
           "resource_type": 1,
           "subject_keywords": 0,
-          "funder_name": 0.3355,
+          "funder_name": 0.335125,
           "container_title": 1,
           "language": 0.995,
           "author_orcid": 0.47775,
           "all_authors_orcid": 0.064,
           "funder_doi": 0.27375,
-          "award_number": 0.271375,
+          "award_number": 0.271,
           "issn": 1,
           "volume": 0.97725,
-          "issue": 0.977125,
-          "page": 0.721875,
+          "issue": 0.976875,
+          "page": 0.72125,
           "published_print_date": 0.91375,
           "published_online_date": 0.97625,
           "article_number": 0.25475,
@@ -1095,29 +1095,29 @@
       "comparable": {
         "crossref": {
           "categories": {
-            "findable_essential": 0.70928125,
-            "findable_support": 0.6653125,
-            "accessible_essential": 0.678328125,
-            "accessible_support": 0.31704166666666667,
-            "evaluation_coara": 0.28452500000000003
+            "findable_essential": 0.7737272727272727,
+            "findable_support": 0.6411607142857143,
+            "accessible_essential": 0.61465625,
+            "accessible_support": 0,
+            "evaluation_coara": 0.4683333333333333
           },
-          "overall": 0.5707724479166666
+          "overall": 0.5756230181277057
         },
         "openalex": {
           "categories": {
-            "findable_essential": 0.8697545526524149,
-            "findable_support": 0.7728466058257282,
-            "accessible_essential": 0.616498937367171,
-            "accessible_support": 0.9314497645539026,
-            "evaluation_coara": 0.5944743092886611
+            "findable_essential": 0.8579140574389981,
+            "findable_support": 0.7685424963834765,
+            "accessible_essential": 0.6306413301662708,
+            "accessible_support": 0.8811101387673459,
+            "evaluation_coara": 0.5533608367712631
           },
-          "overall": 0.7430179293244988
+          "overall": 0.7290991054617758
         },
-        "gap": 0.17224548140783225
+        "gap": 0.15347608733407014
       },
       "voluntary": {
-        "crossref": 0.27285572916666667,
-        "openalex": 0.6309246989206985
+        "crossref": 0.28990625000000003,
+        "openalex": 0.5198087260907613
       }
     },
     {
@@ -1126,10 +1126,10 @@
       "matched": 7999,
       "universeSize": 448675,
       "crossref": {
-        "overall": 0.5471049747474748,
+        "overall": 0.5470998611111111,
         "categories": {
           "findable_essential": 0.707375,
-          "findable_support": 0.6259090909090909,
+          "findable_support": 0.625875,
           "accessible_essential": 0.7091944444444445,
           "accessible_support": 0.3398750000000001,
           "evaluation_coara": 0.1486
@@ -1153,8 +1153,8 @@
           "award_number": 0.249,
           "issn": 1,
           "volume": 0.964,
-          "issue": 0.964,
-          "page": 0.7115,
+          "issue": 0.963875,
+          "page": 0.71125,
           "published_print_date": 0.9055,
           "published_online_date": 0.96725,
           "article_number": 0.25275,
@@ -1248,29 +1248,29 @@
       "comparable": {
         "crossref": {
           "categories": {
-            "findable_essential": 0.707375,
-            "findable_support": 0.663225,
-            "accessible_essential": 0.689359375,
-            "accessible_support": 0.307,
-            "evaluation_coara": 0.27717500000000006
+            "findable_essential": 0.7716818181818182,
+            "findable_support": 0.6426428571428572,
+            "accessible_essential": 0.6316875,
+            "accessible_support": 0,
+            "evaluation_coara": 0.4604166666666667
           },
-          "overall": 0.57017109375
+          "overall": 0.5779061823593075
         },
         "openalex": {
           "categories": {
-            "findable_essential": 0.8670354627661792,
-            "findable_support": 0.7642330291286411,
-            "accessible_essential": 0.61632704088011,
-            "accessible_support": 0.9233237488019336,
-            "evaluation_coara": 0.5885985748218527
+            "findable_essential": 0.8549477775631046,
+            "findable_support": 0.7590770274855786,
+            "accessible_essential": 0.6357044630578823,
+            "accessible_support": 0.8676084510563821,
+            "evaluation_coara": 0.5444430553819227
           },
-          "overall": 0.7388794432637413
+          "overall": 0.7249214593382616
         },
-        "gap": 0.16870834951374136
+        "gap": 0.1470152769789541
       },
       "voluntary": {
-        "crossref": 0.27076249999999996,
-        "openalex": 0.6246629787056716
+        "crossref": 0.28745,
+        "openalex": 0.5098449806225778
       }
     },
     {
@@ -1279,10 +1279,10 @@
       "matched": 8000,
       "universeSize": 457300,
       "crossref": {
-        "overall": 0.5480646527777777,
+        "overall": 0.5480336868686868,
         "categories": {
-          "findable_essential": 0.70603125,
-          "findable_support": 0.61175,
+          "findable_essential": 0.7059791666666667,
+          "findable_support": 0.6116477272727273,
           "accessible_essential": 0.7266111111111111,
           "accessible_support": 0.33225,
           "evaluation_coara": 0.14807499999999998
@@ -1297,7 +1297,7 @@
           "publisher": 1,
           "resource_type": 1,
           "subject_keywords": 0,
-          "funder_name": 0.336875,
+          "funder_name": 0.33625,
           "container_title": 1,
           "language": 0.994625,
           "author_orcid": 0.49125,
@@ -1307,7 +1307,7 @@
           "issn": 1,
           "volume": 0.952875,
           "issue": 0.952875,
-          "page": 0.702375,
+          "page": 0.70125,
           "published_print_date": 0.800125,
           "published_online_date": 0.955375,
           "article_number": 0.25075,
@@ -1401,29 +1401,29 @@
       "comparable": {
         "crossref": {
           "categories": {
-            "findable_essential": 0.70603125,
-            "findable_support": 0.64785,
-            "accessible_essential": 0.7120000000000001,
-            "accessible_support": 0.30212500000000003,
-            "evaluation_coara": 0.27575
+            "findable_essential": 0.770159090909091,
+            "findable_support": 0.6356964285714286,
+            "accessible_essential": 0.66159375,
+            "accessible_support": 0,
+            "evaluation_coara": 0.459
           },
-          "overall": 0.572349375
+          "overall": 0.5836006290584416
         },
         "openalex": {
           "categories": {
-            "findable_essential": 0.86421875,
-            "findable_support": 0.76145,
-            "accessible_essential": 0.60825,
-            "accessible_support": 0.9100416666666667,
-            "evaluation_coara": 0.5714499999999999
+            "findable_essential": 0.851875,
+            "findable_support": 0.7535535714285714,
+            "accessible_essential": 0.6335,
+            "accessible_support": 0.84275,
+            "evaluation_coara": 0.5389166666666666
           },
-          "overall": 0.7308397916666666
+          "overall": 0.7190288690476191
         },
-        "gap": 0.15849041666666652
+        "gap": 0.13542823998917752
       },
       "voluntary": {
-        "crossref": 0.2691619791666667,
-        "openalex": 0.6153385416666666
+        "crossref": 0.28776875,
+        "openalex": 0.5046499999999999
       }
     },
     {
@@ -1432,10 +1432,10 @@
       "matched": 7999,
       "universeSize": 459852,
       "crossref": {
-        "overall": 0.5700153598484847,
+        "overall": 0.5700074053030302,
         "categories": {
-          "findable_essential": 0.7083229166666666,
-          "findable_support": 0.5855454545454546,
+          "findable_essential": 0.7083020833333333,
+          "findable_support": 0.5855340909090909,
           "accessible_essential": 0.8253750000000001,
           "accessible_support": 0.33522916666666663,
           "evaluation_coara": 0.1491
@@ -1450,7 +1450,7 @@
           "publisher": 1,
           "resource_type": 1,
           "subject_keywords": 0,
-          "funder_name": 0.338125,
+          "funder_name": 0.337875,
           "container_title": 1,
           "language": 0.99825,
           "author_orcid": 0.44825,
@@ -1460,7 +1460,7 @@
           "issn": 1,
           "volume": 0.93,
           "issue": 0.93,
-          "page": 0.661875,
+          "page": 0.66175,
           "published_print_date": 0.645,
           "published_online_date": 0.9405,
           "article_number": 0.269375,
@@ -1554,29 +1554,29 @@
       "comparable": {
         "crossref": {
           "categories": {
-            "findable_essential": 0.7083229166666666,
-            "findable_support": 0.6171625000000001,
-            "accessible_essential": 0.8245468750000001,
-            "accessible_support": 0.305625,
-            "evaluation_coara": 0.278575
+            "findable_essential": 0.7726931818181818,
+            "findable_support": 0.6171428571428572,
+            "accessible_essential": 0.779875,
+            "accessible_support": 0.000125,
+            "evaluation_coara": 0.4622916666666667
           },
-          "overall": 0.59748546875
+          "overall": 0.6118189664502164
         },
         "openalex": {
           "categories": {
-            "findable_essential": 0.867754302621161,
-            "findable_support": 0.7582072759094887,
-            "accessible_essential": 0.6272346543317915,
-            "accessible_support": 0.9109888736092011,
-            "evaluation_coara": 0.5758719839979998
+            "findable_essential": 0.855731966495812,
+            "findable_support": 0.7492543710820996,
+            "accessible_essential": 0.654581822727841,
+            "accessible_support": 0.8501062632829104,
+            "evaluation_coara": 0.5409009459515773
           },
-          "overall": 0.7371393299162395
+          "overall": 0.7259440168116252
         },
-        "gap": 0.13965386116623957
+        "gap": 0.11412505036140885
       },
       "voluntary": {
-        "crossref": 0.2724822916666667,
-        "openalex": 0.62402175271909
+        "crossref": 0.28949375,
+        "openalex": 0.5143986748343543
       }
     },
     {
@@ -1585,10 +1585,10 @@
       "matched": 8000,
       "universeSize": 528174,
       "crossref": {
-        "overall": 0.561940662878788,
+        "overall": 0.5619372537878788,
         "categories": {
           "findable_essential": 0.7060729166666667,
-          "findable_support": 0.5711363636363637,
+          "findable_support": 0.5711136363636363,
           "accessible_essential": 0.8061666666666668,
           "accessible_support": 0.32916666666666666,
           "evaluation_coara": 0.14995
@@ -1612,7 +1612,7 @@
           "award_number": 0.2505,
           "issn": 1,
           "volume": 0.905,
-          "issue": 0.905,
+          "issue": 0.90475,
           "page": 0.59875,
           "published_print_date": 0.623875,
           "published_online_date": 0.925125,
@@ -1707,29 +1707,29 @@
       "comparable": {
         "crossref": {
           "categories": {
-            "findable_essential": 0.7060729166666667,
-            "findable_support": 0.5975250000000001,
-            "accessible_essential": 0.8040625000000001,
-            "accessible_support": 0.3080833333333333,
-            "evaluation_coara": 0.282175
+            "findable_essential": 0.7702613636363637,
+            "findable_support": 0.5954285714285714,
+            "accessible_essential": 0.7790000000000001,
+            "accessible_support": 0.00375,
+            "evaluation_coara": 0.4675
           },
-          "overall": 0.5897095833333335
+          "overall": 0.609017694805195
         },
         "openalex": {
           "categories": {
-            "findable_essential": 0.8693125,
-            "findable_support": 0.7454875000000001,
-            "accessible_essential": 0.622765625,
-            "accessible_support": 0.9160416666666666,
-            "evaluation_coara": 0.575225
+            "findable_essential": 0.8574318181818182,
+            "findable_support": 0.7333571428571428,
+            "accessible_essential": 0.66940625,
+            "accessible_support": 0.85575,
+            "evaluation_coara": 0.5386666666666667
           },
-          "overall": 0.7349574479166667
+          "overall": 0.7278930127164501
         },
-        "gap": 0.14524786458333327
+        "gap": 0.11887531791125516
       },
       "voluntary": {
-        "crossref": 0.26812187499999995,
-        "openalex": 0.6233588541666667
+        "crossref": 0.2836125,
+        "openalex": 0.5125468750000001
       }
     },
     {
@@ -1738,9 +1738,9 @@
       "matched": 7942,
       "universeSize": 593099,
       "crossref": {
-        "overall": 0.5610488888888889,
+        "overall": 0.561042638888889,
         "categories": {
-          "findable_essential": 0.7094374999999999,
+          "findable_essential": 0.7094166666666667,
           "findable_support": 0.5495,
           "accessible_essential": 0.8002222222222222,
           "accessible_support": 0.3332708333333333,
@@ -1756,7 +1756,7 @@
           "publisher": 1,
           "resource_type": 1,
           "subject_keywords": 0,
-          "funder_name": 0.386625,
+          "funder_name": 0.386375,
           "container_title": 1,
           "language": 0.997375,
           "author_orcid": 0.37425,
@@ -1860,29 +1860,29 @@
       "comparable": {
         "crossref": {
           "categories": {
-            "findable_essential": 0.7094374999999999,
-            "findable_support": 0.5579375,
-            "accessible_essential": 0.7932968749999999,
-            "accessible_support": 0.31679166666666664,
-            "evaluation_coara": 0.31127499999999997
+            "findable_essential": 0.7739090909090909,
+            "findable_support": 0.552125,
+            "accessible_essential": 0.8167187499999999,
+            "accessible_support": 0.005875,
+            "evaluation_coara": 0.5153333333333333
           },
-          "overall": 0.5887802604166665
+          "overall": 0.6228253314393939
         },
         "openalex": {
           "categories": {
-            "findable_essential": 0.8800470074708303,
-            "findable_support": 0.7205112062452783,
-            "accessible_essential": 0.629092168219592,
-            "accessible_support": 0.8374045160748761,
-            "evaluation_coara": 0.5989171493326617
+            "findable_essential": 0.8691994230901308,
+            "findable_support": 0.7001654854840451,
+            "accessible_essential": 0.7228972550994711,
+            "accessible_support": 0.8942331906320826,
+            "evaluation_coara": 0.5556534877864517
           },
-          "overall": 0.7328877067069588
+          "overall": 0.7470629801450124
         },
-        "gap": 0.14410744629029226
+        "gap": 0.12423764870561849
       },
       "voluntary": {
-        "crossref": 0.2861536458333333,
-        "openalex": 0.6348049399815328
+        "crossref": 0.3062625,
+        "openalex": 0.5389479979853941
       }
     }
   ],
@@ -1958,28 +1958,6 @@
     "publication_date": [],
     "publisher": [],
     "resource_type": [],
-    "subject_keywords": [
-      {
-        "doi": "10.1007/s00108-015-3653-8",
-        "title": "53-jährige Urlauberin auf Hiddensee mit Schlangenbiss"
-      },
-      {
-        "doi": "10.1007/bf03653080",
-        "title": "Wem sollen wir noch glauben?"
-      },
-      {
-        "doi": "10.1007/bf03653084",
-        "title": "Gabapentin: Wirksam bei Alkoholabhängigkeit"
-      },
-      {
-        "doi": "10.1007/s10959-014-0591-7",
-        "title": "The Cameron–Martin Theorem for (p-)Slepian Processes"
-      },
-      {
-        "doi": "10.1007/bf03653095",
-        "title": "Stärkung hausärztlicher Kompetenzen statt Fragmentierung der Medizin"
-      }
-    ],
     "funder_name": [
       {
         "doi": "10.1007/s11094-015-1192-1",
@@ -2069,28 +2047,6 @@
         "title": "Study of a degenerate elliptic equation in an optimal consumption problem under partial information"
       }
     ],
-    "funder_doi": [
-      {
-        "doi": "10.1007/s11094-015-1192-1",
-        "title": "Effect of Succinic Acid and Chitosan Derivatives on Aconitate Hydratase Activity and Citrate Content in Rat Brain Tissues Under Ischemia/Reperfusion Conditions"
-      },
-      {
-        "doi": "10.1007/jhep02(2015)078",
-        "title": "Lifshitz scale anomalies"
-      },
-      {
-        "doi": "10.1186/2193-1801-4-9",
-        "title": "Women with large (≥3 cm) and locally advanced breast cancers (T3, 4, N1, 2, M0) receiving neoadjuvant chemotherapy (NAC: cyclophosphamide, doxorubicin, docetaxel): addition of capecitabine improves 4-year disease-free survival"
-      },
-      {
-        "doi": "10.1557/opl.2015.782",
-        "title": "Ab Initio Analysis of Charge Carrier Dynamics in Organic-Inorganic Lead Halide Perovskite Solar Cells"
-      },
-      {
-        "doi": "10.1186/cc14141",
-        "title": "Procalcitonin levels in patients undergoing left ventricular assist device implantation"
-      }
-    ],
     "award_number": [
       {
         "doi": "10.1007/jhep02(2015)078",
@@ -2142,20 +2098,20 @@
         "title": "Unilateral Pedicle Screw Fixation is Associated with Reduced Cost and Similar Outcomes in Selected Patients Undergoing Minimally Invasive Transforaminal Lumbar Interbody Fusion for L4-5 Degenerative Spondylolisthesis"
       },
       {
-        "doi": "10.7759/cureus.259",
-        "title": "Deep Brain Stimulation for Obesity"
+        "doi": "10.2151/sola.2015-001",
+        "title": "Measurements of Turbulent Flow and Ozone at Rooftop and Sidewalk Sites in a High-Rise Building Area"
       },
       {
-        "doi": "10.7759/cureus.298",
-        "title": "18F-FDG PET/CT Imaging of Gallbladder Adenocarcinoma - A Pictorial Review"
+        "doi": "10.2151/sola.2015-028",
+        "title": "Probable Hourly Precipitation and Soil Water Index for 50-yr Recurrence Interval over the Japanese Archipelago"
       },
       {
-        "doi": "10.7759/cureus.293",
-        "title": "Predictors of Neurocognitive Syndromes in Combat Veterans"
+        "doi": "10.2151/jmsj.2015-049",
+        "title": "Ocean Response to CINDY/DYNAMO MJOs in Air-Sea-Coupled COAMPS"
       },
       {
-        "doi": "10.7759/cureus.433",
-        "title": "Ongoing Remission Nineteen Years after High-dose Chemotherapy for Oligometastatic Breast Cancer; What Can We Learn from this Patient?"
+        "doi": "10.2151/sola.2015-030",
+        "title": "Scheme-Based Optimization of Land Surface Model Using a Micro-Genetic Algorithm: Assessment of Its Performance and Usability for Regional Applications"
       }
     ],
     "page": [
@@ -2180,73 +2136,7 @@
         "title": "Ion Selectivity in the Selectivity Filters of Acid-Sensing Ion Channels"
       }
     ],
-    "published_print_date": [
-      {
-        "doi": "10.1186/cc14270",
-        "title": "Positive fluid balance is an independent risk factor for acute kidney injury in critically ill patients: results of a prospective, cross-sectional study"
-      },
-      {
-        "doi": "10.1186/cc14266",
-        "title": "Return on investment for implementation of perioperative goal-directed therapy in major surgery: a nationwide database study"
-      },
-      {
-        "doi": "10.1186/cc14083",
-        "title": "Usefulness of sepsis screening tools and education in recognising the burden of sepsis on hospital wards"
-      },
-      {
-        "doi": "10.1186/cc14391",
-        "title": "In-depth study of road accidents in Florence: understanding the biomechanical effects in major trauma involving vulnerable road users"
-      },
-      {
-        "doi": "10.1186/cc14202",
-        "title": "Intrathecal administration of colistin, vancomycin and amikacin for central nervous system infections in ICU neurosurgical patients"
-      }
-    ],
-    "published_online_date": [
-      {
-        "doi": "10.1038/ndigest.2015.150210",
-        "title": "「プラチナ」ゲノムで疾患に迫れ"
-      },
-      {
-        "doi": "10.1186/2045-8118-12-s1-o17",
-        "title": "Towards a better understanding of the cellular basis for cerebrospinal fluid shunt obstruction: report on construction of a bank of explanted hydrocephalus devices"
-      },
-      {
-        "doi": "10.1016/s0415-6412(15)30066-7",
-        "title": "Allergie und das Mikrobiom des Darms - Teil 2"
-      },
-      {
-        "doi": "10.1016/s0894-9166(15)60010-6",
-        "title": "The effects of cod bone gelatin on trabecular microstructure and mechanical properties of cancellous bone"
-      },
-      {
-        "doi": "10.1186/s13018-015-0160-5",
-        "title": "The effect of void creation prior to vertebroplasty on intravertebral pressure and cement distribution in cadaveric spines with simulated metastases"
-      }
-    ],
     "license": [
-      {
-        "doi": "10.1186/2045-8118-12-s1-o17",
-        "title": "Towards a better understanding of the cellular basis for cerebrospinal fluid shunt obstruction: report on construction of a bank of explanted hydrocephalus devices"
-      },
-      {
-        "doi": "10.1007/jhep02(2015)078",
-        "title": "Lifshitz scale anomalies"
-      },
-      {
-        "doi": "10.1007/s11227-014-1369-5",
-        "title": "Oblivious user management for cloud-based data synchronization"
-      },
-      {
-        "doi": "10.3758/s13421-015-0506-6",
-        "title": "When orthography is not enough: The effect of lexical stress in lexical decision"
-      },
-      {
-        "doi": "10.1007/s00221-015-4236-6",
-        "title": "Blindsight is sensitive to stimulus numerosity and configuration: evidence from the redundant signal effect"
-      }
-    ],
-    "license_url": [
       {
         "doi": "10.1186/2045-8118-12-s1-o17",
         "title": "Towards a better understanding of the cellular basis for cerebrospinal fluid shunt obstruction: report on construction of a bank of explanted hydrocephalus devices"
@@ -2290,28 +2180,6 @@
         "title": "Return on investment for implementation of perioperative goal-directed therapy in major surgery: a nationwide database study"
       }
     ],
-    "full_text_links": [
-      {
-        "doi": "10.1186/2045-8118-12-s1-o17",
-        "title": "Towards a better understanding of the cellular basis for cerebrospinal fluid shunt obstruction: report on construction of a bank of explanted hydrocephalus devices"
-      },
-      {
-        "doi": "10.1186/1476-9255-12-s1-o2",
-        "title": "Sharing the love: networking amongst cytometrists"
-      },
-      {
-        "doi": "10.1186/2197-425x-3-s1-a975",
-        "title": "CHLORIDE ADMINISTRATION IN THE INTENSIVE CARE UNIT, AN INDEPENDENT PREDICTOR OF MORTALITY"
-      },
-      {
-        "doi": "10.1186/2050-5736-3-s1-o18",
-        "title": "Neurotrophic delivery in Alzheimer’s-model mice"
-      },
-      {
-        "doi": "10.1186/1758-5996-7-s1-a189",
-        "title": "Reuse of disposable syringes and needles in patients with type 2 diabetes"
-      }
-    ],
     "resource_url": [],
     "references": [
       {
@@ -2333,72 +2201,6 @@
       {
         "doi": "10.15352/afa/06-3-19",
         "title": "Weyl type theorems for algebraically Quasi-$\\mathcal{HNP}$ operators"
-      }
-    ],
-    "references_count": [
-      {
-        "doi": "10.1186/cc14141",
-        "title": "Procalcitonin levels in patients undergoing left ventricular assist device implantation"
-      },
-      {
-        "doi": "10.15352/afa/06-2-16",
-        "title": "A new look at the crossed products of pro-$C^{\\ast}$-algebras"
-      },
-      {
-        "doi": "10.1007/s13244-015-0390-4",
-        "title": "ECR 2015 Book of Abstracts - E - Authors’ Index"
-      },
-      {
-        "doi": "10.15352/bjma/09-3-17",
-        "title": "Determinantal inequalities for Hadamard product of M-matrices and inverse M-matrices"
-      },
-      {
-        "doi": "10.15352/afa/06-3-19",
-        "title": "Weyl type theorems for algebraically Quasi-$\\mathcal{HNP}$ operators"
-      }
-    ],
-    "is_referenced_by": [
-      {
-        "doi": "10.1007/s35148-015-0350-9",
-        "title": "Integrierte Bewertung aktiver Fußgängerschutzsysteme"
-      },
-      {
-        "doi": "10.1186/2045-8118-12-s1-o17",
-        "title": "Towards a better understanding of the cellular basis for cerebrospinal fluid shunt obstruction: report on construction of a bank of explanted hydrocephalus devices"
-      },
-      {
-        "doi": "10.1007/s12312-014-1240-x",
-        "title": "Mammographiescreening – wo stehen wir?"
-      },
-      {
-        "doi": "10.1007/s00706-014-1393-4",
-        "title": "Theoretical study of cation–π interactions of Li+, Na+, and K+ with [6]helicene"
-      },
-      {
-        "doi": "10.1007/s00296-015-3254-9",
-        "title": "Meat consumption and gout: Friend, foe or neither?"
-      }
-    ],
-    "author_sequence": [
-      {
-        "doi": "10.1007/s13244-015-0390-4",
-        "title": "ECR 2015 Book of Abstracts - E - Authors’ Index"
-      },
-      {
-        "doi": "10.1055/s-0041-100416",
-        "title": "31. AGA-Kongress von 18.-20.9.2014 in Innsbruck"
-      },
-      {
-        "doi": "10.1007/s12054-015-0029-1",
-        "title": "Kurz und bündig"
-      },
-      {
-        "doi": "10.1007/s11837-015-1371-2",
-        "title": "TMS Foundation: growth through giving"
-      },
-      {
-        "doi": "10.1007/s40267-015-0190-4",
-        "title": "First reports of serious adverse drug reactions in recent weeks"
       }
     ],
     "affiliation_ids_ror": [
@@ -2423,28 +2225,6 @@
         "title": "European Analytical Column No. 43"
       }
     ],
-    "relations": [
-      {
-        "doi": "10.1007/s00108-015-3653-8",
-        "title": "53-jährige Urlauberin auf Hiddensee mit Schlangenbiss"
-      },
-      {
-        "doi": "10.1007/bf03653080",
-        "title": "Wem sollen wir noch glauben?"
-      },
-      {
-        "doi": "10.1007/bf03653084",
-        "title": "Gabapentin: Wirksam bei Alkoholabhängigkeit"
-      },
-      {
-        "doi": "10.1007/bf03653095",
-        "title": "Stärkung hausärztlicher Kompetenzen statt Fragmentierung der Medizin"
-      },
-      {
-        "doi": "10.1007/s11657-015-0205-8",
-        "title": "Osteoporosis management and the utilization of FRAX®: a survey amongst health care professionals of the Asia-Pacific—response to comments by Lee and Ha"
-      }
-    ],
     "author_given_family": [
       {
         "doi": "10.1007/s12426-015-0006-5",
@@ -2467,28 +2247,6 @@
         "title": "Vakbeurs Totale Voetverzorging"
       }
     ],
-    "affiliation_ror": [
-      {
-        "doi": "10.1007/s00108-015-3653-8",
-        "title": "53-jährige Urlauberin auf Hiddensee mit Schlangenbiss"
-      },
-      {
-        "doi": "10.1007/s10959-014-0591-7",
-        "title": "The Cameron–Martin Theorem for (p-)Slepian Processes"
-      },
-      {
-        "doi": "10.1007/s11657-015-0205-8",
-        "title": "Osteoporosis management and the utilization of FRAX®: a survey amongst health care professionals of the Asia-Pacific—response to comments by Lee and Ha"
-      },
-      {
-        "doi": "10.1007/s11623-015-0365-0",
-        "title": "Im Überwachungsstaat"
-      },
-      {
-        "doi": "10.1007/s00216-015-8519-3",
-        "title": "European Analytical Column No. 43"
-      }
-    ],
     "funding_complete": [
       {
         "doi": "10.1007/jhep02(2015)078",
@@ -2509,28 +2267,6 @@
       {
         "doi": "10.1186/1471-2105-16-s3-a8",
         "title": "Hybrid approaches for the detection of networks of critical residues involved in functional motions in protein families"
-      }
-    ],
-    "preprint_version_link": [
-      {
-        "doi": "10.1007/s10959-014-0591-7",
-        "title": "The Cameron–Martin Theorem for (p-)Slepian Processes"
-      },
-      {
-        "doi": "10.1007/s11042-015-2523-7",
-        "title": "Aligning shapes for symbol classification and retrieval"
-      },
-      {
-        "doi": "10.1186/2045-8118-12-s1-o17",
-        "title": "Towards a better understanding of the cellular basis for cerebrospinal fluid shunt obstruction: report on construction of a bank of explanted hydrocephalus devices"
-      },
-      {
-        "doi": "10.1007/s00373-014-1501-6",
-        "title": "A New Zero-divisor Graph Contradicting Beck’s Conjecture, and the Classification for a Family of Polynomial Quotients"
-      },
-      {
-        "doi": "10.1007/jhep02(2015)078",
-        "title": "Lifshitz scale anomalies"
       }
     ],
     "open_access_status": [
@@ -2558,99 +2294,31 @@
   },
   "sampleWorks": [
     {
-      "doi": "10.1007/s00108-015-3653-8",
-      "title": "53-jährige Urlauberin auf Hiddensee mit Schlangenbiss",
-      "year": 2015,
-      "crossrefScore": 0.5789473684210527,
-      "openalexScore": 0.6842105263157895,
-      "gap": 6,
-      "openalexAdds": [
-        "author_affiliation",
-        "subject_keywords",
-        "author_orcid",
-        "affiliation_ids_ror",
-        "relations",
-        "affiliation_ror"
-      ]
-    },
-    {
-      "doi": "10.1007/s10959-014-0591-7",
-      "title": "The Cameron–Martin Theorem for (p-)Slepian Processes",
-      "year": 2015,
-      "crossrefScore": 0.5789473684210527,
-      "openalexScore": 0.7105263157894737,
-      "gap": 6,
-      "openalexAdds": [
-        "author_affiliation",
-        "subject_keywords",
-        "affiliation_ids_ror",
-        "affiliation_ror",
-        "preprint_version_link",
-        "open_access_status"
-      ]
-    },
-    {
       "doi": "10.1007/s11657-015-0205-8",
       "title": "Osteoporosis management and the utilization of FRAX®: a survey amongst health care professionals of the Asia-Pacific—response to comments by Lee and Ha",
       "year": 2015,
-      "crossrefScore": 0.5526315789473685,
-      "openalexScore": 0.6578947368421053,
-      "gap": 7,
-      "openalexAdds": [
-        "author_affiliation",
-        "subject_keywords",
-        "author_orcid",
-        "page",
-        "affiliation_ids_ror",
-        "relations",
-        "affiliation_ror"
-      ]
-    },
-    {
-      "doi": "10.1007/s11623-015-0365-0",
-      "title": "Im Überwachungsstaat",
-      "year": 2015,
-      "crossrefScore": 0.5,
-      "openalexScore": 0.631578947368421,
-      "gap": 6,
-      "openalexAdds": [
-        "author_affiliation",
-        "subject_keywords",
-        "affiliation_ids_ror",
-        "relations",
-        "affiliation_ror",
-        "open_access_status"
-      ]
-    },
-    {
-      "doi": "10.1038/ndigest.2015.150210",
-      "title": "「プラチナ」ゲノムで疾患に迫れ",
-      "year": 2015,
-      "crossrefScore": 0.39473684210526316,
-      "openalexScore": 0.5,
+      "crossrefScore": 0.5384615384615384,
+      "openalexScore": 0.6923076923076923,
       "gap": 4,
       "openalexAdds": [
-        "subject_keywords",
-        "language",
-        "published_online_date",
-        "relations"
+        "author_affiliation",
+        "author_orcid",
+        "page",
+        "affiliation_ids_ror"
       ]
     },
     {
       "doi": "10.1007/s00216-015-8519-3",
       "title": "European Analytical Column No. 43",
       "year": 2015,
-      "crossrefScore": 0.5263157894736842,
-      "openalexScore": 0.7368421052631579,
-      "gap": 8,
+      "crossrefScore": 0.5769230769230769,
+      "openalexScore": 0.7692307692307693,
+      "gap": 5,
       "openalexAdds": [
         "author_affiliation",
-        "subject_keywords",
         "author_orcid",
         "all_authors_orcid",
         "affiliation_ids_ror",
-        "relations",
-        "affiliation_ror",
         "open_access_status"
       ]
     },
@@ -2658,68 +2326,115 @@
       "doi": "10.1186/s13660-015-0594-7",
       "title": "Sturm comparison theorems for some elliptic type equations with damping and external forcing terms",
       "year": 2015,
-      "crossrefScore": 0.6842105263157895,
-      "openalexScore": 0.8157894736842105,
-      "gap": 7,
+      "crossrefScore": 0.6538461538461539,
+      "openalexScore": 0.8076923076923077,
+      "gap": 4,
       "openalexAdds": [
         "abstract",
         "author_affiliation",
-        "subject_keywords",
         "author_orcid",
-        "affiliation_ids_ror",
-        "relations",
-        "affiliation_ror"
+        "affiliation_ids_ror"
       ]
     },
     {
       "doi": "10.1007/s00204-015-1499-4",
       "title": "Commentary to Choi et al. (2015): CCR5 knockout mice with C57BL6 background are resistant to acetaminophen-mediated hepatotoxicity due to decreased macrophages migration into the liver",
       "year": 2015,
-      "crossrefScore": 0.5789473684210527,
-      "openalexScore": 0.7105263157894737,
-      "gap": 7,
+      "crossrefScore": 0.5769230769230769,
+      "openalexScore": 0.7307692307692307,
+      "gap": 4,
       "openalexAdds": [
         "author_affiliation",
-        "subject_keywords",
         "author_orcid",
         "all_authors_orcid",
-        "affiliation_ids_ror",
-        "relations",
-        "affiliation_ror"
-      ]
-    },
-    {
-      "doi": "10.1007/s13370-015-0320-0",
-      "title": "I–V fuzzy set theory applied on po-LA-semigroups",
-      "year": 2015,
-      "crossrefScore": 0.5789473684210527,
-      "openalexScore": 0.6842105263157895,
-      "gap": 6,
-      "openalexAdds": [
-        "author_affiliation",
-        "subject_keywords",
-        "author_orcid",
-        "affiliation_ids_ror",
-        "relations",
-        "affiliation_ror"
+        "affiliation_ids_ror"
       ]
     },
     {
       "doi": "10.1007/s11042-015-2523-7",
       "title": "Aligning shapes for symbol classification and retrieval",
       "year": 2015,
-      "crossrefScore": 0.5789473684210527,
-      "openalexScore": 0.7368421052631579,
-      "gap": 8,
+      "crossrefScore": 0.5769230769230769,
+      "openalexScore": 0.7307692307692307,
+      "gap": 4,
       "openalexAdds": [
         "author_affiliation",
-        "subject_keywords",
         "author_orcid",
         "all_authors_orcid",
+        "affiliation_ids_ror"
+      ]
+    },
+    {
+      "doi": "10.1007/s11277-015-2428-9",
+      "title": "A Novel Delay- and Utility-Oriented Resource Allocation Algorithm for Mixed Services in OFDMA Systems",
+      "year": 2015,
+      "crossrefScore": 0.5769230769230769,
+      "openalexScore": 0.7307692307692307,
+      "gap": 4,
+      "openalexAdds": [
+        "author_affiliation",
+        "author_orcid",
+        "all_authors_orcid",
+        "affiliation_ids_ror"
+      ]
+    },
+    {
+      "doi": "10.1007/s13160-015-0170-z",
+      "title": "Study of a degenerate elliptic equation in an optimal consumption problem under partial information",
+      "year": 2015,
+      "crossrefScore": 0.5769230769230769,
+      "openalexScore": 0.7307692307692307,
+      "gap": 4,
+      "openalexAdds": [
+        "author_affiliation",
+        "author_orcid",
+        "all_authors_orcid",
+        "affiliation_ids_ror"
+      ]
+    },
+    {
+      "doi": "10.1186/2045-8118-12-s1-o17",
+      "title": "Towards a better understanding of the cellular basis for cerebrospinal fluid shunt obstruction: report on construction of a bank of explanted hydrocephalus devices",
+      "year": 2015,
+      "crossrefScore": 0.5769230769230769,
+      "openalexScore": 0.8461538461538461,
+      "gap": 7,
+      "openalexAdds": [
+        "abstract",
+        "author_affiliation",
+        "author_orcid",
+        "license",
+        "open_access_license",
         "affiliation_ids_ror",
-        "relations",
-        "affiliation_ror",
-        "preprint_version_link"
+        "open_access_status"
+      ]
+    },
+    {
+      "doi": "10.1007/s00373-014-1501-6",
+      "title": "A New Zero-divisor Graph Contradicting Beck’s Conjecture, and the Classification for a Family of Polynomial Quotients",
+      "year": 2015,
+      "crossrefScore": 0.5769230769230769,
+      "openalexScore": 0.7307692307692307,
+      "gap": 4,
+      "openalexAdds": [
+        "author_affiliation",
+        "author_orcid",
+        "all_authors_orcid",
+        "affiliation_ids_ror"
+      ]
+    },
+    {
+      "doi": "10.1007/s11094-015-1192-1",
+      "title": "Effect of Succinic Acid and Chitosan Derivatives on Aconitate Hydratase Activity and Citrate Content in Rat Brain Tissues Under Ischemia/Reperfusion Conditions",
+      "year": 2015,
+      "crossrefScore": 0.5769230769230769,
+      "openalexScore": 0.7307692307692307,
+      "gap": 4,
+      "openalexAdds": [
+        "author_affiliation",
+        "funder_name",
+        "author_orcid",
+        "affiliation_ids_ror"
       ]
     }
   ],
@@ -2868,44 +2583,13 @@
       "samples": []
     },
     {
-      "id": "subject_keywords",
-      "label": "Subject / Keywords",
-      "category": "findable_essential",
-      "effort": "voluntary",
-      "crossref": 0,
-      "openalex": 0.9999431385259231,
-      "gap": 0.9999431385259231,
-      "samples": [
-        {
-          "doi": "10.1007/s00108-015-3653-8",
-          "title": "53-jährige Urlauberin auf Hiddensee mit Schlangenbiss"
-        },
-        {
-          "doi": "10.1007/bf03653080",
-          "title": "Wem sollen wir noch glauben?"
-        },
-        {
-          "doi": "10.1007/bf03653084",
-          "title": "Gabapentin: Wirksam bei Alkoholabhängigkeit"
-        },
-        {
-          "doi": "10.1007/s10959-014-0591-7",
-          "title": "The Cameron–Martin Theorem for (p-)Slepian Processes"
-        },
-        {
-          "doi": "10.1007/bf03653095",
-          "title": "Stärkung hausärztlicher Kompetenzen statt Fragmentierung der Medizin"
-        }
-      ]
-    },
-    {
       "id": "funder_name",
       "label": "Funder Name",
       "category": "findable_essential",
       "effort": "voluntary",
-      "crossref": 0.3033409090909091,
+      "crossref": 0.30282954545454543,
       "openalex": 0.3487655373977915,
-      "gap": 0.045424628306882375,
+      "gap": 0.045935991943246046,
       "samples": [
         {
           "doi": "10.1007/s11094-015-1192-1",
@@ -3033,44 +2717,13 @@
       ]
     },
     {
-      "id": "funder_doi",
-      "label": "Funder DOI",
-      "category": "findable_support",
-      "effort": "voluntary",
-      "crossref": 0.23277272727272727,
-      "openalex": 0.3487655373977915,
-      "gap": 0.11599281012506421,
-      "samples": [
-        {
-          "doi": "10.1007/s11094-015-1192-1",
-          "title": "Effect of Succinic Acid and Chitosan Derivatives on Aconitate Hydratase Activity and Citrate Content in Rat Brain Tissues Under Ischemia/Reperfusion Conditions"
-        },
-        {
-          "doi": "10.1007/jhep02(2015)078",
-          "title": "Lifshitz scale anomalies"
-        },
-        {
-          "doi": "10.1186/2193-1801-4-9",
-          "title": "Women with large (≥3 cm) and locally advanced breast cancers (T3, 4, N1, 2, M0) receiving neoadjuvant chemotherapy (NAC: cyclophosphamide, doxorubicin, docetaxel): addition of capecitabine improves 4-year disease-free survival"
-        },
-        {
-          "doi": "10.1557/opl.2015.782",
-          "title": "Ab Initio Analysis of Charge Carrier Dynamics in Organic-Inorganic Lead Halide Perovskite Solar Cells"
-        },
-        {
-          "doi": "10.1186/cc14141",
-          "title": "Procalcitonin levels in patients undergoing left ventricular assist device implantation"
-        }
-      ]
-    },
-    {
       "id": "award_number",
       "label": "Award Number",
       "category": "findable_support",
       "effort": "voluntary",
-      "crossref": 0.2399318181818182,
+      "crossref": 0.23981818181818182,
       "openalex": 0.2492807023529278,
-      "gap": 0.0093488841711096,
+      "gap": 0.009462520534745972,
       "samples": [
         {
           "doi": "10.1007/jhep02(2015)078",
@@ -3140,29 +2793,29 @@
       "label": "Issue",
       "category": "findable_support",
       "effort": "automatic",
-      "crossref": 0.9569318181818182,
+      "crossref": 0.9568181818181818,
       "openalex": 0.9832713543265895,
-      "gap": 0.02633953614477136,
+      "gap": 0.02645317250840773,
       "samples": [
         {
           "doi": "10.7759/cureus.249",
           "title": "Unilateral Pedicle Screw Fixation is Associated with Reduced Cost and Similar Outcomes in Selected Patients Undergoing Minimally Invasive Transforaminal Lumbar Interbody Fusion for L4-5 Degenerative Spondylolisthesis"
         },
         {
-          "doi": "10.7759/cureus.259",
-          "title": "Deep Brain Stimulation for Obesity"
+          "doi": "10.2151/sola.2015-001",
+          "title": "Measurements of Turbulent Flow and Ozone at Rooftop and Sidewalk Sites in a High-Rise Building Area"
         },
         {
-          "doi": "10.7759/cureus.298",
-          "title": "18F-FDG PET/CT Imaging of Gallbladder Adenocarcinoma - A Pictorial Review"
+          "doi": "10.2151/sola.2015-028",
+          "title": "Probable Hourly Precipitation and Soil Water Index for 50-yr Recurrence Interval over the Japanese Archipelago"
         },
         {
-          "doi": "10.7759/cureus.293",
-          "title": "Predictors of Neurocognitive Syndromes in Combat Veterans"
+          "doi": "10.2151/jmsj.2015-049",
+          "title": "Ocean Response to CINDY/DYNAMO MJOs in Air-Sea-Coupled COAMPS"
         },
         {
-          "doi": "10.7759/cureus.433",
-          "title": "Ongoing Remission Nineteen Years after High-dose Chemotherapy for Oligometastatic Breast Cancer; What Can We Learn from this Patient?"
+          "doi": "10.2151/sola.2015-030",
+          "title": "Scheme-Based Optimization of Land Surface Model Using a Micro-Genetic Algorithm: Assessment of Its Performance and Usability for Regional Applications"
         }
       ]
     },
@@ -3171,9 +2824,9 @@
       "label": "Page",
       "category": "findable_support",
       "effort": "automatic",
-      "crossref": 0.6849318181818181,
-      "openalex": 0.8879601514789669,
-      "gap": 0.20302833329714876,
+      "crossref": 0.6846590909090909,
+      "openalex": 0.8879487791841516,
+      "gap": 0.20328968827506066,
       "samples": [
         {
           "doi": "10.1007/s11657-015-0205-8",
@@ -3198,101 +2851,8 @@
       ]
     },
     {
-      "id": "published_print_date",
-      "label": "Published Print Date",
-      "category": "findable_support",
-      "effort": "automatic",
-      "crossref": 0.8144545454545454,
-      "openalex": 1,
-      "gap": 0.18554545454545457,
-      "samples": [
-        {
-          "doi": "10.1186/cc14270",
-          "title": "Positive fluid balance is an independent risk factor for acute kidney injury in critically ill patients: results of a prospective, cross-sectional study"
-        },
-        {
-          "doi": "10.1186/cc14266",
-          "title": "Return on investment for implementation of perioperative goal-directed therapy in major surgery: a nationwide database study"
-        },
-        {
-          "doi": "10.1186/cc14083",
-          "title": "Usefulness of sepsis screening tools and education in recognising the burden of sepsis on hospital wards"
-        },
-        {
-          "doi": "10.1186/cc14391",
-          "title": "In-depth study of road accidents in Florence: understanding the biomechanical effects in major trauma involving vulnerable road users"
-        },
-        {
-          "doi": "10.1186/cc14202",
-          "title": "Intrathecal administration of colistin, vancomycin and amikacin for central nervous system infections in ICU neurosurgical patients"
-        }
-      ]
-    },
-    {
-      "id": "published_online_date",
-      "label": "Published Online Date",
-      "category": "findable_support",
-      "effort": "automatic",
-      "crossref": 0.9650568181818182,
-      "openalex": 1,
-      "gap": 0.03494318181818179,
-      "samples": [
-        {
-          "doi": "10.1038/ndigest.2015.150210",
-          "title": "「プラチナ」ゲノムで疾患に迫れ"
-        },
-        {
-          "doi": "10.1186/2045-8118-12-s1-o17",
-          "title": "Towards a better understanding of the cellular basis for cerebrospinal fluid shunt obstruction: report on construction of a bank of explanted hydrocephalus devices"
-        },
-        {
-          "doi": "10.1016/s0415-6412(15)30066-7",
-          "title": "Allergie und das Mikrobiom des Darms - Teil 2"
-        },
-        {
-          "doi": "10.1016/s0894-9166(15)60010-6",
-          "title": "The effects of cod bone gelatin on trabecular microstructure and mechanical properties of cancellous bone"
-        },
-        {
-          "doi": "10.1186/s13018-015-0160-5",
-          "title": "The effect of void creation prior to vertebroplasty on intravertebral pressure and cement distribution in cadaveric spines with simulated metastases"
-        }
-      ]
-    },
-    {
       "id": "license",
       "label": "License",
-      "category": "accessible_essential",
-      "effort": "automatic",
-      "crossref": 0.46870454545454543,
-      "openalex": 0.3367563940727599,
-      "gap": -0.1319481513817855,
-      "samples": [
-        {
-          "doi": "10.1186/2045-8118-12-s1-o17",
-          "title": "Towards a better understanding of the cellular basis for cerebrospinal fluid shunt obstruction: report on construction of a bank of explanted hydrocephalus devices"
-        },
-        {
-          "doi": "10.1007/jhep02(2015)078",
-          "title": "Lifshitz scale anomalies"
-        },
-        {
-          "doi": "10.1007/s11227-014-1369-5",
-          "title": "Oblivious user management for cloud-based data synchronization"
-        },
-        {
-          "doi": "10.3758/s13421-015-0506-6",
-          "title": "When orthography is not enough: The effect of lexical stress in lexical decision"
-        },
-        {
-          "doi": "10.1007/s00221-015-4236-6",
-          "title": "Blindsight is sensitive to stimulus numerosity and configuration: evidence from the redundant signal effect"
-        }
-      ]
-    },
-    {
-      "id": "license_url",
-      "label": "License URL",
       "category": "accessible_essential",
       "effort": "automatic",
       "crossref": 0.46870454545454543,
@@ -3353,37 +2913,6 @@
       ]
     },
     {
-      "id": "full_text_links",
-      "label": "Full-text Links",
-      "category": "accessible_essential",
-      "effort": "automatic",
-      "crossref": 0.9904090909090909,
-      "openalex": 0.39730249166979403,
-      "gap": -0.5931065992392969,
-      "samples": [
-        {
-          "doi": "10.1186/2045-8118-12-s1-o17",
-          "title": "Towards a better understanding of the cellular basis for cerebrospinal fluid shunt obstruction: report on construction of a bank of explanted hydrocephalus devices"
-        },
-        {
-          "doi": "10.1186/1476-9255-12-s1-o2",
-          "title": "Sharing the love: networking amongst cytometrists"
-        },
-        {
-          "doi": "10.1186/2197-425x-3-s1-a975",
-          "title": "CHLORIDE ADMINISTRATION IN THE INTENSIVE CARE UNIT, AN INDEPENDENT PREDICTOR OF MORTALITY"
-        },
-        {
-          "doi": "10.1186/2050-5736-3-s1-o18",
-          "title": "Neurotrophic delivery in Alzheimer’s-model mice"
-        },
-        {
-          "doi": "10.1186/1758-5996-7-s1-a189",
-          "title": "Reuse of disposable syringes and needles in patients with type 2 diabetes"
-        }
-      ]
-    },
-    {
       "id": "resource_url",
       "label": "Resource URL",
       "category": "accessible_essential",
@@ -3425,99 +2954,6 @@
       ]
     },
     {
-      "id": "references_count",
-      "label": "References Count",
-      "category": "accessible_essential",
-      "effort": "voluntary",
-      "crossref": 0.8898181818181818,
-      "openalex": 0.8832633937202188,
-      "gap": -0.00655478809796306,
-      "samples": [
-        {
-          "doi": "10.1186/cc14141",
-          "title": "Procalcitonin levels in patients undergoing left ventricular assist device implantation"
-        },
-        {
-          "doi": "10.15352/afa/06-2-16",
-          "title": "A new look at the crossed products of pro-$C^{\\ast}$-algebras"
-        },
-        {
-          "doi": "10.1007/s13244-015-0390-4",
-          "title": "ECR 2015 Book of Abstracts - E - Authors’ Index"
-        },
-        {
-          "doi": "10.15352/bjma/09-3-17",
-          "title": "Determinantal inequalities for Hadamard product of M-matrices and inverse M-matrices"
-        },
-        {
-          "doi": "10.15352/afa/06-3-19",
-          "title": "Weyl type theorems for algebraically Quasi-$\\mathcal{HNP}$ operators"
-        }
-      ]
-    },
-    {
-      "id": "is_referenced_by",
-      "label": "Is Referenced By",
-      "category": "accessible_essential",
-      "effort": "automatic",
-      "crossref": 0.6860681818181819,
-      "openalex": 0.7104841185902904,
-      "gap": 0.024415936772108515,
-      "samples": [
-        {
-          "doi": "10.1007/s35148-015-0350-9",
-          "title": "Integrierte Bewertung aktiver Fußgängerschutzsysteme"
-        },
-        {
-          "doi": "10.1186/2045-8118-12-s1-o17",
-          "title": "Towards a better understanding of the cellular basis for cerebrospinal fluid shunt obstruction: report on construction of a bank of explanted hydrocephalus devices"
-        },
-        {
-          "doi": "10.1007/s12312-014-1240-x",
-          "title": "Mammographiescreening – wo stehen wir?"
-        },
-        {
-          "doi": "10.1007/s00706-014-1393-4",
-          "title": "Theoretical study of cation–π interactions of Li+, Na+, and K+ with [6]helicene"
-        },
-        {
-          "doi": "10.1007/s00296-015-3254-9",
-          "title": "Meat consumption and gout: Friend, foe or neither?"
-        }
-      ]
-    },
-    {
-      "id": "author_sequence",
-      "label": "Author Sequence",
-      "category": "accessible_support",
-      "effort": "automatic",
-      "crossref": 0.9178522727272728,
-      "openalex": 0.9202802133442507,
-      "gap": 0.0024279406169779305,
-      "samples": [
-        {
-          "doi": "10.1007/s13244-015-0390-4",
-          "title": "ECR 2015 Book of Abstracts - E - Authors’ Index"
-        },
-        {
-          "doi": "10.1055/s-0041-100416",
-          "title": "31. AGA-Kongress von 18.-20.9.2014 in Innsbruck"
-        },
-        {
-          "doi": "10.1007/s12054-015-0029-1",
-          "title": "Kurz und bündig"
-        },
-        {
-          "doi": "10.1007/s11837-015-1371-2",
-          "title": "TMS Foundation: growth through giving"
-        },
-        {
-          "doi": "10.1007/s40267-015-0190-4",
-          "title": "First reports of serious adverse drug reactions in recent weeks"
-        }
-      ]
-    },
-    {
       "id": "affiliation_ids_ror",
       "label": "Affiliation IDs (ROR)",
       "category": "accessible_support",
@@ -3545,37 +2981,6 @@
         {
           "doi": "10.1007/s00216-015-8519-3",
           "title": "European Analytical Column No. 43"
-        }
-      ]
-    },
-    {
-      "id": "relations",
-      "label": "Relations",
-      "category": "accessible_support",
-      "effort": "voluntary",
-      "crossref": 0.01496590909090909,
-      "openalex": 0.9587754312942809,
-      "gap": 0.9438095222033718,
-      "samples": [
-        {
-          "doi": "10.1007/s00108-015-3653-8",
-          "title": "53-jährige Urlauberin auf Hiddensee mit Schlangenbiss"
-        },
-        {
-          "doi": "10.1007/bf03653080",
-          "title": "Wem sollen wir noch glauben?"
-        },
-        {
-          "doi": "10.1007/bf03653084",
-          "title": "Gabapentin: Wirksam bei Alkoholabhängigkeit"
-        },
-        {
-          "doi": "10.1007/bf03653095",
-          "title": "Stärkung hausärztlicher Kompetenzen statt Fragmentierung der Medizin"
-        },
-        {
-          "doi": "10.1007/s11657-015-0205-8",
-          "title": "Osteoporosis management and the utilization of FRAX®: a survey amongst health care professionals of the Asia-Pacific—response to comments by Lee and Ha"
         }
       ]
     },
@@ -3611,37 +3016,6 @@
       ]
     },
     {
-      "id": "affiliation_ror",
-      "label": "Affiliation with ROR",
-      "category": "evaluation_coara",
-      "effort": "voluntary",
-      "crossref": 0.0008863636363636364,
-      "openalex": 0.8584717910227104,
-      "gap": 0.8575854273863468,
-      "samples": [
-        {
-          "doi": "10.1007/s00108-015-3653-8",
-          "title": "53-jährige Urlauberin auf Hiddensee mit Schlangenbiss"
-        },
-        {
-          "doi": "10.1007/s10959-014-0591-7",
-          "title": "The Cameron–Martin Theorem for (p-)Slepian Processes"
-        },
-        {
-          "doi": "10.1007/s11657-015-0205-8",
-          "title": "Osteoporosis management and the utilization of FRAX®: a survey amongst health care professionals of the Asia-Pacific—response to comments by Lee and Ha"
-        },
-        {
-          "doi": "10.1007/s11623-015-0365-0",
-          "title": "Im Überwachungsstaat"
-        },
-        {
-          "doi": "10.1007/s00216-015-8519-3",
-          "title": "European Analytical Column No. 43"
-        }
-      ]
-    },
-    {
       "id": "funding_complete",
       "label": "Complete Funding Info",
       "category": "evaluation_coara",
@@ -3669,37 +3043,6 @@
         {
           "doi": "10.1186/1471-2105-16-s3-a8",
           "title": "Hybrid approaches for the detection of networks of critical residues involved in functional motions in protein families"
-        }
-      ]
-    },
-    {
-      "id": "preprint_version_link",
-      "label": "Preprint / Version Link",
-      "category": "evaluation_coara",
-      "effort": "voluntary",
-      "crossref": 0.005170454545454546,
-      "openalex": 0.4077763751947506,
-      "gap": 0.402605920649296,
-      "samples": [
-        {
-          "doi": "10.1007/s10959-014-0591-7",
-          "title": "The Cameron–Martin Theorem for (p-)Slepian Processes"
-        },
-        {
-          "doi": "10.1007/s11042-015-2523-7",
-          "title": "Aligning shapes for symbol classification and retrieval"
-        },
-        {
-          "doi": "10.1186/2045-8118-12-s1-o17",
-          "title": "Towards a better understanding of the cellular basis for cerebrospinal fluid shunt obstruction: report on construction of a bank of explanted hydrocephalus devices"
-        },
-        {
-          "doi": "10.1007/s00373-014-1501-6",
-          "title": "A New Zero-divisor Graph Contradicting Beck’s Conjecture, and the Classification for a Family of Polynomial Quotients"
-        },
-        {
-          "doi": "10.1007/jhep02(2015)078",
-          "title": "Lifshitz scale anomalies"
         }
       ]
     },

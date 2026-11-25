@@ -8,16 +8,16 @@
   "totalWorksMatched": 2863,
   "totalWorksUniverse": 2873,
   "crossref": {
-    "overall": 0.47096775270983415,
+    "overall": 0.47087361607723593,
     "categories": {
-      "findable_essential": 0.6632730015082956,
-      "findable_support": 0.46476600322754175,
+      "findable_essential": 0.6632439958231813,
+      "findable_support": 0.4641964370471158,
       "accessible_essential": 0.5385002127083576,
       "accessible_support": 0.32080287736396335,
       "evaluation_coara": 0.1778280542986425
     },
     "fields": {
-      "title": 0.9909502262443439,
+      "title": 0.9906021580229725,
       "abstract": 0.9244691959624086,
       "author": 1,
       "author_affiliation": 0.021928297946397494,
@@ -34,8 +34,8 @@
       "funder_doi": 0,
       "award_number": 0,
       "issn": 1,
-      "volume": 0.679429168116951,
-      "issue": 0.8820048729550992,
+      "volume": 0.677688827010094,
+      "issue": 0.8774799860772712,
       "page": 0.8169161155586495,
       "published_print_date": 0.07935955447267665,
       "published_online_date": 1,
@@ -68,16 +68,16 @@
     }
   },
   "openalex": {
-    "overall": 0.6528740425561941,
+    "overall": 0.6528653104569974,
     "categories": {
-      "findable_essential": 0.8984165793456746,
+      "findable_essential": 0.8983874723483525,
       "findable_support": 0.5955926713872924,
       "accessible_essential": 0.7282958823301121,
       "accessible_support": 0.4657119571544999,
       "evaluation_coara": 0.3268250087320992
     },
     "fields": {
-      "title": 0.9909186168354872,
+      "title": 0.9905693328676214,
       "abstract": 0.9786936779601816,
       "author": 1,
       "author_affiliation": 0.871463499825358,
@@ -127,79 +127,79 @@
       "open_access_status": 0.9979042961928047
     }
   },
-  "gap": 0.18190628984635993,
+  "gap": 0.18199169437976143,
   "comparable": {
     "crossref": {
       "categories": {
-        "findable_essential": 0.6632730015082956,
-        "findable_support": 0.5112426035502959,
-        "accessible_essential": 0.6058127392969023,
-        "accessible_support": 0.3334493560737905,
-        "evaluation_coara": 0.355656108597285
+        "findable_essential": 0.7235389045343795,
+        "findable_support": 0.5752573218636566,
+        "accessible_essential": 0.6881308736512357,
+        "accessible_support": 0,
+        "evaluation_coara": 0.5926441582550179
       },
-      "overall": 0.5315976331360946
+      "overall": 0.5939118197036748
     },
     "openalex": {
       "categories": {
-        "findable_essential": 0.8984165793456746,
-        "findable_support": 0.6551519385260216,
-        "accessible_essential": 0.8193328676213761,
-        "accessible_support": 0.9314239143089998,
-        "evaluation_coara": 0.6536500174641984
+        "findable_essential": 0.889181722922554,
+        "findable_support": 0.6479217603911981,
+        "accessible_essential": 0.9042961928047502,
+        "accessible_support": 0.8711142158574922,
+        "evaluation_coara": 0.6673652346023985
       },
-      "overall": 0.7965033764116893
+      "overall": 0.8106012976428624
     },
-    "gap": 0.2649057432755947,
-    "fieldCount": 38,
+    "gap": 0.21668947793918758,
+    "fieldCount": 26,
     "totalFieldCount": 48
   },
   "voluntary": {
     "crossref": {
       "categories": {
-        "findable_essential": 0.23659937347720153,
-        "findable_support": 0.1636790810998956,
-        "accessible_essential": 0.310708898944193,
-        "accessible_support": 0.0001740341106856944,
-        "evaluation_coara": 0.0001160227404571296
+        "findable_essential": 0.3154658313029354,
+        "findable_support": 0.21823877479986079,
+        "accessible_essential": 0.44744169857292027,
+        "accessible_support": 0,
+        "evaluation_coara": 0
       },
-      "overall": 0.17324950690335306
+      "overall": 0.2392359902540898
     },
     "openalex": {
       "categories": {
-        "findable_essential": 0.716468739084876,
-        "findable_support": 0.2927872860635697,
-        "accessible_essential": 0.7514262428687856,
-        "accessible_support": 0.8971358714634998,
-        "evaluation_coara": 0.4234485970427291
+        "findable_essential": 0.6220747467691232,
+        "findable_support": 0.3850273605774828,
+        "accessible_essential": 0.8119105833042264,
+        "accessible_support": 0.8711142158574922,
+        "evaluation_coara": 0.0041914076143905
       },
-      "overall": 0.6211185819070905
+      "overall": 0.5353038770520433
     },
-    "gap": 0.4478690750037374,
-    "fieldCount": 16
+    "gap": 0.2960678867979535,
+    "fieldCount": 10
   },
   "automatic": {
     "crossref": {
       "categories": {
-        "findable_essential": 0.8766098155238427,
-        "findable_support": 0.7429516185172295,
-        "accessible_essential": 0.7828750435085278,
-        "accessible_support": 1,
+        "findable_essential": 0.8765663069961712,
+        "findable_support": 0.8430212321615036,
+        "accessible_essential": 0.928820048729551,
+        "accessible_support": 0,
         "evaluation_coara": 0.8889662373825269
       },
-      "overall": 0.8479376957883745
+      "overall": 0.79942133658197
     },
     "openalex": {
       "categories": {
-        "findable_essential": 0.989390499476074,
-        "findable_support": 0.8967283735009897,
-        "accessible_essential": 0.8600768424729305,
-        "accessible_support": 1,
+        "findable_essential": 0.9893468389800908,
+        "findable_support": 0.8450925602514844,
+        "accessible_essential": 0.9966818023052741,
+        "accessible_support": 0,
         "evaluation_coara": 0.9989521480964023
       },
-      "overall": 0.9461360461054837
+      "overall": 0.872528815927349
     },
-    "gap": 0.09819835031710922,
-    "fieldCount": 22
+    "gap": 0.07310747934537898,
+    "fieldCount": 16
   },
   "yearlyScores": [
     {
@@ -330,29 +330,29 @@
       "comparable": {
         "crossref": {
           "categories": {
-            "findable_essential": 0.6666666666666666,
-            "findable_support": 0.3,
-            "accessible_essential": 0.33653846153846156,
-            "accessible_support": 0.3333333333333333,
-            "evaluation_coara": 0.2
+            "findable_essential": 0.7272727272727273,
+            "findable_support": 0.2857142857142857,
+            "accessible_essential": 0.25,
+            "accessible_support": 0,
+            "evaluation_coara": 0.3333333333333333
           },
-          "overall": 0.4024679487179488
+          "overall": 0.39020562770562767
         },
         "openalex": {
           "categories": {
-            "findable_essential": 0.9198717948717948,
-            "findable_support": 0.55,
-            "accessible_essential": 0.9855769230769231,
+            "findable_essential": 0.9125874125874126,
+            "findable_support": 0.4945054945054945,
+            "accessible_essential": 1,
             "accessible_support": 1,
-            "evaluation_coara": 0.6153846153846154
+            "evaluation_coara": 0.6666666666666666
           },
-          "overall": 0.8279326923076923
+          "overall": 0.8312853812853812
         },
-        "gap": 0.4254647435897435
+        "gap": 0.44107975357975354
       },
       "voluntary": {
-        "crossref": 0.075,
-        "openalex": 0.7059294871794871
+        "crossref": 0.09999999999999999,
+        "openalex": 0.6269230769230768
       }
     },
     {
@@ -483,29 +483,29 @@
       "comparable": {
         "crossref": {
           "categories": {
-            "findable_essential": 0.6415343915343915,
-            "findable_support": 0.37301587301587297,
-            "accessible_essential": 0.47023809523809523,
-            "accessible_support": 0.3333333333333333,
-            "evaluation_coara": 0.22857142857142856
+            "findable_essential": 0.6998556998556998,
+            "findable_support": 0.3492063492063492,
+            "accessible_essential": 0.4642857142857143,
+            "accessible_support": 0,
+            "evaluation_coara": 0.38095238095238093
           },
-          "overall": 0.44501984126984123
+          "overall": 0.4545995670995671
         },
         "openalex": {
           "categories": {
-            "findable_essential": 0.8915343915343915,
-            "findable_support": 0.5555555555555556,
-            "accessible_essential": 0.7718253968253967,
-            "accessible_support": 0.9259259259259259,
-            "evaluation_coara": 0.6222222222222221
+            "findable_essential": 0.8816738816738816,
+            "findable_support": 0.5011337868480725,
+            "accessible_essential": 0.8214285714285714,
+            "accessible_support": 0.7777777777777778,
+            "evaluation_coara": 0.671957671957672
           },
-          "overall": 0.760787037037037
+          "overall": 0.7571986875558304
         },
-        "gap": 0.31576719576719575
+        "gap": 0.3025991204562633
       },
       "voluntary": {
-        "crossref": 0.08809523809523809,
-        "openalex": 0.5816137566137566
+        "crossref": 0.12341269841269839,
+        "openalex": 0.4865079365079365
       }
     },
     {
@@ -636,29 +636,29 @@
       "comparable": {
         "crossref": {
           "categories": {
-            "findable_essential": 0.6056105610561057,
-            "findable_support": 0.5653465346534653,
-            "accessible_essential": 0.4331683168316831,
-            "accessible_support": 0.3333333333333333,
-            "evaluation_coara": 0.11485148514851484
+            "findable_essential": 0.6606660666066607,
+            "findable_support": 0.562942008486563,
+            "accessible_essential": 0.46782178217821785,
+            "accessible_support": 0,
+            "evaluation_coara": 0.1914191419141914
           },
-          "overall": 0.4310808580858086
+          "overall": 0.43788039518237537
         },
         "openalex": {
           "categories": {
-            "findable_essential": 0.9042904290429042,
-            "findable_support": 0.6574257425742573,
-            "accessible_essential": 0.9319306930693069,
-            "accessible_support": 0.9669966996699669,
-            "evaluation_coara": 0.7306930693069307
+            "findable_essential": 0.8955895589558955,
+            "findable_support": 0.652050919377652,
+            "accessible_essential": 0.9727722772277227,
+            "accessible_support": 0.9108910891089109,
+            "evaluation_coara": 0.66996699669967
           },
-          "overall": 0.8457219471947194
+          "overall": 0.8347600831511722
         },
-        "gap": 0.4146410891089108
+        "gap": 0.39687968796879686
       },
       "voluntary": {
-        "crossref": 0.10647689768976897,
-        "openalex": 0.688490099009901
+        "crossref": 0.11707920792079207,
+        "openalex": 0.564108910891089
       }
     },
     {
@@ -789,29 +789,29 @@
       "comparable": {
         "crossref": {
           "categories": {
-            "findable_essential": 0.6370673952641165,
-            "findable_support": 0.4306010928961749,
-            "accessible_essential": 0.5211748633879781,
-            "accessible_support": 0.3333333333333333,
-            "evaluation_coara": 0.25245901639344265
+            "findable_essential": 0.6949826130153999,
+            "findable_support": 0.42076502732240434,
+            "accessible_essential": 0.5956284153005464,
+            "accessible_support": 0,
+            "evaluation_coara": 0.4207650273224044
           },
-          "overall": 0.4698292349726776
+          "overall": 0.5046696472925981
         },
         "openalex": {
           "categories": {
-            "findable_essential": 0.8998178506375227,
-            "findable_support": 0.5699453551912568,
-            "accessible_essential": 0.8627049180327869,
-            "accessible_support": 0.9471766848816029,
-            "evaluation_coara": 0.6743169398907104
+            "findable_essential": 0.8907103825136612,
+            "findable_support": 0.5269320843091335,
+            "accessible_essential": 0.9262295081967213,
+            "accessible_support": 0.8415300546448088,
+            "evaluation_coara": 0.6684881602914391
           },
-          "overall": 0.8006944444444445
+          "overall": 0.7956609419724174
         },
-        "gap": 0.3308652094717669
+        "gap": 0.2909912946798193
       },
       "voluntary": {
-        "crossref": 0.12857468123861568,
-        "openalex": 0.630851548269581
+        "crossref": 0.1668032786885246,
+        "openalex": 0.5265027322404372
       }
     },
     {
@@ -942,29 +942,29 @@
       "comparable": {
         "crossref": {
           "categories": {
-            "findable_essential": 0.6715879265091864,
-            "findable_support": 0.4586614173228346,
-            "accessible_essential": 0.6274606299212598,
-            "accessible_support": 0.3346456692913386,
-            "evaluation_coara": 0.36929133858267715
+            "findable_essential": 0.732641374373658,
+            "findable_support": 0.5078740157480315,
+            "accessible_essential": 0.6978346456692913,
+            "accessible_support": 0,
+            "evaluation_coara": 0.6141732283464566
           },
-          "overall": 0.5344635826771653
+          "overall": 0.5932668217609163
         },
         "openalex": {
           "categories": {
-            "findable_essential": 0.906496062992126,
-            "findable_support": 0.6460629921259843,
-            "accessible_essential": 0.8587598425196852,
-            "accessible_support": 0.9606299212598426,
-            "evaluation_coara": 0.7110236220472441
+            "findable_essential": 0.8979957050823192,
+            "findable_support": 0.6355455568053994,
+            "accessible_essential": 0.9311023622047244,
+            "accessible_support": 0.889763779527559,
+            "evaluation_coara": 0.6666666666666666
           },
-          "overall": 0.8218159448818898
+          "overall": 0.819815846882776
         },
-        "gap": 0.2873523622047245
+        "gap": 0.2265490251218597
       },
       "voluntary": {
-        "crossref": 0.16259842519685042,
-        "openalex": 0.6585301837270341
+        "crossref": 0.22411417322834648,
+        "openalex": 0.5453740157480315
       }
     },
     {
@@ -1095,29 +1095,29 @@
       "comparable": {
         "crossref": {
           "categories": {
-            "findable_essential": 0.6853612167300379,
-            "findable_support": 0.5133079847908746,
-            "accessible_essential": 0.5979087452471483,
-            "accessible_support": 0.3333333333333333,
-            "evaluation_coara": 0.32015209125475286
+            "findable_essential": 0.7476667818873142,
+            "findable_support": 0.5703422053231939,
+            "accessible_essential": 0.6549429657794676,
+            "accessible_support": 0,
+            "evaluation_coara": 0.5335868187579215
           },
-          "overall": 0.5294455006337135
+          "overall": 0.5803044705611246
         },
         "openalex": {
           "categories": {
-            "findable_essential": 0.9081115335868186,
-            "findable_support": 0.667680608365019,
-            "accessible_essential": 0.8873574144486691,
-            "accessible_support": 0.9670468948035488,
-            "evaluation_coara": 0.6980988593155895
+            "findable_essential": 0.899758036640166,
+            "findable_support": 0.6653992395437262,
+            "accessible_essential": 0.9496197718631179,
+            "accessible_support": 0.9011406844106464,
+            "evaluation_coara": 0.6666666666666666
           },
-          "overall": 0.8307493662864386
+          "overall": 0.8305896416637861
         },
-        "gap": 0.30130386565272504
+        "gap": 0.2502851711026616
       },
       "voluntary": {
-        "crossref": 0.18883079847908746,
-        "openalex": 0.6773288973384031
+        "crossref": 0.2487642585551331,
+        "openalex": 0.569296577946768
       }
     },
     {
@@ -1248,29 +1248,29 @@
       "comparable": {
         "crossref": {
           "categories": {
-            "findable_essential": 0.6661877394636015,
-            "findable_support": 0.5077586206896552,
-            "accessible_essential": 0.6246408045977012,
-            "accessible_support": 0.3333333333333333,
-            "evaluation_coara": 0.3603448275862069
+            "findable_essential": 0.7267502612330199,
+            "findable_support": 0.5714285714285714,
+            "accessible_essential": 0.6932471264367817,
+            "accessible_support": 0,
+            "evaluation_coara": 0.6005747126436781
           },
-          "overall": 0.5375826149425287
+          "overall": 0.5971660882221227
         },
         "openalex": {
           "categories": {
-            "findable_essential": 0.9039750957854408,
-            "findable_support": 0.6652298850574713,
-            "accessible_essential": 0.8696120689655173,
-            "accessible_support": 0.9568965517241379,
-            "evaluation_coara": 0.6867816091954022
+            "findable_essential": 0.8952455590386627,
+            "findable_support": 0.6592775041050903,
+            "accessible_essential": 0.9360632183908046,
+            "accessible_support": 0.8908045977011494,
+            "evaluation_coara": 0.6724137931034483
           },
-          "overall": 0.8214260057471264
+          "overall": 0.8250443163158682
         },
-        "gap": 0.28384339080459775
+        "gap": 0.22787822809374547
       },
       "voluntary": {
-        "crossref": 0.1706058429118774,
-        "openalex": 0.6594348659003831
+        "crossref": 0.2382902298850575,
+        "openalex": 0.5592672413793103
       }
     },
     {
@@ -1279,10 +1279,10 @@
       "matched": 416,
       "universeSize": 416,
       "crossref": {
-        "overall": 0.4831807255244756,
+        "overall": 0.4831479458041959,
         "categories": {
           "findable_essential": 0.6656650641025641,
-          "findable_support": 0.46263111888111885,
+          "findable_support": 0.46241258741258745,
           "accessible_essential": 0.5681089743589745,
           "accessible_support": 0.3321314102564103,
           "evaluation_coara": 0.19423076923076923
@@ -1305,7 +1305,7 @@
           "funder_doi": 0,
           "award_number": 0,
           "issn": 1,
-          "volume": 0.75,
+          "volume": 0.7475961538461539,
           "issue": 0.9278846153846154,
           "page": 0.7836538461538461,
           "published_print_date": 0,
@@ -1401,29 +1401,29 @@
       "comparable": {
         "crossref": {
           "categories": {
-            "findable_essential": 0.6656650641025641,
-            "findable_support": 0.5088942307692308,
-            "accessible_essential": 0.6391225961538463,
-            "accessible_support": 0.3333333333333333,
-            "evaluation_coara": 0.38846153846153847
+            "findable_essential": 0.7261800699300699,
+            "findable_support": 0.5837912087912088,
+            "accessible_essential": 0.7223557692307692,
+            "accessible_support": 0,
+            "evaluation_coara": 0.6474358974358975
           },
-          "overall": 0.5468399439102565
+          "overall": 0.6154988240925741
         },
         "openalex": {
           "categories": {
-            "findable_essential": 0.9070512820512823,
-            "findable_support": 0.6754807692307693,
-            "accessible_essential": 0.8728966346153847,
-            "accessible_support": 0.969551282051282,
-            "evaluation_coara": 0.6596153846153846
+            "findable_essential": 0.8986013986013986,
+            "findable_support": 0.6778846153846153,
+            "accessible_essential": 0.9483173076923077,
+            "accessible_support": 0.9158653846153846,
+            "evaluation_coara": 0.6666666666666666
           },
-          "overall": 0.8205398637820513
+          "overall": 0.8332623106060606
         },
-        "gap": 0.2736999198717949
+        "gap": 0.21776348651348654
       },
       "voluntary": {
-        "crossref": 0.17671274038461537,
-        "openalex": 0.6639823717948719
+        "crossref": 0.24873798076923076,
+        "openalex": 0.5705528846153847
       }
     },
     {
@@ -1432,10 +1432,10 @@
       "matched": 408,
       "universeSize": 408,
       "crossref": {
-        "overall": 0.4872894385026738,
+        "overall": 0.48715574866310163,
         "categories": {
           "findable_essential": 0.6656454248366014,
-          "findable_support": 0.4772727272727273,
+          "findable_support": 0.4763814616755793,
           "accessible_essential": 0.5727124183006534,
           "accessible_support": 0.33169934640522875,
           "evaluation_coara": 0.1982843137254902
@@ -1458,7 +1458,7 @@
           "funder_doi": 0,
           "award_number": 0,
           "issn": 1,
-          "volume": 0.7058823529411765,
+          "volume": 0.696078431372549,
           "issue": 0.8308823529411765,
           "page": 0.7867647058823529,
           "published_print_date": 0,
@@ -1554,29 +1554,29 @@
       "comparable": {
         "crossref": {
           "categories": {
-            "findable_essential": 0.6656454248366014,
-            "findable_support": 0.525,
-            "accessible_essential": 0.6443014705882352,
-            "accessible_support": 0.3333333333333333,
-            "evaluation_coara": 0.3965686274509804
+            "findable_essential": 0.7261586452762924,
+            "findable_support": 0.6057422969187675,
+            "accessible_essential": 0.741421568627451,
+            "accessible_support": 0,
+            "evaluation_coara": 0.6609477124183006
           },
-          "overall": 0.5521660539215686
+          "overall": 0.6262538727612257
         },
         "openalex": {
           "categories": {
-            "findable_essential": 0.9084967320261438,
-            "findable_support": 0.6678921568627452,
-            "accessible_essential": 0.863970588235294,
-            "accessible_support": 0.9689542483660131,
-            "evaluation_coara": 0.6485294117647059
+            "findable_essential": 0.9001782531194297,
+            "findable_support": 0.6663165266106443,
+            "accessible_essential": 0.9509803921568627,
+            "accessible_support": 0.9191176470588235,
+            "evaluation_coara": 0.6674836601307189
           },
-          "overall": 0.8153267973856209
+          "overall": 0.8331545496986673
         },
-        "gap": 0.26316074346405227
+        "gap": 0.20690067693744163
       },
       "voluntary": {
-        "crossref": 0.1909109477124183,
-        "openalex": 0.6648999183006535
+        "crossref": 0.2681985294117647,
+        "openalex": 0.5763480392156862
       }
     },
     {
@@ -1585,16 +1585,16 @@
       "matched": 441,
       "universeSize": 441,
       "crossref": {
-        "overall": 0.48466181085228704,
+        "overall": 0.4846051215098834,
         "categories": {
-          "findable_essential": 0.6647770219198791,
+          "findable_essential": 0.6645880574452003,
           "findable_support": 0.4877344877344877,
           "accessible_essential": 0.5583270345175106,
           "accessible_support": 0.3303099017384732,
           "evaluation_coara": 0.19727891156462585
         },
         "fields": {
-          "title": 0.9954648526077098,
+          "title": 0.9931972789115646,
           "abstract": 0.981859410430839,
           "author": 1,
           "author_affiliation": 0,
@@ -1645,16 +1645,16 @@
         }
       },
       "openalex": {
-        "overall": 0.6269679791108362,
+        "overall": 0.6269112897684326,
         "categories": {
-          "findable_essential": 0.8962585034013606,
+          "findable_essential": 0.8960695389266818,
           "findable_support": 0.5994640280354566,
           "accessible_essential": 0.6455026455026455,
           "accessible_support": 0.46296296296296297,
           "evaluation_coara": 0.3024943310657596
         },
         "fields": {
-          "title": 0.9954648526077098,
+          "title": 0.9931972789115646,
           "abstract": 0.981859410430839,
           "author": 1,
           "author_affiliation": 0.8639455782312925,
@@ -1707,29 +1707,29 @@
       "comparable": {
         "crossref": {
           "categories": {
-            "findable_essential": 0.6647770219198791,
-            "findable_support": 0.5365079365079365,
-            "accessible_essential": 0.6281179138321995,
-            "accessible_support": 0.3333333333333333,
-            "evaluation_coara": 0.3945578231292517
+            "findable_essential": 0.7250051535765821,
+            "findable_support": 0.6235827664399093,
+            "accessible_essential": 0.7363945578231292,
+            "accessible_support": 0,
+            "evaluation_coara": 0.6575963718820862
           },
-          "overall": 0.5491836734693877
+          "overall": 0.6266568748711605
         },
         "openalex": {
           "categories": {
-            "findable_essential": 0.8962585034013606,
-            "findable_support": 0.6594104308390023,
-            "accessible_essential": 0.7261904761904762,
-            "accessible_support": 0.9259259259259259,
-            "evaluation_coara": 0.6049886621315193
+            "findable_essential": 0.8866213151927437,
+            "findable_support": 0.6556527372853902,
+            "accessible_essential": 0.8378684807256236,
+            "accessible_support": 0.8639455782312925,
+            "evaluation_coara": 0.6674225245653816
           },
-          "overall": 0.762927059712774
+          "overall": 0.7936804880682431
         },
-        "gap": 0.2137433862433863
+        "gap": 0.1670236131970826
       },
       "voluntary": {
-        "crossref": 0.18837868480725622,
-        "openalex": 0.5551681783824641
+        "crossref": 0.2646825396825397,
+        "openalex": 0.49693877551020404
       }
     },
     {
@@ -1738,10 +1738,10 @@
       "matched": 360,
       "universeSize": 370,
       "crossref": {
-        "overall": 0.48294198744198746,
+        "overall": 0.48246287196287196,
         "categories": {
           "findable_essential": 0.6641891891891892,
-          "findable_support": 0.5181818181818182,
+          "findable_support": 0.514987714987715,
           "accessible_essential": 0.5363363363363364,
           "accessible_support": 0.33063063063063064,
           "evaluation_coara": 0.19405405405405407
@@ -1765,7 +1765,7 @@
           "award_number": 0,
           "issn": 1,
           "volume": 0.8702702702702703,
-          "issue": 0.8972972972972973,
+          "issue": 0.8621621621621621,
           "page": 0.8621621621621621,
           "published_print_date": 0,
           "published_online_date": 1,
@@ -1860,29 +1860,29 @@
       "comparable": {
         "crossref": {
           "categories": {
-            "findable_essential": 0.6641891891891892,
-            "findable_support": 0.5700000000000001,
-            "accessible_essential": 0.6033783783783784,
-            "accessible_support": 0.3333333333333333,
-            "evaluation_coara": 0.38810810810810814
+            "findable_essential": 0.7245700245700246,
+            "findable_support": 0.6664092664092663,
+            "accessible_essential": 0.7202702702702704,
+            "accessible_support": 0,
+            "evaluation_coara": 0.6468468468468469
           },
-          "overall": 0.5465563063063064
+          "overall": 0.6267693342693343
         },
         "openalex": {
           "categories": {
-            "findable_essential": 0.8587962962962964,
-            "findable_support": 0.6672222222222223,
-            "accessible_essential": 0.6375000000000001,
-            "accessible_support": 0.7583333333333333,
-            "evaluation_coara": 0.5833333333333333
+            "findable_essential": 0.8462121212121212,
+            "findable_support": 0.665079365079365,
+            "accessible_essential": 0.7763888888888889,
+            "accessible_support": 0.7305555555555555,
+            "evaluation_coara": 0.6620370370370371
           },
-          "overall": 0.7095972222222223
+          "overall": 0.7531857263107263
         },
-        "gap": 0.16304091591591596
+        "gap": 0.126416392041392
       },
       "voluntary": {
-        "crossref": 0.1922972972972973,
-        "openalex": 0.47519675925925925
+        "crossref": 0.2694594594594595,
+        "openalex": 0.43826388888888884
       }
     }
   ],
@@ -1937,28 +1937,6 @@
     "publication_date": [],
     "publisher": [],
     "resource_type": [],
-    "subject_keywords": [
-      {
-        "doi": "10.29101/crcs.v0i67.2188",
-        "title": "Quantification of mobbing in the Mexican financial sector from a gender perspective"
-      },
-      {
-        "doi": "10.29101/crcs.v0i67.2187",
-        "title": "Percepción del profesorado sobre concepciones profesionales ante la diversidad cultural escolar"
-      },
-      {
-        "doi": "10.29101/crcs.v0i67.2185",
-        "title": "Precariedad laboral de jóvenes asalariados en la ciudad de Toluca, 2005-2010"
-      },
-      {
-        "doi": "10.29101/crcs.v0i67.2182",
-        "title": "Democracy in Latin America: status and prospects"
-      },
-      {
-        "doi": "10.29101/crcs.v0i67.2181",
-        "title": "De víctimas a sobrevivientes: la fuerza poiética y resiliente del cuidar"
-      }
-    ],
     "funder_name": [
       {
         "doi": "10.29101/crcs.v0i67.2182",
@@ -2048,28 +2026,6 @@
         "title": "Las dimensiones de la competencia en el sistema de partidos mexicano (1979-2012)"
       }
     ],
-    "funder_doi": [
-      {
-        "doi": "10.29101/crcs.v0i67.2182",
-        "title": "Democracy in Latin America: status and prospects"
-      },
-      {
-        "doi": "10.29101/crcs.v23i70.3805",
-        "title": "Visions of the Spanish Revolution: identities and conflicts in post-welfare societies"
-      },
-      {
-        "doi": "10.29101/crcs.v23i70.3808",
-        "title": "Los saberes cívicos en la innovación de la gestión pública"
-      },
-      {
-        "doi": "10.29101/crcs.v0i71.3995",
-        "title": "Lenguaje e ideología. A propósito de la nueva ley del aborto española"
-      },
-      {
-        "doi": "10.29101/crcs.v0i75.4656",
-        "title": "Representaciones de la sexualidad femenina en la  ficción televisiva española"
-      }
-    ],
     "award_number": [
       {
         "doi": "10.29101/crcs.v23i70.3805",
@@ -2093,55 +2049,52 @@
       }
     ],
     "issn": [],
-    "volume": [],
-    "issue": [],
+    "volume": [
+      {
+        "doi": "10.36677/elperiplo.v0i44.16195",
+        "title": "Evaluation of the potential of the observation of Alouatta palliata for local conservation and development in fragments of rainforests: the case of the Isthmus of Tehuantepec, Mexico"
+      },
+      {
+        "doi": "10.36677/elperiplo.v0i44.16266",
+        "title": "Análisis del perfil del turista y su relación con la demanda de turismo rural en el Estado de México (México)"
+      },
+      {
+        "doi": "10.36677/elperiplo.v0i44.16319",
+        "title": "Estado del conocimiento sobre la participación de mujeres indígenas en el turismo de América Latina"
+      },
+      {
+        "doi": "10.36677/elperiplo.v0i44.15470",
+        "title": "Participación comunitaria e identidad en los proyectos de turismo en zonas indígenas en el estado de Nayarit, México"
+      },
+      {
+        "doi": "10.36677/elperiplo.v0i44.16191",
+        "title": "Índice NID para una promoción más efectiva del turismo cultural en ciudades Patrimonio de la Humanidad"
+      }
+    ],
+    "issue": [
+      {
+        "doi": "10.36677/elperiplo.v0i48.23045",
+        "title": "Turismo científico como oportunidad de desarrollo turístico en parques nacionales. El caso de Santa Cruz en Patagonia Argentina"
+      },
+      {
+        "doi": "10.36677/elperiplo.v0i48.24204",
+        "title": "Certificaciones y percepción comunitaria, hacia un turismo responsable en Cozumel a través de la comunicación constitutiva"
+      },
+      {
+        "doi": "10.36677/elperiplo.v0i48.23717",
+        "title": "Un Análisis bibliométrico de la producción científica sobre el turismo sustentable: Tendencias y nuevas perspectivas"
+      },
+      {
+        "doi": "10.36677/elperiplo.v0i48.25431",
+        "title": "Participación indígena y turismo: alcances y limitaciones de una política intercultural con el pueblo mapuce en el Parque Nacional Lanín, Norpatagonia Argentina"
+      },
+      {
+        "doi": "10.36677/elperiplo.v0i48.25533",
+        "title": "Caracterización de los recursos naturales, culturales y productivos para el diseño de un producto turístico agroecológico de la Finca Jehová Shalom"
+      }
+    ],
     "page": [],
-    "published_print_date": [
-      {
-        "doi": "10.29101/crcs.v0i67.2188",
-        "title": "Quantification of mobbing in the Mexican financial sector from a gender perspective"
-      },
-      {
-        "doi": "10.29101/crcs.v0i67.2187",
-        "title": "Percepción del profesorado sobre concepciones profesionales ante la diversidad cultural escolar"
-      },
-      {
-        "doi": "10.29101/crcs.v0i67.2185",
-        "title": "Precariedad laboral de jóvenes asalariados en la ciudad de Toluca, 2005-2010"
-      },
-      {
-        "doi": "10.29101/crcs.v0i67.2182",
-        "title": "Democracy in Latin America: status and prospects"
-      },
-      {
-        "doi": "10.29101/crcs.v0i67.2181",
-        "title": "De víctimas a sobrevivientes: la fuerza poiética y resiliente del cuidar"
-      }
-    ],
-    "published_online_date": [],
     "license": [
-      {
-        "doi": "10.29101/crcs.v0i67.2188",
-        "title": "Quantification of mobbing in the Mexican financial sector from a gender perspective"
-      },
-      {
-        "doi": "10.29101/crcs.v0i67.2187",
-        "title": "Percepción del profesorado sobre concepciones profesionales ante la diversidad cultural escolar"
-      },
-      {
-        "doi": "10.29101/crcs.v0i67.2185",
-        "title": "Precariedad laboral de jóvenes asalariados en la ciudad de Toluca, 2005-2010"
-      },
-      {
-        "doi": "10.29101/crcs.v0i67.2182",
-        "title": "Democracy in Latin America: status and prospects"
-      },
-      {
-        "doi": "10.29101/crcs.v0i67.2181",
-        "title": "De víctimas a sobrevivientes: la fuerza poiética y resiliente del cuidar"
-      }
-    ],
-    "license_url": [
       {
         "doi": "10.29101/crcs.v0i67.2188",
         "title": "Quantification of mobbing in the Mexican financial sector from a gender perspective"
@@ -2185,28 +2138,6 @@
         "title": "De víctimas a sobrevivientes: la fuerza poiética y resiliente del cuidar"
       }
     ],
-    "full_text_links": [
-      {
-        "doi": "10.22185/24487147.2016.90.041",
-        "title": "Dispersión y fragmentación socioespacial en el crecimiento reciente de una ciudad petrolera de la Patagonia Argentina"
-      },
-      {
-        "doi": "10.30878/ces.v24n2a2",
-        "title": "Acoso escolar y habilidades sociales en alumnado de educación básica"
-      },
-      {
-        "doi": "10.30878/ces.v24n2a1",
-        "title": "Technology and Love for Everyone. Including the Elderly"
-      },
-      {
-        "doi": "10.30878/ces.v24n1a7",
-        "title": "Los agujeros negros y las ondas del Doctor Einstein"
-      },
-      {
-        "doi": "10.30878/ces.v24n3a4",
-        "title": "Effect-Size Reporting in Mexican Psychology Journals: What it Says about the Quality of Research within the Field"
-      }
-    ],
     "resource_url": [],
     "references": [
       {
@@ -2230,74 +2161,7 @@
         "title": "De víctimas a sobrevivientes: la fuerza poiética y resiliente del cuidar"
       }
     ],
-    "references_count": [
-      {
-        "doi": "10.29101/crcs.v0i67.2188",
-        "title": "Quantification of mobbing in the Mexican financial sector from a gender perspective"
-      },
-      {
-        "doi": "10.29101/crcs.v0i67.2187",
-        "title": "Percepción del profesorado sobre concepciones profesionales ante la diversidad cultural escolar"
-      },
-      {
-        "doi": "10.29101/crcs.v0i67.2185",
-        "title": "Precariedad laboral de jóvenes asalariados en la ciudad de Toluca, 2005-2010"
-      },
-      {
-        "doi": "10.29101/crcs.v0i67.2182",
-        "title": "Democracy in Latin America: status and prospects"
-      },
-      {
-        "doi": "10.29101/crcs.v0i67.2181",
-        "title": "De víctimas a sobrevivientes: la fuerza poiética y resiliente del cuidar"
-      }
-    ],
-    "is_referenced_by": [
-      {
-        "doi": "10.29101/crcs.v0i67.2182",
-        "title": "Democracy in Latin America: status and prospects"
-      },
-      {
-        "doi": "10.29101/crcs.v0i67.2180",
-        "title": "Discursos sobre normas relativas a sexualidad en jóvenes del norte de Chile"
-      },
-      {
-        "doi": "10.29101/crcs.v0i67.2184",
-        "title": "Perspectivas teóricas de género: status questionis del impacto en el sistema educativo"
-      },
-      {
-        "doi": "10.29101/crcs.v0i67.2186",
-        "title": "Los usos sistémicos del romanticismo temprano y de la hermenéutica alemanes"
-      },
-      {
-        "doi": "10.29101/crcs.v0i68.2951",
-        "title": "Hacia una revalorización de la filosofía en diálogo con la indignación"
-      }
-    ],
-    "author_sequence": [],
     "affiliation_ids_ror": [
-      {
-        "doi": "10.29101/crcs.v0i67.2188",
-        "title": "Quantification of mobbing in the Mexican financial sector from a gender perspective"
-      },
-      {
-        "doi": "10.29101/crcs.v0i67.2187",
-        "title": "Percepción del profesorado sobre concepciones profesionales ante la diversidad cultural escolar"
-      },
-      {
-        "doi": "10.29101/crcs.v0i67.2185",
-        "title": "Precariedad laboral de jóvenes asalariados en la ciudad de Toluca, 2005-2010"
-      },
-      {
-        "doi": "10.29101/crcs.v0i67.2182",
-        "title": "Democracy in Latin America: status and prospects"
-      },
-      {
-        "doi": "10.29101/crcs.v0i67.2181",
-        "title": "De víctimas a sobrevivientes: la fuerza poiética y resiliente del cuidar"
-      }
-    ],
-    "relations": [
       {
         "doi": "10.29101/crcs.v0i67.2188",
         "title": "Quantification of mobbing in the Mexican financial sector from a gender perspective"
@@ -2341,28 +2205,6 @@
         "title": "Trayectos peligrosos: el corredor migratorio Centroamérica-México-Estados\n            Unidos"
       }
     ],
-    "affiliation_ror": [
-      {
-        "doi": "10.29101/crcs.v0i67.2188",
-        "title": "Quantification of mobbing in the Mexican financial sector from a gender perspective"
-      },
-      {
-        "doi": "10.29101/crcs.v0i67.2187",
-        "title": "Percepción del profesorado sobre concepciones profesionales ante la diversidad cultural escolar"
-      },
-      {
-        "doi": "10.29101/crcs.v0i67.2185",
-        "title": "Precariedad laboral de jóvenes asalariados en la ciudad de Toluca, 2005-2010"
-      },
-      {
-        "doi": "10.29101/crcs.v0i67.2182",
-        "title": "Democracy in Latin America: status and prospects"
-      },
-      {
-        "doi": "10.29101/crcs.v0i67.2181",
-        "title": "De víctimas a sobrevivientes: la fuerza poiética y resiliente del cuidar"
-      }
-    ],
     "funding_complete": [
       {
         "doi": "10.29101/crcs.v23i70.3805",
@@ -2383,28 +2225,6 @@
       {
         "doi": "10.29101/crcs.v28i0.15938",
         "title": "Interseccionalidad raza-género en las noticias digitales mexicanas sobre Kamala Harris"
-      }
-    ],
-    "preprint_version_link": [
-      {
-        "doi": "10.29101/crcs.v0i68.2952",
-        "title": "Media coverage of climate change in spanish-speaking online media"
-      },
-      {
-        "doi": "10.29101/crcs.v22i69.3643",
-        "title": "Del déficit a la norma: representaciones sociales sobre familias y participación escolar"
-      },
-      {
-        "doi": "10.29101/crcs.v23i70.3805",
-        "title": "Visions of the Spanish Revolution: identities and conflicts in post-welfare societies"
-      },
-      {
-        "doi": "10.29101/crcs.v23i70.3807",
-        "title": "Dispositivos móveis digitais e competências para a utilização na “sociedade do conhecimento”"
-      },
-      {
-        "doi": "10.29101/crcs.v23i70.3806",
-        "title": "Consumo informativo y competencias digitales de estudiantes de periodismo de Colombia, Perú y Venezuela"
       }
     ],
     "open_access_status": [
@@ -2435,23 +2255,17 @@
       "doi": "10.29101/crcs.v0i67.2188",
       "title": "Quantification of mobbing in the Mexican financial sector from a gender perspective",
       "year": 2015,
-      "crossrefScore": 0.4473684210526316,
-      "openalexScore": 0.7894736842105263,
-      "gap": 14,
+      "crossrefScore": 0.46153846153846156,
+      "openalexScore": 0.7692307692307693,
+      "gap": 8,
       "openalexAdds": [
         "author_affiliation",
-        "subject_keywords",
         "language",
         "author_orcid",
-        "published_print_date",
         "license",
-        "license_url",
         "open_access_license",
         "references",
-        "references_count",
         "affiliation_ids_ror",
-        "relations",
-        "affiliation_ror",
         "open_access_status"
       ]
     },
@@ -2459,23 +2273,17 @@
       "doi": "10.29101/crcs.v0i67.2187",
       "title": "Percepción del profesorado sobre concepciones profesionales ante la diversidad cultural escolar",
       "year": 2015,
-      "crossrefScore": 0.4473684210526316,
-      "openalexScore": 0.7894736842105263,
-      "gap": 14,
+      "crossrefScore": 0.46153846153846156,
+      "openalexScore": 0.7692307692307693,
+      "gap": 8,
       "openalexAdds": [
         "author_affiliation",
-        "subject_keywords",
         "language",
         "author_orcid",
-        "published_print_date",
         "license",
-        "license_url",
         "open_access_license",
         "references",
-        "references_count",
         "affiliation_ids_ror",
-        "relations",
-        "affiliation_ror",
         "open_access_status"
       ]
     },
@@ -2483,23 +2291,17 @@
       "doi": "10.29101/crcs.v0i67.2185",
       "title": "Precariedad laboral de jóvenes asalariados en la ciudad de Toluca, 2005-2010",
       "year": 2015,
-      "crossrefScore": 0.4473684210526316,
-      "openalexScore": 0.7894736842105263,
-      "gap": 14,
+      "crossrefScore": 0.46153846153846156,
+      "openalexScore": 0.7692307692307693,
+      "gap": 8,
       "openalexAdds": [
         "author_affiliation",
-        "subject_keywords",
         "language",
         "author_orcid",
-        "published_print_date",
         "license",
-        "license_url",
         "open_access_license",
         "references",
-        "references_count",
         "affiliation_ids_ror",
-        "relations",
-        "affiliation_ror",
         "open_access_status"
       ]
     },
@@ -2507,26 +2309,18 @@
       "doi": "10.29101/crcs.v0i67.2182",
       "title": "Democracy in Latin America: status and prospects",
       "year": 2015,
-      "crossrefScore": 0.42105263157894735,
-      "openalexScore": 0.8421052631578947,
-      "gap": 17,
+      "crossrefScore": 0.46153846153846156,
+      "openalexScore": 0.8076923076923077,
+      "gap": 9,
       "openalexAdds": [
         "author_affiliation",
-        "subject_keywords",
         "funder_name",
         "language",
         "author_orcid",
-        "funder_doi",
-        "published_print_date",
         "license",
-        "license_url",
         "open_access_license",
         "references",
-        "references_count",
-        "is_referenced_by",
         "affiliation_ids_ror",
-        "relations",
-        "affiliation_ror",
         "open_access_status"
       ]
     },
@@ -2534,24 +2328,18 @@
       "doi": "10.29101/crcs.v0i67.2181",
       "title": "De víctimas a sobrevivientes: la fuerza poiética y resiliente del cuidar",
       "year": 2015,
-      "crossrefScore": 0.4473684210526316,
-      "openalexScore": 0.8157894736842105,
-      "gap": 15,
+      "crossrefScore": 0.46153846153846156,
+      "openalexScore": 0.8076923076923077,
+      "gap": 9,
       "openalexAdds": [
         "author_affiliation",
-        "subject_keywords",
         "language",
         "author_orcid",
         "all_authors_orcid",
-        "published_print_date",
         "license",
-        "license_url",
         "open_access_license",
         "references",
-        "references_count",
         "affiliation_ids_ror",
-        "relations",
-        "affiliation_ror",
         "open_access_status"
       ]
     },
@@ -2559,24 +2347,17 @@
       "doi": "10.29101/crcs.v0i67.2180",
       "title": "Discursos sobre normas relativas a sexualidad en jóvenes del norte de Chile",
       "year": 2015,
-      "crossrefScore": 0.42105263157894735,
-      "openalexScore": 0.7894736842105263,
-      "gap": 15,
+      "crossrefScore": 0.46153846153846156,
+      "openalexScore": 0.7692307692307693,
+      "gap": 8,
       "openalexAdds": [
         "author_affiliation",
-        "subject_keywords",
         "language",
         "author_orcid",
-        "published_print_date",
         "license",
-        "license_url",
         "open_access_license",
         "references",
-        "references_count",
-        "is_referenced_by",
         "affiliation_ids_ror",
-        "relations",
-        "affiliation_ror",
         "open_access_status"
       ]
     },
@@ -2584,25 +2365,18 @@
       "doi": "10.29101/crcs.v0i67.2184",
       "title": "Perspectivas teóricas de género: status questionis del impacto en el sistema educativo",
       "year": 2015,
-      "crossrefScore": 0.42105263157894735,
-      "openalexScore": 0.8157894736842105,
-      "gap": 16,
+      "crossrefScore": 0.46153846153846156,
+      "openalexScore": 0.8076923076923077,
+      "gap": 9,
       "openalexAdds": [
         "author_affiliation",
-        "subject_keywords",
         "language",
         "author_orcid",
         "all_authors_orcid",
-        "published_print_date",
         "license",
-        "license_url",
         "open_access_license",
         "references",
-        "references_count",
-        "is_referenced_by",
         "affiliation_ids_ror",
-        "relations",
-        "affiliation_ror",
         "open_access_status"
       ]
     },
@@ -2610,25 +2384,18 @@
       "doi": "10.29101/crcs.v0i67.2186",
       "title": "Los usos sistémicos del romanticismo temprano y de la hermenéutica alemanes",
       "year": 2015,
-      "crossrefScore": 0.42105263157894735,
-      "openalexScore": 0.8157894736842105,
-      "gap": 16,
+      "crossrefScore": 0.46153846153846156,
+      "openalexScore": 0.8076923076923077,
+      "gap": 9,
       "openalexAdds": [
         "author_affiliation",
-        "subject_keywords",
         "language",
         "author_orcid",
         "all_authors_orcid",
-        "published_print_date",
         "license",
-        "license_url",
         "open_access_license",
         "references",
-        "references_count",
-        "is_referenced_by",
         "affiliation_ids_ror",
-        "relations",
-        "affiliation_ror",
         "open_access_status"
       ]
     },
@@ -2636,24 +2403,18 @@
       "doi": "10.29101/crcs.v0i67.2183",
       "title": "Derecho a la educación y autonomía zapatista en Chiapas, México",
       "year": 2015,
-      "crossrefScore": 0.4473684210526316,
-      "openalexScore": 0.8157894736842105,
-      "gap": 15,
+      "crossrefScore": 0.46153846153846156,
+      "openalexScore": 0.8076923076923077,
+      "gap": 9,
       "openalexAdds": [
         "author_affiliation",
-        "subject_keywords",
         "language",
         "author_orcid",
         "all_authors_orcid",
-        "published_print_date",
         "license",
-        "license_url",
         "open_access_license",
         "references",
-        "references_count",
         "affiliation_ids_ror",
-        "relations",
-        "affiliation_ror",
         "open_access_status"
       ]
     },
@@ -2661,24 +2422,17 @@
       "doi": "10.29101/crcs.v0i68.2952",
       "title": "Media coverage of climate change in spanish-speaking online media",
       "year": 2015,
-      "crossrefScore": 0.4473684210526316,
-      "openalexScore": 0.8157894736842105,
-      "gap": 15,
+      "crossrefScore": 0.46153846153846156,
+      "openalexScore": 0.7692307692307693,
+      "gap": 8,
       "openalexAdds": [
         "author_affiliation",
-        "subject_keywords",
         "language",
         "author_orcid",
-        "published_print_date",
         "license",
-        "license_url",
         "open_access_license",
         "references",
-        "references_count",
         "affiliation_ids_ror",
-        "relations",
-        "affiliation_ror",
-        "preprint_version_link",
         "open_access_status"
       ]
     }
@@ -2689,9 +2443,9 @@
       "label": "Title",
       "category": "findable_essential",
       "effort": "automatic",
-      "crossref": 0.9909502262443439,
-      "openalex": 0.9909186168354872,
-      "gap": -0.00003160940885671426,
+      "crossref": 0.9906021580229725,
+      "openalex": 0.9905693328676214,
+      "gap": -0.00003282515535107944,
       "samples": []
     },
     {
@@ -2805,37 +2559,6 @@
       "openalex": 1,
       "gap": 0,
       "samples": []
-    },
-    {
-      "id": "subject_keywords",
-      "label": "Subject / Keywords",
-      "category": "findable_essential",
-      "effort": "voluntary",
-      "crossref": 0,
-      "openalex": 0.9996507160321342,
-      "gap": 0.9996507160321342,
-      "samples": [
-        {
-          "doi": "10.29101/crcs.v0i67.2188",
-          "title": "Quantification of mobbing in the Mexican financial sector from a gender perspective"
-        },
-        {
-          "doi": "10.29101/crcs.v0i67.2187",
-          "title": "Percepción del profesorado sobre concepciones profesionales ante la diversidad cultural escolar"
-        },
-        {
-          "doi": "10.29101/crcs.v0i67.2185",
-          "title": "Precariedad laboral de jóvenes asalariados en la ciudad de Toluca, 2005-2010"
-        },
-        {
-          "doi": "10.29101/crcs.v0i67.2182",
-          "title": "Democracy in Latin America: status and prospects"
-        },
-        {
-          "doi": "10.29101/crcs.v0i67.2181",
-          "title": "De víctimas a sobrevivientes: la fuerza poiética y resiliente del cuidar"
-        }
-      ]
     },
     {
       "id": "funder_name",
@@ -2972,37 +2695,6 @@
       ]
     },
     {
-      "id": "funder_doi",
-      "label": "Funder DOI",
-      "category": "findable_support",
-      "effort": "voluntary",
-      "crossref": 0,
-      "openalex": 0.01606706252183025,
-      "gap": 0.01606706252183025,
-      "samples": [
-        {
-          "doi": "10.29101/crcs.v0i67.2182",
-          "title": "Democracy in Latin America: status and prospects"
-        },
-        {
-          "doi": "10.29101/crcs.v23i70.3805",
-          "title": "Visions of the Spanish Revolution: identities and conflicts in post-welfare societies"
-        },
-        {
-          "doi": "10.29101/crcs.v23i70.3808",
-          "title": "Los saberes cívicos en la innovación de la gestión pública"
-        },
-        {
-          "doi": "10.29101/crcs.v0i71.3995",
-          "title": "Lenguaje e ideología. A propósito de la nueva ley del aborto española"
-        },
-        {
-          "doi": "10.29101/crcs.v0i75.4656",
-          "title": "Representaciones de la sexualidad femenina en la  ficción televisiva española"
-        }
-      ]
-    },
-    {
       "id": "award_number",
       "label": "Award Number",
       "category": "findable_support",
@@ -3048,20 +2740,62 @@
       "label": "Volume",
       "category": "findable_support",
       "effort": "automatic",
-      "crossref": 0.679429168116951,
+      "crossref": 0.677688827010094,
       "openalex": 0.6790080335312609,
-      "gap": -0.0004211345856900417,
-      "samples": []
+      "gap": 0.0013192065211669046,
+      "samples": [
+        {
+          "doi": "10.36677/elperiplo.v0i44.16195",
+          "title": "Evaluation of the potential of the observation of Alouatta palliata for local conservation and development in fragments of rainforests: the case of the Isthmus of Tehuantepec, Mexico"
+        },
+        {
+          "doi": "10.36677/elperiplo.v0i44.16266",
+          "title": "Análisis del perfil del turista y su relación con la demanda de turismo rural en el Estado de México (México)"
+        },
+        {
+          "doi": "10.36677/elperiplo.v0i44.16319",
+          "title": "Estado del conocimiento sobre la participación de mujeres indígenas en el turismo de América Latina"
+        },
+        {
+          "doi": "10.36677/elperiplo.v0i44.15470",
+          "title": "Participación comunitaria e identidad en los proyectos de turismo en zonas indígenas en el estado de Nayarit, México"
+        },
+        {
+          "doi": "10.36677/elperiplo.v0i44.16191",
+          "title": "Índice NID para una promoción más efectiva del turismo cultural en ciudades Patrimonio de la Humanidad"
+        }
+      ]
     },
     {
       "id": "issue",
       "label": "Issue",
       "category": "findable_support",
       "effort": "automatic",
-      "crossref": 0.8820048729550992,
+      "crossref": 0.8774799860772712,
       "openalex": 0.8833391547327978,
-      "gap": 0.001334281777698565,
-      "samples": []
+      "gap": 0.005859168655526603,
+      "samples": [
+        {
+          "doi": "10.36677/elperiplo.v0i48.23045",
+          "title": "Turismo científico como oportunidad de desarrollo turístico en parques nacionales. El caso de Santa Cruz en Patagonia Argentina"
+        },
+        {
+          "doi": "10.36677/elperiplo.v0i48.24204",
+          "title": "Certificaciones y percepción comunitaria, hacia un turismo responsable en Cozumel a través de la comunicación constitutiva"
+        },
+        {
+          "doi": "10.36677/elperiplo.v0i48.23717",
+          "title": "Un Análisis bibliométrico de la producción científica sobre el turismo sustentable: Tendencias y nuevas perspectivas"
+        },
+        {
+          "doi": "10.36677/elperiplo.v0i48.25431",
+          "title": "Participación indígena y turismo: alcances y limitaciones de una política intercultural con el pueblo mapuce en el Parque Nacional Lanín, Norpatagonia Argentina"
+        },
+        {
+          "doi": "10.36677/elperiplo.v0i48.25533",
+          "title": "Caracterización de los recursos naturales, culturales y productivos para el diseño de un producto turístico agroecológico de la Finca Jehová Shalom"
+        }
+      ]
     },
     {
       "id": "page",
@@ -3074,80 +2808,8 @@
       "samples": []
     },
     {
-      "id": "published_print_date",
-      "label": "Published Print Date",
-      "category": "findable_support",
-      "effort": "automatic",
-      "crossref": 0.07935955447267665,
-      "openalex": 1,
-      "gap": 0.9206404455273234,
-      "samples": [
-        {
-          "doi": "10.29101/crcs.v0i67.2188",
-          "title": "Quantification of mobbing in the Mexican financial sector from a gender perspective"
-        },
-        {
-          "doi": "10.29101/crcs.v0i67.2187",
-          "title": "Percepción del profesorado sobre concepciones profesionales ante la diversidad cultural escolar"
-        },
-        {
-          "doi": "10.29101/crcs.v0i67.2185",
-          "title": "Precariedad laboral de jóvenes asalariados en la ciudad de Toluca, 2005-2010"
-        },
-        {
-          "doi": "10.29101/crcs.v0i67.2182",
-          "title": "Democracy in Latin America: status and prospects"
-        },
-        {
-          "doi": "10.29101/crcs.v0i67.2181",
-          "title": "De víctimas a sobrevivientes: la fuerza poiética y resiliente del cuidar"
-        }
-      ]
-    },
-    {
-      "id": "published_online_date",
-      "label": "Published Online Date",
-      "category": "findable_support",
-      "effort": "automatic",
-      "crossref": 1,
-      "openalex": 1,
-      "gap": 0,
-      "samples": []
-    },
-    {
       "id": "license",
       "label": "License",
-      "category": "accessible_essential",
-      "effort": "automatic",
-      "crossref": 0.857640097459102,
-      "openalex": 0.9933636046105484,
-      "gap": 0.13572350715144643,
-      "samples": [
-        {
-          "doi": "10.29101/crcs.v0i67.2188",
-          "title": "Quantification of mobbing in the Mexican financial sector from a gender perspective"
-        },
-        {
-          "doi": "10.29101/crcs.v0i67.2187",
-          "title": "Percepción del profesorado sobre concepciones profesionales ante la diversidad cultural escolar"
-        },
-        {
-          "doi": "10.29101/crcs.v0i67.2185",
-          "title": "Precariedad laboral de jóvenes asalariados en la ciudad de Toluca, 2005-2010"
-        },
-        {
-          "doi": "10.29101/crcs.v0i67.2182",
-          "title": "Democracy in Latin America: status and prospects"
-        },
-        {
-          "doi": "10.29101/crcs.v0i67.2181",
-          "title": "De víctimas a sobrevivientes: la fuerza poiética y resiliente del cuidar"
-        }
-      ]
-    },
-    {
-      "id": "license_url",
-      "label": "License URL",
       "category": "accessible_essential",
       "effort": "automatic",
       "crossref": 0.857640097459102,
@@ -3208,37 +2870,6 @@
       ]
     },
     {
-      "id": "full_text_links",
-      "label": "Full-text Links",
-      "category": "accessible_essential",
-      "effort": "automatic",
-      "crossref": 0.9028889662373826,
-      "openalex": 0.9238560950052392,
-      "gap": 0.02096712876785667,
-      "samples": [
-        {
-          "doi": "10.22185/24487147.2016.90.041",
-          "title": "Dispersión y fragmentación socioespacial en el crecimiento reciente de una ciudad petrolera de la Patagonia Argentina"
-        },
-        {
-          "doi": "10.30878/ces.v24n2a2",
-          "title": "Acoso escolar y habilidades sociales en alumnado de educación básica"
-        },
-        {
-          "doi": "10.30878/ces.v24n2a1",
-          "title": "Technology and Love for Everyone. Including the Elderly"
-        },
-        {
-          "doi": "10.30878/ces.v24n1a7",
-          "title": "Los agujeros negros y las ondas del Doctor Einstein"
-        },
-        {
-          "doi": "10.30878/ces.v24n3a4",
-          "title": "Effect-Size Reporting in Mexican Psychology Journals: What it Says about the Quality of Research within the Field"
-        }
-      ]
-    },
-    {
       "id": "resource_url",
       "label": "Resource URL",
       "category": "accessible_essential",
@@ -3280,78 +2911,6 @@
       ]
     },
     {
-      "id": "references_count",
-      "label": "References Count",
-      "category": "accessible_essential",
-      "effort": "voluntary",
-      "crossref": 0.037243299686738604,
-      "openalex": 0.6304575619979043,
-      "gap": 0.5932142623111657,
-      "samples": [
-        {
-          "doi": "10.29101/crcs.v0i67.2188",
-          "title": "Quantification of mobbing in the Mexican financial sector from a gender perspective"
-        },
-        {
-          "doi": "10.29101/crcs.v0i67.2187",
-          "title": "Percepción del profesorado sobre concepciones profesionales ante la diversidad cultural escolar"
-        },
-        {
-          "doi": "10.29101/crcs.v0i67.2185",
-          "title": "Precariedad laboral de jóvenes asalariados en la ciudad de Toluca, 2005-2010"
-        },
-        {
-          "doi": "10.29101/crcs.v0i67.2182",
-          "title": "Democracy in Latin America: status and prospects"
-        },
-        {
-          "doi": "10.29101/crcs.v0i67.2181",
-          "title": "De víctimas a sobrevivientes: la fuerza poiética y resiliente del cuidar"
-        }
-      ]
-    },
-    {
-      "id": "is_referenced_by",
-      "label": "Is Referenced By",
-      "category": "accessible_essential",
-      "effort": "automatic",
-      "crossref": 0.2962060563870519,
-      "openalex": 0.38980090813831647,
-      "gap": 0.09359485175126459,
-      "samples": [
-        {
-          "doi": "10.29101/crcs.v0i67.2182",
-          "title": "Democracy in Latin America: status and prospects"
-        },
-        {
-          "doi": "10.29101/crcs.v0i67.2180",
-          "title": "Discursos sobre normas relativas a sexualidad en jóvenes del norte de Chile"
-        },
-        {
-          "doi": "10.29101/crcs.v0i67.2184",
-          "title": "Perspectivas teóricas de género: status questionis del impacto en el sistema educativo"
-        },
-        {
-          "doi": "10.29101/crcs.v0i67.2186",
-          "title": "Los usos sistémicos del romanticismo temprano y de la hermenéutica alemanes"
-        },
-        {
-          "doi": "10.29101/crcs.v0i68.2951",
-          "title": "Hacia una revalorización de la filosofía en diálogo con la indignación"
-        }
-      ]
-    },
-    {
-      "id": "author_sequence",
-      "label": "Author Sequence",
-      "category": "accessible_support",
-      "effort": "automatic",
-      "crossref": 1,
-      "openalex": 1,
-      "gap": 0,
-      "samples": []
-    },
-    {
       "id": "affiliation_ids_ror",
       "label": "Affiliation IDs (ROR)",
       "category": "accessible_support",
@@ -3359,37 +2918,6 @@
       "crossref": 0,
       "openalex": 0.8711142158574922,
       "gap": 0.8711142158574922,
-      "samples": [
-        {
-          "doi": "10.29101/crcs.v0i67.2188",
-          "title": "Quantification of mobbing in the Mexican financial sector from a gender perspective"
-        },
-        {
-          "doi": "10.29101/crcs.v0i67.2187",
-          "title": "Percepción del profesorado sobre concepciones profesionales ante la diversidad cultural escolar"
-        },
-        {
-          "doi": "10.29101/crcs.v0i67.2185",
-          "title": "Precariedad laboral de jóvenes asalariados en la ciudad de Toluca, 2005-2010"
-        },
-        {
-          "doi": "10.29101/crcs.v0i67.2182",
-          "title": "Democracy in Latin America: status and prospects"
-        },
-        {
-          "doi": "10.29101/crcs.v0i67.2181",
-          "title": "De víctimas a sobrevivientes: la fuerza poiética y resiliente del cuidar"
-        }
-      ]
-    },
-    {
-      "id": "relations",
-      "label": "Relations",
-      "category": "accessible_support",
-      "effort": "voluntary",
-      "crossref": 0.0003480682213713888,
-      "openalex": 0.9231575270695075,
-      "gap": 0.9228094588481361,
       "samples": [
         {
           "doi": "10.29101/crcs.v0i67.2188",
@@ -3445,37 +2973,6 @@
       ]
     },
     {
-      "id": "affiliation_ror",
-      "label": "Affiliation with ROR",
-      "category": "evaluation_coara",
-      "effort": "voluntary",
-      "crossref": 0,
-      "openalex": 0.8711142158574922,
-      "gap": 0.8711142158574922,
-      "samples": [
-        {
-          "doi": "10.29101/crcs.v0i67.2188",
-          "title": "Quantification of mobbing in the Mexican financial sector from a gender perspective"
-        },
-        {
-          "doi": "10.29101/crcs.v0i67.2187",
-          "title": "Percepción del profesorado sobre concepciones profesionales ante la diversidad cultural escolar"
-        },
-        {
-          "doi": "10.29101/crcs.v0i67.2185",
-          "title": "Precariedad laboral de jóvenes asalariados en la ciudad de Toluca, 2005-2010"
-        },
-        {
-          "doi": "10.29101/crcs.v0i67.2182",
-          "title": "Democracy in Latin America: status and prospects"
-        },
-        {
-          "doi": "10.29101/crcs.v0i67.2181",
-          "title": "De víctimas a sobrevivientes: la fuerza poiética y resiliente del cuidar"
-        }
-      ]
-    },
-    {
       "id": "funding_complete",
       "label": "Complete Funding Info",
       "category": "evaluation_coara",
@@ -3503,37 +3000,6 @@
         {
           "doi": "10.29101/crcs.v28i0.15938",
           "title": "Interseccionalidad raza-género en las noticias digitales mexicanas sobre Kamala Harris"
-        }
-      ]
-    },
-    {
-      "id": "preprint_version_link",
-      "label": "Preprint / Version Link",
-      "category": "evaluation_coara",
-      "effort": "voluntary",
-      "crossref": 0.0003480682213713888,
-      "openalex": 0.39504016765630456,
-      "gap": 0.39469209943493316,
-      "samples": [
-        {
-          "doi": "10.29101/crcs.v0i68.2952",
-          "title": "Media coverage of climate change in spanish-speaking online media"
-        },
-        {
-          "doi": "10.29101/crcs.v22i69.3643",
-          "title": "Del déficit a la norma: representaciones sociales sobre familias y participación escolar"
-        },
-        {
-          "doi": "10.29101/crcs.v23i70.3805",
-          "title": "Visions of the Spanish Revolution: identities and conflicts in post-welfare societies"
-        },
-        {
-          "doi": "10.29101/crcs.v23i70.3807",
-          "title": "Dispositivos móveis digitais e competências para a utilização na “sociedade do conhecimento”"
-        },
-        {
-          "doi": "10.29101/crcs.v23i70.3806",
-          "title": "Consumo informativo y competencias digitales de estudiantes de periodismo de Colombia, Perú y Venezuela"
         }
       ]
     },

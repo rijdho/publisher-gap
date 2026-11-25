@@ -8,10 +8,10 @@
   "totalWorksMatched": 32514,
   "totalWorksUniverse": 32625,
   "crossref": {
-    "overall": 0.4401926483223034,
+    "overall": 0.44018596075699523,
     "categories": {
       "findable_essential": 0.6598212005108557,
-      "findable_support": 0.4355109717868339,
+      "findable_support": 0.43546638801811216,
       "accessible_essential": 0.4769144316730523,
       "accessible_support": 0.30190038314176243,
       "evaluation_coara": 0.1375049808429119
@@ -35,7 +35,7 @@
       "award_number": 0.0011954022988505746,
       "issn": 0.9813639846743295,
       "volume": 0.7987739463601533,
-      "issue": 0.829272030651341,
+      "issue": 0.8287816091954023,
       "page": 0.7288888888888889,
       "published_print_date": 0.1189272030651341,
       "published_online_date": 0.910528735632184,
@@ -127,79 +127,79 @@
       "open_access_status": 0.9639539890508704
     }
   },
-  "gap": 0.17381388219788274,
+  "gap": 0.17382056976319094,
   "comparable": {
     "crossref": {
       "categories": {
-        "findable_essential": 0.6598212005108557,
-        "findable_support": 0.4790252873563219,
-        "accessible_essential": 0.5308735632183907,
-        "accessible_support": 0.3323933588761175,
-        "evaluation_coara": 0.2750099616858238
+        "findable_essential": 0.7198049460118425,
+        "findable_support": 0.5370158730158731,
+        "accessible_essential": 0.5496858237547892,
+        "accessible_support": 0.0017471264367816092,
+        "evaluation_coara": 0.45771647509578545
       },
-      "overall": 0.4907598722860792
+      "overall": 0.5256333283574663
     },
     "openalex": {
       "categories": {
-        "findable_essential": 0.8628616390888028,
-        "findable_support": 0.6537614566033094,
-        "accessible_essential": 0.716968075290644,
-        "accessible_support": 0.8875868856492589,
-        "evaluation_coara": 0.6229316602079104
+        "findable_essential": 0.8504056993630715,
+        "findable_support": 0.6402472780955896,
+        "accessible_essential": 0.7968336716491358,
+        "accessible_support": 0.7215353386233623,
+        "evaluation_coara": 0.6614278977261078
       },
-      "overall": 0.7495097496463061
+      "overall": 0.7548063328431016
     },
-    "gap": 0.2587498773602269,
-    "fieldCount": 38,
+    "gap": 0.22917300448563527,
+    "fieldCount": 26,
     "totalFieldCount": 48
   },
   "voluntary": {
     "crossref": {
       "categories": {
-        "findable_essential": 0.2078007662835249,
-        "findable_support": 0.10562452107279693,
-        "accessible_essential": 0.3900996168582376,
-        "accessible_support": 0.000996168582375479,
-        "evaluation_coara": 0.0008275862068965518
+        "findable_essential": 0.2770676883780332,
+        "findable_support": 0.14043422733077907,
+        "accessible_essential": 0.3946360153256705,
+        "accessible_support": 0.0017471264367816092,
+        "evaluation_coara": 0.0005823754789272031
       },
-      "overall": 0.1759739463601533
+      "overall": 0.20313563218390804
     },
     "openalex": {
       "categories": {
-        "findable_essential": 0.6675970351233315,
-        "findable_support": 0.2947115088884788,
-        "accessible_essential": 0.6674663221996678,
-        "accessible_support": 0.8320569600787353,
-        "evaluation_coara": 0.38401919173279203
+        "findable_essential": 0.55683705480716,
+        "findable_support": 0.37432080539664964,
+        "accessible_essential": 0.6979147444177892,
+        "accessible_support": 0.7215353386233623,
+        "evaluation_coara": 0.021682967337147075
       },
-      "overall": 0.5713619517746202
+      "overall": 0.47416805068585843
     },
-    "gap": 0.39538800541446695,
-    "fieldCount": 16
+    "gap": 0.27103241850195037,
+    "fieldCount": 10
   },
   "automatic": {
     "crossref": {
       "categories": {
         "findable_essential": 0.8858314176245211,
-        "findable_support": 0.7279591315453385,
-        "accessible_essential": 0.6153379310344828,
-        "accessible_support": 0.9951877394636015,
+        "findable_support": 0.8344521072796935,
+        "accessible_essential": 0.704735632183908,
+        "accessible_support": 0,
         "evaluation_coara": 0.6862835249042145
       },
-      "overall": 0.7655532567049808
+      "overall": 0.7043578544061302
     },
     "openalex": {
       "categories": {
         "findable_essential": 0.9604939410715384,
-        "findable_support": 0.8931280884131964,
-        "accessible_essential": 0.7466691271452297,
-        "accessible_support": 0.9986467367903057,
+        "findable_support": 0.8396921326197945,
+        "accessible_essential": 0.8957525988804822,
+        "accessible_support": 0,
         "evaluation_coara": 0.9813003629205881
       },
-      "overall": 0.9049094236328966
+      "overall": 0.8343002245186688
     },
-    "gap": 0.13935616692791586,
-    "fieldCount": 22
+    "gap": 0.12994237011253862,
+    "fieldCount": 16
   },
   "yearlyScores": [
     {
@@ -330,29 +330,29 @@
       "comparable": {
         "crossref": {
           "categories": {
-            "findable_essential": 0.6484135409294645,
-            "findable_support": 0.44508138711960366,
-            "accessible_essential": 0.6093860580325547,
-            "accessible_support": 0.32649209719273414,
-            "evaluation_coara": 0.30254777070063693
+            "findable_essential": 0.7073602264685067,
+            "findable_support": 0.4909513699322616,
+            "accessible_essential": 0.6231422505307855,
+            "accessible_support": 0,
+            "evaluation_coara": 0.5042462845010616
           },
-          "overall": 0.5067915487143194
+          "overall": 0.5424855929632999
         },
         "openalex": {
           "categories": {
-            "findable_essential": 0.8615534324133051,
-            "findable_support": 0.6377211606510971,
-            "accessible_essential": 0.7120488322717623,
-            "accessible_support": 0.8667138476055674,
-            "evaluation_coara": 0.6288747346072187
+            "findable_essential": 0.8489995496364924,
+            "findable_support": 0.6177332928925285,
+            "accessible_essential": 0.7931705590941259,
+            "accessible_support": 0.6574663835810333,
+            "evaluation_coara": 0.6641896673743807
           },
-          "overall": 0.7445827435715973
+          "overall": 0.744237070431338
         },
-        "gap": 0.23779119485727784
+        "gap": 0.20175147746803812
       },
       "voluntary": {
-        "crossref": 0.1407702288275537,
-        "openalex": 0.5394167256428403
+        "crossref": 0.15754600141542816,
+        "openalex": 0.43385527246992217
       }
     },
     {
@@ -483,29 +483,29 @@
       "comparable": {
         "crossref": {
           "categories": {
-            "findable_essential": 0.6488163421153111,
-            "findable_support": 0.4600229095074456,
-            "accessible_essential": 0.5699217258495609,
-            "accessible_support": 0.32862415680285095,
-            "evaluation_coara": 0.2844597174494082
+            "findable_essential": 0.7077996459439758,
+            "findable_support": 0.51060928380516,
+            "accessible_essential": 0.5715922107674685,
+            "accessible_support": 0,
+            "evaluation_coara": 0.4740995290823469
           },
-          "overall": 0.4958831296932671
+          "overall": 0.5266492448623032
         },
         "openalex": {
           "categories": {
-            "findable_essential": 0.859816653934301,
-            "findable_support": 0.6578304048892284,
-            "accessible_essential": 0.6560828877005347,
-            "accessible_support": 0.8837535014005602,
-            "evaluation_coara": 0.6080977845683727
+            "findable_essential": 0.8471074380165288,
+            "findable_support": 0.6480956018771146,
+            "accessible_essential": 0.7101795263559969,
+            "accessible_support": 0.6818181818181818,
+            "evaluation_coara": 0.6615737203972497
           },
-          "overall": 0.7306351858925388
+          "overall": 0.7293880155367932
         },
-        "gap": 0.23475205619927175
+        "gap": 0.20273877067448998
       },
       "voluntary": {
-        "crossref": 0.13353060964744815,
-        "openalex": 0.5295390883626178
+        "crossref": 0.1497327224131348,
+        "openalex": 0.42319518716577537
       }
     },
     {
@@ -636,29 +636,29 @@
       "comparable": {
         "crossref": {
           "categories": {
-            "findable_essential": 0.6535907015359069,
-            "findable_support": 0.46429016189290157,
-            "accessible_essential": 0.5132705479452054,
-            "accessible_support": 0.3299086757990867,
-            "evaluation_coara": 0.26376089663760893
+            "findable_essential": 0.7130080380391712,
+            "findable_support": 0.511786159046433,
+            "accessible_essential": 0.5088729763387297,
+            "accessible_support": 0,
+            "evaluation_coara": 0.4396014943960149
           },
-          "overall": 0.4797814186384391
+          "overall": 0.5058088782326018
         },
         "openalex": {
           "categories": {
-            "findable_essential": 0.8690179590989308,
-            "findable_support": 0.6538461538461539,
-            "accessible_essential": 0.65910152600436,
-            "accessible_support": 0.9060521125298453,
-            "evaluation_coara": 0.6211149174711927
+            "findable_essential": 0.8571105008351971,
+            "findable_support": 0.6430128575877563,
+            "accessible_essential": 0.7585643101837435,
+            "accessible_support": 0.7315478044222984,
+            "evaluation_coara": 0.6665628568462577
           },
-          "overall": 0.7383858870549154
+          "overall": 0.7496935082461398
         },
-        "gap": 0.2586044684164763
+        "gap": 0.243884630013538
       },
       "voluntary": {
-        "crossref": 0.1227285699460357,
-        "openalex": 0.535736530675802
+        "crossref": 0.14311176836861772,
+        "openalex": 0.44120211772033635
       }
     },
     {
@@ -789,29 +789,29 @@
       "comparable": {
         "crossref": {
           "categories": {
-            "findable_essential": 0.6490328385065227,
-            "findable_support": 0.46450742240215925,
-            "accessible_essential": 0.3836032388663967,
-            "accessible_support": 0.3333333333333333,
-            "evaluation_coara": 0.2198110661268556
+            "findable_essential": 0.7080358238252975,
+            "findable_support": 0.5147098515519568,
+            "accessible_essential": 0.3587719298245614,
+            "accessible_support": 0,
+            "evaluation_coara": 0.36635177687809267
           },
-          "overall": 0.4375823211875843
+          "overall": 0.45258056271214164
         },
         "openalex": {
           "categories": {
-            "findable_essential": 0.8679487179487179,
-            "findable_support": 0.6445614035087719,
-            "accessible_essential": 0.6656545209176788,
-            "accessible_support": 0.8937471884840306,
-            "evaluation_coara": 0.6629959514170041
+            "findable_essential": 0.855944055944056,
+            "findable_support": 0.6306535569693464,
+            "accessible_essential": 0.7782051282051282,
+            "accessible_support": 0.6947368421052632,
+            "evaluation_coara": 0.6660368870895187
           },
-          "overall": 0.7454563652721548
+          "overall": 0.7486135940083309
         },
-        "gap": 0.3078740440845705
+        "gap": 0.2960330312961893
       },
       "voluntary": {
-        "crossref": 0.09199730094466936,
-        "openalex": 0.5369646873594243
+        "crossref": 0.11560053981106613,
+        "openalex": 0.4310526315789474
       }
     },
     {
@@ -820,10 +820,10 @@
       "matched": 2900,
       "universeSize": 2901,
       "crossref": {
-        "overall": 0.426466317779658,
+        "overall": 0.4264146114714884,
         "categories": {
           "findable_essential": 0.6583362059060094,
-          "findable_support": 0.4200745824323901,
+          "findable_support": 0.41972987371125947,
           "accessible_essential": 0.4473170171205332,
           "accessible_support": 0.30443525221188095,
           "evaluation_coara": 0.11840744570837643
@@ -847,7 +847,7 @@
           "award_number": 0,
           "issn": 1,
           "volume": 0.7852464667356084,
-          "issue": 0.8279903481558083,
+          "issue": 0.8241985522233712,
           "page": 0.6745949672526715,
           "published_print_date": 0.10548086866597725,
           "published_online_date": 1,
@@ -942,29 +942,29 @@
       "comparable": {
         "crossref": {
           "categories": {
-            "findable_essential": 0.6583362059060094,
-            "findable_support": 0.4620820406756291,
-            "accessible_essential": 0.5031885556704585,
-            "accessible_support": 0.33206940135585433,
-            "evaluation_coara": 0.23681489141675285
+            "findable_essential": 0.7181849518974648,
+            "findable_support": 0.5016496774511252,
+            "accessible_essential": 0.48853843502240607,
+            "accessible_support": 0,
+            "evaluation_coara": 0.39469148569458806
           },
-          "overall": 0.4731802252096978
+          "overall": 0.4917758430814273
         },
         "openalex": {
           "categories": {
-            "findable_essential": 0.8708045977011493,
-            "findable_support": 0.6527931034482759,
-            "accessible_essential": 0.722801724137931,
-            "accessible_support": 0.9085057471264367,
-            "evaluation_coara": 0.6442068965517243
+            "findable_essential": 0.8590595611285265,
+            "findable_support": 0.6363546798029557,
+            "accessible_essential": 0.7910344827586206,
+            "accessible_support": 0.7437931034482759,
+            "evaluation_coara": 0.6588505747126437
           },
-          "overall": 0.7595527298850574
+          "overall": 0.7570791162860129
         },
-        "gap": 0.2863725046753596
+        "gap": 0.2653032732045856
       },
       "voluntary": {
-        "crossref": 0.17137481328277604,
-        "openalex": 0.5920747126436783
+        "crossref": 0.18902102723198894,
+        "openalex": 0.4848103448275862
       }
     },
     {
@@ -973,10 +973,10 @@
       "matched": 2618,
       "universeSize": 2618,
       "crossref": {
-        "overall": 0.4403080653749103,
+        "overall": 0.44029243928976547,
         "categories": {
           "findable_essential": 0.6628151260504201,
-          "findable_support": 0.4356205292034169,
+          "findable_support": 0.4355163553024516,
           "accessible_essential": 0.47797300738477205,
           "accessible_support": 0.309205500381971,
           "evaluation_coara": 0.12853323147440796
@@ -1000,7 +1000,7 @@
           "award_number": 0,
           "issn": 0.9961802902979373,
           "volume": 0.7597402597402597,
-          "issue": 0.8384262796027502,
+          "issue": 0.8372803666921314,
           "page": 0.7245989304812834,
           "published_print_date": 0.05118411000763942,
           "published_online_date": 0.9996180290297937,
@@ -1095,29 +1095,29 @@
       "comparable": {
         "crossref": {
           "categories": {
-            "findable_essential": 0.6628151260504201,
-            "findable_support": 0.4791825821237586,
-            "accessible_essential": 0.5377196333078685,
-            "accessible_support": 0.3330786860198625,
-            "evaluation_coara": 0.2570664629488159
+            "findable_essential": 0.7230710466004584,
+            "findable_support": 0.5342682527556477,
+            "accessible_essential": 0.5478418640183346,
+            "accessible_support": 0,
+            "evaluation_coara": 0.42831678125795775
           },
-          "overall": 0.4898729946524064
+          "overall": 0.5196853741496599
         },
         "openalex": {
           "categories": {
-            "findable_essential": 0.8644321364909601,
-            "findable_support": 0.6640947288006112,
-            "accessible_essential": 0.7377769289533996,
-            "accessible_support": 0.8945760122230709,
-            "evaluation_coara": 0.628113063407181
+            "findable_essential": 0.8521077852628655,
+            "findable_support": 0.6534977627414602,
+            "accessible_essential": 0.8152215431627197,
+            "accessible_support": 0.700916730328495,
+            "evaluation_coara": 0.6567354214413038
           },
-          "overall": 0.7584682964094729
+          "overall": 0.7589011431018688
         },
-        "gap": 0.2685953017570665
+        "gap": 0.23921576895220897
       },
       "voluntary": {
-        "crossref": 0.21134612936083524,
-        "openalex": 0.598868411000764
+        "crossref": 0.227988922841864,
+        "openalex": 0.4909854851031321
       }
     },
     {
@@ -1126,10 +1126,10 @@
       "matched": 2745,
       "universeSize": 2754,
       "crossref": {
-        "overall": 0.4242554264504156,
+        "overall": 0.4242504749748759,
         "categories": {
           "findable_essential": 0.6653655289276205,
-          "findable_support": 0.44843863471314455,
+          "findable_support": 0.4484056248762131,
           "accessible_essential": 0.3967965787137901,
           "accessible_support": 0.3128177196804648,
           "evaluation_coara": 0.1344952795933188
@@ -1153,7 +1153,7 @@
           "award_number": 0,
           "issn": 0.9931009440813362,
           "volume": 0.7628903413217138,
-          "issue": 0.8275236020334059,
+          "issue": 0.8271604938271605,
           "page": 0.7356572258533043,
           "published_print_date": 0.010893246187363835,
           "published_online_date": 1,
@@ -1248,29 +1248,29 @@
       "comparable": {
         "crossref": {
           "categories": {
-            "findable_essential": 0.6653655289276205,
-            "findable_support": 0.49328249818445896,
-            "accessible_essential": 0.44639615105301383,
-            "accessible_support": 0.33369644153957884,
-            "evaluation_coara": 0.2689905591866376
+            "findable_essential": 0.7258533042846769,
+            "findable_support": 0.5602240896358543,
+            "accessible_essential": 0.4760348583877996,
+            "accessible_support": 0,
+            "evaluation_coara": 0.448075526506899
           },
-          "overall": 0.4723688271604939
+          "overall": 0.5104134246291109
         },
         "openalex": {
           "categories": {
-            "findable_essential": 0.8523982999392836,
-            "findable_support": 0.6703460837887067,
-            "accessible_essential": 0.693214936247723,
-            "accessible_support": 0.8667880995749848,
-            "evaluation_coara": 0.5955555555555556
+            "findable_essential": 0.8389799635701276,
+            "findable_support": 0.662711423367161,
+            "accessible_essential": 0.7663023679417122,
+            "accessible_support": 0.6145719489981785,
+            "evaluation_coara": 0.6434729811778993
           },
-          "overall": 0.7353650576806314
+          "overall": 0.7328280856969382
         },
-        "gap": 0.26299623052013754
+        "gap": 0.22241466106782737
       },
       "voluntary": {
-        "crossref": 0.16042725732268218,
-        "openalex": 0.5525925925925926
+        "crossref": 0.19814814814814813,
+        "openalex": 0.4548633879781421
       }
     },
     {
@@ -1401,29 +1401,29 @@
       "comparable": {
         "crossref": {
           "categories": {
-            "findable_essential": 0.666640810838763,
-            "findable_support": 0.4846726652187403,
-            "accessible_essential": 0.45086099906919025,
-            "accessible_support": 0.3334367566449478,
-            "evaluation_coara": 0.26658392801737507
+            "findable_essential": 0.7272445209150142,
+            "findable_support": 0.5466513009175126,
+            "accessible_essential": 0.476497052435619,
+            "accessible_support": 0,
+            "evaluation_coara": 0.44420312338401075
           },
-          "overall": 0.4720688540697073
+          "overall": 0.508135939197838
         },
         "openalex": {
           "categories": {
-            "findable_essential": 0.8690180236171536,
-            "findable_support": 0.6555624611559975,
-            "accessible_essential": 0.7348896830329399,
-            "accessible_support": 0.9016987777087219,
-            "evaluation_coara": 0.6070229956494717
+            "findable_essential": 0.857110571218713,
+            "findable_support": 0.6396608363668649,
+            "accessible_essential": 0.7908638906152891,
+            "accessible_support": 0.7274704785581106,
+            "evaluation_coara": 0.6673917547130722
           },
-          "overall": 0.7543366739175471
+          "overall": 0.7570236682728915
         },
-        "gap": 0.28226781984783983
+        "gap": 0.24888772907505352
       },
       "voluntary": {
-        "crossref": 0.15795325266315027,
-        "openalex": 0.5852237414543194
+        "crossref": 0.1976497052435619,
+        "openalex": 0.49289931634555617
       }
     },
     {
@@ -1432,10 +1432,10 @@
       "matched": 2936,
       "universeSize": 2951,
       "crossref": {
-        "overall": 0.4531746985271214,
+        "overall": 0.4531700775973904,
         "categories": {
           "findable_essential": 0.6684457246131256,
-          "findable_support": 0.4485690520932812,
+          "findable_support": 0.44853824589507413,
           "accessible_essential": 0.4961406679468353,
           "accessible_support": 0.3185925674912459,
           "evaluation_coara": 0.14730599796679092
@@ -1459,7 +1459,7 @@
           "award_number": 0,
           "issn": 0.9654354456116571,
           "volume": 0.7119620467638089,
-          "issue": 0.7536428329379872,
+          "issue": 0.7533039647577092,
           "page": 0.775330396475771,
           "published_print_date": 0,
           "published_online_date": 1,
@@ -1554,29 +1554,29 @@
       "comparable": {
         "crossref": {
           "categories": {
-            "findable_essential": 0.6684457246131256,
-            "findable_support": 0.4934259573026093,
-            "accessible_essential": 0.5581582514401897,
-            "accessible_support": 0.33276855303287023,
-            "evaluation_coara": 0.29461199593358184
+            "findable_essential": 0.7292135177597733,
+            "findable_support": 0.5619886721208307,
+            "accessible_essential": 0.5986953575059302,
+            "accessible_support": 0,
+            "evaluation_coara": 0.4910199932226364
           },
-          "overall": 0.5062864283293799
+          "overall": 0.5509401941670664
         },
         "openalex": {
           "categories": {
-            "findable_essential": 0.8699761580381473,
-            "findable_support": 0.6619209809264305,
-            "accessible_essential": 0.807007833787466,
-            "accessible_support": 0.9331289736603088,
-            "evaluation_coara": 0.625408719346049
+            "findable_essential": 0.8581558087688876,
+            "findable_support": 0.6495718178279485,
+            "accessible_essential": 0.8633344686648501,
+            "accessible_support": 0.8211852861035422,
+            "evaluation_coara": 0.6645095367847411
           },
-          "overall": 0.7804275942325158
+          "overall": 0.7857365684383735
         },
-        "gap": 0.274141165903136
+        "gap": 0.23479637427130706
       },
       "voluntary": {
-        "crossref": 0.21019993222636396,
-        "openalex": 0.6329501589464123
+        "crossref": 0.24928837682141644,
+        "openalex": 0.5405483651226158
       }
     },
     {
@@ -1707,29 +1707,29 @@
       "comparable": {
         "crossref": {
           "categories": {
-            "findable_essential": 0.6683611111111111,
-            "findable_support": 0.5081,
-            "accessible_essential": 0.6405416666666667,
-            "accessible_support": 0.33288888888888885,
-            "evaluation_coara": 0.3131333333333333
+            "findable_essential": 0.7291212121212122,
+            "findable_support": 0.5830000000000001,
+            "accessible_essential": 0.6983333333333334,
+            "accessible_support": 0,
+            "evaluation_coara": 0.5217777777777778
           },
-          "overall": 0.5327743055555555
+          "overall": 0.5851252525252525
         },
         "openalex": {
           "categories": {
-            "findable_essential": 0.8609245578688157,
-            "findable_support": 0.653492276695769,
-            "accessible_essential": 0.769140362659503,
-            "accessible_support": 0.9204163868368033,
-            "evaluation_coara": 0.61645399597045
+            "findable_essential": 0.84828133585689,
+            "findable_support": 0.6409862803415524,
+            "accessible_essential": 0.8474647414372062,
+            "accessible_support": 0.7971793149764943,
+            "evaluation_coara": 0.6612939332885606
           },
-          "overall": 0.7639187374076561
+          "overall": 0.7744752463229629
         },
-        "gap": 0.23114443185210065
+        "gap": 0.18934999379771045
       },
       "voluntary": {
-        "crossref": 0.2650236111111111,
-        "openalex": 0.6106783075889859
+        "crossref": 0.29910000000000003,
+        "openalex": 0.519308260577569
       }
     },
     {
@@ -1860,29 +1860,29 @@
       "comparable": {
         "crossref": {
           "categories": {
-            "findable_essential": 0.6701882102272728,
-            "findable_support": 0.5175071022727273,
-            "accessible_essential": 0.6805308948863636,
-            "accessible_support": 0.33972537878787873,
-            "evaluation_coara": 0.33444602272727275
+            "findable_essential": 0.7311144111570248,
+            "findable_support": 0.5960328733766235,
+            "accessible_essential": 0.7641157670454545,
+            "accessible_support": 0.020241477272727272,
+            "evaluation_coara": 0.5506628787878788
           },
-          "overall": 0.5496769945549242
+          "overall": 0.6119249195998131
         },
         "openalex": {
           "categories": {
-            "findable_essential": 0.8410051951190045,
-            "findable_support": 0.642805364262414,
-            "accessible_essential": 0.7407575208408843,
-            "accessible_support": 0.7745559985501993,
-            "evaluation_coara": 0.6021022109459949
+            "findable_essential": 0.8266170219776598,
+            "findable_support": 0.6246569668099209,
+            "accessible_essential": 0.8529358463211308,
+            "accessible_support": 0.7571583907212758,
+            "evaluation_coara": 0.6612299142201281
           },
-          "overall": 0.7317877854295034
+          "overall": 0.762879435111222
         },
-        "gap": 0.18211079087457915
+        "gap": 0.15095451551140893
       },
       "voluntary": {
-        "crossref": 0.2989450165719697,
-        "openalex": 0.5780793161773589
+        "crossref": 0.3341796875,
+        "openalex": 0.5109459949256977
       }
     }
   ],
@@ -1958,28 +1958,6 @@
     "publication_date": [],
     "publisher": [],
     "resource_type": [],
-    "subject_keywords": [
-      {
-        "doi": "10.22201/cela.24484946e.2015.35.46965",
-        "title": "Movimientos sociales, élites y cultura política en América Latina"
-      },
-      {
-        "doi": "10.1016/j.pnsla.2014.08.002",
-        "title": "Percepciones juveniles de ciudadanía. El caso de Yucatán"
-      },
-      {
-        "doi": "10.7550/rmb.46308",
-        "title": "First record of Spathoteredo spatha (Mollusca: Teredinidae) in Venezuela"
-      },
-      {
-        "doi": "10.22201/facmed.14058871p.2014.3.47936",
-        "title": "Portada, contraportada y hoja legal"
-      },
-      {
-        "doi": "10.22201/iij.24484873e.2015.142.4926",
-        "title": "Álvarez, Clara Luz, Derecho de las telecomunicaciones"
-      }
-    ],
     "funder_name": [
       {
         "doi": "10.20937/atm.2015.28.01.02",
@@ -2069,28 +2047,6 @@
         "title": "Patrones de distribución de micromamíferos en gradientes altitudinales del noroeste Argentino"
       }
     ],
-    "funder_doi": [
-      {
-        "doi": "10.20937/atm.2015.28.01.02",
-        "title": "Assessment of potential human health and environmental impacts of a nuclear power plant (NPP) based on atmospheric dispersion modeling"
-      },
-      {
-        "doi": "10.1016/s1870-0578(16)30005-1",
-        "title": "The objective international responsibility of states in the Inter-American human rights system"
-      },
-      {
-        "doi": "10.7550/rmb.38023",
-        "title": "Clasificación jerárquica de gremios tróficos para aves y mamíferos de Norteamérica"
-      },
-      {
-        "doi": "10.1016/j.amdi.2014.09.013",
-        "title": "A legalidade da entrada da Venezuela no Mercosul"
-      },
-      {
-        "doi": "10.7550/rmb.40560",
-        "title": "Comunidades de helmintos de Xiphophorus malinche (Pisces: Poeciliidae), especie dulceacuícola endémica del río Pánuco, Hidalgo, México"
-      }
-    ],
     "award_number": [
       {
         "doi": "10.20937/atm.2015.28.01.02",
@@ -2175,8 +2131,8 @@
         "title": "El poder, los fantasmas y los cuerpos. Políticas corporales y subjetivación en la transición chilena"
       },
       {
-        "doi": "10.22201/iij.24487880e.2019.40.16183",
-        "title": "De bulas y pontífices. Prolegómenos de la cuestión indiana"
+        "doi": "10.22201/fm.24484865e.2019.0.11",
+        "title": "¿Un déjà vu?"
       }
     ],
     "page": [
@@ -2201,73 +2157,7 @@
         "title": "Niveles de plaguicidas organoclorados en suero sanguíneo comparados con la concentración de lípidos sanguíneos"
       }
     ],
-    "published_print_date": [
-      {
-        "doi": "10.22201/cela.24484946e.2015.35.46965",
-        "title": "Movimientos sociales, élites y cultura política en América Latina"
-      },
-      {
-        "doi": "10.1016/j.pnsla.2014.08.002",
-        "title": "Percepciones juveniles de ciudadanía. El caso de Yucatán"
-      },
-      {
-        "doi": "10.22201/facmed.14058871p.2014.3.47936",
-        "title": "Portada, contraportada y hoja legal"
-      },
-      {
-        "doi": "10.22201/iij.24484873e.2015.142.4926",
-        "title": "Álvarez, Clara Luz, Derecho de las telecomunicaciones"
-      },
-      {
-        "doi": "10.22201/fesc.20072236e.2015.6.10.1",
-        "title": "El Consenso de Washington y la postura poskeynesiana"
-      }
-    ],
-    "published_online_date": [
-      {
-        "doi": "10.7550/rmb.46308",
-        "title": "First record of Spathoteredo spatha (Mollusca: Teredinidae) in Venezuela"
-      },
-      {
-        "doi": "10.1016/s0301-7036(15)72118-8",
-        "title": "Reestructuración productiva e integración. tlcan 20 años después"
-      },
-      {
-        "doi": "10.1016/j.rmo.2016.03.007",
-        "title": "Análisis cefalométrico de las características esqueléticas y dentales que presentan pacientes adultos con fisuras labiopalatinas que recibieron tratamiento ortopédico, ortodóncico y/o quirúrgico durante su infancia y adolescencia"
-      },
-      {
-        "doi": "10.1016/s0186-1042(15)72150-9",
-        "title": "Opciones reales: una propuesta para valorar proyectos de I+D en centros públicos de investigación agraria"
-      },
-      {
-        "doi": "10.1016/j.rmo.2016.03.014",
-        "title": "Camouflage orthodontic treatment in an autistic class II patient with anterior open bite: Case report"
-      }
-    ],
     "license": [
-      {
-        "doi": "10.22201/cela.24484946e.2015.35.46965",
-        "title": "Movimientos sociales, élites y cultura política en América Latina"
-      },
-      {
-        "doi": "10.22201/facmed.14058871p.2014.3.47936",
-        "title": "Portada, contraportada y hoja legal"
-      },
-      {
-        "doi": "10.22201/iij.24484873e.2015.142.4926",
-        "title": "Álvarez, Clara Luz, Derecho de las telecomunicaciones"
-      },
-      {
-        "doi": "10.22201/iij.24484873e.2015.142.4931",
-        "title": "Sepúlveda Amor, Bernardo, La Corte Internacional de Justicia y la protección de los derechos del individuo: el caso Avena"
-      },
-      {
-        "doi": "10.22201/ceiich.24485705e.2015.5.47617",
-        "title": "De la evolución al valor de uso, ida y vuelta: exploraciones en la domesticación y diversificación de plantas"
-      }
-    ],
-    "license_url": [
       {
         "doi": "10.22201/cela.24484946e.2015.35.46965",
         "title": "Movimientos sociales, élites y cultura política en América Latina"
@@ -2311,28 +2201,6 @@
         "title": "De la evolución al valor de uso, ida y vuelta: exploraciones en la domesticación y diversificación de plantas"
       }
     ],
-    "full_text_links": [
-      {
-        "doi": "10.20937/atm.2015.28.01.02",
-        "title": "Assessment of potential human health and environmental impacts of a nuclear power plant (NPP) based on atmospheric dispersion modeling"
-      },
-      {
-        "doi": "10.20937/atm.2015.28.01.03",
-        "title": "Rapid deepening of tropical cyclones in the northeastern Tropical Pacific: The relationship with oceanic eddies"
-      },
-      {
-        "doi": "10.1016/s0187-6236(15)72157-0",
-        "title": "Rapid deepening of tropical cyclones in the northeastern Tropical Pacific: The relationship with oceanic eddies"
-      },
-      {
-        "doi": "10.1016/s0187-6236(15)72159-4",
-        "title": "Improved rainfall estimation over the Indian monsoon region by synergistic use of Kalpana-1 and rain gauge data"
-      },
-      {
-        "doi": "10.20937/atm.2015.28.01.05",
-        "title": "Improved rainfall estimation over the Indian monsoon region by synergistic use of Kalpana-1 and rain gauge data"
-      }
-    ],
     "resource_url": [],
     "references": [
       {
@@ -2354,72 +2222,6 @@
       {
         "doi": "10.22201/ie.20074484e.2014.4.2.194",
         "title": "&lt;b&gt; LOS MAMIFEROS DE OAXACA &lt;/b&gt;"
-      }
-    ],
-    "references_count": [
-      {
-        "doi": "10.22201/fesc.20072236e.2015.6.10.1",
-        "title": "El Consenso de Washington y la postura poskeynesiana"
-      },
-      {
-        "doi": "10.20937/atm.2015.28.01.02",
-        "title": "Assessment of potential human health and environmental impacts of a nuclear power plant (NPP) based on atmospheric dispersion modeling"
-      },
-      {
-        "doi": "10.1016/j.rmdc.2016.03.005",
-        "title": "¿CÓMO AFRONTA EL DESAFÍO DE LA SOBRECARGA DE TRABAJO EL TRIBUNAL CONSTITUCIONAL DE ESPAÑA?"
-      },
-      {
-        "doi": "10.22201/iij.24484873e.2015.142.4920",
-        "title": "Las revistas jurídicas venezolanas en tiempos de revolución (2000-2013)"
-      },
-      {
-        "doi": "10.22201/ie.20074484e.2014.4.2.194",
-        "title": "&lt;b&gt; LOS MAMIFEROS DE OAXACA &lt;/b&gt;"
-      }
-    ],
-    "is_referenced_by": [
-      {
-        "doi": "10.22201/cela.24484946e.2015.35.46965",
-        "title": "Movimientos sociales, élites y cultura política en América Latina"
-      },
-      {
-        "doi": "10.22201/iij.24484873e.2015.142.4931",
-        "title": "Sepúlveda Amor, Bernardo, La Corte Internacional de Justicia y la protección de los derechos del individuo: el caso Avena"
-      },
-      {
-        "doi": "10.22201/iis.01882503p.2015.1.46623",
-        "title": "Norma Blazquez Graf, Fátima Flores Palacios y Maribel Ríos Everardo (coordinadoras). Investigación feminista. Epistemología, metodología y representaciones sociales (México: Universidad Nacional Autónoma de México-Centro de Investigaciones Interdisciplina"
-      },
-      {
-        "doi": "10.20937/rica.43350",
-        "title": "Riesgo ambiental por pesticidas en una cuenca del sur de la provincia de Santa Fe, Argentina"
-      },
-      {
-        "doi": "10.22201/fa.2007252xp.2014.8.47601",
-        "title": "La modernización temprana en Mérida, Yucatán. Una nueva dualidad urbana"
-      }
-    ],
-    "author_sequence": [
-      {
-        "doi": "10.21933/j.edsc.2015.06.093",
-        "title": "Transferencias Monetarias Condicionadas en la estructura del ingreso de pueblos mayas de México: Jose Maria Morelos y Saban, Quintana Roo"
-      },
-      {
-        "doi": "10.21933/j.edsc.2015.06.003",
-        "title": "John Riordan y Kristen Becker, (2008). The good office. Green design on the cutting edge. Nueva York: Collins Design"
-      },
-      {
-        "doi": "10.21933/j.edsc.2015.06.102",
-        "title": "Avances, retos y desafíos: aproximación al estado del conocimiento de los estudios de género en educación superior en México"
-      },
-      {
-        "doi": "10.21933/j.edsc.2015.06.094",
-        "title": "La función de las paradojas en la física y el caso de Paul Ehrenfest"
-      },
-      {
-        "doi": "10.1016/j.acso.2015.06.002",
-        "title": "BIBLIOGRAFÍA ESPECIALIZADA SOBRE REFLEXIVIDAD"
       }
     ],
     "affiliation_ids_ror": [
@@ -2444,28 +2246,6 @@
         "title": "Análisis cefalométrico de las características esqueléticas y dentales que presentan pacientes adultos con fisuras labiopalatinas que recibieron tratamiento ortopédico, ortodóncico y/o quirúrgico durante su infancia y adolescencia"
       }
     ],
-    "relations": [
-      {
-        "doi": "10.22201/cela.24484946e.2015.35.46965",
-        "title": "Movimientos sociales, élites y cultura política en América Latina"
-      },
-      {
-        "doi": "10.1016/j.pnsla.2014.08.002",
-        "title": "Percepciones juveniles de ciudadanía. El caso de Yucatán"
-      },
-      {
-        "doi": "10.7550/rmb.46308",
-        "title": "First record of Spathoteredo spatha (Mollusca: Teredinidae) in Venezuela"
-      },
-      {
-        "doi": "10.22201/facmed.14058871p.2014.3.47936",
-        "title": "Portada, contraportada y hoja legal"
-      },
-      {
-        "doi": "10.22201/iij.24484873e.2015.142.4926",
-        "title": "Álvarez, Clara Luz, Derecho de las telecomunicaciones"
-      }
-    ],
     "author_given_family": [
       {
         "doi": "10.20937/atm.2015.28.01.02",
@@ -2488,28 +2268,6 @@
         "title": "Reseñas"
       }
     ],
-    "affiliation_ror": [
-      {
-        "doi": "10.1016/j.pnsla.2014.08.002",
-        "title": "Percepciones juveniles de ciudadanía. El caso de Yucatán"
-      },
-      {
-        "doi": "10.7550/rmb.46308",
-        "title": "First record of Spathoteredo spatha (Mollusca: Teredinidae) in Venezuela"
-      },
-      {
-        "doi": "10.1016/s0301-7036(15)72118-8",
-        "title": "Reestructuración productiva e integración. tlcan 20 años después"
-      },
-      {
-        "doi": "10.22201/fesc.20072236e.2015.6.10.1",
-        "title": "El Consenso de Washington y la postura poskeynesiana"
-      },
-      {
-        "doi": "10.1016/j.rmo.2016.03.007",
-        "title": "Análisis cefalométrico de las características esqueléticas y dentales que presentan pacientes adultos con fisuras labiopalatinas que recibieron tratamiento ortopédico, ortodóncico y/o quirúrgico durante su infancia y adolescencia"
-      }
-    ],
     "funding_complete": [
       {
         "doi": "10.20937/atm.2015.28.01.02",
@@ -2530,28 +2288,6 @@
       {
         "doi": "10.1016/s1870-0578(16)30004-x",
         "title": "The best interests of the minor as a principle of interpretation in Mexican civil law"
-      }
-    ],
-    "preprint_version_link": [
-      {
-        "doi": "10.7550/rmb.46308",
-        "title": "First record of Spathoteredo spatha (Mollusca: Teredinidae) in Venezuela"
-      },
-      {
-        "doi": "10.22201/iij.24484873e.2015.142.4926",
-        "title": "Álvarez, Clara Luz, Derecho de las telecomunicaciones"
-      },
-      {
-        "doi": "10.22201/iij.24484873e.2015.142.4931",
-        "title": "Sepúlveda Amor, Bernardo, La Corte Internacional de Justicia y la protección de los derechos del individuo: el caso Avena"
-      },
-      {
-        "doi": "10.22201/ceiich.24485691e.2014.13.46602",
-        "title": "Contenido"
-      },
-      {
-        "doi": "10.1016/s0186-1042(15)72150-9",
-        "title": "Opciones reales: una propuesta para valorar proyectos de I+D en centros públicos de investigación agraria"
       }
     ],
     "open_access_status": [
@@ -2582,18 +2318,13 @@
       "doi": "10.22201/cela.24484946e.2015.35.46965",
       "title": "Movimientos sociales, élites y cultura política en América Latina",
       "year": 2015,
-      "crossrefScore": 0.4473684210526316,
-      "openalexScore": 0.6052631578947368,
-      "gap": 9,
+      "crossrefScore": 0.5,
+      "openalexScore": 0.6153846153846154,
+      "gap": 4,
       "openalexAdds": [
-        "subject_keywords",
         "language",
-        "published_print_date",
         "license",
-        "license_url",
         "open_access_license",
-        "is_referenced_by",
-        "relations",
         "open_access_status"
       ]
     },
@@ -2601,55 +2332,42 @@
       "doi": "10.1016/j.pnsla.2014.08.002",
       "title": "Percepciones juveniles de ciudadanía. El caso de Yucatán",
       "year": 2015,
-      "crossrefScore": 0.631578947368421,
-      "openalexScore": 0.7631578947368421,
-      "gap": 9,
+      "crossrefScore": 0.6538461538461539,
+      "openalexScore": 0.7692307692307693,
+      "gap": 5,
       "openalexAdds": [
         "author_affiliation",
-        "subject_keywords",
         "language",
         "author_orcid",
         "all_authors_orcid",
-        "published_print_date",
-        "affiliation_ids_ror",
-        "relations",
-        "affiliation_ror"
+        "affiliation_ids_ror"
       ]
     },
     {
       "doi": "10.7550/rmb.46308",
       "title": "First record of Spathoteredo spatha (Mollusca: Teredinidae) in Venezuela",
       "year": 2015,
-      "crossrefScore": 0.631578947368421,
-      "openalexScore": 0.8421052631578947,
-      "gap": 9,
+      "crossrefScore": 0.6923076923076923,
+      "openalexScore": 0.8461538461538461,
+      "gap": 4,
       "openalexAdds": [
         "abstract",
         "author_affiliation",
-        "subject_keywords",
         "author_orcid",
-        "published_online_date",
-        "affiliation_ids_ror",
-        "relations",
-        "affiliation_ror",
-        "preprint_version_link"
+        "affiliation_ids_ror"
       ]
     },
     {
       "doi": "10.22201/facmed.14058871p.2014.3.47936",
       "title": "Portada, contraportada y hoja legal",
       "year": 2015,
-      "crossrefScore": 0.39473684210526316,
-      "openalexScore": 0.5789473684210527,
-      "gap": 8,
+      "crossrefScore": 0.46153846153846156,
+      "openalexScore": 0.6153846153846154,
+      "gap": 4,
       "openalexAdds": [
-        "subject_keywords",
         "language",
-        "published_print_date",
         "license",
-        "license_url",
         "open_access_license",
-        "relations",
         "open_access_status"
       ]
     },
@@ -2657,119 +2375,93 @@
       "doi": "10.22201/iij.24484873e.2015.142.4926",
       "title": "Álvarez, Clara Luz, Derecho de las telecomunicaciones",
       "year": 2015,
-      "crossrefScore": 0.39473684210526316,
-      "openalexScore": 0.7105263157894737,
-      "gap": 12,
-      "openalexAdds": [
-        "abstract",
-        "subject_keywords",
-        "language",
-        "author_orcid",
-        "all_authors_orcid",
-        "published_print_date",
-        "license",
-        "license_url",
-        "open_access_license",
-        "relations",
-        "preprint_version_link",
-        "open_access_status"
-      ]
-    },
-    {
-      "doi": "10.1016/s0301-7036(15)72118-8",
-      "title": "Reestructuración productiva e integración. tlcan 20 años después",
-      "year": 2015,
-      "crossrefScore": 0.631578947368421,
-      "openalexScore": 0.8157894736842105,
+      "crossrefScore": 0.46153846153846156,
+      "openalexScore": 0.7307692307692307,
       "gap": 7,
       "openalexAdds": [
         "abstract",
-        "author_affiliation",
-        "subject_keywords",
-        "published_online_date",
-        "affiliation_ids_ror",
-        "relations",
-        "affiliation_ror"
+        "language",
+        "author_orcid",
+        "all_authors_orcid",
+        "license",
+        "open_access_license",
+        "open_access_status"
       ]
     },
     {
       "doi": "10.22201/fesc.20072236e.2015.6.10.1",
       "title": "El Consenso de Washington y la postura poskeynesiana",
       "year": 2015,
-      "crossrefScore": 0.6052631578947368,
-      "openalexScore": 0.7894736842105263,
-      "gap": 9,
+      "crossrefScore": 0.6923076923076923,
+      "openalexScore": 0.8076923076923077,
+      "gap": 4,
       "openalexAdds": [
-        "subject_keywords",
         "language",
         "author_orcid",
-        "published_print_date",
         "references",
-        "references_count",
-        "affiliation_ids_ror",
-        "relations",
-        "affiliation_ror"
+        "affiliation_ids_ror"
       ]
     },
     {
       "doi": "10.22201/iij.24484873e.2015.142.4931",
       "title": "Sepúlveda Amor, Bernardo, La Corte Internacional de Justicia y la protección de los derechos del individuo: el caso Avena",
       "year": 2015,
-      "crossrefScore": 0.39473684210526316,
-      "openalexScore": 0.7105263157894737,
-      "gap": 12,
+      "crossrefScore": 0.46153846153846156,
+      "openalexScore": 0.6923076923076923,
+      "gap": 6,
       "openalexAdds": [
-        "subject_keywords",
         "language",
         "author_orcid",
         "all_authors_orcid",
-        "published_print_date",
         "license",
-        "license_url",
         "open_access_license",
-        "is_referenced_by",
-        "relations",
-        "preprint_version_link",
         "open_access_status"
-      ]
-    },
-    {
-      "doi": "10.1016/j.rmo.2016.03.007",
-      "title": "Análisis cefalométrico de las características esqueléticas y dentales que presentan pacientes adultos con fisuras labiopalatinas que recibieron tratamiento ortopédico, ortodóncico y/o quirúrgico durante su infancia y adolescencia",
-      "year": 2015,
-      "crossrefScore": 0.631578947368421,
-      "openalexScore": 0.7105263157894737,
-      "gap": 7,
-      "openalexAdds": [
-        "abstract",
-        "author_affiliation",
-        "subject_keywords",
-        "published_online_date",
-        "affiliation_ids_ror",
-        "relations",
-        "affiliation_ror"
       ]
     },
     {
       "doi": "10.22201/ceiich.24485705e.2015.5.47617",
       "title": "De la evolución al valor de uso, ida y vuelta: exploraciones en la domesticación y diversificación de plantas",
       "year": 2015,
-      "crossrefScore": 0.47368421052631576,
-      "openalexScore": 0.7105263157894737,
-      "gap": 12,
+      "crossrefScore": 0.5,
+      "openalexScore": 0.7692307692307693,
+      "gap": 8,
       "openalexAdds": [
         "author_affiliation",
-        "subject_keywords",
         "language",
         "author_orcid",
         "all_authors_orcid",
-        "published_print_date",
         "license",
-        "license_url",
         "open_access_license",
         "affiliation_ids_ror",
-        "affiliation_ror",
         "open_access_status"
+      ]
+    },
+    {
+      "doi": "10.22201/ceiich.24485691e.2014.13.46602",
+      "title": "Contenido",
+      "year": 2015,
+      "crossrefScore": 0.5,
+      "openalexScore": 0.6538461538461539,
+      "gap": 4,
+      "openalexAdds": [
+        "language",
+        "license",
+        "open_access_license",
+        "open_access_status"
+      ]
+    },
+    {
+      "doi": "10.1016/s0186-1042(15)72150-9",
+      "title": "Opciones reales: una propuesta para valorar proyectos de I+D en centros públicos de investigación agraria",
+      "year": 2015,
+      "crossrefScore": 0.6923076923076923,
+      "openalexScore": 0.8461538461538461,
+      "gap": 4,
+      "openalexAdds": [
+        "abstract",
+        "author_affiliation",
+        "author_orcid",
+        "affiliation_ids_ror"
       ]
     }
   ],
@@ -2918,37 +2610,6 @@
       "samples": []
     },
     {
-      "id": "subject_keywords",
-      "label": "Subject / Keywords",
-      "category": "findable_essential",
-      "effort": "voluntary",
-      "crossref": 0,
-      "openalex": 0.999876976071846,
-      "gap": 0.999876976071846,
-      "samples": [
-        {
-          "doi": "10.22201/cela.24484946e.2015.35.46965",
-          "title": "Movimientos sociales, élites y cultura política en América Latina"
-        },
-        {
-          "doi": "10.1016/j.pnsla.2014.08.002",
-          "title": "Percepciones juveniles de ciudadanía. El caso de Yucatán"
-        },
-        {
-          "doi": "10.7550/rmb.46308",
-          "title": "First record of Spathoteredo spatha (Mollusca: Teredinidae) in Venezuela"
-        },
-        {
-          "doi": "10.22201/facmed.14058871p.2014.3.47936",
-          "title": "Portada, contraportada y hoja legal"
-        },
-        {
-          "doi": "10.22201/iij.24484873e.2015.142.4926",
-          "title": "Álvarez, Clara Luz, Derecho de las telecomunicaciones"
-        }
-      ]
-    },
-    {
       "id": "funder_name",
       "label": "Funder Name",
       "category": "findable_essential",
@@ -3083,37 +2744,6 @@
       ]
     },
     {
-      "id": "funder_doi",
-      "label": "Funder DOI",
-      "category": "findable_support",
-      "effort": "voluntary",
-      "crossref": 0.0011954022988505746,
-      "openalex": 0.05588361936396629,
-      "gap": 0.054688217065115716,
-      "samples": [
-        {
-          "doi": "10.20937/atm.2015.28.01.02",
-          "title": "Assessment of potential human health and environmental impacts of a nuclear power plant (NPP) based on atmospheric dispersion modeling"
-        },
-        {
-          "doi": "10.1016/s1870-0578(16)30005-1",
-          "title": "The objective international responsibility of states in the Inter-American human rights system"
-        },
-        {
-          "doi": "10.7550/rmb.38023",
-          "title": "Clasificación jerárquica de gremios tróficos para aves y mamíferos de Norteamérica"
-        },
-        {
-          "doi": "10.1016/j.amdi.2014.09.013",
-          "title": "A legalidade da entrada da Venezuela no Mercosul"
-        },
-        {
-          "doi": "10.7550/rmb.40560",
-          "title": "Comunidades de helmintos de Xiphophorus malinche (Pisces: Poeciliidae), especie dulceacuícola endémica del río Pánuco, Hidalgo, México"
-        }
-      ]
-    },
-    {
       "id": "award_number",
       "label": "Award Number",
       "category": "findable_support",
@@ -3211,9 +2841,9 @@
       "label": "Issue",
       "category": "findable_support",
       "effort": "automatic",
-      "crossref": 0.829272030651341,
+      "crossref": 0.8287816091954023,
       "openalex": 0.8302577351294826,
-      "gap": 0.0009857044781416135,
+      "gap": 0.001476125934080308,
       "samples": [
         {
           "doi": "10.22201/iij.24487872e.2015.15.519",
@@ -3232,8 +2862,8 @@
           "title": "El poder, los fantasmas y los cuerpos. Políticas corporales y subjetivación en la transición chilena"
         },
         {
-          "doi": "10.22201/iij.24487880e.2019.40.16183",
-          "title": "De bulas y pontífices. Prolegómenos de la cuestión indiana"
+          "doi": "10.22201/fm.24484865e.2019.0.11",
+          "title": "¿Un déjà vu?"
         }
       ]
     },
@@ -3269,101 +2899,8 @@
       ]
     },
     {
-      "id": "published_print_date",
-      "label": "Published Print Date",
-      "category": "findable_support",
-      "effort": "automatic",
-      "crossref": 0.1189272030651341,
-      "openalex": 1,
-      "gap": 0.881072796934866,
-      "samples": [
-        {
-          "doi": "10.22201/cela.24484946e.2015.35.46965",
-          "title": "Movimientos sociales, élites y cultura política en América Latina"
-        },
-        {
-          "doi": "10.1016/j.pnsla.2014.08.002",
-          "title": "Percepciones juveniles de ciudadanía. El caso de Yucatán"
-        },
-        {
-          "doi": "10.22201/facmed.14058871p.2014.3.47936",
-          "title": "Portada, contraportada y hoja legal"
-        },
-        {
-          "doi": "10.22201/iij.24484873e.2015.142.4926",
-          "title": "Álvarez, Clara Luz, Derecho de las telecomunicaciones"
-        },
-        {
-          "doi": "10.22201/fesc.20072236e.2015.6.10.1",
-          "title": "El Consenso de Washington y la postura poskeynesiana"
-        }
-      ]
-    },
-    {
-      "id": "published_online_date",
-      "label": "Published Online Date",
-      "category": "findable_support",
-      "effort": "automatic",
-      "crossref": 0.910528735632184,
-      "openalex": 1,
-      "gap": 0.08947126436781605,
-      "samples": [
-        {
-          "doi": "10.7550/rmb.46308",
-          "title": "First record of Spathoteredo spatha (Mollusca: Teredinidae) in Venezuela"
-        },
-        {
-          "doi": "10.1016/s0301-7036(15)72118-8",
-          "title": "Reestructuración productiva e integración. tlcan 20 años después"
-        },
-        {
-          "doi": "10.1016/j.rmo.2016.03.007",
-          "title": "Análisis cefalométrico de las características esqueléticas y dentales que presentan pacientes adultos con fisuras labiopalatinas que recibieron tratamiento ortopédico, ortodóncico y/o quirúrgico durante su infancia y adolescencia"
-        },
-        {
-          "doi": "10.1016/s0186-1042(15)72150-9",
-          "title": "Opciones reales: una propuesta para valorar proyectos de I+D en centros públicos de investigación agraria"
-        },
-        {
-          "doi": "10.1016/j.rmo.2016.03.014",
-          "title": "Camouflage orthodontic treatment in an autistic class II patient with anterior open bite: Case report"
-        }
-      ]
-    },
-    {
       "id": "license",
       "label": "License",
-      "category": "accessible_essential",
-      "effort": "automatic",
-      "crossref": 0.4094712643678161,
-      "openalex": 0.7915051977609645,
-      "gap": 0.3820339333931484,
-      "samples": [
-        {
-          "doi": "10.22201/cela.24484946e.2015.35.46965",
-          "title": "Movimientos sociales, élites y cultura política en América Latina"
-        },
-        {
-          "doi": "10.22201/facmed.14058871p.2014.3.47936",
-          "title": "Portada, contraportada y hoja legal"
-        },
-        {
-          "doi": "10.22201/iij.24484873e.2015.142.4926",
-          "title": "Álvarez, Clara Luz, Derecho de las telecomunicaciones"
-        },
-        {
-          "doi": "10.22201/iij.24484873e.2015.142.4931",
-          "title": "Sepúlveda Amor, Bernardo, La Corte Internacional de Justicia y la protección de los derechos del individuo: el caso Avena"
-        },
-        {
-          "doi": "10.22201/ceiich.24485705e.2015.5.47617",
-          "title": "De la evolución al valor de uso, ida y vuelta: exploraciones en la domesticación y diversificación de plantas"
-        }
-      ]
-    },
-    {
-      "id": "license_url",
-      "label": "License URL",
       "category": "accessible_essential",
       "effort": "automatic",
       "crossref": 0.4094712643678161,
@@ -3424,37 +2961,6 @@
       ]
     },
     {
-      "id": "full_text_links",
-      "label": "Full-text Links",
-      "category": "accessible_essential",
-      "effort": "automatic",
-      "crossref": 0.8994022988505748,
-      "openalex": 0.663591068462816,
-      "gap": -0.23581123038775875,
-      "samples": [
-        {
-          "doi": "10.20937/atm.2015.28.01.02",
-          "title": "Assessment of potential human health and environmental impacts of a nuclear power plant (NPP) based on atmospheric dispersion modeling"
-        },
-        {
-          "doi": "10.20937/atm.2015.28.01.03",
-          "title": "Rapid deepening of tropical cyclones in the northeastern Tropical Pacific: The relationship with oceanic eddies"
-        },
-        {
-          "doi": "10.1016/s0187-6236(15)72157-0",
-          "title": "Rapid deepening of tropical cyclones in the northeastern Tropical Pacific: The relationship with oceanic eddies"
-        },
-        {
-          "doi": "10.1016/s0187-6236(15)72159-4",
-          "title": "Improved rainfall estimation over the Indian monsoon region by synergistic use of Kalpana-1 and rain gauge data"
-        },
-        {
-          "doi": "10.20937/atm.2015.28.01.05",
-          "title": "Improved rainfall estimation over the Indian monsoon region by synergistic use of Kalpana-1 and rain gauge data"
-        }
-      ]
-    },
-    {
       "id": "resource_url",
       "label": "Resource URL",
       "category": "accessible_essential",
@@ -3496,99 +3002,6 @@
       ]
     },
     {
-      "id": "references_count",
-      "label": "References Count",
-      "category": "accessible_essential",
-      "effort": "voluntary",
-      "crossref": 0.3810268199233717,
-      "openalex": 0.606569477763425,
-      "gap": 0.22554265784005328,
-      "samples": [
-        {
-          "doi": "10.22201/fesc.20072236e.2015.6.10.1",
-          "title": "El Consenso de Washington y la postura poskeynesiana"
-        },
-        {
-          "doi": "10.20937/atm.2015.28.01.02",
-          "title": "Assessment of potential human health and environmental impacts of a nuclear power plant (NPP) based on atmospheric dispersion modeling"
-        },
-        {
-          "doi": "10.1016/j.rmdc.2016.03.005",
-          "title": "¿CÓMO AFRONTA EL DESAFÍO DE LA SOBRECARGA DE TRABAJO EL TRIBUNAL CONSTITUCIONAL DE ESPAÑA?"
-        },
-        {
-          "doi": "10.22201/iij.24484873e.2015.142.4920",
-          "title": "Las revistas jurídicas venezolanas en tiempos de revolución (2000-2013)"
-        },
-        {
-          "doi": "10.22201/ie.20074484e.2014.4.2.194",
-          "title": "&lt;b&gt; LOS MAMIFEROS DE OAXACA &lt;/b&gt;"
-        }
-      ]
-    },
-    {
-      "id": "is_referenced_by",
-      "label": "Is Referenced By",
-      "category": "accessible_essential",
-      "effort": "automatic",
-      "crossref": 0.3583448275862069,
-      "openalex": 0.4867441717414037,
-      "gap": 0.12839934415519683,
-      "samples": [
-        {
-          "doi": "10.22201/cela.24484946e.2015.35.46965",
-          "title": "Movimientos sociales, élites y cultura política en América Latina"
-        },
-        {
-          "doi": "10.22201/iij.24484873e.2015.142.4931",
-          "title": "Sepúlveda Amor, Bernardo, La Corte Internacional de Justicia y la protección de los derechos del individuo: el caso Avena"
-        },
-        {
-          "doi": "10.22201/iis.01882503p.2015.1.46623",
-          "title": "Norma Blazquez Graf, Fátima Flores Palacios y Maribel Ríos Everardo (coordinadoras). Investigación feminista. Epistemología, metodología y representaciones sociales (México: Universidad Nacional Autónoma de México-Centro de Investigaciones Interdisciplina"
-        },
-        {
-          "doi": "10.20937/rica.43350",
-          "title": "Riesgo ambiental por pesticidas en una cuenca del sur de la provincia de Santa Fe, Argentina"
-        },
-        {
-          "doi": "10.22201/fa.2007252xp.2014.8.47601",
-          "title": "La modernización temprana en Mérida, Yucatán. Una nueva dualidad urbana"
-        }
-      ]
-    },
-    {
-      "id": "author_sequence",
-      "label": "Author Sequence",
-      "category": "accessible_support",
-      "effort": "automatic",
-      "crossref": 0.9951877394636015,
-      "openalex": 0.9986467367903057,
-      "gap": 0.003458997326704183,
-      "samples": [
-        {
-          "doi": "10.21933/j.edsc.2015.06.093",
-          "title": "Transferencias Monetarias Condicionadas en la estructura del ingreso de pueblos mayas de México: Jose Maria Morelos y Saban, Quintana Roo"
-        },
-        {
-          "doi": "10.21933/j.edsc.2015.06.003",
-          "title": "John Riordan y Kristen Becker, (2008). The good office. Green design on the cutting edge. Nueva York: Collins Design"
-        },
-        {
-          "doi": "10.21933/j.edsc.2015.06.102",
-          "title": "Avances, retos y desafíos: aproximación al estado del conocimiento de los estudios de género en educación superior en México"
-        },
-        {
-          "doi": "10.21933/j.edsc.2015.06.094",
-          "title": "La función de las paradojas en la física y el caso de Paul Ehrenfest"
-        },
-        {
-          "doi": "10.1016/j.acso.2015.06.002",
-          "title": "BIBLIOGRAFÍA ESPECIALIZADA SOBRE REFLEXIVIDAD"
-        }
-      ]
-    },
-    {
       "id": "affiliation_ids_ror",
       "label": "Affiliation IDs (ROR)",
       "category": "accessible_support",
@@ -3616,37 +3029,6 @@
         {
           "doi": "10.1016/j.rmo.2016.03.007",
           "title": "Análisis cefalométrico de las características esqueléticas y dentales que presentan pacientes adultos con fisuras labiopalatinas que recibieron tratamiento ortopédico, ortodóncico y/o quirúrgico durante su infancia y adolescencia"
-        }
-      ]
-    },
-    {
-      "id": "relations",
-      "label": "Relations",
-      "category": "accessible_support",
-      "effort": "voluntary",
-      "crossref": 0.00024521072796934864,
-      "openalex": 0.9425785815341083,
-      "gap": 0.942333370806139,
-      "samples": [
-        {
-          "doi": "10.22201/cela.24484946e.2015.35.46965",
-          "title": "Movimientos sociales, élites y cultura política en América Latina"
-        },
-        {
-          "doi": "10.1016/j.pnsla.2014.08.002",
-          "title": "Percepciones juveniles de ciudadanía. El caso de Yucatán"
-        },
-        {
-          "doi": "10.7550/rmb.46308",
-          "title": "First record of Spathoteredo spatha (Mollusca: Teredinidae) in Venezuela"
-        },
-        {
-          "doi": "10.22201/facmed.14058871p.2014.3.47936",
-          "title": "Portada, contraportada y hoja legal"
-        },
-        {
-          "doi": "10.22201/iij.24484873e.2015.142.4926",
-          "title": "Álvarez, Clara Luz, Derecho de las telecomunicaciones"
         }
       ]
     },
@@ -3682,37 +3064,6 @@
       ]
     },
     {
-      "id": "affiliation_ror",
-      "label": "Affiliation with ROR",
-      "category": "evaluation_coara",
-      "effort": "voluntary",
-      "crossref": 0.0017471264367816092,
-      "openalex": 0.7215353386233623,
-      "gap": 0.7197882121865806,
-      "samples": [
-        {
-          "doi": "10.1016/j.pnsla.2014.08.002",
-          "title": "Percepciones juveniles de ciudadanía. El caso de Yucatán"
-        },
-        {
-          "doi": "10.7550/rmb.46308",
-          "title": "First record of Spathoteredo spatha (Mollusca: Teredinidae) in Venezuela"
-        },
-        {
-          "doi": "10.1016/s0301-7036(15)72118-8",
-          "title": "Reestructuración productiva e integración. tlcan 20 años después"
-        },
-        {
-          "doi": "10.22201/fesc.20072236e.2015.6.10.1",
-          "title": "El Consenso de Washington y la postura poskeynesiana"
-        },
-        {
-          "doi": "10.1016/j.rmo.2016.03.007",
-          "title": "Análisis cefalométrico de las características esqueléticas y dentales que presentan pacientes adultos con fisuras labiopalatinas que recibieron tratamiento ortopédico, ortodóncico y/o quirúrgico durante su infancia y adolescencia"
-        }
-      ]
-    },
-    {
       "id": "funding_complete",
       "label": "Complete Funding Info",
       "category": "evaluation_coara",
@@ -3740,37 +3091,6 @@
         {
           "doi": "10.1016/s1870-0578(16)30004-x",
           "title": "The best interests of the minor as a principle of interpretation in Mexican civil law"
-        }
-      ]
-    },
-    {
-      "id": "preprint_version_link",
-      "label": "Preprint / Version Link",
-      "category": "evaluation_coara",
-      "effort": "voluntary",
-      "crossref": 0.0001532567049808429,
-      "openalex": 0.4088392692378668,
-      "gap": 0.40868601253288594,
-      "samples": [
-        {
-          "doi": "10.7550/rmb.46308",
-          "title": "First record of Spathoteredo spatha (Mollusca: Teredinidae) in Venezuela"
-        },
-        {
-          "doi": "10.22201/iij.24484873e.2015.142.4926",
-          "title": "Álvarez, Clara Luz, Derecho de las telecomunicaciones"
-        },
-        {
-          "doi": "10.22201/iij.24484873e.2015.142.4931",
-          "title": "Sepúlveda Amor, Bernardo, La Corte Internacional de Justicia y la protección de los derechos del individuo: el caso Avena"
-        },
-        {
-          "doi": "10.22201/ceiich.24485691e.2014.13.46602",
-          "title": "Contenido"
-        },
-        {
-          "doi": "10.1016/s0186-1042(15)72150-9",
-          "title": "Opciones reales: una propuesta para valorar proyectos de I+D en centros públicos de investigación agraria"
         }
       ]
     },

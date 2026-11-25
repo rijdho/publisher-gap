@@ -131,75 +131,75 @@
   "comparable": {
     "crossref": {
       "categories": {
-        "findable_essential": 0.6490984848484849,
-        "findable_support": 0.35740113636363635,
-        "accessible_essential": 0.8433210227272727,
-        "accessible_support": 0.34002651515151516,
-        "evaluation_coara": 0.3829136363636364
+        "findable_essential": 0.708107438016529,
+        "findable_support": 0.31932954545454545,
+        "accessible_essential": 0.8425596590909091,
+        "accessible_support": 0,
+        "evaluation_coara": 0.6347386363636364
       },
-      "overall": 0.5697553503787879
+      "overall": 0.597919305268595
     },
     "openalex": {
       "categories": {
-        "findable_essential": 0.9659672349310512,
-        "findable_support": 0.727728701557947,
-        "accessible_essential": 0.9485579239611776,
-        "accessible_support": 0.9784204850515108,
-        "evaluation_coara": 0.8817910653236354
+        "findable_essential": 0.9628733471975104,
+        "findable_support": 0.662253631002914,
+        "accessible_essential": 0.9801900970561916,
+        "accessible_support": 0.9655370213156506,
+        "evaluation_coara": 0.827964267413135
       },
-      "overall": 0.91028921827318
+      "overall": 0.8953941286879301
     },
-    "gap": 0.3405338678943921,
-    "fieldCount": 38,
+    "gap": 0.29747482341933507,
+    "fieldCount": 26,
     "totalFieldCount": 48
   },
   "voluntary": {
     "crossref": {
       "categories": {
-        "findable_essential": 0.19420454545454546,
-        "findable_support": 0.13224431818181817,
-        "accessible_essential": 0.8577651515151515,
-        "accessible_support": 0.01084090909090909,
-        "evaluation_coara": 0.06859469696969697
+        "findable_essential": 0.25893939393939397,
+        "findable_support": 0.06801136363636363,
+        "accessible_essential": 0.8223579545454546,
+        "accessible_support": 0,
+        "evaluation_coara": 0.19543181818181818
       },
-      "overall": 0.3073423295454546
+      "overall": 0.332559375
     },
     "openalex": {
       "categories": {
-        "findable_essential": 0.8982286671408577,
-        "findable_support": 0.607731225477824,
-        "accessible_essential": 0.9594146035533733,
-        "accessible_support": 0.9682215542757497,
-        "evaluation_coara": 0.8048895211435653
+        "findable_essential": 0.8643048895211436,
+        "findable_support": 0.5964711011174082,
+        "accessible_essential": 0.966443337998761,
+        "accessible_support": 0.9655370213156506,
+        "evaluation_coara": 0.4896060390519239
       },
-      "overall": 0.8582819945085624
+      "overall": 0.7848478764655944
     },
-    "gap": 0.5509396649631078,
-    "fieldCount": 16
+    "gap": 0.4522885014655944,
+    "fieldCount": 10
   },
   "automatic": {
     "crossref": {
       "categories": {
         "findable_essential": 0.8765454545454546,
-        "findable_support": 0.5075056818181819,
-        "accessible_essential": 0.8346545454545454,
-        "accessible_support": 0.9983977272727272,
+        "findable_support": 0.5078181818181818,
+        "accessible_essential": 0.8627613636363636,
+        "accessible_support": 0,
         "evaluation_coara": 0.8543920454545455
       },
-      "overall": 0.8184713068181819
+      "overall": 0.7257051136363637
     },
     "openalex": {
       "categories": {
         "findable_essential": 0.9998365188261478,
-        "findable_support": 0.8077270189446956,
-        "accessible_essential": 0.9420439162058599,
-        "accessible_support": 0.9988183466030333,
+        "findable_support": 0.7115905284170434,
+        "accessible_essential": 0.9939368561136223,
+        "accessible_support": 0,
         "evaluation_coara": 0.9971433815937407
       },
-      "overall": 0.9559314985200651
+      "overall": 0.8546024252575546
     },
-    "gap": 0.13746019170188317,
-    "fieldCount": 22
+    "gap": 0.1288973116211909,
+    "fieldCount": 16
   },
   "yearlyScores": [
     {
@@ -330,29 +330,29 @@
       "comparable": {
         "crossref": {
           "categories": {
-            "findable_essential": 0.6038333333333333,
-            "findable_support": 0.3403125,
-            "accessible_essential": 0.44046875,
-            "accessible_support": 0.33525,
-            "evaluation_coara": 0.22475
+            "findable_essential": 0.6587272727272727,
+            "findable_support": 0.3167321428571429,
+            "accessible_essential": 0.44915625,
+            "accessible_support": 0,
+            "evaluation_coara": 0.37395833333333334
           },
-          "overall": 0.4207890625
+          "overall": 0.43220873241341995
         },
         "openalex": {
           "categories": {
-            "findable_essential": 0.9591888147121804,
-            "findable_support": 0.7202544401058067,
-            "accessible_essential": 0.9353035646806903,
-            "accessible_support": 0.9744720157870429,
-            "evaluation_coara": 0.8548935634210858
+            "findable_essential": 0.9554787069587423,
+            "findable_support": 0.6578194446943659,
+            "accessible_essential": 0.9587479531427132,
+            "accessible_support": 0.9278246630558005,
+            "evaluation_coara": 0.8107234328420877
           },
-          "overall": 0.8980466158626191
+          "overall": 0.8799306699514535
         },
-        "gap": 0.47725755336261916
+        "gap": 0.4477219375380336
       },
       "voluntary": {
-        "crossref": 0.16212864583333333,
-        "openalex": 0.8300336944199521
+        "crossref": 0.14794375,
+        "openalex": 0.7535741277238948
       }
     },
     {
@@ -483,29 +483,29 @@
       "comparable": {
         "crossref": {
           "categories": {
-            "findable_essential": 0.6260208333333334,
-            "findable_support": 0.3883875,
-            "accessible_essential": 0.484296875,
-            "accessible_support": 0.3365,
-            "evaluation_coara": 0.269875
+            "findable_essential": 0.6829318181818181,
+            "findable_support": 0.3465357142857143,
+            "accessible_essential": 0.46981249999999997,
+            "accessible_support": 0,
+            "evaluation_coara": 0.44891666666666663
           },
-          "overall": 0.45476359375000003
+          "overall": 0.46409636093073586
         },
         "openalex": {
           "categories": {
-            "findable_essential": 0.9564801982277099,
-            "findable_support": 0.7220864306413002,
-            "accessible_essential": 0.9119629582965856,
-            "accessible_support": 0.9523749527529293,
-            "evaluation_coara": 0.8406702784427365
+            "findable_essential": 0.9525238526120472,
+            "findable_support": 0.6557353444086466,
+            "accessible_essential": 0.9466738062240141,
+            "accessible_support": 0.8617865692327076,
+            "evaluation_coara": 0.833144345050607
           },
-          "overall": 0.8866193146024947
+          "overall": 0.8735934349343069
         },
-        "gap": 0.43185572085249463
+        "gap": 0.409497074003571
       },
       "voluntary": {
-        "crossref": 0.22979583333333334,
-        "openalex": 0.8143321364075427
+        "crossref": 0.24094062500000002,
+        "openalex": 0.7533104447524254
       }
     },
     {
@@ -636,29 +636,29 @@
       "comparable": {
         "crossref": {
           "categories": {
-            "findable_essential": 0.6285416666666666,
-            "findable_support": 0.39773749999999997,
-            "accessible_essential": 0.619015625,
-            "accessible_support": 0.33804166666666663,
-            "evaluation_coara": 0.285275
+            "findable_essential": 0.6856818181818181,
+            "findable_support": 0.3537321428571429,
+            "accessible_essential": 0.505875,
+            "accessible_support": 0,
+            "evaluation_coara": 0.4739166666666666
           },
-          "overall": 0.4938361979166666
+          "overall": 0.4800164502164501
         },
         "openalex": {
           "categories": {
-            "findable_essential": 0.9732642836091112,
-            "findable_support": 0.7565113047871669,
-            "accessible_essential": 0.9705222937981558,
-            "accessible_support": 0.9904846111742662,
-            "evaluation_coara": 0.9010231148162182
+            "findable_essential": 0.9708337639372122,
+            "findable_support": 0.6930294664284812,
+            "accessible_essential": 0.9782430213464697,
+            "accessible_support": 0.9760010104837691,
+            "evaluation_coara": 0.8593322386425836
           },
-          "overall": 0.9273396383310176
+          "overall": 0.909231853258947
         },
-        "gap": 0.433503440414351
+        "gap": 0.42921540304249683
       },
       "voluntary": {
-        "crossref": 0.26017812500000004,
-        "openalex": 0.8834117510841649
+        "crossref": 0.274434375,
+        "openalex": 0.8222780093469749
       }
     },
     {
@@ -789,29 +789,29 @@
       "comparable": {
         "crossref": {
           "categories": {
-            "findable_essential": 0.6235937500000001,
-            "findable_support": 0.38652500000000006,
-            "accessible_essential": 0.937921875,
-            "accessible_support": 0.342625,
-            "evaluation_coara": 0.453325
+            "findable_essential": 0.6802840909090909,
+            "findable_support": 0.3444464285714286,
+            "accessible_essential": 0.93646875,
+            "accessible_support": 0,
+            "evaluation_coara": 0.7520416666666666
           },
-          "overall": 0.60446484375
+          "overall": 0.6402777123917749
         },
         "openalex": {
           "categories": {
-            "findable_essential": 0.9721835296104006,
-            "findable_support": 0.7538052424971509,
-            "accessible_essential": 0.9422723819171838,
-            "accessible_support": 0.9852686674264488,
-            "evaluation_coara": 0.8978852728884386
+            "findable_essential": 0.9696547595749824,
+            "findable_support": 0.6889053709365219,
+            "accessible_essential": 0.9796758262631379,
+            "accessible_support": 0.9569456755730024,
+            "evaluation_coara": 0.8614241695158499
           },
-          "overall": 0.9183978620573213
+          "overall": 0.9071305915392276
         },
-        "gap": 0.31393301830732134
+        "gap": 0.2668528791474527
       },
       "voluntary": {
-        "crossref": 0.3234072916666667,
-        "openalex": 0.8784770587987
+        "crossref": 0.3679875,
+        "openalex": 0.8186083322780803
       }
     },
     {
@@ -942,29 +942,29 @@
       "comparable": {
         "crossref": {
           "categories": {
-            "findable_essential": 0.6201145833333334,
-            "findable_support": 0.36351249999999996,
-            "accessible_essential": 0.9616562500000001,
-            "accessible_support": 0.3446666666666667,
-            "evaluation_coara": 0.4285
+            "findable_essential": 0.6764886363636363,
+            "findable_support": 0.3176071428571428,
+            "accessible_essential": 0.9656562500000001,
+            "accessible_support": 0,
+            "evaluation_coara": 0.707125
           },
-          "overall": 0.6011419791666667
+          "overall": 0.6334267248376624
         },
         "openalex": {
           "categories": {
-            "findable_essential": 0.9731965725380946,
-            "findable_support": 0.7501329618842598,
-            "accessible_essential": 0.9436494871470177,
-            "accessible_support": 0.9875480140137604,
-            "evaluation_coara": 0.8938584272508547
+            "findable_essential": 0.9707598973142851,
+            "findable_support": 0.6830803741022812,
+            "accessible_essential": 0.9800240597695328,
+            "accessible_support": 0.9647967582626313,
+            "evaluation_coara": 0.8496897556033937
           },
-          "overall": 0.9179177746823688
+          "overall": 0.9051136671989528
         },
-        "gap": 0.3167757955157021
+        "gap": 0.27168694236129043
       },
       "voluntary": {
-        "crossref": 0.3053177083333333,
-        "openalex": 0.878391055675151
+        "crossref": 0.32379375,
+        "openalex": 0.8130967455995948
       }
     },
     {
@@ -1095,29 +1095,29 @@
       "comparable": {
         "crossref": {
           "categories": {
-            "findable_essential": 0.6317083333333334,
-            "findable_support": 0.36498749999999996,
-            "accessible_essential": 0.9872812499999999,
-            "accessible_support": 0.3446666666666667,
-            "evaluation_coara": 0.43390000000000006
+            "findable_essential": 0.6891363636363637,
+            "findable_support": 0.31630357142857146,
+            "accessible_essential": 0.98890625,
+            "accessible_support": 0,
+            "evaluation_coara": 0.7161249999999999
           },
-          "overall": 0.6123276041666668
+          "overall": 0.6446380073051947
         },
         "openalex": {
           "categories": {
-            "findable_essential": 0.9757187010457683,
-            "findable_support": 0.7515813539946653,
-            "accessible_essential": 0.9547504128032516,
-            "accessible_support": 0.9966552351920065,
-            "evaluation_coara": 0.9061348914009908
+            "findable_essential": 0.9735113102317473,
+            "findable_support": 0.6844912993776198,
+            "accessible_essential": 0.9879969516067573,
+            "accessible_support": 0.9923790168931792,
+            "evaluation_coara": 0.8510097802616539
           },
-          "overall": 0.9250329184131421
+          "overall": 0.9111661836195052
         },
-        "gap": 0.3127053142464753
+        "gap": 0.26652817631431047
       },
       "voluntary": {
-        "crossref": 0.3238223958333333,
-        "openalex": 0.8910426986747957
+        "crossref": 0.34424062499999997,
+        "openalex": 0.8233551378127778
       }
     },
     {
@@ -1248,29 +1248,29 @@
       "comparable": {
         "crossref": {
           "categories": {
-            "findable_essential": 0.6939687500000001,
-            "findable_support": 0.35665,
-            "accessible_essential": 0.9891249999999999,
-            "accessible_support": 0.34450000000000003,
-            "evaluation_coara": 0.43445
+            "findable_essential": 0.7570568181818182,
+            "findable_support": 0.3116785714285714,
+            "accessible_essential": 0.99275,
+            "accessible_support": 0,
+            "evaluation_coara": 0.7165416666666667
           },
-          "overall": 0.6303093750000001
+          "overall": 0.6653646645021646
         },
         "openalex": {
           "categories": {
-            "findable_essential": 0.9752129147070039,
-            "findable_support": 0.7445404855726453,
-            "accessible_essential": 0.9581956273039278,
-            "accessible_support": 0.9971187661539765,
-            "evaluation_coara": 0.9090885979407652
+            "findable_essential": 0.9729595433167315,
+            "findable_support": 0.6753164212170187,
+            "accessible_essential": 0.9922143129528409,
+            "accessible_support": 0.993008770814796,
+            "evaluation_coara": 0.8534384136265413
           },
-          "overall": 0.9253234502775306
+          "overall": 0.9112274642225704
         },
-        "gap": 0.29501407527753054
+        "gap": 0.2458627997204058
       },
       "voluntary": {
-        "crossref": 0.37932343749999997,
-        "openalex": 0.891092008813186
+        "crossref": 0.41938749999999997,
+        "openalex": 0.8235667980170333
       }
     },
     {
@@ -1401,29 +1401,29 @@
       "comparable": {
         "crossref": {
           "categories": {
-            "findable_essential": 0.6914583333333334,
-            "findable_support": 0.3541125,
-            "accessible_essential": 0.983640625,
-            "accessible_support": 0.3405833333333333,
-            "evaluation_coara": 0.433125
+            "findable_essential": 0.7543181818181819,
+            "findable_support": 0.3101428571428571,
+            "accessible_essential": 0.99175,
+            "accessible_support": 0,
+            "evaluation_coara": 0.7180833333333334
           },
-          "overall": 0.6271478645833333
+          "overall": 0.6643710497835499
         },
         "openalex": {
           "categories": {
-            "findable_essential": 0.9715380405035577,
-            "findable_support": 0.7324617910824808,
-            "accessible_essential": 0.9536914235190098,
-            "accessible_support": 0.9959159614332028,
-            "evaluation_coara": 0.8997094859163823
+            "findable_essential": 0.9689505896402448,
+            "findable_support": 0.6628232194734658,
+            "accessible_essential": 0.9916950865226727,
+            "accessible_support": 0.9895162308955412,
+            "evaluation_coara": 0.8399225295777021
           },
-          "overall": 0.9192870300197886
+          "overall": 0.9049685604488562
         },
-        "gap": 0.29213916543645535
+        "gap": 0.24059751066530632
       },
       "voluntary": {
-        "crossref": 0.3747114583333333,
-        "openalex": 0.8794950738916256
+        "crossref": 0.41625937499999993,
+        "openalex": 0.8062713148920044
       }
     },
     {
@@ -1554,29 +1554,29 @@
       "comparable": {
         "crossref": {
           "categories": {
-            "findable_essential": 0.6771041666666666,
-            "findable_support": 0.3354749999999999,
-            "accessible_essential": 0.974109375,
-            "accessible_support": 0.33875000000000005,
-            "evaluation_coara": 0.4215
+            "findable_essential": 0.7386590909090909,
+            "findable_support": 0.3031071428571428,
+            "accessible_essential": 0.98778125,
+            "accessible_support": 0,
+            "evaluation_coara": 0.7002499999999999
           },
-          "overall": 0.6151548437500001
+          "overall": 0.6540591112012987
         },
         "openalex": {
           "categories": {
-            "findable_essential": 0.9659547738693468,
-            "findable_support": 0.7170728643216081,
-            "accessible_essential": 0.9758479899497488,
-            "accessible_support": 0.996859296482412,
-            "evaluation_coara": 0.8868844221105527
+            "findable_essential": 0.9628597533120147,
+            "findable_support": 0.6494436468054559,
+            "accessible_essential": 0.9873743718592964,
+            "accessible_support": 0.9905778894472361,
+            "evaluation_coara": 0.8179648241206031
           },
-          "overall": 0.9183721733668342
+          "overall": 0.8957688197480911
         },
-        "gap": 0.3032173296168341
+        "gap": 0.2417097085467924
       },
       "voluntary": {
-        "crossref": 0.348125,
-        "openalex": 0.8621252093802345
+        "crossref": 0.384634375,
+        "openalex": 0.7800345477386934
       }
     },
     {
@@ -1707,29 +1707,29 @@
       "comparable": {
         "crossref": {
           "categories": {
-            "findable_essential": 0.6712291666666667,
-            "findable_support": 0.32282500000000003,
-            "accessible_essential": 0.9697968749999999,
-            "accessible_support": 0.3388333333333333,
-            "evaluation_coara": 0.41509999999999997
+            "findable_essential": 0.7322500000000001,
+            "findable_support": 0.29682142857142857,
+            "accessible_essential": 0.98946875,
+            "accessible_support": 0,
+            "evaluation_coara": 0.6893333333333334
           },
-          "overall": 0.6091450520833332
+          "overall": 0.649432068452381
         },
         "openalex": {
           "categories": {
-            "findable_essential": 0.9566879779365677,
-            "findable_support": 0.6887677071580794,
-            "accessible_essential": 0.9664660900087753,
-            "accessible_support": 0.9945259287117129,
-            "evaluation_coara": 0.865989720446283
+            "findable_essential": 0.9527505213853465,
+            "findable_support": 0.6239187664535539,
+            "accessible_essential": 0.9892816848439263,
+            "accessible_support": 0.9838285069575028,
+            "evaluation_coara": 0.7846308135890686
           },
-          "overall": 0.9045886089173039
+          "overall": 0.8820424060081826
         },
-        "gap": 0.2954435568339706
+        "gap": 0.23261033755580163
       },
       "voluntary": {
-        "crossref": 0.337153125,
-        "openalex": 0.8368470811917595
+        "crossref": 0.369646875,
+        "openalex": 0.740435000626802
       }
     },
     {
@@ -1860,29 +1860,29 @@
       "comparable": {
         "crossref": {
           "categories": {
-            "findable_essential": 0.6725104166666668,
-            "findable_support": 0.3208875,
-            "accessible_essential": 0.9292187500000001,
-            "accessible_support": 0.335875,
-            "evaluation_coara": 0.41224999999999995
+            "findable_essential": 0.7336477272727273,
+            "findable_support": 0.2955178571428571,
+            "accessible_essential": 0.99053125,
+            "accessible_support": 0,
+            "evaluation_coara": 0.6858333333333334
           },
-          "overall": 0.5982284375000001
+          "overall": 0.6492214759199134
         },
         "openalex": {
           "categories": {
-            "findable_essential": 0.9466395324566896,
-            "findable_support": 0.6690544771446463,
-            "accessible_essential": 0.9216186599874765,
-            "accessible_support": 0.892256313921937,
-            "evaluation_coara": 0.8445335003130872
+            "findable_essential": 0.9417885808618432,
+            "findable_support": 0.61137847750246,
+            "accessible_essential": 0.9902316844082655,
+            "accessible_support": 0.9844708829054477,
+            "evaluation_coara": 0.7478605719056564
           },
-          "overall": 0.8728870277603842
+          "overall": 0.8698204696576644
         },
-        "gap": 0.2746585902603841
+        "gap": 0.22059899373775094
       },
       "voluntary": {
-        "crossref": 0.33680260416666663,
-        "openalex": 0.7972010018785223
+        "crossref": 0.368884375,
+        "openalex": 0.7006637445209769
       }
     }
   ],
@@ -1958,28 +1958,6 @@
     "publication_date": [],
     "publisher": [],
     "resource_type": [],
-    "subject_keywords": [
-      {
-        "doi": "10.3389/fnbeh.2015.00001",
-        "title": "Shining light on motivation, emotion, and memory processes"
-      },
-      {
-        "doi": "10.3389/conf.fninf.2015.19.00018",
-        "title": "DMN function, attention shifting and attention holding compared across humans and monkeys"
-      },
-      {
-        "doi": "10.3389/fnint.2015.00024",
-        "title": "Perception of biological motion from size-invariant body representations"
-      },
-      {
-        "doi": "10.3389/conf.fnhum.2015.219.00051",
-        "title": "The Psychophysiology of Sport and Exercise"
-      },
-      {
-        "doi": "10.3389/fnhum.2015.00128",
-        "title": "Objective and personalized longitudinal assessment of a pregnant patient with post severe brain trauma"
-      }
-    ],
     "funder_name": [
       {
         "doi": "10.3389/fict.2015.00017",
@@ -2067,28 +2045,6 @@
       {
         "doi": "10.3389/conf.fmars.2015.03.00192",
         "title": "Phylogeny of Gobioidei and the origin of European gobies"
-      }
-    ],
-    "funder_doi": [
-      {
-        "doi": "10.3389/fict.2015.00017",
-        "title": "EyeFrame: real-time memory aid improves human multitasking via domain-general eye tracking procedures"
-      },
-      {
-        "doi": "10.3389/fenrg.2015.00011",
-        "title": "Thermal-Hydraulic Analysis of SWAMUP Facility Using ATHLET-SC Code"
-      },
-      {
-        "doi": "10.1111/tri.12558",
-        "title": "Is it time to revisit contraindications to organ donation from donors with a JAK-2 mutation? Safe use of a liver allograft from a donor with essential thrombocythaemia"
-      },
-      {
-        "doi": "10.3389/fpsyg.2014.01495",
-        "title": "Assessing factorial invariance of two-way rating designs using three-way methods"
-      },
-      {
-        "doi": "10.3389/fpsyg.2015.00352",
-        "title": "Commentary on: â€œNumber-space mapping in the newborn chick resembles humans' mental number lineâ€"
       }
     ],
     "award_number": [
@@ -2180,73 +2136,7 @@
         "title": "Carboplatin-Pemetrexed in Treatment of Patients with Recurrent/Metastatic Cancers of the Head and Neck; Superior Outcomes in Oropharyngeal Primaries"
       }
     ],
-    "published_print_date": [
-      {
-        "doi": "10.3389/fnbeh.2015.00001",
-        "title": "Shining light on motivation, emotion, and memory processes"
-      },
-      {
-        "doi": "10.3389/conf.fninf.2015.19.00018",
-        "title": "DMN function, attention shifting and attention holding compared across humans and monkeys"
-      },
-      {
-        "doi": "10.3389/fnint.2015.00024",
-        "title": "Perception of biological motion from size-invariant body representations"
-      },
-      {
-        "doi": "10.3389/conf.fnhum.2015.219.00051",
-        "title": "The Psychophysiology of Sport and Exercise"
-      },
-      {
-        "doi": "10.3389/fnhum.2015.00128",
-        "title": "Objective and personalized longitudinal assessment of a pregnant patient with post severe brain trauma"
-      }
-    ],
-    "published_online_date": [
-      {
-        "doi": "10.4149/av_2015_04_434",
-        "title": "The prevalence of human papillomavirus in patients with oral lichen planus and normal oral mucosa"
-      },
-      {
-        "doi": "10.4149/av_2015_01_3",
-        "title": "Next generation sequencing technologies: Tool to study avian virus diversity"
-      },
-      {
-        "doi": "10.4149/av_2015_01_27",
-        "title": "Molecular epidemiology of avian influenza virus and incidence of H5 and H9 virus subtypes among poultry in Egypt in 2009–2011"
-      },
-      {
-        "doi": "10.4149/av_2015_03_284",
-        "title": "Molecular characterization and fluorescence analysis of HCV non-structural proteins NS3, NS3-4A and NS4A of genotype 3a"
-      },
-      {
-        "doi": "10.4149/av_2015_01_98",
-        "title": "Comparison of bronchiolitis of human metapneumovirus and human respiratory syncytial virus"
-      }
-    ],
     "license": [
-      {
-        "doi": "10.3389/fnbeh.2015.00001",
-        "title": "Shining light on motivation, emotion, and memory processes"
-      },
-      {
-        "doi": "10.3389/conf.fninf.2015.19.00018",
-        "title": "DMN function, attention shifting and attention holding compared across humans and monkeys"
-      },
-      {
-        "doi": "10.3389/fnint.2015.00024",
-        "title": "Perception of biological motion from size-invariant body representations"
-      },
-      {
-        "doi": "10.3389/conf.fnhum.2015.219.00051",
-        "title": "The Psychophysiology of Sport and Exercise"
-      },
-      {
-        "doi": "10.3389/fnhum.2015.00128",
-        "title": "Objective and personalized longitudinal assessment of a pregnant patient with post severe brain trauma"
-      }
-    ],
-    "license_url": [
       {
         "doi": "10.3389/fnbeh.2015.00001",
         "title": "Shining light on motivation, emotion, and memory processes"
@@ -2290,28 +2180,6 @@
         "title": "Objective and personalized longitudinal assessment of a pregnant patient with post severe brain trauma"
       }
     ],
-    "full_text_links": [
-      {
-        "doi": "10.3389/fnbeh.2015.00001",
-        "title": "Shining light on motivation, emotion, and memory processes"
-      },
-      {
-        "doi": "10.3389/fnint.2015.00024",
-        "title": "Perception of biological motion from size-invariant body representations"
-      },
-      {
-        "doi": "10.3389/fnhum.2015.00128",
-        "title": "Objective and personalized longitudinal assessment of a pregnant patient with post severe brain trauma"
-      },
-      {
-        "doi": "10.3389/fict.2015.00017",
-        "title": "EyeFrame: real-time memory aid improves human multitasking via domain-general eye tracking procedures"
-      },
-      {
-        "doi": "10.3389/fenrg.2015.00011",
-        "title": "Thermal-Hydraulic Analysis of SWAMUP Facility Using ATHLET-SC Code"
-      }
-    ],
     "resource_url": [],
     "references": [
       {
@@ -2333,72 +2201,6 @@
       {
         "doi": "10.4149/av_2015_01_3",
         "title": "Next generation sequencing technologies: Tool to study avian virus diversity"
-      }
-    ],
-    "references_count": [
-      {
-        "doi": "10.3389/fict.2015.00017",
-        "title": "EyeFrame: real-time memory aid improves human multitasking via domain-general eye tracking procedures"
-      },
-      {
-        "doi": "10.4149/av_2015_04_434",
-        "title": "The prevalence of human papillomavirus in patients with oral lichen planus and normal oral mucosa"
-      },
-      {
-        "doi": "10.3389/fmicb.2015.00853",
-        "title": "The diversity of PAH-degrading bacteria in a deep-sea water column above the Southwest Indian Ridge"
-      },
-      {
-        "doi": "10.4081/oncol.2015.261",
-        "title": "Rare cytogenetic abnormalities and alteration of microRNAs in acute myeloid leukemia and response to therapy"
-      },
-      {
-        "doi": "10.4149/av_2015_01_3",
-        "title": "Next generation sequencing technologies: Tool to study avian virus diversity"
-      }
-    ],
-    "is_referenced_by": [
-      {
-        "doi": "10.1111/tri.12558",
-        "title": "Is it time to revisit contraindications to organ donation from donors with a JAK-2 mutation? Safe use of a liver allograft from a donor with essential thrombocythaemia"
-      },
-      {
-        "doi": "10.3389/conf.fncom.2015.56.00003",
-        "title": "Orthogonal Connectivity Factorization: Interpretable Decomposition of Variability in Correlation Matrices"
-      },
-      {
-        "doi": "10.3389/conf.fnhum.2015.217.00012",
-        "title": "Oscillatory activity in the auditory cortex determines auditory temporal resolution"
-      },
-      {
-        "doi": "10.3389/conf.fmars.2015.03.00084",
-        "title": "Comparative population genetic structure and demographic patterns of two killifish species (Aphanius baeticus and Aphanius iberus) at the Iberian Peninsula"
-      },
-      {
-        "doi": "10.3389/conf.fimmu.2015.05.00066",
-        "title": "OUABAIN IMPROVES THE RESPONSE TO MELANOMA (B16) IN MICE BY MODULATING B AND T LYMPHOCYTES"
-      }
-    ],
-    "author_sequence": [
-      {
-        "doi": "10.1111/tri.12494",
-        "title": "Author index"
-      },
-      {
-        "doi": "10.1111/tri.12493",
-        "title": "Oral communications"
-      },
-      {
-        "doi": "10.3389/fpsyg.2015.00010",
-        "title": "Erratum on: The other-race and other-species effects in face perceptionâ€”a subordinate-level analysis"
-      },
-      {
-        "doi": "10.3389/fpsyg.2015.00437",
-        "title": "Erratum on: Emotionality differences between a native and foreign language: theoretical implications"
-      },
-      {
-        "doi": "10.3389/fnhum.2015.00226",
-        "title": "Erratum on: Habit and embodiment in Merleau-Ponty"
       }
     ],
     "affiliation_ids_ror": [
@@ -2423,28 +2225,6 @@
         "title": "EyeFrame: real-time memory aid improves human multitasking via domain-general eye tracking procedures"
       }
     ],
-    "relations": [
-      {
-        "doi": "10.3389/fnbeh.2015.00001",
-        "title": "Shining light on motivation, emotion, and memory processes"
-      },
-      {
-        "doi": "10.3389/conf.fninf.2015.19.00018",
-        "title": "DMN function, attention shifting and attention holding compared across humans and monkeys"
-      },
-      {
-        "doi": "10.3389/fnint.2015.00024",
-        "title": "Perception of biological motion from size-invariant body representations"
-      },
-      {
-        "doi": "10.3389/conf.fnhum.2015.219.00051",
-        "title": "The Psychophysiology of Sport and Exercise"
-      },
-      {
-        "doi": "10.3389/fnhum.2015.00128",
-        "title": "Objective and personalized longitudinal assessment of a pregnant patient with post severe brain trauma"
-      }
-    ],
     "author_given_family": [
       {
         "doi": "10.3389/fonc.2015.00064",
@@ -2467,28 +2247,6 @@
         "title": "Erratum on: The other-race and other-species effects in face perceptionâ€”a subordinate-level analysis"
       }
     ],
-    "affiliation_ror": [
-      {
-        "doi": "10.3389/fnbeh.2015.00001",
-        "title": "Shining light on motivation, emotion, and memory processes"
-      },
-      {
-        "doi": "10.3389/fnint.2015.00024",
-        "title": "Perception of biological motion from size-invariant body representations"
-      },
-      {
-        "doi": "10.3389/fnhum.2015.00128",
-        "title": "Objective and personalized longitudinal assessment of a pregnant patient with post severe brain trauma"
-      },
-      {
-        "doi": "10.3389/conf.fmars.2015.03.00142",
-        "title": "Fish otolith biomineralization process: first investigations about organic matrix and growth of Triglidae (Scorpaeniformes) otoliths"
-      },
-      {
-        "doi": "10.3389/fict.2015.00017",
-        "title": "EyeFrame: real-time memory aid improves human multitasking via domain-general eye tracking procedures"
-      }
-    ],
     "funding_complete": [
       {
         "doi": "10.3389/fict.2015.00017",
@@ -2509,28 +2267,6 @@
       {
         "doi": "10.3389/fncom.2015.00035",
         "title": "Competition improves robustness against loss of information"
-      }
-    ],
-    "preprint_version_link": [
-      {
-        "doi": "10.3389/fnbeh.2015.00001",
-        "title": "Shining light on motivation, emotion, and memory processes"
-      },
-      {
-        "doi": "10.3389/fnint.2015.00024",
-        "title": "Perception of biological motion from size-invariant body representations"
-      },
-      {
-        "doi": "10.3389/fnhum.2015.00128",
-        "title": "Objective and personalized longitudinal assessment of a pregnant patient with post severe brain trauma"
-      },
-      {
-        "doi": "10.3389/conf.fmars.2015.03.00142",
-        "title": "Fish otolith biomineralization process: first investigations about organic matrix and growth of Triglidae (Scorpaeniformes) otoliths"
-      },
-      {
-        "doi": "10.3389/conf.fmars.2015.03.00116",
-        "title": "Excrement examination with blood detection tests as a novel method to study the postmetamorphic feeding in lampreys"
       }
     ],
     "open_access_status": [
@@ -2561,25 +2297,18 @@
       "doi": "10.3389/fnbeh.2015.00001",
       "title": "Shining light on motivation, emotion, and memory processes",
       "year": 2015,
-      "crossrefScore": 0.42105263157894735,
-      "openalexScore": 0.8421052631578947,
-      "gap": 16,
+      "crossrefScore": 0.46153846153846156,
+      "openalexScore": 0.8076923076923077,
+      "gap": 9,
       "openalexAdds": [
         "abstract",
         "author_affiliation",
-        "subject_keywords",
         "language",
         "author_orcid",
         "page",
-        "published_print_date",
         "license",
-        "license_url",
         "open_access_license",
-        "full_text_links",
         "affiliation_ids_ror",
-        "relations",
-        "affiliation_ror",
-        "preprint_version_link",
         "open_access_status"
       ]
     },
@@ -2587,19 +2316,15 @@
       "doi": "10.3389/conf.fninf.2015.19.00018",
       "title": "DMN function, attention shifting and attention holding compared across humans and monkeys",
       "year": 2015,
-      "crossrefScore": 0.34210526315789475,
-      "openalexScore": 0.6052631578947368,
-      "gap": 10,
+      "crossrefScore": 0.4230769230769231,
+      "openalexScore": 0.6538461538461539,
+      "gap": 6,
       "openalexAdds": [
         "abstract",
-        "subject_keywords",
         "language",
         "author_orcid",
-        "published_print_date",
         "license",
-        "license_url",
         "open_access_license",
-        "relations",
         "open_access_status"
       ]
     },
@@ -2607,25 +2332,18 @@
       "doi": "10.3389/fnint.2015.00024",
       "title": "Perception of biological motion from size-invariant body representations",
       "year": 2015,
-      "crossrefScore": 0.42105263157894735,
-      "openalexScore": 0.8421052631578947,
-      "gap": 16,
+      "crossrefScore": 0.46153846153846156,
+      "openalexScore": 0.8076923076923077,
+      "gap": 9,
       "openalexAdds": [
         "abstract",
         "author_affiliation",
-        "subject_keywords",
         "language",
         "author_orcid",
         "page",
-        "published_print_date",
         "license",
-        "license_url",
         "open_access_license",
-        "full_text_links",
         "affiliation_ids_ror",
-        "relations",
-        "affiliation_ror",
-        "preprint_version_link",
         "open_access_status"
       ]
     },
@@ -2633,20 +2351,16 @@
       "doi": "10.3389/conf.fnhum.2015.219.00051",
       "title": "The Psychophysiology of Sport and Exercise",
       "year": 2015,
-      "crossrefScore": 0.34210526315789475,
-      "openalexScore": 0.631578947368421,
-      "gap": 11,
+      "crossrefScore": 0.4230769230769231,
+      "openalexScore": 0.6923076923076923,
+      "gap": 7,
       "openalexAdds": [
         "abstract",
-        "subject_keywords",
         "language",
         "author_orcid",
         "all_authors_orcid",
-        "published_print_date",
         "license",
-        "license_url",
         "open_access_license",
-        "relations",
         "open_access_status"
       ]
     },
@@ -2654,26 +2368,19 @@
       "doi": "10.3389/fnhum.2015.00128",
       "title": "Objective and personalized longitudinal assessment of a pregnant patient with post severe brain trauma",
       "year": 2015,
-      "crossrefScore": 0.42105263157894735,
-      "openalexScore": 0.868421052631579,
-      "gap": 17,
+      "crossrefScore": 0.46153846153846156,
+      "openalexScore": 0.8461538461538461,
+      "gap": 10,
       "openalexAdds": [
         "abstract",
         "author_affiliation",
-        "subject_keywords",
         "language",
         "author_orcid",
         "all_authors_orcid",
         "page",
-        "published_print_date",
         "license",
-        "license_url",
         "open_access_license",
-        "full_text_links",
         "affiliation_ids_ror",
-        "relations",
-        "affiliation_ror",
-        "preprint_version_link",
         "open_access_status"
       ]
     },
@@ -2681,23 +2388,17 @@
       "doi": "10.3389/conf.fmars.2015.03.00142",
       "title": "Fish otolith biomineralization process: first investigations about organic matrix and growth of Triglidae (Scorpaeniformes) otoliths",
       "year": 2015,
-      "crossrefScore": 0.3684210526315789,
-      "openalexScore": 0.7368421052631579,
-      "gap": 14,
+      "crossrefScore": 0.4230769230769231,
+      "openalexScore": 0.7307692307692307,
+      "gap": 8,
       "openalexAdds": [
         "abstract",
         "author_affiliation",
-        "subject_keywords",
         "language",
         "author_orcid",
-        "published_print_date",
         "license",
-        "license_url",
         "open_access_license",
         "affiliation_ids_ror",
-        "relations",
-        "affiliation_ror",
-        "preprint_version_link",
         "open_access_status"
       ]
     },
@@ -2705,18 +2406,14 @@
       "doi": "10.3389/conf.fimmu.2015.05.00356",
       "title": "Bovines immunized with Babesia bigemina surface-exposed peptides containing conserved B-cell epitopes elicit an improved Th1 response when supplemented with live, probiotic yeasts.",
       "year": 2015,
-      "crossrefScore": 0.34210526315789475,
-      "openalexScore": 0.5789473684210527,
-      "gap": 9,
+      "crossrefScore": 0.4230769230769231,
+      "openalexScore": 0.6153846153846154,
+      "gap": 5,
       "openalexAdds": [
         "abstract",
-        "subject_keywords",
         "language",
-        "published_print_date",
         "license",
-        "license_url",
         "open_access_license",
-        "relations",
         "open_access_status"
       ]
     },
@@ -2724,29 +2421,21 @@
       "doi": "10.3389/fict.2015.00017",
       "title": "EyeFrame: real-time memory aid improves human multitasking via domain-general eye tracking procedures",
       "year": 2015,
-      "crossrefScore": 0.3684210526315789,
-      "openalexScore": 0.9210526315789473,
-      "gap": 21,
+      "crossrefScore": 0.4230769230769231,
+      "openalexScore": 0.9230769230769231,
+      "gap": 13,
       "openalexAdds": [
         "abstract",
         "author_affiliation",
-        "subject_keywords",
         "funder_name",
         "language",
         "author_orcid",
         "all_authors_orcid",
-        "funder_doi",
         "award_number",
-        "published_print_date",
         "license",
-        "license_url",
         "open_access_license",
-        "full_text_links",
         "references",
-        "references_count",
         "affiliation_ids_ror",
-        "relations",
-        "affiliation_ror",
         "funding_complete",
         "open_access_status"
       ]
@@ -2755,18 +2444,14 @@
       "doi": "10.3389/conf.fimmu.2015.05.00301",
       "title": "Fatty acids, cytokines and chemokines profile in exhaled breath condensate (EBC) from tuberculosis patients",
       "year": 2015,
-      "crossrefScore": 0.34210526315789475,
-      "openalexScore": 0.5789473684210527,
-      "gap": 9,
+      "crossrefScore": 0.4230769230769231,
+      "openalexScore": 0.6153846153846154,
+      "gap": 5,
       "openalexAdds": [
         "abstract",
-        "subject_keywords",
         "language",
-        "published_print_date",
         "license",
-        "license_url",
         "open_access_license",
-        "relations",
         "open_access_status"
       ]
     },
@@ -2774,23 +2459,17 @@
       "doi": "10.3389/conf.fmars.2015.03.00116",
       "title": "Excrement examination with blood detection tests as a novel method to study the postmetamorphic feeding in lampreys",
       "year": 2015,
-      "crossrefScore": 0.34210526315789475,
-      "openalexScore": 0.7105263157894737,
-      "gap": 14,
+      "crossrefScore": 0.4230769230769231,
+      "openalexScore": 0.7307692307692307,
+      "gap": 8,
       "openalexAdds": [
         "abstract",
         "author_affiliation",
-        "subject_keywords",
         "language",
         "author_orcid",
-        "published_print_date",
         "license",
-        "license_url",
         "open_access_license",
         "affiliation_ids_ror",
-        "relations",
-        "affiliation_ror",
-        "preprint_version_link",
         "open_access_status"
       ]
     }
@@ -2940,37 +2619,6 @@
       "samples": []
     },
     {
-      "id": "subject_keywords",
-      "label": "Subject / Keywords",
-      "category": "findable_essential",
-      "effort": "voluntary",
-      "crossref": 0,
-      "openalex": 1,
-      "gap": 1,
-      "samples": [
-        {
-          "doi": "10.3389/fnbeh.2015.00001",
-          "title": "Shining light on motivation, emotion, and memory processes"
-        },
-        {
-          "doi": "10.3389/conf.fninf.2015.19.00018",
-          "title": "DMN function, attention shifting and attention holding compared across humans and monkeys"
-        },
-        {
-          "doi": "10.3389/fnint.2015.00024",
-          "title": "Perception of biological motion from size-invariant body representations"
-        },
-        {
-          "doi": "10.3389/conf.fnhum.2015.219.00051",
-          "title": "The Psychophysiology of Sport and Exercise"
-        },
-        {
-          "doi": "10.3389/fnhum.2015.00128",
-          "title": "Objective and personalized longitudinal assessment of a pregnant patient with post severe brain trauma"
-        }
-      ]
-    },
-    {
       "id": "funder_name",
       "label": "Funder Name",
       "category": "findable_essential",
@@ -3101,37 +2749,6 @@
         {
           "doi": "10.3389/conf.fmars.2015.03.00192",
           "title": "Phylogeny of Gobioidei and the origin of European gobies"
-        }
-      ]
-    },
-    {
-      "id": "funder_doi",
-      "label": "Funder DOI",
-      "category": "findable_support",
-      "effort": "voluntary",
-      "crossref": 0.3249431818181818,
-      "openalex": 0.6415115985590712,
-      "gap": 0.3165684167408894,
-      "samples": [
-        {
-          "doi": "10.3389/fict.2015.00017",
-          "title": "EyeFrame: real-time memory aid improves human multitasking via domain-general eye tracking procedures"
-        },
-        {
-          "doi": "10.3389/fenrg.2015.00011",
-          "title": "Thermal-Hydraulic Analysis of SWAMUP Facility Using ATHLET-SC Code"
-        },
-        {
-          "doi": "10.1111/tri.12558",
-          "title": "Is it time to revisit contraindications to organ donation from donors with a JAK-2 mutation? Safe use of a liver allograft from a donor with essential thrombocythaemia"
-        },
-        {
-          "doi": "10.3389/fpsyg.2014.01495",
-          "title": "Assessing factorial invariance of two-way rating designs using three-way methods"
-        },
-        {
-          "doi": "10.3389/fpsyg.2015.00352",
-          "title": "Commentary on: â€œNumber-space mapping in the newborn chick resembles humans' mental number lineâ€"
         }
       ]
     },
@@ -3270,101 +2887,8 @@
       ]
     },
     {
-      "id": "published_print_date",
-      "label": "Published Print Date",
-      "category": "findable_support",
-      "effort": "automatic",
-      "crossref": 0.01509090909090909,
-      "openalex": 1,
-      "gap": 0.984909090909091,
-      "samples": [
-        {
-          "doi": "10.3389/fnbeh.2015.00001",
-          "title": "Shining light on motivation, emotion, and memory processes"
-        },
-        {
-          "doi": "10.3389/conf.fninf.2015.19.00018",
-          "title": "DMN function, attention shifting and attention holding compared across humans and monkeys"
-        },
-        {
-          "doi": "10.3389/fnint.2015.00024",
-          "title": "Perception of biological motion from size-invariant body representations"
-        },
-        {
-          "doi": "10.3389/conf.fnhum.2015.219.00051",
-          "title": "The Psychophysiology of Sport and Exercise"
-        },
-        {
-          "doi": "10.3389/fnhum.2015.00128",
-          "title": "Objective and personalized longitudinal assessment of a pregnant patient with post severe brain trauma"
-        }
-      ]
-    },
-    {
-      "id": "published_online_date",
-      "label": "Published Online Date",
-      "category": "findable_support",
-      "effort": "automatic",
-      "crossref": 0.9986704545454546,
-      "openalex": 1,
-      "gap": 0.0013295454545454444,
-      "samples": [
-        {
-          "doi": "10.4149/av_2015_04_434",
-          "title": "The prevalence of human papillomavirus in patients with oral lichen planus and normal oral mucosa"
-        },
-        {
-          "doi": "10.4149/av_2015_01_3",
-          "title": "Next generation sequencing technologies: Tool to study avian virus diversity"
-        },
-        {
-          "doi": "10.4149/av_2015_01_27",
-          "title": "Molecular epidemiology of avian influenza virus and incidence of H5 and H9 virus subtypes among poultry in Egypt in 2009–2011"
-        },
-        {
-          "doi": "10.4149/av_2015_03_284",
-          "title": "Molecular characterization and fluorescence analysis of HCV non-structural proteins NS3, NS3-4A and NS4A of genotype 3a"
-        },
-        {
-          "doi": "10.4149/av_2015_01_98",
-          "title": "Comparison of bronchiolitis of human metapneumovirus and human respiratory syncytial virus"
-        }
-      ]
-    },
-    {
       "id": "license",
       "label": "License",
-      "category": "accessible_essential",
-      "effort": "automatic",
-      "crossref": 0.7255227272727273,
-      "openalex": 0.9878737122272445,
-      "gap": 0.26235098495451725,
-      "samples": [
-        {
-          "doi": "10.3389/fnbeh.2015.00001",
-          "title": "Shining light on motivation, emotion, and memory processes"
-        },
-        {
-          "doi": "10.3389/conf.fninf.2015.19.00018",
-          "title": "DMN function, attention shifting and attention holding compared across humans and monkeys"
-        },
-        {
-          "doi": "10.3389/fnint.2015.00024",
-          "title": "Perception of biological motion from size-invariant body representations"
-        },
-        {
-          "doi": "10.3389/conf.fnhum.2015.219.00051",
-          "title": "The Psychophysiology of Sport and Exercise"
-        },
-        {
-          "doi": "10.3389/fnhum.2015.00128",
-          "title": "Objective and personalized longitudinal assessment of a pregnant patient with post severe brain trauma"
-        }
-      ]
-    },
-    {
-      "id": "license_url",
-      "label": "License URL",
       "category": "accessible_essential",
       "effort": "automatic",
       "crossref": 0.7255227272727273,
@@ -3425,37 +2949,6 @@
       ]
     },
     {
-      "id": "full_text_links",
-      "label": "Full-text Links",
-      "category": "accessible_essential",
-      "effort": "automatic",
-      "crossref": 0.8368181818181818,
-      "openalex": 0.8394786958217654,
-      "gap": 0.0026605140035835806,
-      "samples": [
-        {
-          "doi": "10.3389/fnbeh.2015.00001",
-          "title": "Shining light on motivation, emotion, and memory processes"
-        },
-        {
-          "doi": "10.3389/fnint.2015.00024",
-          "title": "Perception of biological motion from size-invariant body representations"
-        },
-        {
-          "doi": "10.3389/fnhum.2015.00128",
-          "title": "Objective and personalized longitudinal assessment of a pregnant patient with post severe brain trauma"
-        },
-        {
-          "doi": "10.3389/fict.2015.00017",
-          "title": "EyeFrame: real-time memory aid improves human multitasking via domain-general eye tracking procedures"
-        },
-        {
-          "doi": "10.3389/fenrg.2015.00011",
-          "title": "Thermal-Hydraulic Analysis of SWAMUP Facility Using ATHLET-SC Code"
-        }
-      ]
-    },
-    {
       "id": "resource_url",
       "label": "Resource URL",
       "category": "accessible_essential",
@@ -3497,99 +2990,6 @@
       ]
     },
     {
-      "id": "references_count",
-      "label": "References Count",
-      "category": "accessible_essential",
-      "effort": "voluntary",
-      "crossref": 0.9285795454545455,
-      "openalex": 0.9453571346625979,
-      "gap": 0.01677758920805239,
-      "samples": [
-        {
-          "doi": "10.3389/fict.2015.00017",
-          "title": "EyeFrame: real-time memory aid improves human multitasking via domain-general eye tracking procedures"
-        },
-        {
-          "doi": "10.4149/av_2015_04_434",
-          "title": "The prevalence of human papillomavirus in patients with oral lichen planus and normal oral mucosa"
-        },
-        {
-          "doi": "10.3389/fmicb.2015.00853",
-          "title": "The diversity of PAH-degrading bacteria in a deep-sea water column above the Southwest Indian Ridge"
-        },
-        {
-          "doi": "10.4081/oncol.2015.261",
-          "title": "Rare cytogenetic abnormalities and alteration of microRNAs in acute myeloid leukemia and response to therapy"
-        },
-        {
-          "doi": "10.4149/av_2015_01_3",
-          "title": "Next generation sequencing technologies: Tool to study avian virus diversity"
-        }
-      ]
-    },
-    {
-      "id": "is_referenced_by",
-      "label": "Is Referenced By",
-      "category": "accessible_essential",
-      "effort": "automatic",
-      "crossref": 0.8854090909090909,
-      "openalex": 0.8949934607530459,
-      "gap": 0.009584369843954943,
-      "samples": [
-        {
-          "doi": "10.1111/tri.12558",
-          "title": "Is it time to revisit contraindications to organ donation from donors with a JAK-2 mutation? Safe use of a liver allograft from a donor with essential thrombocythaemia"
-        },
-        {
-          "doi": "10.3389/conf.fncom.2015.56.00003",
-          "title": "Orthogonal Connectivity Factorization: Interpretable Decomposition of Variability in Correlation Matrices"
-        },
-        {
-          "doi": "10.3389/conf.fnhum.2015.217.00012",
-          "title": "Oscillatory activity in the auditory cortex determines auditory temporal resolution"
-        },
-        {
-          "doi": "10.3389/conf.fmars.2015.03.00084",
-          "title": "Comparative population genetic structure and demographic patterns of two killifish species (Aphanius baeticus and Aphanius iberus) at the Iberian Peninsula"
-        },
-        {
-          "doi": "10.3389/conf.fimmu.2015.05.00066",
-          "title": "OUABAIN IMPROVES THE RESPONSE TO MELANOMA (B16) IN MICE BY MODULATING B AND T LYMPHOCYTES"
-        }
-      ]
-    },
-    {
-      "id": "author_sequence",
-      "label": "Author Sequence",
-      "category": "accessible_support",
-      "effort": "automatic",
-      "crossref": 0.9983977272727272,
-      "openalex": 0.9988183466030333,
-      "gap": 0.0004206193303060157,
-      "samples": [
-        {
-          "doi": "10.1111/tri.12494",
-          "title": "Author index"
-        },
-        {
-          "doi": "10.1111/tri.12493",
-          "title": "Oral communications"
-        },
-        {
-          "doi": "10.3389/fpsyg.2015.00010",
-          "title": "Erratum on: The other-race and other-species effects in face perceptionâ€”a subordinate-level analysis"
-        },
-        {
-          "doi": "10.3389/fpsyg.2015.00437",
-          "title": "Erratum on: Emotionality differences between a native and foreign language: theoretical implications"
-        },
-        {
-          "doi": "10.3389/fnhum.2015.00226",
-          "title": "Erratum on: Habit and embodiment in Merleau-Ponty"
-        }
-      ]
-    },
-    {
       "id": "affiliation_ids_ror",
       "label": "Affiliation IDs (ROR)",
       "category": "accessible_support",
@@ -3617,37 +3017,6 @@
         {
           "doi": "10.3389/fict.2015.00017",
           "title": "EyeFrame: real-time memory aid improves human multitasking via domain-general eye tracking procedures"
-        }
-      ]
-    },
-    {
-      "id": "relations",
-      "label": "Relations",
-      "category": "accessible_support",
-      "effort": "voluntary",
-      "crossref": 0.02168181818181818,
-      "openalex": 0.9709060872358488,
-      "gap": 0.9492242690540307,
-      "samples": [
-        {
-          "doi": "10.3389/fnbeh.2015.00001",
-          "title": "Shining light on motivation, emotion, and memory processes"
-        },
-        {
-          "doi": "10.3389/conf.fninf.2015.19.00018",
-          "title": "DMN function, attention shifting and attention holding compared across humans and monkeys"
-        },
-        {
-          "doi": "10.3389/fnint.2015.00024",
-          "title": "Perception of biological motion from size-invariant body representations"
-        },
-        {
-          "doi": "10.3389/conf.fnhum.2015.219.00051",
-          "title": "The Psychophysiology of Sport and Exercise"
-        },
-        {
-          "doi": "10.3389/fnhum.2015.00128",
-          "title": "Objective and personalized longitudinal assessment of a pregnant patient with post severe brain trauma"
         }
       ]
     },
@@ -3683,37 +3052,6 @@
       ]
     },
     {
-      "id": "affiliation_ror",
-      "label": "Affiliation with ROR",
-      "category": "evaluation_coara",
-      "effort": "voluntary",
-      "crossref": 0,
-      "openalex": 0.9655370213156506,
-      "gap": 0.9655370213156506,
-      "samples": [
-        {
-          "doi": "10.3389/fnbeh.2015.00001",
-          "title": "Shining light on motivation, emotion, and memory processes"
-        },
-        {
-          "doi": "10.3389/fnint.2015.00024",
-          "title": "Perception of biological motion from size-invariant body representations"
-        },
-        {
-          "doi": "10.3389/fnhum.2015.00128",
-          "title": "Objective and personalized longitudinal assessment of a pregnant patient with post severe brain trauma"
-        },
-        {
-          "doi": "10.3389/conf.fmars.2015.03.00142",
-          "title": "Fish otolith biomineralization process: first investigations about organic matrix and growth of Triglidae (Scorpaeniformes) otoliths"
-        },
-        {
-          "doi": "10.3389/fict.2015.00017",
-          "title": "EyeFrame: real-time memory aid improves human multitasking via domain-general eye tracking procedures"
-        }
-      ]
-    },
-    {
       "id": "funding_complete",
       "label": "Complete Funding Info",
       "category": "evaluation_coara",
@@ -3741,37 +3079,6 @@
         {
           "doi": "10.3389/fncom.2015.00035",
           "title": "Competition improves robustness against loss of information"
-        }
-      ]
-    },
-    {
-      "id": "preprint_version_link",
-      "label": "Preprint / Version Link",
-      "category": "evaluation_coara",
-      "effort": "voluntary",
-      "crossref": 0.010352272727272727,
-      "openalex": 0.9595255030631209,
-      "gap": 0.9491732303358482,
-      "samples": [
-        {
-          "doi": "10.3389/fnbeh.2015.00001",
-          "title": "Shining light on motivation, emotion, and memory processes"
-        },
-        {
-          "doi": "10.3389/fnint.2015.00024",
-          "title": "Perception of biological motion from size-invariant body representations"
-        },
-        {
-          "doi": "10.3389/fnhum.2015.00128",
-          "title": "Objective and personalized longitudinal assessment of a pregnant patient with post severe brain trauma"
-        },
-        {
-          "doi": "10.3389/conf.fmars.2015.03.00142",
-          "title": "Fish otolith biomineralization process: first investigations about organic matrix and growth of Triglidae (Scorpaeniformes) otoliths"
-        },
-        {
-          "doi": "10.3389/conf.fmars.2015.03.00116",
-          "title": "Excrement examination with blood detection tests as a novel method to study the postmetamorphic feeding in lampreys"
         }
       ]
     },
