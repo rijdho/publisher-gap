@@ -226,6 +226,28 @@ export default function AboutPage() {
             10% of the score over the 26 fields.
           </p>
           <p>
+            <strong style={{ color: "var(--color-text)" }}>The groups in context:</strong>
+            {" "}The five groups are the author's interpretation: they order
+            the fields by what the metadata can be used for. Four are named
+            after two of the FAIR principles, Findable and Accessible, each
+            split into fields the author reads as essential for that use and
+            fields that support it. The fifth, Evaluation / CoARA, holds the
+            fields the author thinks research assessment reforms such as CoARA
+            and DORA (the San Francisco Declaration on Research Assessment)
+            could use. Two sets of tools read metadata by use in a related way,
+            for repositories and not for journal articles:{" "}
+            <a href="https://rijdho.github.io/fair-repo-audit/" target="_blank" rel="noopener noreferrer" style={{ color: "var(--color-accent)" }}>FAIR Metadata Check</a>,
+            by the same author, and the tools of Metadata Game Changers, among
+            them{" "}
+            <a href="https://metadata-game-changers.github.io/recuration-watch/completeness.html" target="_blank" rel="noopener noreferrer" style={{ color: "var(--color-accent)" }}>Metadata Completeness</a>
+            {" "}and{" "}
+            <a href="https://metadata-game-changers.github.io/recuration-watch/recurationWatch.html" target="_blank" rel="noopener noreferrer" style={{ color: "var(--color-accent)" }}>Re-Curation Watch</a>.
+            FAIR Metadata Check and Metadata Completeness group concepts into
+            four FAIR use cases (Text, Identifiers, Connections, Contacts);
+            Re-Curation Watch shows the history of the DataCite records of a
+            repository. The groups of this page are not those four use cases.
+          </p>
+          <p>
             <strong style={{ color: "var(--color-text)" }}>
               Revision of 25 November 2026:
             </strong>
